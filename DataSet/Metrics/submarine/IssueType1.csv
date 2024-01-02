@@ -1,0 +1,1040 @@
+52c1e55dd54e13a7417c38f667d9c7c8835e09e9,SUBMARINE-1406,Bug,Fix misdescriptions in how-to-release documentation,Website,Major,100
+459fb987193d199d807831e534b1cc97e2ab159c,SUBMARINE-1412,Bug,Add the missing 0.8.0 download page,Doc,Critical,100
+ea9c0a756449ea7358dcb9c607e87c1b9d8b9b9d,SUBMARINE-1411,Improvement,Create 0.8.0 documents,Doc,Major,100
+4ddba988c2a8db415d3aafe6ab230d30a900d4b6,SUBMARINE-1407,Improvement,Add ASF DOAP File,Commons,Major,100
+6ed412edd95afddcdd327d4b389b214d592cdc45,SUBMARINE-1408,Bug,Fix ubuntu low disk space issue,CI/CD,Major,100
+42785be44906a65824ba6d481976230e71c0124e,SUBMARINE-1405,New Feature,Move to 0.9.0-SNAPSHOT,Build,Major,100
+4eb08ec9efcea0897be5c7938e912ff6692e4e31,SUBMARINE-1404,Bug,Fix version-related and licence issues,Build,Major,100
+0c10613f39b707d5e446c515c12fa28295c8052e,SUBMARINE-1402,Bug,serving does not work with k8s 1.25,Cloud-native Deployment,Major,100
+4d5e8f5c221025b8cdce8657bf2f10496be46b27,SUBMARINE-1395,Improvement,Remove unauthenticated login,Backend Server,Major,98.81764438
+1499c64fe0536f9d8a097d0ae921437da25f483c,SUBMARINE-1401,Bug,Refactor docker image workflow to avoid no space issues,,Blocker,100
+f170037c1e7642c16cd5fa1707e85abd6252d839,SUBMARINE-1400,Sub-task,jupyter-gpu image 11.0.3,Build,Major,100
+5a5e3a652087d389766875b09eb1ffe70eb03823,SUBMARINE-1396,Improvement,Split experiment-prehandler test into separate action,CI/CD,Blocker,100
+0a554c4ffd055ccafb085531f84a73772674628e,SUBMARINE-1392,Improvement,Modify the description of creating a jira account in the documentation,Doc,Major,100
+cae0c626177a57587c631840d8906a02bdcc31cb,/,/,    change documents (#1078),/,/,100
+6686f189fd5ad9fab0da760d86729a0f1a2a608d,SUBMARINE-1342,Bug,Experiment template should not cache in server,Backend Server,Major,100
+dbcf369aea89194e68c9b6e22e87974acdd45af5,/,/,    Fix list (#1087),/,/,100
+09a7e77158e60ea2980c4bea09292eafd74e35e0,SUBMARINE-1379,Bug,Deleting CR in k8s will result in tasks on the UI not being deleted,Backend Server,Major,100
+b0d96b392744a84dc6a3a0295af1cd301ccbfba7,SUBMARINE-1131,Sub-task,API deprecation in helm chart for the v1.21 Kubernetes cluster,,Major,100
+5d21ad57a99bc57996cf86becdfee92f37589186,SUBMARINE-1384,Improvement,Fix some versions that were already wrong,Website,Major,100
+3b2743160c0310e8b8c3c00e92ee927e7f219100,SUBMARINE-1389,Bug,scipy 1.11.0+ need numpy 1.21.6 or geater in python 3.9,Build,Major,100
+f7c2fe5223300d2ba895827fb3678cf97ddd4f10,SUBMARINE-1390,Bug,Jupyter gpu image cuda:10.2-base-ubuntu18.04 has missed,Build,Major,100
+0840a8e6f730f06e14e85c25ce028610eeaa872c,SUBMARINE-1386,Bug,Mlflow docker image can not build ,Build,Major,100
+6103f2a9e60f0cd165e2ec43b1e5f92180fabf7e,SUBMARINE-1363,Bug,Git-Sync container can not pull specified branch or main codes,experiment,Major,99.63669391
+21ba037555242e5b9633fee2feb53a2d9e2e31dc,SUBMARINE-1383,Bug,Update submarine-sdk generated client api,SDK,Major,99.90892532
+93d6ee5311d77a2e69537e7d067c624a55da1ff9,/,/,    Bump guava from 30.0-jre to 32.0.0-jre (#1070),/,/,100
+be4ecf2c974bc834d851629a968a82651f8fa708,SUBMARINE-1356,Improvement,Add Chinese language support for workbench,Workbench Web,Major,100
+b830ac4adbfa0a1edf3810efcfe062cbce1b1892,SUBMARINE-1381,Sub-task,Upgrade java k8s client version from 11 to 17(1.25+),Backend Server,Major,99.81743496
+387a0eac89f7a08de2b5972eb35e5851d27b3ee2,SUBMARINE-1380,Improvement,Modification of the Naming Convention for subamrine-sdk dev,SDK,Major,100
+b2e65c7d0efbfac1ba96051d8f8f7c967b07917a,SUBMARINE-1327,Improvement,Upgrade K8s to support the latest 3 releases,Cloud-native Deployment,Major,100
+22df22f1b1952babea6de5eebae64d8b0c28f7e3,/,/,    Bump webpack from 5.71.0 to 5.76.1 in /website (#1056),/,/,100
+17830975a87fbae61f9631a965ef274040f9c8d9,SUBMARINE-1375,Bug,Fix custom resource definition requiring database secret,Cloud-native Deployment,Major,100
+077ddbb0c1e69b5bc254ea0c8ed8c9a7dc3203e6,SUBMARINE-1374,Bug,Temporary fix for submarine failing to get user info without authentication,Backend Server,Major,100
+1845140883b4bd3228385a556982cbadc19595b6,SUBMARINE-1371,Bug,Fix unsafe deserialization via SnakeYaml in YamlEntityProvider,Backend Server,Critical,99.72577697
+5987b92af1ded1ad8cbd7ecc9d6403b8eb0d0ba1,SUBMARINE-1372,Bug,tensorflow 2.6.5 in CI always failed,CI/CD,Blocker,100
+6dfd8584980235fab6118bbcf35df99207453fe6,/,/,    Bump @sideway/formula from 3.0.0 to 3.0.1 in /website (#1055),/,/,100
+de303fa4b0008ca215ccdc559dcc6aa0b611045b,/,/,    Bump golang.org/x/crypto in /submarine-cloud-v3 (#1053),/,/,100
+48cdf7bbc82af714a5a5485c92d7da4f2fba3891,SUBMARINE-1362,New Feature,Refactor submarine-k8s-agent using JOSDK,Backend Server,Major,95.10456274
+279393ad4dddfd8736ed44a31eb578c91d5f1aa7,SUBMARINE-1349,Bug,Fix potential issue report from sonarcloud and un-initialization problem in xgboost apiversion,,Major,100
+6fe02972518973a9994b97e7d507d6346de2ddf9,SUBMARINE-1370,Bug,Fix Calculate combined coverage failed,CI/CD,Major,100
+8360aec09b8640dc55d22a913cf7f8280f93b180,SUBMARINE-1367,Bug,Fix submarine-sdk build in Dockerfile,Build,Major,100
+604ad540e6167b06fb850c90274434eca1ee02cb,SUBMARINE-1368,Bug,Fix SysUserRestApiTest editUserTest test error,CI/CD,Major,100
+c2f0eb1a5e533c65914d2aae771c1d35046767da,SUBMARINE-1369,Bug,Fix CICD in submarine-workbench section always failed,CI/CD,Major,100
+0ecfe38b92e08efe2083dbbabf190776060b5190,SUBMARINE-1366,Bug,SQLAlchemy 2.0 upgrade causes compilation failure of pysubmarine,SDK,Blocker,100
+793c8a26699ca9187c6960842424028a96a04d48,SUBMARINE-1365,Task,fix the failure python unit test caused by setuptools,,Major,100
+4cd2af10499ac6dc4f82bda179d9f414a522abef,SUBMARINE-1361,Bug,Fix Submarine SQL injection vulnerability,Backend Server,Critical,100
+58cf1d554ce1c511c0d39c5cbd972b87cbec3fbc,SUBMARINE-1364,Task,Fix broken mlflow building script,,Major,100
+6d18d555c42e1cca0261a28ed2b6849ba0861748,SUBMARINE-1358,Improvement,Fix the timeout issue while building jupyter and jupyter-gpu image,,Minor,100
+a7e2c5458bba1ebfb78f979b56add77f08f65184,SUBMARINE-1352,Sub-task,Move submarine-cloud-v2 to submarine-cloud-v3,Cloud-native Deployment,Major,100
+9347fe5df6ac0e579df7b75421578eedb5342545,SUBMARINE-1138,New Feature,New SSO function based on OIDC,Backend Server,Major,98.44455595
+4d234b01e7383a22b5e0ded0d58966e13c8eb16a,SUBMARINE-1230,Sub-task,Optimize submarine-operator-v3,Cloud-native Deployment,Major,100
+b3088cf560995676c96759ccc4a7ece54bb377bd,SUBMARINE-1355,Improvement,Remove seldon graph storage initializerimage dependence,model management,Major,99.49290061
+649e9584793d4656b3f1024567a75650526ea864,SUBMARINE-1359,Sub-task,Enable SonarCloud for Python,,Major,100
+fd692e2ea82fcfbdba5fd1baa38d0223b0f95c44,SUBMARINE-1350,Improvement,Optimize helm template,Cloud-native Deployment,Major,100
+02ebe9ebf93ea52a91cc7910b2cf1b09a1843df1,SUBMARINE-1354,Bug,Fix submarine-server timezone display and calculation error,Backend Server,Major,100
+ffa3d4cb6b3a574d59572c516b7597bdfdd2275a,/,/,    Bump decode-uri-component from 0.2.0 to 0.2.2 in /submarine-workbench-v2 (#1027),/,/,100
+c340da2aa5435f2b0d836cb096da6aff488b464a,SUBMARINE-1357,Bug,Ubuntu 22 can not support kind(1.18) in github workflow,CI/CD,Blocker,100
+21bd2687b02c4ed78ce5868d13cce13e839af2c6,SUBMARINE-1152,New Feature,Submarine UI support i18n,Workbench Web,Major,100
+ed9a938530886aac50fa5b84b3234e65e7c66f27,SUBMARINE-1346,Sub-task,Support XGBoost in experiment UI,Workbench,Major,100
+f492e42a54331e4bccab029422bee68bc7c9ec58,SUBMARINE-1347,Bug,sonarcloud syntax error,,Major,100
+179ce618fc47c618afd35d0b51c61608f7e1c802,SUBMARINE-1348,Bug,Fix implicit Optional check style issues for mypy ,Build,Blocker,100
+dd6a292414d3e1547d5603c8daceddabdda6d6ae,SUBMARINE-1296,Bug,Unable to create user correctly,Security,Major,100
+bc4bf08864ccd0a966f05c79936790f8ba1ff104,/,/,    Bump snakeyaml from 1.26 to 1.32 (#1011),/,/,100
+1704b4ebe304de7cd6a6e05b1111ecc320094a4e,SUBMARINE-1343,Sub-task,Unified Version Definition [JAVA],Build,Major,99.49545913
+9bf57a3a7b88125fc45217034d83e0447a127bfd,SUBMARINE-1293,Improvement,Move seldon-core install to helm,Cloud-native Deployment,Major,100
+67fe91fde8e15fe757345b744cbff731decac3aa,SUBMARINE-1340,Improvement,Add quick-start to predefined experiment library,experiment template,Major,100
+267aefec592dd4bc618a236d090a958864ae5eb8,SUBMARINE-1334,Improvement,Optimising notebook asynchronous refresh handling,Workbench Notebook,Major,100
+c3595f2a4da42eca19fcca20010e489f09e6769e,SUBMARINE-1326,Bug,Model card list can not refresh automatically after created or deleted,model management,Major,100
+1fe688e822a047375ecab3a4695ba6828a697b5e,SUBMARINE-1337,Sub-task,Add codecov for python,,Major,100
+c495ee8e41d85154057f28e4a3afe8d145b410e6,SUBMARINE-1341,Improvement,Optimising experiment asynchronous refresh handling,Workbench,Major,100
+83f8aabf59ba62df4d7827f2e6307038bb0a70e0,SUBMARINE-1324,Bug,Unable to get the experiment pods after using the new training operator,Backend Server,Major,100
+389ea896b9c79e4183fbec46e94d0823bf2588c4,SUBMARINE-1333,Test,Replace pytest tmpdir with tmp_path fixture,,Major,100
+d676b46c64de00adb96f08f8a491c5c628458d32,SUBMARINE-1335,Bug,Fix jira version filter exception,CI/CD,Major,100
+61716e2db25641f51d22116260c162246ffc834f,SUBMARINE-1318,Improvement,Add documentation for serve,Doc,Major,100
+ca25b9de97e730fd0ff4441eee198cda3e779e4d,SUBMARINE-1329,Test,Improve test coverage of submarine.artifacts module,,Major,100
+3d2a3e67530d2836ae9be8e5f9549bb30dcc53ca,SUBMARINE-1283,Sub-task,persist data to minio from hdfs,,Major,100
+7fa13a65530183c1ee424e14f7b92c3cbc1cd297,SUBMARINE-1320,Improvement,Drop supports for Python2.7 and Python3.6,SDK,Major,100
+f98c6822137c05e09cf9378004fd2ac5d92567c8,SUBMARINE-976,Sub-task,Configure ingress routing for services across different namespaces,,Major,100
+e0fdfb21bd125c4e4b18fb5dd71ac904c26d04ff,SUBMARINE-1304,Bug,Fix bug with agent listening to resource names,K8s Submitter,Major,100
+b2c7e81f0123b736fc16cc498886c6062e68a4fb,SUBMARINE-1315,Bug,Model can not serve,model management,Major,95.46413502
+806fcb2181e5cef5f40f4e57aa941fae53ee5217,SUBMARINE-1312,Bug,submarine-sdk cannot connect to the database,Cloud-native Deployment,Critical,100
+3fc12adc9da1768c60e8c273a41d08210f8c82a7,SUBMARINE-1286,New Feature,Install grafana,,Major,100
+93990b9edeceb54889ffc5f36626fc035eb28eb0,SUBMARINE-1303,Task,Add Chinese website link,Website,Major,100
+01d6b21cbca2b46ddda49955d48d318b135f2c78,SUBMARINE-1311,Bug,Fix tensorflow dataset cannot be downloaded error,Cloud-native Deployment,Major,100
+3feaeff6b160cfc314276caf01e66dc70c5b2ab9,SUBMARINE-1305,Bug,Fix submarine-server-core test error,Backend Server,Major,100
+9e781d4b7302677a112b0f177668931dda52748a,SUBMARINE-1294,New Feature,Add simple type authentication for REST api,Security,Major,98.76819709
+60507969e43b6499a9bdc2d4e076e3fa82403c9e,/,/,    Bump moment from 2.29.3 to 2.29.4 in /submarine-workbench-v2 (#982),/,/,100
+894c584496514a218caee01729ed1107ba8399af,/,/,    Bump terser from 5.12.1 to 5.14.2 in /website,/,/,100
+206efd9f6c2995f52059423ceb1e96e18786e76e,SUBMARINE-1287,Improvement,Experiment codes refactoring,K8s Submitter,Minor,93.34298119
+c3299a83c71ac9f7d57c3963e61b2ef4ce2f53b9,SUBMARINE-1301,New Feature,Chinese website document - Homepage and Release/Download,Website,Major,100
+e4df9741a547dd8aae3058863f35529c88fa62ca,SUBMARINE-1292,Task,Submarine-cloud-v3 e2e test,,Major,100
+1b00a946b04cbd89019b074befaab51ed7a02cc0,SUBMARINE-1285,Task,Redesign the Security Implementation document,Doc,Major,100
+e7ed4a5b182a7cc3cad32f406a8327e6c788d966,SUBMARINE-1255,Sub-task,Add XGBoost support to MLJob,experiment,Major,94.22610383
+4ab1cd90626390f326294c902c0cb5d999bcc755,SUBMARINE-1289,Improvement,Add document about submarine launcher on Rancher,Website,Major,100
+d47d3a84f766819af832332ec92566f104efcfae,SUBMARINE-1275,New Feature,Submarine-cloud-v3 reconcile logic,,Major,100
+15a699d3b20afb99128c629cda22e6d65dbb9ccf,SUBMARINE-1288,Bug,Agent can not stop after Kubeflow job is finished,environment,Major,100
+37fb84235461494d9813c9a72a8719b878083fa9,SUBMARINE-1284,Improvement,Remove old cluster server document and codes,Build,Major,96.5726921
+65e54eabff7d83d617344dc65174f44e8b2a789d,SUBMARINE-1282,Sub-task,get file from hdfs via fsspec to local file system,,Major,100
+b08a6b6dd2b3d585f6768d3d1b3c680435c371f6,SUBMARINE-1174,Improvement,K8sSubmitter reconstruction,K8s Submitter,Major,90.80393291
+07c4f2daa088995a956d855dbe99c1f6a72846f3,/,/,    Bump async from 2.6.3 to 2.6.4 in /website,/,/,100
+595ff75d781bb27aea3ee03c8f597c9db4e2cc78,SUBMARINE-1277,Sub-task,Refactor rest logic,Backend Server,Major,98.49529781
+e713329dc2e1070ee2c2427a9efa65c53dde4f1f,/,/,    Bump gson from 2.8.5 to 2.8.9,/,/,100
+fca89f331220356fee518830757d1c49e627ab28,SUBMARINE-1281,Bug,Limit tensorflow protocol package version to &lt;=3.20.1,SDK,Major,100
+9f5a317e6a2308ad86d7579af20d342d1ed762ce,SUBMARINE-1276,Bug,Notebook pod cannot find userPvc and workspacePvc,,Major,100
+5fb279241c5dc6971d9d62557bc9e7f1e8735493,SUBMARINE-1279,Bug,There will be some securitycontext problems after importing istio and changing training-operator,Cloud-native Deployment,Major,100
+5ad789c22f07622997e2a5672bc0d27ec4236247,SUBMARINE-1274,Improvement,Update the changelog for version 0.7,Doc,Major,100
+1f6eb4d6b581eb64fa827b0ff02902a10fab3884,SUBMARINE-1069,Sub-task,Websocket in Submarine Server,experiment,Critical,98.67674858
+673c6b71012c25f80e4826aba40443cc72198e92,SUBMARINE-1270,Bug,codecov should scan all packages each time,,Minor,100
+7652a0cb05c3a47b73450882fb4a01034dfaf17f,SUBMARINE-1271,Task,Submarine-cloud-v3 initialization,,Major,100
+09dd7e946394322f1f91801e9df7863ceec7b969,SUBMARINE-1204,Bug,Notebook names cannot start with &quot;submarine&quot;,,Major,100
+2a994f11ca81d919599efac0d4a68fef87044058,SUBMARINE-1239,Sub-task,Generate workbench REST API via openAPI,,Major,100
+6a7b5fe1ef0dfe90386059393adbd8b671f65d7b,SUBMARINE-1270,Bug,codecov should scan all packages each time,,Minor,100
+997e9ab3ae676c19a9a802b42ef9215d2b873e8e,SUBMARINE-1270,Bug,codecov should scan all packages each time,,Minor,95.65772669
+91e0ace506ce95d723b90f0e8569c63d67f58061,SUBMARINE-1099,Sub-task,Replace Traefik with Istio,,Major,99.68051118
+fee817b79745881b3eb2221492e8dbc20dbbb300,SUBMARINE-1265,Improvement,Release 0.7.0 document,,Major,100
+13bc411b9e8ca3fd6429763848e9905b097e18ff,SUBMARINE-1210,Sub-task,Refactor database in server,Backend Server,Major,77.91741472
+726587c22dc13970ea354fc0c92530de57ae1c77,SUBMARINE-1235,Improvement,Display test coverage in PR check progress,,Minor,100
+fb2272ee9eaf70022ce1a75cfafaa55f192f432c,SUBMARINE-1266,Improvement,Update slack invitation link,Doc,Major,100
+92ac3af51d38fea506d4ce83e55b31a96e2716aa,SUBMARINE-1253,Improvement,upgrade notebook operator to align the kubeflow dependency of SUBMARINE-1143,,Major,100
+76e31e9cb7f5a2cc7a589db59830d03ff5f2645d,SUBMARINE-1259,Improvement,Push submarine-cicd and jupyter-gpu docker images to docker hub and update submarine cicd doc,,Major,100
+dc255907df8898c855a40ba796dcd333012d4435,/,/,    Bump ua-parser-js from 0.7.23 to 0.7.31 in /website (#944),/,/,100
+3d61926ee51448607c7e9a1201e585218ea3bb1e,/,/,    Bump commons-compress from 1.4.1 to 1.21,/,/,100
+1a21b21d747a86b18c4ec39a49a4322b89606754,SUBMARINE-1221,Improvement,Check supported Kubernetes version in GitHub Actions.,,Major,100
+690bb72c83199c7a25b331441f2928a52299e1a7,SUBMARINE-1263,Task,SubmarineClient document,Doc,Major,100
+129b8874f92182513ab9932bcb8796923d080baa,SUBMARINE-1144,Sub-task,Replace tfjob and pytorchjob sub-charts with training operator,,Major,100
+35e99ff241062b9bb08e4167cc51d05691b58dd2,SUBMARINE-1262,Improvement,0.7.0 API document,Website,Major,100
+ba2d9ceb7f55749f173999d56915cd4ec27c183a,SUBMARINE-1238,Sub-task,Create environment of the React workbench,,Major,100
+cb08dbaa689697ecd65b4d47ff12b4699bec867d,/,/,    Preparing for 0.8.0 development,/,/,100
+1f61aa9336b418ee9f6fc919cae0be6b5e946721,SUBMARINE-1257,Improvement,Show submarine&apos;s paper in Submarine github repo and website,Doc,Major,100
+9a9c7100dfa95c5126c15aec82092bb899565dac,SUBMARINE-1258,Bug,Fix go format,,Major,100
+70268139a65b5b96280b47b31bcc22c85a0b5a56,SUBMARINE-1256,Task,Organize website document,Website,Major,100
+9bb5a76124fac3202d36b21c42c1a46f96878e57,SUBMARINE-1179,Bug,Add PodSecurityPolicies/SecurityContextConstraints for submarine,Cloud-native Deployment,Major,100
+7092799122e24af97e0c20678dffb814a431aca3,SUBMARINE-1254,Bug,Fix &quot;TypeError: &apos;filter&apos; object is not subscriptable&quot; in merge_submarine_pr.py,CI/CD,Major,100
+e3e30403f34dde3cab9050b86599094039d22734,SUBMARINE-1252,Wish,Make the figure and hint that search submarine channel in ASF more clear ,Website,Minor,100
+2267e0bfda9c139bdebfa10240525f4c1ec46898,SUBMARINE-1208,Sub-task,Move folder response and gson into utils under server-core,Backend Server,Major,96.09065156
+a5fbc941f0f561e2afc1caf89d71582c8c5418a3,SUBMARINE-1229,Bug,Minio initContainer pod (mlflow and server) not working properly in openshift,Cloud-native Deployment,Major,100
+b3e9be84400feb4bf8ebbc5e77d28b0d4c91c655,SUBMARINE-1251,Bug,Fix experiment patch error and modify the error handling,Backend Server,Major,100
+600c4c2760a44ce48702707647587fd5704c126d,SUBMARINE-1165,Bug,MySQL need use statefulsets,,Major,100
+6e366f414fef773b8fa0cb6cc58588198f5a2a92,SUBMARINE-1250,Bug,Fix error when merging pull request,,Minor,100
+46a6f079e79fac188a990dbda4f2449673d9f439,SUBMARINE-1236,Bug,Fix patch strategy,Backend Server,Major,100
+42b23807d16d7085e56caf4d3aa91eedc56c6ef4,SUBMARINE-1227,Bug,The conflict of some resource names will shut down the operator,Cloud-native Deployment,Critical,100
+b22d207b264a5ca0c7a959e3f20558b9c53f8ad5,SUBMARINE-1249,Bug,Github action python-sdk check-style failed,,Major,100
+170c5061a0e07a2fe88bab6be8f02638ec443c25,SUBMARINE-1207,Sub-task,Move server-core/workbench/entity to server-api/workbench,Backend Server,Major,94.96567506
+ca55b93db101cabe35d67ef33496f8210b05ef91,SUBMARINE-1234,Improvement,Upgrade cicd python,CI/CD,Major,100
+f43d1f4362759008e9f8ff49b6a5c9cf19d05fb7,/,/,    add more event type to handle to present notebook status correctly,/,/,100
+9aa09f4d1bc6b947233555b003df6559aac9f525,SUBMARINE-1231,Bug,Fix Notebook image conda version problem,Cloud-native Deployment,Major,100
+ef5e32b5aab0542994fb05f5c3bc746dcdff2b1c,SUBMARINE-1233,Bug,Notebook auto-reload,Workbench,Major,100
+e8d2d8e922c4dd4b6e6f65fde8d92d9086475f39,SUBMARINE-1209,Sub-task,Collect files into folder under server-submitter,Backend Server,Major,96.85534591
+7b0482a1434a507d45681a35a2ada18ffdf5a1e7,SUBMARINE-1223,Sub-task,Update Submarine Operator CRD to v1,Cloud-native Deployment,Major,100
+c67896b3dd6b170778c6444e5d31b7ec67752841,SUBMARINE-1226,Bug,Update the Kubernetes version in other Documents,Doc,Major,100
+21da776810b20b509fb2f8443b4af29ad391f8e3,SUBMARINE-1218,Bug,Experiment Agent is not deleted when deleting a related experiment,,Major,100
+e4eeb446b52acf18a9028d8dd16aa50ca9c47156,SUBMARINE-1212,Sub-task,align notebook operation flow with tfjob and pytorch job,,Major,100
+299a5b3d055b87e6981b82c270f011357959eb96,SUBMARINE-1206,Task,Update quickstart document,Doc,Major,100
+0d5bef77402506af2c07261b210709e67be60709,SUBMARINE-1215,Bug,java.lang.NullPointerException in K8sSubmitter.getInfo method,K8s Submitter,Major,100
+8cc2995ec5c90b838bad3ea6619cea14de7d0abc,SUBMARINE-1216,Bug,Fix wrong version in Release 0.7.0,Doc,Major,100
+5c94fd826342ec507a1021f496314b88511c8f4e,SUBMARINE-1217,Task,Image name for defined experiment,Workbench,Major,100
+6d01a166eba44d9a9226e119b7b86462a19f5954,SUBMARINE-1136,Bug,Multiple switch between Experiment and Notebook will result in repeated calls to asynchronous tasks.,Workbench Web,Critical,100
+cea7bfe86f0fa2f0198a906cf02837f01b2121b6,/,/,    [Hotfix] Updated minio image version,/,/,100
+8af490e60c142f8100faa146c71b60fb1b804d0f,/,/,    Preparing for 0.7.0 release,/,/,100
+0c2b915393fe01424c551007de4622ca4bb76d28,SUBMARINE-1106,Sub-task,implement tfjob handler,,Major,97.85631518
+ee673b5ba758024629e8b861c58881dd09e93abe,SUBMARINE-1202,Bug,CrashLoopBackOff of the container &quot;agent&quot; in the notebook pod,,Major,100
+9c5993d1c42a087896c6f0b2881650804988fe16,SUBMARINE-1188,Improvement,Using generic api to replace old version api in k8s submitter,Backend Server,Major,97.29567308
+cb527f752f7cc53e36a3f01e1a619f4923269ed5,SUBMARINE-1201,Improvement,Add buttons in workbench  fix bugs and beautify the pages,Workbench,Major,97.94064204
+8e4b272946d4bdfd2a5f4a477fdfd3c2724a7ec9,SUBMARINE-1200,Improvement,Reduce jupyter-gpu image size,Build,Major,100
+4bd8bf3391341761bf596b00497aec8e56470f02,SUBMARINE-1158,Sub-task,Humanize the time in model-info page,Workbench,Major,100
+e14299761a1e00f00567d7db67a869ba9f62cd69,SUBMARINE-1199,Sub-task,add style checker in agent module,,Major,100
+4f098ee3ff2ae995e49eae3f159a427cb84b578f,/,/,    Removed `yarn` label from .asf.yaml,/,/,100
+61851bc5a9f890accd2015ab6878cec8372c827d,SUBMARINE-1196,Improvement,Remove administrator docs on the submarine website,Doc,Major,100
+740c39c2eb8097f5543bed67390c1e2ef3877b8d,SUBMARINE-1197,Improvement,Update developer docs,Doc,Minor,100
+31412e8b6f709382e2090b928b15c54124bc84c3,SUBMARINE-1198,Bug,Fix sidecar image name,CI/CD,Major,100
+fa58973f5f36067ab7db7a1b6d2e27ea8a71874b,SUBMARINE-1187,Sub-task,refine the interface of internal service ,,Major,96.52486519
+bc2452a0db5272208df600542fa7d233b6c69b0f,SUBMARINE-1191,Sub-task,Fix database,,Major,100
+b1a7fca0f7194860f8f1cb1747db1c96be4cc84a,SUBMARINE-1192,Improvement,Update Download Page on Website to 0.6.0 ,,Critical,100
+92e6fe88c5aa2131983d045b4dd35e8f2ed331d4,SUBMARINE-1195,Improvement,Reduce  jupyter image size,Build,Major,100
+f043e8642d80d4dcfd17759fae9547bcf038a714,/,/,    SUBAMRINE-1193. Deploy sidecar image name is wrong,/,/,100
+1dc675785b6296d034a517127aee2a79fa57dda5,SUBMARINE-1182,Sub-task,Change the model source path in minio during the experiment and serving job,Database,Major,99.93997599
+7411c5d1c8a6951d1f671774e1f68e2636a64332,/,/,    Submarine 1108. Refactor CRUD operation of Notebook,/,/,97.83783784
+a0a9ed0743b0d42f9ae1ac4ffada6cdba013573b,SUBMARINE-1184,Improvement,Get namespace via Downward API,,Major,99.75918122
+b8af34429d807552b7930fbb028288a358e2b7a6,SUBMARINE-1116,Sub-task,Write SDK CLI Docs,Doc,Major,100
+b8284c00d71a4c875b0975de24d74f00bb0aa181,SUBMARINE-1157,Sub-task,Create simple serving Python API,,Major,100
+071e1ea0384d3eb86d2ce21f5c2353cb0ce066c2,SUBMARINE-1133,Sub-task,Connect API for CLI Notebooks,SDK,Major,100
+9f2515b564ad5b120d2a0fd3f4895eae4a81b866,SUBMARINE-1186,Improvement,Add error message on submarine operator e2e test creation failed,,Major,100
+efb4e7c578f9ee5188414b2140ab7b4a9de1ec92,SUBMARINE-1163,Task,Remove mlflow,,Major,99.81992797
+a9b97bc040cabc40807637834eab2106502271e6,SUBMARINE-1124,Bug,The automatic deletion of notebook does not delete the related PVC and IngressRoute,K8s Submitter,Major,100
+6f24e75a307afbf3662efab2318cd13c3c90cca3,SUBMARINE-1173,Sub-task,Transfer description.json to config.pbtxt via protobuf API,,Major,97.47292419
+2b1321742e9f1b718b52e164212010f78e771ad7,SUBMARINE-1180,Bug,Fix the hibernate error in server,Backend Server,Major,100
+2ed83e277aa3466959a06aa44ebea1ecd5ec9415,SUBMARINE-1134,Sub-task,Connect API for CLI Environment,,Major,100
+cb3d9bb7da748bcf4bc8f4771b3346b469212c41,SUBMARINE-1176,Bug,CPU can be decimal,Workbench Notebook,Major,100
+28e3b76d149b5cff538bd7ad4973c2e5970b3d09,SUBMARINE-1117,Sub-task,Connect API for CLI Experiments,SDK,Major,100
+0c2d71bce0030a77ffa3aa1049df99db368b78e2,SUBMARINE-1181,Improvement,Fix the Python dependency,,Major,100
+faf81ba75611d9efc026381a78fcea2b9d69071a,SUBMARINE-1170,Bug,Add traefik role verbs to create/update/delete CRD,K8s Submitter,Major,100
+7f95da6b6bcd763ac9b088b41502465f7b986b3e,SUBMARINE-1178,Sub-task,Upgrade tag components for model management UI,Workbench,Major,100
+e7d22d1488799b45cc6276931938859db52cd8a1,SUBMARINE-1127,Improvement,Jupyter Notebook can add a env to support initing some config,Workbench Notebook,Minor,100
+aa92203c4fa7b35532d3ea715f736f29ce801ba6,SUBMARINE-1139,Sub-task,add an internal api on submarine-server to sync the status of notebook  tfjob and pytorch job,,Major,98.59327217
+e8104e5935a0b15d7ccbb000650f2bfe90525ba0,SUBMARINE-1171,Task,Experiment artifacts ui,Workbench,Major,98.65113427
+8b3e46312dbac627bde98a9d859a36bc516285e2,SUBMARINE-1164,Task,Update example python code,,Major,100
+63f7e2cbbe001a91e352f3e8858cbf8bab5dede3,SUBMARINE-1172,Bug,Fix end to end tests,E2E Test,Minor,100
+f29f6768dddf66db3a43bb67bb1a977a6a6f8dd5,SUBMARINE-1132,Sub-task,Model management UI registered model page upgrade,Workbench Web,Major,100
+5b426b5d691b6ab24b743bf105a1e6ef4b7559b4,SUBMARINE-1074,New Feature,S3 client for server,Backend Server,Major,99.57186544
+9728f7ab107d8f4f5ce5eff506143428c3ee86e4,SUBMARINE-1161,Bug,Submarine-Operator add support to custom server and database image.,,Major,100
+e68cf27da85451a2c4d14eca366a0c125e939972,SUBMARINE-1135,Sub-task,Implement CLI Config Command,SDK,Major,100
+937a16f71244da3273c70f7478ef9d8a934ab309,SUBMARINE-1140,Improvement,Some fixes for auto generating python from swagger,SDK,Major,100
+ed83f3d4184512f10f5834ed38a26462194d9a55,/,/,    Fix python SDK checkstyle errors,/,/,100
+ee8ead4669433e0de183eb7ba65a3e1e54091ccb,SUBMARINE-1159,Improvement,Remove sonar-project.properties,CI/CD,Trivial,100
+230823eef00b69fc3987b8803ef6fc3fe40f0e2e,SUBMARINE-1150,Improvement,Update the Kubernetes version and add golang style checker to GitHub actions,,Major,100
+4eddb4a4daa11196598baf4181b010f5466934a1,SUBMARINE-1148,Improvement,Persist kind cluster data in local directory,,Major,100
+40c8166a0a9a8c61926e54190346855c8b6b0147,SUBMARINE-1154,Bug,tf-job-operator can not create experiment pod in openshift,experiment,Critical,100
+a1436e3dda20f1bfc4a94ff233c284aa51202a9a,SUBMARINE-1149,Bug,Sonar: Fix reliability issues in submarine-server,,Minor,100
+a0f5a49d74f01f00929c9d4e5048161c6bee23d8,SUBMARINE-1126,Improvement,Jupyter Notebook can not save user setting after pod restart,Workbench Notebook,Minor,100
+50f21b5b1e1ab986f1aaaaa0eb3633de97ae14df,SUBMARINE-1109,Improvement,Java k8s client version from 6 upgrade to 11,K8s Submitter,Major,100
+1a7113adf97a4fa4ec5cfcbb431837ef5906ef9d,SUBMARINE-1083,Task,Update model management Api document,Doc,Major,100
+c15baa7fbe7bf314061559a8514be6220b66bb63,SUBMARINE-1130,New Feature,New route to serve pod,,Major,99.31972789
+78d6b34358a595113d0032f6663c1ccb54a29e1c,SUBMARINE-1125,Bug,Conda Version match error,environment,Major,100
+2e49defe342b6566c4af75cb8e3a9d35e7906757,SUBMARINE-1122,Bug,Job &quot;Build submarine quickstart&quot; failed in github actions,,Major,100
+3fed340a35fb224cdf0baa8a17f1e79beba23c93,SUBMARINE-1098,Sub-task,Show information in the model version information page,Workbench,Major,100
+dd1c1aabf3438850f88e911bf55e42a39f1949b5,SUBMARINE-1105,Sub-task,build base agent image,,Major,99.43644333
+8eb3e20a034ffb86aeb4328a46b22cb621ea0a90,SUBMARINE-1118,Improvement,Remove relevant YARN pages in the documentation,Website,Minor,100
+b84f772b514a45bb3e079bf6e9a84ed927e73a0a,SUBMARINE-1128,Bug,Submarine server can not connect to database,Backend Server,Major,100
+accdf4a011198bef29a1cb1698b40b562559797d,SUBMARINE-1111,Improvement,Add description of creating yaml files for custom resource.,,Major,100
+8ef1f5137031e4c148b2d39903ae4845b6f038a6,SUBMARINE-1123,Bug,Fix illegal characters in submarine-test/test-e2e/src/test/java/org/apache/submarine/AbstractSubmarineIT.java,Build,Major,100
+26ac0465a662653910405f60e27279dc30784c75,SUBMARINE-1120,Bug,Submarine Helm can not start submarine-operator pod,K8s Submitter,Major,100
+5eb043fa9d230cae363ade6fc2859b5e9507afee,/,/,    Submarine 1095. Incorporate Click CLI in SDK,/,/,100
+e836bef1fbd06421f3b21fd62fe2ad62d72f6ffe,SUBMARINE-1119,Improvement,Upgrade Submarine dependencies in the documentation,,Minor,100
+5c29b3a3b7d7c32600071810c7e35408c8722f0d,SUBMARINE-1113,Bug,Incorrect model version name in SDK,SDK,Major,100
+1133f2bb47b7eda81fbd181e51d474dc323f16df,SUBMARINE-1103,Improvement,Add operator e2e test and verify-codegen.sh to github actions,,Major,100
+4ef6c66b8c388af2c83cc3536e4c9247f9825b9a,SUBMARINE-1082,Sub-task,Create Pytorch serving,Backend Server,Major,99.8738966
+695755b896fb28c7c2ac58e031cba162df9c7216,SUBMARINE-1092,Sub-task,Use Model Management REST API in Model Management Page,Workbench,Major,100
+247d3139cefd5aa13c108f78a638224365bcc1d8,SUBMARINE-1102,Bug,Fix download page links,,Trivial,100
+cdbe32e5ec383d294adb9708bb6ba6dcf8f98ac9,SUBMARINE-1097,Bug,Fix some bugs detected by Sonarcloud,,Major,100
+74f6569d652ece46334109d22f285012b782c35e,SUBMARINE-1038,Improvement,Replace submarine helm chart with submarine operator helm chart,,Major,100
+2fac1a927b9601378453a1eb09301bc32d52ceee,SUBMARINE-1065,Bug,Manager-User Cannot Submit Changes,Workbench,Major,100
+12f65efa60db3f26ff7a86a81ea8f911d56fa14d,SUBMARINE-1060,Sub-task,Create simple TensorFlow serving,,Major,96.0484385
+966447524e67eaa8156d231d67fabf9ccdf6291f,SUBMARINE-1087,Sub-task,Page of How to Vote a Committer or PMC,,Critical,100
+80c53a0e686090f5415a47d0f8166fe1fb60d3c7,SUBMARINE-1088,Sub-task,Page of How to Release,,Critical,100
+2e519d24d7f5000b3d24dd1511d62891511f1e36,SUBMARINE-1086,Sub-task,Page of How to Become a Committer,,Critical,100
+f4844c108063ed2eadd697fc8badb62e01315b5b,SUBMARINE-1089,Sub-task,Page of How to Verify,,Critical,100
+b4de88b08f19285a561f27911c86877fa4e18b13,SUBMARINE-1077,New Feature,Model descriptive file,SDK,Major,100
+9f018fa3d3f5066d4a97873070d25d640afa2b84,SUBMARINE-1049,Sub-task,Static registered model information page,Workbench,Major,100
+fa4ab140c5be9856abafb9fe6253f632159a98ea,SUBMARINE-1084,Improvement,Update doc about how to join in the slack channel,Website,Critical,100
+8c8058af1dedcff635a567c16001cbde2f516728,SUBMARINE-1090,Improvement,Remove useless option in CI,CI/CD,Major,100
+514bcf02ceca28dba0d56a57f3011b6f68eb4c36,SUBMARINE-1076,Sub-task,Cannot Search in `/workbench/manager/dataDict`,Workbench,Major,100
+878ab8e0b8c09b699d1e9eefd57e0838bfac9b88,SUBMARINE-1079,Bug,Fix submarine-sdk tests of TensorFlow 2,,Major,100
+6291724ae1fd4dc8b48eae5332bf123e86375110,SUBMARINE-1054,Improvement,Refactor submarine-operator,,Major,100
+50ae48339df4a11d115ac4b76b363da9796a3260,SUBMARINE-1078,Improvement,Retire Spark security module from submarine project,Security,Blocker,100
+40904405f03f944d7a83da9d059ee1770e0085bf,SUBMARINE-1075,Bug,Delete duplicate class and unused config file,,Major,99.7430957
+0ba950964456d94ccfe74dca967d3f78c71dcd87,SUBMARINE-1053,New Feature,Create model management REST API,Backend Server,Major,97.50819672
+0f1eefd70e73abf4ddbdf1ffc77d5238a98b4585,SUBMARINE-1068,Sub-task,Cannot Search in /workbench/manager/user,Workbench,Major,100
+63e5f5c199841bd7cfb3b103252ae93cd3ebbde1,SUBMARINE-1071,Bug,Fix pysubmarine test of tensorflow2,CI/CD,Major,100
+d20fa007bea5968479b62d7fe362c5fbab539d3d,SUBMARINE-1061,Sub-task,Rewrite some submarine server core syntax,Backend Server,Minor,100
+81543ed7c4bdaafcb3b8f4acf9cc6b6a84a79f37,SUBMARINE-1059,Sub-task,Install hibernate,Backend Server,Major,99.59459459
+e588327342b860c06de40751357f41bbaf8e4e84,SUBMARINE-1055,Improvement,Use builder pattern to simplify construction of controller,,Major,100
+5e2e6a57ceafadb8bcea83d0046b2fd6892dab3e,SUBMARINE-982,Sub-task,Install seldon-core,,Major,100
+1fb665277a55f76a37aa23244b150fcd42683d9d,SUBMARINE-1045,Improvement,Add static type parameter in submarine-sdk,SDK,Major,100
+dee3a837b13c030d35bddf14b5293d21da064e66,SUBMARINE-1006,Improvement,Upgrade tensorflow to version 2.6,SDK,Major,100
+0d4b9b82352a7ca34ad61556a8e69197ae83b187,SUBMARINE-1056,Sub-task,Model management UI home page upgrade,Workbench,Major,100
+9ba44b975d3971664c9bd3daa9945d845a335251,SUBMARINE-1052,Improvement,Create submarine model management service in server,Database,Major,97.22222222
+535770eaa1935d04d5bea13d326406e7c9286d77,SUBMARINE-1005,New Feature,Register model version when saving model.,SDK,Major,100
+71ccbf50701da9eb0c5ef8f5d1fae372a44a1154,SUBMARINE-1021,Sub-task,Watcher for experiments,Backend Server,Major,98.66385373
+1536c73c7a5685f753840a4d0122c9fa3aa70e2c,SUBMARINE-1057,Bug,Correct the link in Readme,Doc,Major,100
+90a9906f589f8f5c9ffba9062963cd3bebd78b6d,SUBMARINE-989,Bug,Add error message of invalid notebook name,Workbench Notebook,Major,100
+8dc43d4dcb3ef682dd842aee9e074bd9d4f301ce,SUBMARINE-1044,Improvement,Modify the position of release note in website page,Website,Major,100
+0bca1ff4fdcaad459ea87f39e2f8ee9e3cacf416,SUBMARINE-1048,Sub-task,Static model registry overview page,Workbench,Major,100
+5040068d7214a46c52ba87e10e9fa64411293cf7,SUBMARINE-1043,Improvement,Refactor class name in server-core workbench database directory,Backend Server,Major,96.39389736
+9d54a09f5cece9c54a8c6df3b9245a31907e1e0b,SUBMARINE-1051,Sub-task,remove hadoop profile and dependency in maven,,Major,93.25551232
+bf35b3a4f8c441fa5c6689c1f1b1f633fec1a7fa,SUBMARINE-1033,Sub-task,Remove submarine-cloud,,Major,100
+4199e5063fa76b9abf00507495f8a50f6e1e39b6,SUBMARINE-1050,Sub-task,Static model version information page.,Workbench,Major,100
+60671aa925a91602167b35330936ba540f83bb6a,SUBMARINE-1046,Improvement,Remove package-lock.json in website,,Major,100
+7da8a7fb9bdf067a590879bf0b8b41ecda16d519,SUBMARINE-1039,Sub-task,remove unused packages or modules in Submarine-server,,Major,87.0301747
+f6e3e7bc202bdf11cd76190cf21943ac1479809a,SUBMARINE-1042,Bug,Failed to build jupyter image,Commons,Major,100
+fca5f7ffb6e6e639f62ad9251b0bed5ab9dc5e0c,SUBMARINE-1030,New Feature,Refactor database service directories and class name,Backend Server,Major,98.6013986
+dab2551a25eab753bf5bac5cc3db7a5a0ec39b99,/,/,    Preparing for 0.7.0 development,/,/,100
+068cff0e5c95ce8eea8aa4808d419c329e3278b1,SUBMARINE-1041,Improvement,Add Submarine 0.6.0 release note,Doc,Minor,100
+4e4cfd9162218a8806bac11728c22cd161f18f7b,SUBMARINE-1023,New Feature,Submarine SDK sqlalchemy store (model registry),SDK,Major,100
+61933c6b5a70a5fe3649ae6bac34e96b4da86855,SUBMARINE-1040,Task,Add Bylaws page to the website,Doc,Critical,100
+69ff22b567db19737ccd9cc5a0c8da89c2c53cc7,SUBMARINE-1036,Bug,Can&apos;t import submarine in notebook,Workbench Notebook,Major,100
+6265879ed6482fafcbc278d82ef6416b61377407,/,/,    Preparing for 0.6.0 release,/,/,100
+6bee3c1632242299d036d5a12f04f8ac69601504,SUBMARINE-1035,Bug,Get started button in website is wrong,Website,Major,100
+33201e6eaa1f1fae3f49793e7b006c7a5c7dc607,SUBMARINE-1025,Bug,Use minio client in init container to create bucket,Build,Major,100
+99430913d41cf315b3920bf93b9684d0a303fb5c,SUBMARINE-1028,Improvement,Timeout limit for integration tests are too strict,CI/CD,Major,100
+a2cf0dc848cf1f15fd07b77a93c6e9d0353bd453,SUBMARINE-1001,Bug,Experiment Patch Didn&apos;t Work,experiment,Major,100
+313115226787704ae267fac6e7a4621de479999d,SUBMARINE-1027,Improvement,Upgrade TonY version to 0.4.7,,Major,100
+c7266b8bcf3a90763bf7debb92a01b9777396554,SUBMARINE-664,Task,Update Submarine website according to Apache website guidelines,,Blocker,100
+d65f9ded9e4505e426335802c602407fe34e89f2,SUBMARINE-1024,Bug,Failed to build jupyter image,Build,Major,100
+c132986aec660c8bed2f7b8bd5af9bba0a22be7d,SUBMARINE-1002,New Feature,Submarine model management database and database sdk,SDK,Major,100
+0397f49485e352e3c41e3a55e8c12d4d5e1a7e98,SUBMARINE-1018,New Feature,Add CHANGES.md,Doc,Major,100
+05d6430c625780d71b5abeeb51a2acafe6ac7e2d,SUBMARINE-980,Improvement,Upload code coverage to SonarCloud,CI/CD,Major,100
+45f1f6f992936b2e681235c5ee7e18de080a9ad0,SUBMARINE-1004,Bug,NullPointerException could be thrown in NotebookSpecParser.java,K8s Submitter,Minor,100
+84599b36775181acb0a8fcffb39a61d31368ee26,SUBMARINE-1016,Bug,submarine-mlflow deployment takes a long time to be ready,,Major,100
+9479ad7662f3e3db9f9fe7720746707e774019f8,SUBMARINE-1012,Bug,Submarine CR status is inconsistent with actual state,,Major,100
+602739f4a19184cb6bae32a2aaa1cb76140b01df,SUBMARINE-893,New Feature,Add submarine-operator e2e test case for create/delete submarine,,Major,100
+e90de17cf10a66e14a027161e725636ddccb87bf,SUBMARINE-1017,Bug,Update Slack link on the website,Doc,Minor,100
+fc65e0c948411dfefb878755be1703e2638878d6,SUBMARINE-1000,New Feature,Add submarine save model method,model management,Major,100
+bdf614751c616cbf46f320db2fd6619ef64d12a8,SUBMARINE-964,Improvement,Pull notebook image is very time consuming,Workbench Notebook,Major,100
+77119d90a50fce18243606ed6a0c8466309b521b,SUBMARINE-1013,Improvement,Update Submarine Community documentaion of Mailing lists,Doc,Minor,100
+5cd74b996fc8ca3e1870e159fcd81e516b31b496,SUBMARINE-1009,Improvement,Support mypy for Python ,,Major,100
+ff1b958d47df3675228bf504217e5aaead825bcb,SUBMARINE-1014,Bug,Restore merge_submarine_pr.py file,,Major,100
+6fa91e3176e831622c8a1432cc5eac349d6f00f3,SUBMARINE-1008,Improvement,Submarine python code formatter and linter,,Major,100
+f621a32379b5af8dee77d242cd2e2808db1a040d,SUBMARINE-981,Improvement,Update com.google.guava:guava version ,Commons,Minor,100
+9244defe205786d2af703ef5711ffee4dc89ac65,SUBMARINE-998,Bug,NanoID for experiment name,Workbench,Major,100
+160e1e44e2450fd39ac28b1b3b9bbff31dc82b91,SUBMARINE-987,New Feature,Tags display in experiment list,Workbench,Major,100
+9b13ceddc679afe415b628dd466bf233ab95a1ad,SUBMARINE-1003,Improvement,Deploy website only when updating the file in website directory,CI/CD,Minor,100
+04c1c931a785e24b02acda5bbf49aaaca20dcd28,SUBMARINE-993,Bug,NullPointerException could be thrown in MLJobConverter.java,K8s Submitter,Minor,100
+0afb01d055d4270701d650b99b963bdce7ede314,SUBMARINE-999,Improvement,Make the submarine related storage class into one single storage class,,Major,100
+1ae1b7a4ec6ee0a4fe26e4b6afdb63b2d4e81c84,SUBMARINE-997,Improvement,Redefinition of submarine CRD,,Major,100
+998ced28bb553ad8753f9d73b5f3d20c1ccb7222,SUBMARINE-996,Bug,Submarine logo 404 not found,,Major,100
+fb5c0f9769accccf43684ad9b6e1378f02cb8bef,SUBMARINE-869,Sub-task,Add distributive pytorch example,,Major,100
+acdd01f4a037a438fa3bbb0aded9094f5d863505,SUBMARINE-901,Sub-task,Tensorflow distributed training example&#160;with model management API,model management,Major,100
+314cb000c36e21eb572b9087cbf1719533d25b68,SUBMARINE-950,New Feature,Create state machine for submarine custom resource,,Major,100
+ea79029bbb95e5c66abde07a1b7abbf5e6712d6a,SUBMARINE-922,Bug,Migrate to the next version of Python requests when released,,Blocker,100
+f7d4c9ed2c03edfe0715c0cbcabdf46e13bee6e9,SUBMARINE-995,Bug,Fix submarine website project name,Website,Major,100
+1eb3048f28542e3e288b17d32261e4a25c77d56b,SUBMARINE-994,Improvement,Fix broken link in README,Doc,Trivial,100
+b73e60bfdd00c6ec4ddca39240b55e82b34d28d6,SUBMARINE-990,Improvement,Add helm templates to support storage class configurations,,Major,100
+937e61ecec560764ffa3e0496d9465372040c04b,SUBMARINE-973,Improvement,Versioning website,Doc,Major,100
+b2dc35db0a6ed07ceda6e28c2db4e7f9f7696a04,SUBMARINE-978,Task,Add model management database service.,model management,Major,99.29610511
+3f7d47fab348fdf1486b8ab631f354fb69b54ee7,SUBMARINE-991,Improvement,Add the prerequisites of notebook-gpu-env in gettingStarted/notebook.md,Doc,Major,100
+a88dcaf2748dc334df7b297c952729c049ee7fa2,SUBMARINE-992,Bug,Unable to open minio dashboard,Workbench,Major,100
+81cd83e2636602612b5902e3f2f1d090a64b749b,SUBMARINE-961,New Feature,Experiment Tag at Predefined Experiment,,Major,100
+ddf02aab80df755ff87986813b2a332f399f9f6b,SUBMARINE-954,Bug,Experiments and notebooks are still alive after submarine is deleted,Backend Server,Major,99.90539262
+bf52f6e6374cf833917ee7b795249b18f00a254c,SUBMARINE-975,Improvement,Create storageClass for database  minio  tensorboard to control persistentVolume,,Major,100
+8188a3f2bce6fb5fc003a9b859855ee2c3ccc335,SUBMARINE-985,Bug,Fix limit on the experiment name,Workbench Web,Major,100
+2d15b720e21b5381dd5e5fb01e04557ffeef4d3c,SUBMARINE-958,New Feature,Experiment Tag at Customized Experiment,Workbench,Major,100
+578ff512c5de29031e85a33623ba7a2a712171c3,SUBMARINE-969,Bug,Fix the bug in experiment page,,Major,100
+65e9834991d8b48d767a89b51875152a418873a0,SUBMARINE-979,Bug,Fix the error in gettingStarted/notebook.md,Doc,Major,100
+24391a0e225ab80297f89f2c634afe1f4daaa302,SUBMARINE-970,Improvement,Simplify integration tests&apos; workflow,CI/CD,Major,100
+b2b3a6e22a6f185b88a092f2cdb0773108af14c4,SUBMARINE-977,Bug,Fix sonarcloud workflow run error,CI/CD,Major,100
+dfd6df3a584b09990e088ff9ec073f369dd4d52a,SUBMARINE-963,Improvement,Add SonarCloud config in GA,CI/CD,Major,100
+54d3cdc681c5ab8b619b7a599a4d7b100db91a34,SUBMARINE-974,Improvement,How to contributed submarine step 8 is outdated,Doc,Major,100
+1682df28328462a8aafd6ef544dbf00a696b1a89,SUBMARINE-965,Sub-task,Users should not have the privilege to create experiments in different namespaces,Workbench Web,Major,100
+9ed4cb6188bcc17f6590a2d3458d18ad10f3fc53,SUBMARINE-966,Bug,Correct the job label selector,K8s Submitter,Major,100
+5088efe6ac85eacacc5d576fb44bf517f8d940c0,/,/,    SUBMAEINE-959. Fix error in submarine-k8s test,/,/,100
+4b30e71ec803e3c8209a73477fdea54d8a463869,SUBMARINE-953,Bug,Submarine-server shouldn&apos;t create persistentVolume manually for notebook,,Major,99.76314543
+63913bbed3dfd8a2d64b06a127c69482f90144cb,SUBMARINE-911,Bug,Fix the bug about deleting notebook,Backend Server,Major,99.66714218
+1d997b4a3bebbb3b3df493fd418d68850b652555,SUBMARINE-957,Improvement,Extract helm dependencies from submarine operator,,Major,100
+be8d662fe643a1014adf0d9018f0b642bc4bdeda,SUBMARINE-955,Bug,Add Limit on Experiment Name,,Major,100
+802f8eb41a87ddde9dac177674d51cc489174bd4,SUBMARINE-939,Bug,Auto Reload in Experiment will reset the checkbox continuously,Workbench,Major,100
+d75f4f2b429f96e49042991a3af9f1fff153f740,SUBMARINE-952,Sub-task,add the upper bound  of retry counts for TFJob and PytorchJob,,Minor,100
+39b65f1f9aad9a6ff25fc14506267a7b7fcb6b8e,SUBMARINE-948,Sub-task,Allow experiments to overcommit memory,K8s Submitter,Major,100
+214582d7d643dd277f32c1c43e94d3301f3b3110,SUBMARINE-962,Bug,Delete temporary build artifacts before caching,CI/CD,Major,100
+19bd28b9bbb1e427456e1caa9b1bfbd51693ef17,SUBMARINE-956,Bug,Change submarine CRD groupName to &quot;submarine.apache.org&quot;,,Major,100
+a94494bf4ba89d05b3e8680b3139736204781c35,SUBMARINE-928,Sub-task,[Quickstart] Rewrite quickstart guide,,Major,100
+3bf0bf1f5d28edea5a4a20d0a1ef7a94805ed2b1,SUBMARINE-943,Sub-task,add &quot;tag&quot; property into Experiment class,,Minor,100
+6eb2eb115fcdcf33b3d088ac767321acc7714c51,SUBMARINE-938,Sub-task,[User] Modify user documentation,,Major,100
+929294341ef5c9d9a423fad6f75da3406086efec,SUBMARINE-942,Sub-task,Make experiment ID consistent with TFJob and PyTorch Job,Workbench,Major,100
+6fe72e294afed2711556837c38457d26bad8f95d,SUBMARINE-951,Improvement,Revert SUBMARINE-942. Make experiment ID consistent with TFJob and PyTorch Job,,Critical,100
+fc9bcaed71aa4db1d80b41aeeed2babab5b74d1b,SUBMARINE-945,New Feature,Create helm chart for submarine operator,,Major,100
+610535806c6208e53dbe0c2889cc944cf32835c5,SUBMARINE-942,Sub-task,Make experiment ID consistent with TFJob and PyTorch Job,Workbench,Major,100
+0c1d9c8a5f13411c95e14133c5d2698bf60feea9,SUBMARINE-946,Sub-task,Remove duplicate tests in GitHub Actions ,test,Major,100
+768c0308bbcb2778cf877c0c46ba3bef39fdd16e,SUBMARINE-944,Improvement,Bump io:commons-io to 2.11,Commons,Major,100
+4b6251c0517051020bfc1e8eeb43a424e4b57e8a,SUBMARINE-947,Sub-task,Deploy website must be limited to apache submarine repository,test,Major,100
+01bdd46edcd18e2f8ce285eaada492e28fc8224f,SUBMARINE-919,Sub-task,Add develop submarine website guide,,Minor,100
+82cea24256722a27a82234c95240803d49b5e0ba,SUBMARINE-879,Bug,Experiment logs have not displayed,,Major,100
+72be805fc4672f7f29c96cca95e16d59358d4dd2,SUBMARINE-851,Bug,Dirty notebook status is persisted in DB when notebook operation is failed,Backend Server,Major,100
+65b785e4fe0a11a9ccd0b787b85ffe886c6854e5,SUBMARINE-935,Improvement,Support running test-k8s on both KinD and minikube,test,Major,100
+23bac52ecc5b39911f4d72f6ec934bb038041d00,SUBMARINE-920,Task,remove submarine-cloud from building process  including maven and github action,,Minor,100
+adc083c8c13d6ac6d382d4fb333b5ca3bcdd2187,SUBMARINE-941,Sub-task,Improve documents about submarine-operator and integration tests,,Major,100
+8da9f478de9323dd098d06bbd52afdda3a27ce07,SUBMARINE-880,Sub-task,Cannot run two experiments with the same name,experiment,Major,100
+faf991b003895f6ef5a7287a6ed0b6a49c977271,SUBMARINE-937,Sub-task,[Dev] Update test-e2e in integration test,Doc,Major,100
+75ac42fc633e174ba2c8b3098ec2ddd7817111f1,SUBMARINE-940,Sub-task,Improve submarine-cloud-v2 documents,Doc,Major,100
+37f70df6ae185103fc7c7309ed1e2e44b6d0c7d4,SUBMARINE-936,Sub-task,Add README to submarine-cloud-v2/artifacts/examples,Doc,Major,100
+50a77b44b416adae44a9b7ba487fd99ad511d432,SUBMARINE-933,Sub-task,[Dev] Update Overview in Development Guide,,Major,100
+5a4e2e5171298678728d035f76d1547d88a112a0,SUBMARINE-934,Sub-task,Add README to submarine-cloud-v2/hack,,Major,100
+6797efb9a881322c57a3dfb79c1c283489a7f039,SUBMARINE-931,Sub-task,Update README of submarine-cloud-v2 and add developer guide,,Major,100
+145151aba9f34e4e1c4a04d4ccbe9dd80cb3b672,SUBMARINE-932,Sub-task,[Dev] Add operator docs to devDocs,,Major,100
+848b6f111ceb69a0d34942b7f107c45d28461b61,SUBMARINE-930,Sub-task,[Dev] Update test-k8s in integration test,Doc,Major,100
+2030302c1055499fca21655dcd997e0aa52eed70,SUBMARINE-924,Sub-task,[User] Python SDK Model Client,,Major,100
+b6f1ad937d12bea559d14246d60253da032dacb7,SUBMARINE-925,Sub-task,[User] Python SDK Experiment Client and Tracking,,Major,100
+9842769a0a64de895226c65a014d705846cd9980,SUBMARINE-923,Sub-task,[User] API documentation,,Major,100
+db95c951dc9d0a1ac33f9860d56f82ad175a3ea3,SUBMARINE-926,Sub-task,[User] Other utilities,,Major,100
+5856f5559837b8c0e0ca7c5c32a410a5898126bf,SUBMARINE-927,Sub-task,Add KinD deploy tutorial under prerequisite,Doc,Major,100
+7b7a79c523e5d9734aa611841fc18e40c33c689a,SUBMARINE-918,Sub-task,Update devDocs directory structure,Doc,Major,100
+b56151187685b0ef13b5a1a4d90c4d06a3602537,SUBMARINE-921,Sub-task,[User] Refactor User docs,,Major,100
+8c33f031868c6de8d8fb5ad4b79faec0807b7c53,SUBMARINE-833,Improvement,submarine-security does not support ranger 2.1 version,Security,Critical,100
+48ab638663ce4ff3ba104abe654f70deecaa13b9,SUBMARINE-913,Sub-task,Remove Travis CI test,CI/CD,Major,100
+8dec01f9aef9098223c49aea691663480b69a716,SUBMARINE-895,Sub-task,Refactor GitHub Actions YAML files,CI/CD,Major,100
+65c21f23a4f4af299e2bfa0988a4e14ea988c22b,SUBMARINE-917,Sub-task,Update adminDocs directory structure,Doc,Major,100
+700e47129bdba4f8fe154d3d6c1fc995105eb6c7,SUBMARINE-914,Improvement,Github Action compiles Docker images twice,CI/CD,Major,100
+565dcc5b526445dbe9318cedef62636fae512fdc,SUBMARINE-910,Improvement,Default open auto reload,Workbench,Major,100
+3ceebdcb755422213f5608f64dc01c2e314bcb87,SUBMARINE-876,Sub-task,Migrate the Unit tests from Travis CI to GitHub Actions,CI/CD,Major,100
+19f2dfdecc26a6f1c9d764c962f99a888035f4a2,SUBMARINE-905,Sub-task,Replace Travis CI status badge with GitHub Actions status badge,CI/CD,Major,100
+56bf9c16531156a48963f58cd3b5994b31b74b66,SUBMARINE-865,Sub-task,Clean up deleted experiment in mlflow,SDK,Major,100
+1249590d78327f0cb239829cad5735b9e71097c7,SUBMARINE-904,New Feature,Create minio by submarine operator for single user,,Major,100
+031b1c9cff1b377e21ca29058525ebef48afad0a,SUBMARINE-903,Bug,Submarine operator created tensorboard is inconsistent with helm-charts template,,Major,100
+20b76e65177a86a6fd1a911a4f0f5f768f24b03e,SUBMARINE-900,New Feature,Create a submarine mlflow for single user,,Major,100
+0ac5607d5c40e7bd30409fcd382fa551cfc6257b,SUBMARINE-898,Improvement,Shield the cluster features in submarine server,Backend Server,Major,100
+c237717e81088879bb8974719ffa3d27943a7e39,SUBMARINE-899,Sub-task,ServeModel API in submarine server,,Major,97.11934156
+d67dc6727d3d81dc3bd61ffac9a06cc86ab782ef,SUBMARINE-902,Bug,Experiment page stuck on loading,,Major,100
+f2682309ac038c264e5f375686c5107d4853ed29,SUBMARINE-855,Improvement,building tools for submarine-server for developing,,Minor,100
+8d56b9bc27b9f1041b530c12c887c6e0f822bb93,SUBMARINE-892,Sub-task,Remove unused files in our controller,,Major,100
+5739c09bf1b0a6ad5169d76203a84cc778e3a56d,SUBMARINE-891,Sub-task,Remove namespace function arguments when creating resources,,Major,100
+c66a8c6e2ae92fcbc07571a1e7ee7f0991532c2e,SUBMARINE-863,Sub-task,A time lag between the frontend and backend of MLflow,Backend Server,Major,100
+72b8b10273a920b19b5164f17be181f358c0a91e,SUBMARINE-850,New Feature,Submarine operator E2E test framework,,Major,100
+c0fe073627dd737d3a8df15cf1aadf408f984087,SUBMARINE-861,Sub-task,Trim the size of pysubmarine,,Major,100
+5ef3a42da48893d69ecabdb4892ddcfd81e7cee1,SUBMARINE-894,Improvement,Reduce the image size of submarine-operator,Cloud-native Deployment,Major,100
+75275d400455587cabdcf4760c55878f5347495d,SUBMARINE-890,Sub-task,Extract all resource creation spec,,Major,100
+8901fa1f79943257ea030cf140d9ce98a317f69d,SUBMARINE-887,Improvement,Fix some front-end  apperance,Workbench,Major,100
+10a41504022c6158c19cbaf5d1292835806ed2e2,SUBMARINE-889,Sub-task,Change module import path for controller,,Major,100
+4f79fc2846e66d90a723fc49645acfaf3439f2a3,SUBMARINE-868,Sub-task,Add save model to pysubmarine ModelsClient,SDK,Major,100
+04d9d45824da8c184688f23a8180baa25bda1400,SUBMARINE-884,Bug,Fix mllfow backend url with new mysql url.,SDK,Major,100
+3b230242a70119696bb266b4544409627ddaa3b5,/,/,"    Revert ""Create anchore-analysis.yml""",/,/,100
+618dda079fa3df9e2ce0b0a2a6591856bece62e6,/,/,"    Revert ""Create codeql-analysis.yml""",/,/,100
+54fb0b410022cf75f66d73356dd5d3fc22d65f32,/,/,"    Revert ""Create ossar-analysis.yml""",/,/,100
+3d466cf3bbbd979adad87bebe41ccd9f6cec1027,/,/,    Create codeql-analysis.yml,/,/,100
+f22a6ecc4fdb5ce7f81171e8897b45f35aa824be,/,/,    Create ossar-analysis.yml,/,/,100
+b9792254101662554217170b5eae4c892f102c87,/,/,    Create anchore-analysis.yml,/,/,100
+1fa0a762e17ce7d8ae12c51b387dacdaa05015a7,SUBMARINE-882,Bug,[E2E] fix datadictIT,E2E Test,Major,99.82417582
+d3977d11dec6c8569bbd3c75fea08d2cb1506e64,SUBMARINE-831,New Feature,Update the status of submarine custom resource in syncHandler,,Major,100
+ca58ac9a86b15f9f7ecd88f458974b1541a7747d,SUBMARINE-878,Improvement,Login Page object for e2e-test,E2E Test,Major,99.73568282
+27567b7ab6053ef767252977976c71b73115c7a7,SUBMARINE-881,Improvement,Sidebar page component object for e2e-test,E2E Test,Major,99.42630185
+874ab6a6524208fbba27d679888aa02b8e7cf2d1,SUBMARINE-886,Sub-task,Underscore character is invalid for experiment name,Workbench Web,Major,100
+a6d11c155bc5967c0359129fd335de637676f64b,SUBMARINE-875,Sub-task,Migrate the Integration test from Travis CI to GitHub Actions,CI/CD,Major,100
+b30d87903153357904d48d3743434d8501f91e00,SUBMARINE-829,New Feature,Handle errors when processing workqueue items,,Major,100
+51f4252e9af47ea268f3be814d7e1a788ae721e7,SUBMARINE-885,Bug,Fix python-sdk test broken error,CI/CD,Major,100
+116cfad8808a1273fc84ade17a4aa7f243499623,SUBMARINE-856,Bug,Predefined experiment pods CrashLoopBackOff ,,Major,100
+6478ac4e581f5cfc908a0f865b605c95247b6fbb,SUBMARINE-864,Sub-task,Support log_params and log_metrics,,Major,100
+e30641a145b384e52df511c3b7a9c2fa4e30f59b,SUBMARINE-804,Task,Modify the apiGroup field in rbac.yaml,,Trivial,100
+5b5d570fc665fd0f8474c3684412cb23abe4ff2c,SUBMARINE-874,Sub-task,Fail to start Kubernetes and KInD at GitHub Actions,CI/CD,Major,100
+556ec0e648f5eea99997c47ce3f7f82ba95850b8,SUBMARINE-871,Test,userSexDictAnnotationTest failed in Ubuntu 20.04,test,Major,100
+05a806000e440b209e2310d8d242c86af03be22f,SUBMARINE-870,Test,Replace &amp;amp; with &amp; in java jdbc url,test,Major,100
+75c12ebe54a49b0c077c900221c50b8130d8d512,SUBMARINE-877,Bug,Replace the dtds url in checkstyle.xml with new url.,Build,Major,100
+1c77153504a0f4ebe9daef68751db657bb9bea9e,SUBMARINE-857,Task,[Umbrella] Support model management SDK in distributed scenerios,,Major,100
+e8e2711164b7b3b36594e7f5fc7662d9edd74dde,SUBMARINE-859,Sub-task,Mlflow sqlite database should be replaced with mysql,,Major,100
+6c04b814e526a9a5da243fc05122d63df741cd4a,SUBMARINE-860,Sub-task,Replace hard-coded IP address with DNS in Mlflow and minio service,,Major,100
+7d2de63bc7866fe38ed3c57753fb22062619b60c,SUBMARINE-724,Sub-task,Reorganize Submarine Documentation,Doc,Major,100
+85a87e89fbe339cd82bc502dfe139184794540e6,SUBMARINE-815,Bug,Export ModelsClient from submarine init,,Major,100
+e88af3e6f37bd110491a57ec2640984827adbe5a,SUBMARINE-845,Test,Fix submarine-server test-&gt;ClusterRestApiTest-&gt;testGetClusterNode,CI/CD,Major,100
+56bfbbbc0f6f0eaedd4c06fb0ad2d8625c3af501,SUBMARINE-858,Sub-task,Implement log_param and log_metric for distributed scenarios,model management,Major,100
+f24e25b9218b1ecf935d059b657197d6105563c8,SUBMARINE-838,Bug,Failure to find org.pentaho:pentaho-aggdesigner-algorithm:jar:5.1.5-jhyde,Build,Major,100
+292b759a962d718a1672dfdb37b00b879010079f,SUBMARINE-854,Bug,Avoid making the same bucket twice,Backend Server,Major,100
+7430d03c29018ac22c09cf4fd64e0b0b269c3eaf,SUBMARINE-848,Sub-task,Make submarine CR and resources created in the same namespace,,Major,100
+60f83a26b375dec79e1803a36ef83400af5e6d97,SUBMARINE-853,Sub-task,[E2E] Avoid mixing implicit and explicit waits,E2E Test,Major,100
+fb21e797bbe8e501484a21fb5c9847d05dd03d1e,SUBMARINE-844,Improvement,Create new Notebook in a specific namespace,Cloud-native Deployment,Major,100
+252a0e9556a78b3788437233153ac8feee636e91,SUBMARINE-852,Sub-task,[E2E] Remove redundant code in E2E framework,E2E Test,Major,100
+0fa1e22c8d29150e79e68702f84be1b085609640,SUBMARINE-849,Bug,RBAC for events,Cloud-native Deployment,Major,100
+ddee8287a3339714a03e83c2ffce769fb24d0919,SUBMARINE-835,Improvement,Add new method with minikube ip and NodePort Service to expose the service,,Major,100
+13656d49a9f796c4ba798846b89c68d07d4f60ef,SUBMARINE-828,New Feature,Set up event handlers for various resources other than submarine custom resource,,Major,100
+2468ec50677ffc2e4ac8749c85a3e7c5044c2550,SUBMARINE-839,Task,Add tensorboard user guide on website,,Major,100
+23cee7dfa4786b00c3afdf7dfd2faca0ba30b4a4,SUBMARINE-832,New Feature,Broadcast events using eventBroadcaster,,Major,100
+39eb01e5cf5641b78818ed3c32bc1d69e906ee07,SUBMARINE-841,Improvement,Modify hard-coded URLs in frontend E2E test to soft-coded URLs,E2E Test,Major,100
+54c69c7866ba3cd4a647badf9aa96f91e75afb8e,SUBMARINE-830,New Feature,Set OwnerReferences on resources,,Major,100
+e69bed1dfe065bb8e77de89bf9ac4a98a4e6ad83,SUBMARINE-836,New Feature,Frontend E2E test for Submarine Operator ,E2E Test,Major,100
+654598bdfdab6f63496a02e00cc45f9e5575fc39,SUBMARINE-826,Bug,Tensorboard and mlflow can&apos;t be connected in custom namespace,Cloud-native Deployment,Major,100
+d34e523cf1fd600e70e504e94db9a5af9978f2e0,SUBMARINE-824,Improvement,Execute port-forwarding automatically with Golang,Cloud-native Deployment,Major,100
+94639069d3fd6b1f1c993669f24d2928ca0873a8,/,/,    SUBMARINE 819. Create namespace for single user,/,/,100
+941eedbc16da95a77b2ef8dd2ddfc1a08401ee10,SUBMARINE-821,Sub-task,Use custom image in submarine operator for developer,,Major,100
+72edff68224540937b31917fdc035542d727b26a,SUBMARINE-825,Bug,Delete Event Handler needs to handle non-namespaced resources,Cloud-native Deployment,Major,100
+f0bfa55066d5e9520cdbee632d52f8997d2175c9,SUBMARINE-813,Task,Add mock test to submarine models,,Major,100
+17ffc4ef8220df33f5a11e83fdf45f6fde212296,SUBMARINE-817,Task,Add model management e2e test,,Major,100
+573748d78b794244af4a4157d6d54b1135d9bba3,SUBMARINE-823,Task,Fix build image error,,Major,100
+9b43837581108f82bb6999030343eb9e94795fd2,SUBMARINE-808,Task,Temporarily remove hitcount badge because the server is broken,,Major,100
+0669b668c76dd19534fa29457265b1e34746c593,SUBMARINE-816,Sub-task,Implement Submarine delete event handler,Cloud-native Deployment,Major,100
+ffc415f9b68c1d36554e0c59076554c90b03e69f,SUBMARINE-820,Task,Fix github action error,,Major,100
+244fca958459d229ed5cab1cb921304cad3002a2,/,/,    SUMARINE-814. Add pytorchjob,/,/,100
+27db85e9eac8ac8fec432d6eaf167be57f601948,SUBMARINE-812,New Feature,Install local tfjob chart via helm golang API,,Major,100
+5c92f1e644b325e46fd554338b8a858179b6f73c,SUBMARINE-807,New Feature,Create a tensorboard for a single user,,Major,100
+1fdd707a5b6b03ea08b5e54540dd1753a22a8419,SUBMARINE-794,Improvement,Update submarine-cloud-v2/README.md to enforce coding style,,Major,100
+3c8c1738e9411f0ea3394410b56cc09d1492b378,SUBMARINE-809,Task,Initialize model management SDK,,Major,100
+d821cfdad3789558312037d6946d37086eb683e0,SUBMARINE-802,Sub-task,Refactor environment form,Workbench,Major,100
+4832fb2f89ec8d25e31f7c15296e1c5e1a3d72a7,SUBMARINE-774,Sub-task,Support parsing conda config file,Workbench,Major,100
+d4f80afd3377a07f8c8fcbb53eb98e7c48c768ab,SUBMARINE-803,Task,Update travis link in README.md ,Doc,Trivial,100
+05aecadccfaa119dc11c7879737089336d36a0ee,SUBMARINE-796,Bug,Fix link error in IntegrationTest.md,Doc,Major,100
+b4de7ea8ac0f574bc391b2476cd38dd9e9df7bb3,SUBMARINE-811,New Feature,Install local notebook-controller chart via helm golang API,,Major,100
+322d190fb612089febbf909d55975749551dd921,SUBMARINE-773,Sub-task,Support MLflow model registry,Backend Server,Major,100
+57af2ce4d66ed1a88cdf4682fd06deee8975ae99,/,/,    minor change of ui icon (#570),/,/,100
+da51236071a7f30c38c7a05d91a019054d44631f,SUBMARINE-805,New Feature,Install local traefik chart via helm golang API,Cloud-native Deployment,Major,100
+4df27cfcc3d5704acfd6a049076777023cf72858,SUBMARINE-806,New Feature,Create a submarine-database for single user,,Major,100
+2b3903e84468d28256cfa86979dfaff1aaebb32e,SUBMARINE-801,Task,Create RBAC for submarine server via submarine-operator,Cloud-native Deployment,Major,100
+d68a4d724478f9964959732adc4c6a4deeff67f7,SUBMARINE-800,Task,Create an ingress for a single user,Cloud-native Deployment,Major,100
+503d8981374a746cc9be4fa30ac662f46ce7673e,SUBMARINE-697,Improvement,Provide an environment whose image includes CUDA ,Workbench Notebook,Minor,100
+b0ea9583d24418653ef341681d68fedb40219dc6,SUBMARINE-722,Improvement,[WEB] Add template page on workbench,Workbench Web,Major,100
+2e6c387d461dfa4a066a50640327bcf5f55e43a8,SUBMARINE-793,Task,Drop old Ranger version support,,Major,100
+860c04301a806466d261ecee7d3e8cb4a58bec0a,SUBMARINE-799,Task,Create a submarine-server for a single user,Cloud-native Deployment,Major,100
+4fc62996842a6ed727007b3e878e9d8d554e9991,SUBMARINE-791,Sub-task,Read Submarine CRD spec in controller,,Major,100
+c95d7151ba45e743ed75701e6c794a028fa6e45a,SUBMARINE-696,Improvement,Vulnerability upgrade recommended,,Trivial,100
+70411b9f9ff88891b415e317f77b15522f7e093a,SUBMARINE-788,Bug,Upgrade npm version for Ubuntu 20.04,,Major,100
+3ac26033844e0d98250383c6dfe71dac26be8048,SUBMARINE-789,Bug,Update the link of HitCount ,,Major,100
+6ad9cd3ccc1f0f7b28667791bdde1d4bcdc205cf,SUBMARINE-790,Sub-task,Define spec for Submarine custom resource,,Major,100
+808f84ce7118d95e917a0cb089083d3f17c1e296,SUBMARINE-786,Sub-task,Use helm in k8s cluster,Cloud-native Deployment,Major,100
+f74954de626039aa3cff1228ba311ca7bc446ae3,SUBMARINE-795,Bug,[Doc] Fix link error in SDK README.md,Doc,Major,100
+3cb2ecd1c41dc948445be138f4a834304ce4dd9e,SUBMARINE-784,Improvement,Grammar error in README and pull request template,,Trivial,100
+a7452aab19bb77e30061afa3971b893b5d618d16,SUBMARINE-785,Sub-task,Updates the environment docs,Doc,Major,100
+95651d8cdf61e3215144c28b74f098d35613aa57,SUBMARINE-783,Sub-task,Run submarine-operator in k8s cluster,Cloud-native Deployment,Major,100
+31f8d332e3560df3e80d9d45db7fcb69e0061c36,SUBMARINE-764,Sub-task,Fix environment spec parse errors,Backend Server,Major,100
+f53e3564a270e57690edf0e58a8137a78d9eca3e,SUBMARINE-744,Sub-task,Frontend support for MLflow UI ,Workbench,Major,98.43101061
+8c145f50c55742ba4a9456ee439abd279f4e1d23,SUBMARINE-771,Sub-task,Implement Controller Pattern,Cloud-native Deployment,Major,100
+1c5e3cb8c0424882b6eb1fe32604c5148235346b,SUBMARINE-770,Sub-task,Create Submarine CRD &amp; Test API generated by code-generator,Cloud-native Deployment,Major,100
+2faebb8efd69833853f62d89b4f1fea1b1718148,SUBMARINE-768,Sub-task,Use code-generator to generate API,Cloud-native Deployment,Major,100
+436818487af75374780679c1c95e80f2872ddb1e,SUBMARINE-763,Sub-task,Support uploading a conda config in environment page,Workbench,Major,100
+7b30fb6a908e715f6c5c237f29485645355f4e52,SUBMARINE-745,Sub-task,Support search bar on Submarine website,Website,Major,100
+a4b4e37d832e3270ee16c9c1f296dcb58a328e1e,SUBMARINE-767,Bug,Fix link error,,Minor,100
+d0a88e6f1deb218f8d98cf50f8169fcbbba7bb2a,SUBMARINE-765,Bug,Documentation bug in Submarine Local Deployment,Doc,Trivial,100
+58fa4576ce520ac74d4dc1c9a45e0b0af870e27b,SUBMARINE-759,Improvement,Update submarine-operator.md,Cloud-native Deployment,Major,100
+cd56759dc14e6e4a2eab5c0374fa4d98c14e76cf,SUBMARINE-743,Sub-task,Support MLflow server on Submarine,Backend Server,Major,100
+395d0e56abd7b20398021ed8e4465fa3535496b8,SUBMARINE-761,Bug,Submarine build failed in Github Action,CI/CD,Major,100
+66907f3f259cdbdc12a38aee6a6e6ef314de467d,SUBMARINE-748,Sub-task,Update Contributing guide,Doc,Major,100
+cb16f703bfb25943f8f2f38ca08fc13c4f28b069,SUBMARINE-758,Bug,Key &apos;storage&apos; is duplicated in values.yaml,,Major,100
+c8620b489b2ea227b6538fa426020045f1351546,SUBMARINE-747,Sub-task,Update notebook documentation,Doc,Major,100
+40e613b427f46f6c8bde23cb54ae2493aeafe03d,SUBMARINE-751,Sub-task,Upload NTU workshop video,,Major,100
+d27705a1fcfda7c17013ffa8e3dc8edf14d6c209,SUBMARINE-754,Improvement,Enable auto-reload on the experiment page,,Major,100
+b2facbc00f676dcd98a4cc425d049250d4793547,SUBMARINE-750,Sub-task,Replace port 8080 with port 32080 in API example,,Major,100
+b939740f58c862a7e0211f149162c07b13692afb,SUBMARINE-739,Sub-task,Automatically Deploy Submarine Website,CI/CD,Major,100
+0aed2d767fe07ba51f44677ae3e4638f9eb1b6a1,SUBMARINE-746,Sub-task,Update Submarine python SDK documentation,Doc,Minor,100
+cd86cb836f8176efad82aaedc37a1c28b894fe2d,/,/,    Submarine 749. Update links in README.md to submarine website,/,/,100
+90177bc6f9e6874484a0976d924635179f110299,SUBMARINE-752,Improvement,Drop profile spark 2.3,Security,Major,100
+f4a75fc8435b16bcd6d3f437de1bc68ea1822e12,/,/,    Add new development guide (#516),/,/,100
+7c44fd2146a87358cb377d23d7092a985767882a,SUBMARINE-742,Improvement,Fix typo in deploy_docker_images.yml,CI/CD,Trivial,100
+58ad9bacdcfff05ea45794126e410effcce62baa,SUBMARINE-738,Improvement,Automatically Deploy Submarine Docker images,CI/CD,Major,100
+1069e46c39d66be7bf4f845cae83a7f7e6fa73ed,SUBMARINE-726,Sub-task,Run qlib workflow in the notebook,Workbench Notebook,Major,100
+052425d1c204f5221837d23a9768485c6d10b761,SUBMARINE-740,Improvement,Update gitignore,Doc,Minor,100
+b0368d8aac39a8529730c5f9d24b10a720f2cd66,SUBMARINE-733,Sub-task,Documentation for tensorboard,,Major,100
+55e4584aaf904b4a8651775c8ed11dacb848e00e,SUBMARINE-730,New Feature,Store tensorboard data in NFS,,Major,100
+32703611fc3be861d48343b15eb697f1afa4d79e,SUBMARINE-736,Improvement,Use Maven Wrapper to avoid dependencies problem about Maven version,Build,Trivial,100
+772875f731a3db99175db1d218b8b6acb2486a83,SUBMARINE-728,Sub-task,The experiment example will cause OOM error.,Doc,Major,100
+eb0b4d294d8140ed2c1b3bc180ba53336a57ffaf,SUBMARINE-737,Bug,Fix router link in e2e test,Workbench Web,Major,100
+18bd0cd79822b5abfb8d6699cbbeae8ff1d0547f,SUBMARINE-734,Improvement,Open a new page when clicking tensorboard button,,Major,100
+56d14208b8174607c7fe0bf22526f734a067f3d6,SUBMARINE-735,Bug,Fix broken link in docs,,Trivial,100
+7421ce25255b6a6ade901a3d1c7543de49c22b38,SUBMARINE-732,Improvement,Wrap tensorboard logdir into an environment variable,,Major,100
+0c5672d76cc3946d8c055018643cbdb3b73fa7ec,SUBMARINE-724,Sub-task,Reorganize Submarine Documentation,Doc,Major,100
+b4b1381a14c63e4fc2800f48d983317bfd875411,SUBMARINE-712,Improvement,[WEB] Refactor environment page of Workbench,Workbench Web,Major,100
+feff4c1ae1204298e1137e46bb64bfd7a5463ac1,SUBMARINE-729,Bug,Blank Page after redirect,Workbench Web,Trivial,100
+c17c53dd03305ad83a535313a7e3a8e1cb24cf87,SUBMARINE-717,Improvement,NFS support for persistent volume,,Major,100
+80116f8f13d60bd2ef425f8c2f31c2bec1e00afd,/,/,    Update python.yml,/,/,100
+189448ad36796d2738b1c6c22dead309746a6761,SUBMARINE-698,Improvement,Enable notebook to associate with git-based repo,Workbench Notebook,Major,100
+e28acdc03a9e996da2095bc27c6d1cfca45eec72,SUBMARINE-714,Improvement,Store experiment metadata into mysql database,experiment,Major,99.46576008
+ade9311f74abf41ed8867e1e76e4ee76ca24c0e1,SUBMARINE-700,Improvement,[WEB] Refactor notebook page of Workbench,Workbench Notebook,Major,100
+4e22642478a29d1c98b388a9fd1d1c27fb6b5bae,SUBMARINE-709,New Feature,Singleton tensorboard serving all experiments,experiment,Major,99.02104748
+f60557fc7b5394a7b584d5fbbf2bf6142a3412ee,SUBMARINE-719,Task,Remove redundant Rest API bootstrap code,Backend Server,Major,100
+195909599c900f19f21c590ba72bb164841db252,SUBMARINE-718,Task,Update Submarine Server on K8s doc,Doc,Major,100
+9607b3c9b9955a64245dcb48dc882c83510ddf99,SUBMARINE-713,Bug,Fix workbench proxy target ,,Major,100
+9a2110aaf70b010454413f67744903d54a966ffc,SUBMARINE-685,Improvement,Retain the data in notebook pod even if notebook server is destroyed,Workbench Notebook,Major,99.36678032
+9d3ffc3e2df5c243c6cbd2e1dfdabda792eced0c,SUBMARINE-708,Improvement,Add mailing list subscription link ,,Minor,100
+97309d874fae744e507ac6c0c149598a50bcfe87,SUBMARINE-711,Improvement,Add committer info in commit log,Build,Minor,100
+669e0f5e562395995c5fa3162dfaf46d003e8a73,SUBMARINE-638,Improvement,Spark-security ranger plugin - Limit to be applied after masking projection,Security,Major,100
+a2c1e59d0efb498e42dceaf1264b9ebb93caf76d,SUBMARINE-710,New Feature,Tensorboard frontend support,,Major,100
+3e0f41c53b15e412dd5167b910f36a075c3744c6,SUBMARINE-426,Sub-task,[SDK] Add Convolutional Click Prediction Model,SDK,Minor,100
+6e988c77f81eda3eca5c9cb04f6b41039d2ef185,SUBMARINE-706,Improvement,Refactor workbench experiment page,,Major,100
+80de0787ea87da8e2c4017964171886f69955790,SUBMARINE-707,Bug,Fail to create kind cluster in github action,test,Minor,100
+8a18748ecebdf4541db2511061be718f751d57c5,SUBMARINE-704,Bug,Empty server logs in pod,,Major,100
+0750ffc01bac393fd92c18a54559a57710bf860c,SUBMARINE-701,New Feature,0.6.0 New Feature: Support Tensorboard in Experiment,experiment,Major,98.52507375
+2aaecb89be66d26f042649df76c970f1d7f257c4,SUBMARINE-693,Improvement,Sync the status of notebook on workbench web,Workbench Notebook,Major,100
+2168bbba1154193d33e82cfc33ba2a16fa3dff62,/,/,    Preparing for 0.6.0 development,/,/,100
+4515abfcd14e595b586b7fdbec134644057cb1a2,SUBMARINE-702,Improvement,Run new server docker image in helm upgrade,Build,Major,100
+706ded5e487ba56b9122f9926b2e4b7f6da0663e,SUBMARINE-690,Sub-task,Enable pre-defined web interface in submarine workbench,experiment template,Major,100
+853db6c1c1f55b5a2bc7dacd80a700eeb906cad9,SUBMARINE-695,Bug,Doesn&apos;t allocate GPU resource while creating notebook,Workbench Notebook,Major,100
+d104080a926d30bcc45ccd740f9489dd7365d0b5,SUBMARINE-675,Improvement,Sync the status of notebook,,Major,98.28347229
+78f3e74b7de1ec51cf2ae8e6f4247975557f0f5a,SUBMARINE-694,Improvement,Some of the interfaces are defined incorrectly as classes,,Major,100
+3041ef26ad04c0bddd2257a28694aa4e2b4cc837,SUBMARINE-679,New Feature,submarine spark-security plugin needs to support spark3.0,Security,Minor,100
+6ec50ec4b96b42338e3cefadda58129dac0919e8,SUBMARINE-692,Improvement,[web] Replace hand-crafted authguard with Angular builtin function,,Major,100
+18b58f98b3ec75053d8fc206176497e9d4a17981,SUBMARINE-687,Sub-task,Create script to codegen ts-angular SDK,,Major,100
+78fe362330dce9af2ea0f7f3de3d35abdc80113a,SUBMARINE-689,Improvement,Refine the how-to-release doc on fast checking out &quot;KEYS&quot; file,CI/CD,Major,100
+9b669b8c2b9b4a5858cc11fa7a8b0ce46ad571a3,SUBMARINE-688,Improvement,Improve the document &quot;helm.md&quot;,Doc,Major,100
+f4670ad8be4c94a60c3b0fdf7716ebf6837404ed,SUBMARINE-681,Sub-task,[WEB] Rewrite form with NG-ZORRO in environment page of workbench web ,Workbench Web,Major,100
+514fa33e0c6143cde51c965aa1f0427f16829b67,SUBMARINE-678,Improvement,add pytorch template to mysql,experiment template,Minor,100
+c360271fd35004e442c8e94c56fc70b66139cbb1,SUBMARINE-676,Sub-task,Add NG-ZORRO UI component library to notebook page,Workbench Notebook,Major,100
+1a58d0a596cf73265faf577f2456e10431338642,SUBMARINE-623,Sub-task,Experiment templates cannot use pure digital parameters,experiment template,Major,98.62677783
+0c28117a5f3f374c161f56d1de8afe75d1ea0435,SUBMARINE-682,Sub-task,Improve documentation generally,Doc,Major,100
+4c6f7f1e105a4cd700f4b41c02db2d955de82fc5,SUBMARINE-669,Bug,notebook name contain only lowercase alphanumeric characters or &apos;-&apos;,Workbench Notebook,Major,100
+f5b4e5328f110d36ceac1f5e68f494d58915b75a,SUBMARINE-666,Improvement,Update HowToRelease.md,Doc,Minor,100
+1c51cb2b60b44ebc87af1254c3794dce9a3ddc37,SUBMARINE-674,Improvement,Delete the unused environment &quot;my-submarine-env&quot; in DB,Database,Major,100
+d29ddb128f80eb7136d7894b21762443df3cb8bb,SUBMARINE-683,Sub-task,Clarify project structure in doc,Doc,Major,100
+cf47b7be3231e51a23f1f573a2fdce414c15a2fb,SUBMARINE-677,Bug,Run &quot;python-sdk&quot; integration job failed,CI/CD,Major,100
+fea8f18c7205874da708c32ff2afea34898940cd,SUBMARINE-673,Bug,ERROR : Cannot read property &apos;environment&apos; of null,Workbench Notebook,Major,100
+126e51811f78503d260758c7e5d2a9b1dd2653e8,SUBMARINE-670,Task,Improvements of Submarine user docs,Doc,Major,100
+a59bf9ed73d11a0e4026c69aa5138ec3b5c4e333,SUBMARINE-671,Improvement,correct the typo (parseNotebookResponseObject),K8s Submitter,Trivial,100
+4d8c814d31850b6537c43ec997a6092cd28447e6,SUBMARINE-672,Bug,Remove unused dependencies from pom.xml,Build,Blocker,100
+3b3f353f5350214aff55f01cebac5599de0a3632,SUBMARINE-668,Bug,Experiment output is Null,Backend Server,Major,100
+fecb1b49953b4378646d27846378976c683dd2f5,SUBMARINE-611,Sub-task,[WEB] Fix a bug in add new project page,Workbench Web,Major,100
+2f48998c45ec087dcf06ca2e59cd8b077d7f24a5,SUBMARINE-657,Bug,The problem of creating a new user,Workbench,Major,100
+426c30b70b0ad3e9a292e42d576a47c0528d680d,SUBMARINE-665,Bug,Close button not works when creating environment,Workbench,Trivial,100
+6250f659b30a886b09160ff8c418ce682c046587,/,/,    Preparing for 0.5.0 release,/,/,100
+d34b374bee4c035c7550aebe5fffb3eeff882e9b,SUBMARINE-663,Bug,Use md5sum command in publish_release.sh ,,Minor,100
+2ff3339311e7c7e1be1936a8e64506fbd14fe2aa,SUBMARINE-662,Improvement,Clarify duplicate experiment error,,Major,100
+747b8cd81f04f949750db1830c78cafc120c7438,SUBMARINE-660,Bug,Remove submarine-workbench/workbench-web/node/node ,,Major,100
+17579750e490f9a8eef8bb1cce3e2f86ca7cca41,SUBMARINE-656,Bug,Fix the wrong message when creating k8s object fail,K8s Submitter,Trivial,100
+98e361b5be79739150f4b4097b0e7d563f695fcf,SUBMARINE-658,Improvement,Rename publick-api.ts to public-api.ts ,Workbench Web,Trivial,100
+c715e759671827977b5136faa3887045c9b88c30,SUBMARINE-653,Improvement,Replace workbench-web-ng with workbench-web,Workbench Web,Major,100
+f8968031b8f5a267e3ea692d897555d1674fb58a,SUBMARINE-636,Sub-task,Update user documents for notebook,Workbench Notebook,Major,100
+c611879a293801e3e8f990d786248d0cc87af95a,SUBMARINE-650,Sub-task,[WEB] Update the workbench with new notebookSpec,Workbench Notebook,Major,100
+5bbaefed6530ceec391a0b19dbb2d0a6cbf0bd5b,SUBMARINE-654,Improvement,[WEB] Set default parameter when creating experiment,Workbench Web,Major,100
+3881dd1b5775ab9418796c2bada914d30d030c38,SUBMARINE-655,Improvement,Add a deepfm example in Jupyter notebook,Workbench Notebook,Major,100
+5f63b7e075356862f859faf3ce73d3cfae4cd1cf,SUBMARINE-648,Improvement,Add a submarine-sdk example in Jupyter notebook ,Workbench Notebook,Major,100
+7c65e8c7532ceeed155803fddb232ab47f6364a5,SUBMARINE-652,Improvement,Autoformat staged files before commit,,Major,100
+115b82821c7d5166fe88b78dbcd6c37f6328d8bd,SUBMARINE-632,Sub-task,Users only get their own notebook instances,Workbench Notebook,Major,99.8998999
+0e5c92bd5426dc102751de393b82d21c0a467312,SUBMARINE-641,Improvement,Auto convert experiment name to lowercase ,experiment,Major,100
+b61f1764db67d22ddbce3fb149ccab579d420ff5,SUBMARINE-649,Improvement,Revise workbench routing rules,Workbench Web,Major,100
+e53283cde3a464ea2050000d2b44f73b2182294a,SUBMARINE-643,Improvement,Use git-sync image from Docker hub,code-sync,Major,100
+de55c415d101775d8cc8c5d4dd9f18b7a5d1f315,SUBMARINE-647,Improvement,Change Workbench user name,Workbench,Major,100
+b0602b19961838eb0afe7ad02dd1253913412834,SUBMARINE-642,Improvement,Install latest python sdk in notebook,,Major,100
+69977a45e15573f7a335516e5db855c92ea63b1b,SUBMARINE-640,Improvement,Remove workbench (vue),Workbench Web,Major,100
+bd7578cc28f8280f9170938d4469fcc965e24a89,SUBMARINE-635,Sub-task,[WEB] Add sync code to experiment UI,experiment,Major,100
+412ca79ccaf17221a3d18640e2c5b5dc5406b202,SUBMARINE-645,Improvement,Push all image from grc.io to apache docker hub,,Major,100
+b2d3eed82b678c3243079fc25e6b47d44c28c841,SUBMARINE-633,New Feature,[SDK] Support run experiment with synced code,SDK,Major,100
+5934a71650df76f6410444cb23fc088fe5ac9e9c,SUBMARINE-637,Bug,Failed to build from sourcec code in centos7.8,Build,Critical,100
+b88940b84829f6fd4f9a1e83e4020cc71b0d3077,SUBMARINE-583,Test,Add unit test for ClusterRestAPI.java,,Minor,99.84917044
+b47e43fec1209d8dc5f273798d0484a26e55b7d7,SUBMARINE-617,Improvement,Update the apache/notebook:jupyter-notebook docker image,Workbench Notebook,Major,100
+baf06763481fbc850351774f21ce53ad9434571b,SUBMARINE-628,Improvement,[WEB] Disable WIP page link,Workbench Web,Minor,99.69727548
+1cfc0b1b375060fdf814ff1e517a2834d7df1ba6,SUBMARINE-631,Sub-task,[WEB] Fix workbench notebook page,Workbench Notebook,Major,100
+cf7142dcf249ffc4b33e4174f37712ea4cd2486f,SUBMARINE-630,Sub-task,[E2E_Test] Improve notebookIT.java,E2E Test,Major,100
+d5b5a265765468888c0313f7434001d606dbb1b0,SUBMARINE-625,Sub-task,[WEB] Support running standalone script,Workbench Web,Major,100
+c93016a586e4cef54abfc36ad13ec3226f61e619,SUBMARINE-629,Sub-task,[E2E_Test] Improve environmentIT.java,E2E Test,Major,100
+5bdec19e932aaa11eb191ef159858b60851340f0,SUBMARINE-597,Sub-task,Support for &quot;ssh&quot; based git sync mode,,Major,99.94954591
+24c22949c49e83792969b0aae2de8dd7a07408f2,SUBMARINE-627,Bug,Can&apos;t find the new environment when it named &quot;my-submarine-env&quot;,Database,Trivial,100
+3d1952442aadb4d7ba74636424cc2c557a3c84e7,SUBMARINE-618,Sub-task,Create/Delete IngressRoute with Notebook CR,,Major,98.99497487
+329fec8e53355b9d3465b044c9e7c75b96c31e80,SUBMARINE-608,Sub-task,[WEB] Create environment through UI,Workbench Web,Major,100
+eef782de8387664b26e608975d5c9fe62176df34,SUBMARINE-622,Improvement,Experiment Template API docs,experiment template,Major,100
+96a16f80db12bebd8c7749bdc1d656d18d71a64e,SUBMARINE-624,Improvement,Replace ingress-nginx with Traefik,CI/CD,Major,100
+78f60e3d9d628c79b863bb07f711975ad5fe0075,SUBMARINE-545,Task,Additional Changes to User Doc (K8s),Doc,Blocker,100
+57eb259f6aebc2e1c918eff7ae13d027f0ef891d,SUBMARINE-558,Sub-task,[API] Define Swagger API for pre-defined template submission,experiment template,Major,97.50127486
+81a9ff04dedc4dde7c07d8846a788b0a5c8ed779,SUBMARINE-616,New Feature,Deploying Traefik as Ingress controller in Submarine on k8s,Cloud-native Deployment,Major,100
+c11622acbeea33d3fb7a38da8626c94283c0d6a4,SUBMARINE-609,Sub-task,[WEB] Delete environment through UI,Workbench Web,Major,100
+6b2c3a00f5cd51caf7ff70e693c3674861b8bc33,SUBMARINE-619,Improvement,Refactor Readme,Doc,Trivial,100
+e73377d149754729e9613bab7d1f43cbd74cc2a1,SUBMARINE-607,Sub-task,[WEB] Create and Delete of notebook instances,Workbench Notebook,Major,100
+cb0122bd072c9d4bb39b7390fdd7dca4eeacaf1e,SUBMARINE-621,Improvement,Fix the typo in run_deepfm.py,Doc,Trivial,100
+e7c75a7d5657038463afb9225d75fd71e4545ed5,SUBMARINE-620,Bug,Fix hard coding of shebang in some scripts,,Major,100
+6dec6e13f229c6bc216c785bbaed827c10cefd30,SUBMARINE-610,Sub-task,[WEB] Refactor experiment.component,experiment template,Major,99.84399376
+89cb8f65a32bd085bbc364845f2f748ec14a0280,SUBMARINE-612,Bug,Environment variable not found in jupyter pod,Workbench Notebook,Major,100
+d7fb51a196f3583af3a2190e1aa14b18f19177d4,SUBMARINE-615,Bug,Fix Submarine interpreter test failure,E2E Test,Major,100
+113662272f92cb6d9d32876eead5f874a19d2a87,SUBMARINE-614,Improvement,Environment Id should be string in JSON response,environment,Major,97.07266074
+23bf9c2eca61d306008040f2bcaf7178ef955f49,SUBMARINE-587,Sub-task,[WEB]The list of notebook instances,Workbench Notebook,Major,100
+a4b8b94112ca756038f914fcabe18500d66619a0,SUBMARINE-601,Sub-task,Notebook API docs,Workbench Notebook,Major,100
+d65ed1a89ef77b7d0ff05ed674c4bf122a635c55,SUBMARINE-586,Sub-task,Delete/Get a notebook instance with REST API,Workbench Notebook,Major,99.42013706
+534d7ee2f32e7795b7b856c64919b549b7aec4c4,SUBMARINE-538,Bug,Update the release doc,Doc,Major,100
+29d5fc593d7a36a7422020282d211e44c75aa02f,/,/,    Failed to exec method getUserByName in SysUserService class,/,/,100
+488ee3fe1974b00da260f1c9f63be8e0c194415b,SUBMARINE-602,Bug,[WEB] Fix some bugs in workspace page,Workbench Web,Major,100
+1596b2f2fb764d146c67c49c9a7a885e9aa1808d,SUBMARINE-604,Bug,Fix Double-checked locking in SubmarineConfiguration.java,Commons,Major,100
+689ae3cd4f18c8b8941efb35896bed2f037b07e6,SUBMARINE-598,Sub-task,Support get environment list from database,environment,Major,100
+3060ef754d26b7d1e514cd0e2836cf55ab5e8ab2,SUBMARINE-570,New Feature,Support run experiment/notebook with synced code,code-sync,Major,98.93560404
+db201cd06719cc7dfb994f5c7a071bde8c71d021,SUBMARINE-530,Test,[SDK] Submarine client e2e test,SDK,Major,100
+adcc77b29e5a1b411755e2b8dd2bf12407e17f7a,SUBMARINE-596,Sub-task,[WEB] Implement environment list through UI,Workbench Web,Major,100
+7ed7cf0564faafb722693237e2a0b25a8eb8eb8d,SUBMARINE-584,Test,Add unit test for ExperimentRestApi.java ,,Minor,98.98395722
+345ca8500ac829b32ca2e5a6d7c9200b1b0d28ca,SUBMARINE-599,Bug,[WEB] Clone experiment through UI,Workbench,Major,100
+393699828a7890d596a75c3de9d66098766da190,SUBMARINE-591,Sub-task,[WEB] Update notebook component in workbench,Workbench Notebook,Major,100
+cc9dde59564a58dcbcdc22a183e88fb2a90cdd6f,SUBMARINE-590,Sub-task,[WEB] Update chart/param/metric UI ,Workbench Web,Major,98.47127043
+517083e79f0bbe723a585831faf74f45aeaee8ed,SUBMARINE-559,Sub-task,[API] Define Swagger API for pre-defined template registration/delete  etc.,experiment template,Major,98.78691983
+66754b07f91fb2b489660fe1c221e1a9a01d10a6,SUBMARINE-592,Task,ExperimentRestApiIT#testTensorFlowUsingEnvWithJsonSpec doesn&apos;t do expected asserts,,Major,100
+c0a19e5bf49da826859745b50227c588f6966a31,SUBMARINE-585,Sub-task,[WEB] Edit existing experiments through UI,,Minor,100
+c93f256d6f400042fe464ef893e4a33d73eba5c7,SUBMARINE-589,Bug,Update the version of virtualenv in CICD docker file,CI/CD,Major,100
+d43c5cd6244082f1ff2d90e6cca48ccb37d1214f,SUBMARINE-560,Sub-task,Build an API to manage notebook instances with Swagger,Workbench Notebook,Major,97.15340011
+98bd8507681cb3581142073710ac40184813be90,SUBMARINE-579,Sub-task,[WEB] Add duration information to experiment ,Workbench Web,Major,100
+e5d7f0fb1643efb99b1b8e89a5f432b18ea2e4a2,SUBMARINE-572,Test,Create token for login users,Security,Minor,99.89594173
+76a236a63d28ffe2864e5424f09760a3568a84a3,SUBMARINE-565,Sub-task,Documentation for Environment Management,,Major,100
+8260a08a4bb155aeebaeb29844197c68de39ec3c,SUBMARINE-588,Bug,[SDK] Fix checkstyle error in core.py,SDK,Trivial,100
+de555829b6c46e52fbc6eba7f518b19c1fed8ecb,SUBMARINE-582,Sub-task,[WEB] Implement frontend of environment page in workbench,Workbench,Major,99.89572471
+539e9f38d219eb6042ff42dfd1cc6160f2b12f68,SUBMARINE-573,Sub-task,[WEB] Add checkbox in experiment page,Workbench Web,Major,99.84350548
+4f685c051a8511e108738cb6a257df2cad662131,SUBMARINE-575,Sub-task,[SDK] Set job_name to id in database,SDK,Major,100
+5d5eec32abcfe62ffea108e67daea980672f327f,SUBMARINE-576,Bug,Always return empty list when listing environments,environment,Major,100
+5e8f0e90823b927ce0785e545bb83da0323d18ad,SUBMARINE-566,Sub-task,[WEB] Create a new experiment through UI,Backend Server,Major,99.79112272
+6ee7105c23e12e92cff74e5ee4e77afee08dfb97,SUBMARINE-568,Sub-task,[WEB] Fix a display bug in experiment info page,Workbench Web,Major,100
+e580802d893ff2a3ebd53f022a13a727f60b3f03,SUBMARINE-561,Sub-task,[SDK] Add Pytorch implementation of Attentional Factorization Machine,SDK,Minor,100
+eb4837d285a83f70d5551fb8698827629c1082b5,SUBMARINE-578,Improvement,Update /docs/userdocs/k8s/api/experiment.md,Doc,Trivial,100
+99ba038f5397cd262126e48a507e050c12f79d23,SUBMARINE-581,Bug,Change submarine-cloud/bin permission,,Trivial,100
+cbae6ef61e980a0730015a4b309e4f0d2667ddc9,SUBMARINE-577,Improvement,Add pypi badge in README,Doc,Trivial,100
+cfd1011415d8d3154438941d98557a8bba678ef8,SUBMARINE-574,Improvement,Add a script to initialize database,Database,Minor,100
+73e40c58652b9eedb90e8904f0c602117e77c6c4,SUBMARINE-556,Sub-task,[WEB] Connect workbench with database for metric,Workbench Web,Major,100
+dc0f409151202033eab925d2824cc04319e09c3d,SUBMARINE-567,Bug,Fix travis test failure,E2E Test,Major,98.60888175
+c9b9b32f8c320d1707acac342a20842d69644022,SUBMARINE-507,New Feature,[Umbrella] Submarine Environment Management,,Major,96.83257919
+d11db228997c3a12e1f9fce70f5f8776b39c0b74,SUBMARINE-554,Sub-task,[WEB] UI for Submarine experiment creation,Workbench Web,Minor,100
+f8ae898fdc3adbb5a5f03c2737119c1ea0f8f2a8,SUBMARINE-555,Sub-task,[WEB] Connect workbench with database for param,Workbench Web,Major,100
+d8daeabab02f9b91900595f943649d152161e82f,SUBMARINE-553,Bug,Modify &quot;set -e&quot; command in some shell scripts ,,Major,100
+225299299e6c8cd790d092ad03041f6af1401a82,SUBMARINE-563,Bug,Liveness probe failed in notebook-controller pod,Workbench Notebook,Major,100
+5d0d7e76579a63f2a512b3572913ce8549be9009,SUBMARINE-533,Improvement,Add pysubmarine ci dockerfile,SDK,Minor,100
+c5b256ffcbb46d8a491c3fb9a4112610ca740e33,SUBMARINE-557,Sub-task,Install notebook controller with helm chart,Workbench Notebook,Major,100
+24d18c0b7ad2a26c7b46c4d68196c92845f51077,SUBMARINE-550,Improvement,[doc] Upload pysubmarine to pypi,Doc,Minor,100
+2e69ccc11a8e38c60867ea82168f7d8ae7139492,SUBMARINE-541,Bug,Running time is null sometimes,,Minor,100
+b85d4099bf0634f99691fd5d80a5e9408561f678,SUBMARINE-551,Test,Add a new test of LDAP user authentication.,,Minor,100
+919d8c006701a5462c546bc136957365c83fa7c5,/,/,    Preparing for 0.5.0 development,/,/,100
+ca2af0f295244f8e3bc99890c1cdf9ef7ec5bcf4,SUBMARINE-522,Sub-task,[WEB] Improve experiment information page.,Workbench,Major,100
+3c285b051b2320228af15342768cc1149f833e8d,SUBMARINE-532,Sub-task,Use Notebook CRD &amp; controller to spawn jupyter notebook,Workbench Notebook,Major,100
+e0d1294a316f162fe9e48824ebce82e9012b5194,SUBMARINE-552,Sub-task,[WEB] Implement experiment information charts page.,Workbench,Major,100
+81dca71416f8605f765cdb250a6c776f16fdf59e,SUBMARINE-531,Improvement,Submarine Spark Security Plugin -- masking policy do not work when using functions on fields,Security,Major,100
+293d9ce78ce79314ddf41dfe50d9cc0d6d2a7078,SUBMARINE-500,Sub-task,Add metric  param instance to the submarine-server rest,SDK,Minor,98.69668246
+96ea98ded15296ef8dfbd9015f61e719f0d4870f,SUBMARINE-537,Bug,submarine-spark-security: missing JacksonJsonProvider in uber jar,Security,Minor,100
+4f8e889a09b92ec38916c9aba0ec19cf9eb54d64,SUBMARINE-515,Sub-task,[web]Implement Hyper parameters in experiment page.,Workbench Web,Major,100
+77e7c01cf2839110a4454cf76c8ee4da40f03cfb,SUBMARINE-549,Bug,Fix the typo in Submarine,,Minor,100
+1ae00ff6eb328040fbf8e5ccb2ff49de1efd7714,/,/,    Preparing for 0.4.0 release,/,/,100
+f0b3110bebfaef1326b3000a8a72f5d62d6ed11a,SUBMARINE-547,Bug,Incorrect path in deepfm example doc,Doc,Major,100
+3968cf4375bcc2098d926bb55acac17543b09b44,SUBMARINE-542,Bug,[SDK] get_log error when experiment is not started,SDK,Blocker,100
+2f5ae23d983aea15959e1e6b3777817aa86658e5,SUBMARINE-540,Bug,Link broken in pysubmarine,Doc,Trivial,100
+c5d87fc5433f8ad65526768a17be205752a9fe46,SUBMARINE-544,Bug,Email address incorrect in pysubmarine sdk,,Trivial,100
+66c0f7ea5e636e9e0508f605543a6e35e1255c29,SUBMARINE-528,Task,Polish documents for 0.4.0 release,Doc,Major,100
+7d66b3b138e0b00be215ff9175c5a6e305890d3e,SUBMARINE-539,Bug,Email address incorrect in Bootstrap.java ,,Trivial,100
+9de3847434bacda46385b8fd09320fa273fda070,SUBMARINE-535,Bug,Update experiment service in workbench,Workbench,Major,100
+f48e9fe97a79bd4b91c7b79ddc8c362858ef8132,SUBMARINE-534,Improvement,Set env_vars to optional in ExperimentMeta,K8s Submitter,Major,100
+a6e9fea1d11095c2970d2cf71150db19c6f5b8aa,SUBMARINE-529,Improvement,Change apiVersion,Database,Minor,100
+c7bcdc0ec9de0e2f09b235f9c1e7ad26b33ace34,SUBMARINE-527,Improvement,[SDK] Abstract client API,SDK,Major,100
+3d3c075d7702351604ee80ce996f90b856638608,/,/,    Update PULL_REQUEST_TEMPLATE,/,/,100
+0f281cad18ed5c1549b1286a9358a1eceba5991e,SUBMARINE-516,Improvement,Automatically generate python API from swagger,SDK,Minor,100
+04f48c528004fb9b4b661758c5c410f12e68efec,SUBMARINE-526,Improvement,Use yapf to format Python code,SDK,Minor,100
+4878dba1e2d73ff42f6bc2650342213ab3b04fc5,SUBMARINE-499,New Feature,Refactor job API to experiment API,Backend Server,Major,96.13325402
+f9483ddcfa578498747f5118c9e4cd56f7ec23c2,SUBMARINE-524,Improvement,Test commons-unixusersync,Security,Minor,100
+d8b1b38fcaa331cfb2aaf79b9d26012137046b92,SUBMARINE-519,Sub-task,Overhaul Structure of Submarine Github Markdown Files,Doc,Blocker,100
+9f5102ff3e2171dac0a13f2fa66efee61d7c1812,SUBMARINE-523,Bug,Fix the wrong path in deepfm.json and fm.json,SDK,Major,100
+8c7a219683cc30fc12fe20ddf9fe7fed4748145b,SUBMARINE-460,Sub-task,Enable interpreter module,Workbench Interpreter,Major,98.29009434
+bee4ac42f4c98a2c28f69e96e436206d1d822fcf,SUBMARINE-485,Sub-task,[SDK] Add Pytorch implementation of DeepFM model,SDK,Minor,100
+037901e15621b72b75b918ecd35881c6de60abb3,SUBMARINE-520,Improvement,Bump Tony to 0.3.25,,Minor,100
+7fb29a63b32811edf8f3ac0dd4f797eba7b071c3,SUBMARINE-514,Sub-task,[WEB] Implement  experiment information output page.,Workbench,Major,100
+29bc4fbc5c2fd47d3dc6844bf82cc72cb2c1b37e,SUBMARINE-462,Sub-task,Submarine server should support helm charts installation,Backend Server,Major,100
+f02311c0e322eb3be0da28458182d1ccdf4515a9,SUBMARINE-517,Bug,Delete submodules directory,,Major,100
+69f3a0fd29b19415281f3aee7e6b3010d0b058d3,SUBMARINE-513,Bug,Remove &quot;\n&quot; in job logs,K8s Submitter,Trivial,100
+931e147c98d8796fad83e3becd7324672ced41e6,SUBMARINE-506,Sub-task,[SDK] Generate experiment Python SDK,SDK,Major,100
+7424b963a7e3c07ddb2819a3d65826bc597a7c46,SUBMARINE-502,Sub-task,[WEB] Implement outline experiment information page.,Workbench,Major,100
+20f4718e4dacc87eb6de336034112fc774853022,SUBMARINE-505,Bug,Change job API response class in swagger annotation,K8s Submitter,Trivial,100
+04407525b77488d0573a2a59334e83ac40e1f818,SUBMARINE-501,Task,Remove the K8s submitter test task from travis,CI/CD,Major,100
+b00e5aae4544536aca8f4fbcbbd1634499e58c8e,SUBMARINE-498,Sub-task,[WEB] Add notebook module to workbench with Angular,Workbench,Major,99.88193625
+0bf5b71163fa366b1f91e7d9c5b6e4ce02b827b1,SUBMARINE-504,Improvement,Enable angular style check in github actions,Workbench,Minor,100
+e5bcea382c74047e2503a4ba891eb19fed813b7c,/,/,    Submarine-463. [WEB]Implement database connection in project page with Angular,/,/,100
+9c2cdf83beaec7f3ad24066b3a83121ef0e0b370,SUBMARINE-493,Sub-task,Integrating jupyter notebook into Submarine,Workbench Notebook,Major,100
+4f5114b96270b9d7f97048cac362d586444a52d3,SUBMARINE-482,Sub-task,[WEB]Implement database connection in team page with Angular,Workbench Web,Major,100
+567aad99cd885737b0607c5530cd219c5aec58bd,SUBMARINE-479,Bug,yarn error message during build,,Major,100
+56dd1a8b5888aafa4d051a49c996b8c53beff79c,SUBMARINE-481,Improvement,Use Swagger to describe and document submarine RESTful APIs,Doc,Major,99.8816568
+b6aeed05f235b44aca33d094ae3476ccc2f4842d,SUBMARINE-495,Sub-task,[WEB] Submarine experiment list/delete in workbench with Angular ,Workbench,Minor,99.76303318
+febe149fd797ea68878a1e8511627a4a487e5755,SUBMARINE-490,Task,Use  LDAP service to  synchronizing the user information to Submarine.,Security,Major,99.88137604
+b5720635fa6c23d1e3df028c0cd8ff9671e4d7c1,SUBMARINE-497,Bug,[WEB] Fix typo in data Component,Workbench,Trivial,100
+d86cef1a07e68f75e8e199519f82873204ee4b39,SUBMARINE-492,Task,Remove the maven install instructions in travis,CI/CD,Major,100
+2cabd9d9957993480dc9f1936344fd14a6b9b443,SUBMARINE-494,Sub-task,Design for notebook support in Submarine,,Major,100
+b80958612d8b2ebfb487b4b69927cd0b47322ad2,SUBMARINE-496,Improvement,Add JobLog rest api document,Doc,Minor,100
+e1809e614712a5743ffd2c0bcf0aa381ec50913d,SUBMARINE-478,Sub-task,Running jupyterlab container in KIND ,Workbench Notebook,Major,100
+ea4d1a38024216c7289d953f21521d43426e56f2,SUBMARINE-470,Sub-task,[web]Implement database connection in department page with Angular,Workbench Web,Major,100
+cef21e6b92d070cc38fa8c360baedeece7aae922,SUBMARINE-489,Sub-task,SHOW CURRENT ROLES syntax,Security,Major,100
+c638401cbbe07a19c2b585e706fa8916acaaf2b3,SUBMARINE-488,Sub-task,SHOW ROLES syntax,Security,Major,100
+4db85d849203d8c548e4bbc54dadd9eecf7cb224,SUBMARINE-487,Bug,submarine-spark-security: JNA does not work in uber jar,Security,Minor,100
+e20b4487f6ceba4d2c52b7d49418a5e2075400ad,SUBMARINE-486,Sub-task,DROP ROLE syntax,Security,Major,100
+93ede6a41dc65ba7c5ad48885088b547599952d1,/,/,    Update experiment-implementation.md  fix bad link,/,/,100
+8a9106ce5c128ddb81cdfd96c47a96e27c848b56,/,/,    Update bad link of experiment-implementation.md,/,/,100
+87b2296da9eeadd80765cfa49e3d262c7d32b4e1,SUBMARINE-442,Sub-task,Support get job&apos;s log in submarine-server REST API,Backend Server,Major,99.28272564
+ef02ebe6b4b20828ce2ad3972533175c1629a597,SUBMARINE-484,Sub-task,Basic antlr4 grammar support with create role as an example,Security,Major,100
+5ec4cff340b90191853f95167753e8cce359107a,SUBMARINE-475,Task,Add a How to Commit doc,Doc,Major,100
+d0b3a8391b126f9a341779876239702086a4dae2,SUBMARINE-471,Sub-task,[SDK] Delete a job by pysubamrine,SDK,Minor,100
+d8f682fd6e8552e4467d012be6190412f22dc499,SUBMARINE-467,Sub-task,Simplify the submitter configuration,Backend Server,Major,99.87980769
+9154c45d43166ea921fec39b1100654132eadf25,SUBMARINE-469,Improvement,Update Submarine Architecture Doc,Doc,Major,100
+31f9322216307f958a1c3ec79e8a09cb0a5f5b5e,SUBMARINE-370,Improvement,Add &amp; update some documentation for MXNet,Doc,Trivial,100
+648a5f68e3c3556bd673b4c6e3bda9e8e522c069,SUBMARINE-474,Task,Delete test files in submarine/submarine-cloud/manifests/,,Minor,100
+b58428b3431a4bd9ec99938dae68f8e4bd4d0c56,SUBMARINE-461,Sub-task,[WEB] Implement frontend of department manager page in workbench with Angular,Workbench Web,Major,99.87980769
+fe7049d2d5d48d6a3cc02c5b939a140873c5380d,SUBMARINE-465,Improvement,shade gethostname jar for spark-security ranger2.0 plugin ,Security,Major,100
+56b2a566696409d83f0b27c66890e9923cfdfedd,SUBMARINE-455,Sub-task,Support find/patch/delete job by REST,Backend Server,Major,96.76237019
+402bc0a12e14bd13672083ea4947fe58daebfef6,SUBMARINE-464,Improvement,[WORKBENCH] Renew the filepath and screenshot for the workbench doc,Workbench,Minor,100
+7b2bcb79697e761e2fbcb07382d8236d345d38de,SUBMARINE-454,Sub-task,[WEB] Implement frontend of team page in workbench with Angular,Workbench Web,Major,99.8757764
+4a5f69d3efa2cb3ba1ae2924ef03c4d2a93e3efb,SUBMARINE-444,Bug,[WORKBENCH] Login error should be more graceful,Workbench Web,Major,100
+43fe75440aa1d595c1630220d7ce145ddf7efac4,SUBMARINE-450,Sub-task,[SDK] Refactor ML model codebase ,SDK,Minor,100
+0999d22c7245a51ee19fdb6b91d91124f3d12cb7,SUBMARINE-453,Bug,Mini-submarine build_mini-submarine.sh get error,Mini Submarine,Major,100
+f374ff4c7444945d62c23a987a158e1d9f999d72,SUBMARINE-459,Bug,Fix output dir of spark-security module,Security,Minor,100
+f2b484c7fce2c32f51a380ba41622c56cf1b0e0a,SUBMARINE-458,Sub-task,ResetCommand should not wipe out all configs,Security,Major,100
+8765268795b8d4d4ed019d192ec196bb07730931,SUBMARINE-456,Bug,submarine workbench-web Angular fails intermittently,Workbench Web,Major,100
+f1ca541b72d760e206cdb119024e5a1bfeaa2ea1,SUBMARINE-446,Bug,Submarine server does not reconnect automatically to MySQL,,Major,100
+9180e5839e663d272f9ecc13518dbc2c98245681,SUBMARINE-449,Sub-task,Fix escaped correlated subquery cases,Security,Major,100
+a9594e476e47520e4e4bdb498d2e7bdbf5cca603,SUBMARINE-431,Sub-task,[WEB] Implement frontend of data page in workbench with Angular,Workbench Web,Major,99.875467
+c0917c5dcc798181ed0292b0e4b3690f3905386c,SUBMARINE-74,Improvement,Add tests to TensorFlowServiceSpec class,Commons,Minor,99.56112853
+9f75f51205b69d5314bfbb1f1d546e8cbbd8f5c3,SUBMARINE-448,Sub-task,Make RangerSparkPlugin static,Security,Major,100
+bda95a0f8ec0438b654b03cebf98fcac313e601f,SUBMARINE-441,Sub-task,Support PyTorch Job creation ,Backend Server,Major,98.06371018
+831117e3fcabefa14c15c2505aea63e5efba6e40,SUBMARINE-443,Sub-task,Predicates push down support through submarine temp markers,Security,Major,100
+8caf5d85f2ab33625eee36b0c85dfb8161ca30ac,SUBMARINE-427,Sub-task,[SDK] Add Neural Factorization Machine model,SDK,Minor,100
+3af98f2194bd8d11c6311b13b8ddc61770acc6e1,SUBMARINE-437,Bug,Failed to build images from Dockerfile,Doc,Major,100
+723fb36cfb859c6aa2719546b31cbccc2c96c53a,SUBMARINE-440,Sub-task,[E2E_Test] Test Login page,E2E Test,Major,100
+7fbb2fe1e587cfe28e69ab7e5f7580a4b29043c4,/,/,    [HotFix] Typo. Fix build status badge link,/,/,100
+58b0f6d5df423683682832b7bab9590dff9e7664,SUBMARINE-438,Sub-task,Add documentation for spark security,Security,Major,100
+71ef07de51b01a4b6896b2aa0db05fb071eaf145,SUBMARINE-435,Improvement,Improve scala style check for import grouping,Build,Minor,100
+40cd08109cadf50e34f8cb862a21dd7699ce9c73,SUBMARINE-434,Sub-task,Refine data masking plan resolution for spark security,Security,Major,100
+068ff93e9a03912cc3b04b5ae7548dd53ec1f4b0,SUBMARINE-422,Bug,Fix refreshing page returns 404 error,Workbench Web,Major,99.38687922
+70881b28afe007d0b7b819033229af4fe0e840bd,SUBMARINE-428,Improvement,Add job table in db to store job status,Backend Server,Major,99.45021381
+ea8e97f53abba60581b1cdd33c252e40cb2db45b,SUBMARINE-432,Bug,[SDK] test_verify_rest_response is flaky in python 3.5,SDK,Minor,100
+1b44e27d167b626aceac7d8df7b2715f4e295547,SUBMARINE-430,Sub-task,[WEB] Implement frontend of Interpreter page in workbench with Angular,Workbench Web,Major,99.87699877
+fd9b577ee1036b104e743babbafef232b293d0ba,SUBMARINE-433,Sub-task,Expose Security API with Authz w/ w/o DataMasking and  Row Filtering,Security,Major,100
+6528f53ea5e84a932024ca574030f8f81051d40e,/,/,    Fix conflicts of java indentation between .editorconfig and mvn plugin,/,/,100
+c3994e75bc46f9d7cb923862e34135e07d81d756,SUBMARINE-421,Sub-task,Support Configuration Restriction,Security,Major,100
+ace5350882146215f12d0026313107d5356e2b3e,SUBMARINE-425,Improvement,Optimize java style check in github actions,CI/CD,Major,100
+99109b999f2dc2d6765405fc443fc3fb3a77a10b,SUBMARINE-79,Improvement,Cleanup MockRemoteDirectoryManager,Commons,Major,100
+80a25132da88a88b0e322ebcbac93d0830bdc7be,SUBMARINE-424,Improvement,Enable scala style check,,Major,100
+fec5d96e191c23ed0627fbc169da835d200ad6ad,SUBMARINE-423,Sub-task,[E2E] Update the E2E test document,E2E Test,Major,100
+c193cbcc4f2441f7d9556585b971ee6251167b7c,SUBMARINE-420,Sub-task,Full TPCDS Test coverage ,Security,Major,100
+97d6dfc9e1c24f3869e6802a4afea58472b75ec4,SUBMARINE-418,Sub-task,Support Data Masking,Security,Major,100
+f9b410dad4b4fed8de76f54f10b56859bfbd1dd0,SUBMARINE-398,Sub-task,[WEB] Implement frontend of data-dict page in workbench with Angular,Workbench Web,Major,99.87669544
+ab3f92eb3b31f7364836e31969692df93c9186d8,SUBMARINE-417,Sub-task,Suppport Row Filter,Security,Major,100
+4b3b6485057b8d25390f0a524e53fce82bab1018,SUBMARINE-416,Improvement,[SDK] GitHub actions support pysubmarine,CI/CD,Minor,100
+687ca6203173a7b7dc92b2bc4427c6b87a3dfec3,SUBMARINE-78,Improvement,Make RemoteDirectoryManager interface more consistent,Commons,Major,100
+db27dbf8ba238748155b3d970de11df5b5a97ae3,SUBMARINE-415,Sub-task,Custom show tables command to allow exposing filtered tables,Security,Major,100
+3b2231bc577af7e0b06a743d31086bc5bdf64197,SUBMARINE-414,Improvement,Refine Github action and travis,CI/CD,Minor,100
+f21a27705e594e37f25abd5b3df91256b16acc8b,SUBMARINE-413,Sub-task,Custom show databases command to allow exposing filtered databases,Security,Major,100
+6670fe0487f226d300279a062bd3ba538e44b30c,SUBMARINE-412,Improvement,Basic GitHub acitons support,CI/CD,Minor,100
+dd60bbc01a663ae859e24d73d4843aee0031ba0f,SUBMARINE-411,Sub-task,Basic SQL Standard Authorization ACL Management for Spark,Security,Major,100
+d825f181b583631244978931314f2dabfcfbba0d,SUBMARINE-410,Improvement,Supplement submarine artifactId in pom.xml,,Major,100
+f9b5eff9879916a7d6fe985f00ddc5fd89b4e652,SUBMARINE-401,Sub-task,[SDK] Add Factorization Machines model,SDK,Minor,100
+ae9e8b310967f9ea38ae2cc84cce1d5bc381fab6,SUBMARINE-375,Improvement,Ensure TF example code is supported in TensorFlow 2,Mini Submarine,Major,100
+6c68fa6dbe9356e9bd6e51b6faa2b36f177137c1,SUBMARINE-397,Sub-task,[WEB] Implement frontend of job page in workbench with Angular,Workbench Web,Major,99.62894249
+33a165950b7cff23fb1be69674011136a99fc98e,SUBMARINE-406,Improvement,optimize travis,Build,Major,100
+6988a50894c1f7eba65a5ace6a4bd55ad2e8ca4f,SUBMARINE-407,Sub-task,Change module name e2e to test-e2e,E2E Test,Major,96.54747226
+1570840a421370789f5fdd90c15f47ed68ea9d6c,SUBMARINE-404,Bug,Fixed fasterxml package conflict,Commons,Major,99.26425506
+1536829d7d92b9bc89e7222fdf097b752c13a81a,SUBMARINE-399,New Feature,Support Hadoop 2.10,Build,Major,100
+39f7a275f489de53d16dddc7ea206c30f66a1ed1,SUBMARINE-377,Sub-task,[SDK] Submit a job by pysubamrine ,,Major,100
+a2d9715ed1517211ec2783f5c0b12998a3ace2cc,SUBMARINE-337,Sub-task,MXNET example in mini-submarine,,Trivial,100
+8f8740f4eee4fe2fe100a89dc5bbabe256e555a8,SUBMARINE-402,Task,[Doc] Add tutorial for adding test cases and browsers to e2e with Angular.,Doc,Trivial,100
+0697d899235d339dbbc177f5c24ae05af08c48c1,SUBMARINE-400,Improvement,[WEB] Support firefox in testing workbench-web with Angular,Workbench Web,Minor,100
+db287127f98678a0442db36f420c655f36381877,SUBMARINE-393,Task,Drop Hadoop 2.7 support,,Major,100
+e95776d90fb8a6b696bd1896743d3046b6e48896,SUBMARINE-296,Sub-task,[SDK] Submarine pipeline example ,SDK,Major,100
+761f6c85dd4227f08f1d30fc6726e12ac1443502,SUBMARINE-389,Sub-task,[WEB] Implement the frontend of the home page in workbench with Angular,Workbench Web,Major,99.81504316
+6dd7eb822771da052dadacd277c51ae759e4b0a6,SUBMARINE-392,Improvement,Building submarine-cloud requires docker,Cloud-native Deployment,Major,100
+a4990664da77e691772074061dc2fd4a1b16adbd,SUBMARINE-396,Improvement,Change submarine version to 0.4.0 in mini-submarine and some docs,Mini Submarine,Major,100
+504e28fe1acd7a4497e91a324a4f56f7e287853e,SUBMARINE-391,Improvement,Submarine build failed for jackson-databind version conflicts with hadoop 3.1,,Major,100
+edc9801bed705a55258af151a0b9ccbbe899c912,SUBMARINE-394,Bug,Change submit job response status in JobManagerRestApi,,Trivial,100
+f67a0f0db14825dace48385bcafbab6cbc3f3528,SUBMARINE-395,Bug,Fix the typo in submarine installer,Doc,Trivial,100
+6bfe2d52ab8c2bc0857ce992b790fbaafc8a828a,SUBMARINE-390,Improvement,Submarine rpc server should add submitter dependency through classloader,Backend Server,Major,100
+84ff6000f1e3352edad3609d121f85942086f8dc,SUBMARINE-383,Sub-task,[WEB] Implement frontend of workspace in workbench with Angular,Workbench Web,Major,99.8757764
+8c56ff29ec05189415b9b7dfac0570889fc45ac6,SUBMARINE-388,Sub-task,[k8s-e2e] Rebuild submarine image every run k8s-test,E2E Test,Major,100
+cdb2e7f8b17c1badbcd0601d8200b947f9a37a97,SUBMARINE-281,Improvement,Remove Chinese characters from source code,,Minor,100
+6e19ae95d0977a6fdf5708a94c5f113f67aff25c,SUBMARINE-202,Bug,submarine core need to support MXNet,,Major,98.74529486
+d9e0282e2eaf79f2b0028c325aa81d8763404c37,SUBMARINE-385,Sub-task,[k8s-e2e] Create k8s e2e test module,E2E Test,Major,99.68253968
+c0f88255436ffefca8e1fbf6a13f0f0843a32580,SUBMARINE-380,Sub-task,Optimize submarine-cloud to create kind cluster script,Cloud-native Deployment,Major,100
+9cff5f4442fcbd30ee29e4b213d0d99ac4d5d27e,SUBMARINE-323,New Feature,Submarine release scripts,CI/CD,Major,100
+39cbe9f87742aef86563e7c3255fd4a235afb2c1,SUBMARINE-344,Sub-task,Add submarine site dockerfile,CI/CD,Major,100
+e3b5c5cda9c8cc59ddc8a2406fac4211c68b17cf,SUBMARINE-384,New Feature,Add EditorConfig metafile to reduce growth of the indentation mess,,Major,100
+e03b08fa6b7d33f7f577c651229c4fafeb9227b7,SUBMARINE-379,Bug,Delete invalid .gitmodules file,Build,Major,100
+d67950a69d1756897d877e5c31c19a14ade79b41,SUBMARINE-360,Sub-task,[WEB] Implement the frontend of sign-up page with Angular,Workbench Web,Major,99.61759082
+2234648072aa1d55c216d7a9c5150c73b1cbac73,/,/,    SUBAMRINE-382. Output submarine server run log in travis,/,/,99.87228608
+66c063060aae036338d57aa8f6eafbb4c03ed591,SUBMARINE-381,Sub-task,Temporarily disable the interpreter module,Workbench Interpreter,Major,100
+82fae8227fb18e4be5137360d16d06f3a61bda8a,SUBMARINE-371,Improvement,Remove tony submodule,K8s Submitter,Major,100
+4f22b55c7de8886edb71e4edf7f1e383d693db5d,/,/,    Preparing for 0.4.0 development,/,/,100
+b92e8297d7fbb4acff2c55a6c7a303b6f4e7b5f5,/,/,    Submarine-368. [WEB] Add items to the sidebar with Angular,/,/,99.55128205
+7dba2360d8c3e9a005f1b31666801c5bf9b8d34b,SUBMARINE-373,Sub-task,Upgrade cluster module dependent library version,Commons,Major,99.08972692
+7ae15921fd8d329abcba21c91ae473c023900213,SUBMARINE-367,Sub-task,Support submarine configuration outside k8s,Cloud-native Deployment,Major,100
+b670e78d3c3374d1fea58c241239614f30c52d8a,SUBMARINE-342,Improvement,Upgrade Dockerfiles in  Docs and dev-support folders to user Ubuntu 18+,Mini Submarine,Major,100
+97829b74c3246fedda4e4b97ef5605c42845405a,SUBMARINE-366,Sub-task,Support submarine link database in k8s,Cloud-native Deployment,Major,100
+b4c67cdd664cbe9b9bab90836f343bfcd6a7b789,SUBMARINE-365,Sub-task,Exposing the Submarine Workbench in the Kind,Cloud-native Deployment,Major,100
+4d0bd20491c506fb0ed58d74358cefa231afb838,SUBMARINE-364,Bug,Fix copying submarine-dist.tar.gz error in build_mini-submarine.sh,,Major,100
+77d06def98d5c9118992a467f37959cd7e0e344e,SUBMARINE-363,Sub-task,Add Submarine operator &amp; server test yaml,Cloud-native Deployment,Major,100
+5b5b54815d16c9c2ee9aaacdd394176056f84dac,SUBMARINE-362,Sub-task,Add Submarine operator dockerfile,Cloud-native Deployment,Major,100
+9948133683d737739006ca89ec06be65137d0c28,SUBMARINE-361,Sub-task,Run submarine operator in k8s,Cloud-native Deployment,Major,100
+6407e0902d7face3543bf97a66941b66c7784305,SUBMARINE-358,Improvement,Split logo into three svg file,Doc,Major,100
+15d5c915a4023af6713e0b3d6afd33fb44ad879f,SUBMARINE-349,Improvement,Support using existing artifacts candidates to build mini-submarine image,,Major,100
+79835328ad9f18ead48f7b5d6a42ac4606a782f7,SUBMARINE-355,Bug,&quot;mvn version:set&quot; seems not working as expected,CI/CD,Major,100
+4f5e01c4b475b1657504b6dc9390f869502f5459,SUBMARINE-356,Bug,ParameterProto should support getOptionValue method,Backend Server,Major,100
+09d4826fb6c761d04a634f206a581b248a7c4acc,SUBMARINE-346,Improvement,Refine the mini-submarine document,Doc,Major,100
+a6b730e3b602cb456e1185b46bd66439b14ec107,SUBMARINE-343,Improvement,Update HowToRun.md due to new docker images,Cloud-native Deployment,Major,100
+3ea8a9f1203f553c334751a646b26eeb9ae48c48,SUBMARINE-347,Improvement,Fix the job spec parser issue and refine the TF job on K8s document,Doc,Major,100
+5c134361f7159e8851ead4bdf6ee2b953a69632d,SUBMARINE-348,Sub-task,submarine cloud module supports mvn command,Cloud-native Deployment,Major,100
+4f0e696eccf6ab0319eec0c098de6e417b40465d,/,/,    Exclude workbench-web-ng/dist and node_modules in source distribution,/,/,100
+e8d6727b9a00f3c8a157a935e7cf5dde465814e0,SUBMARINE-338,Bug,Enable integration tests in travis,E2E Test,Major,99.33774834
+85e066dd2c5d659ba66b70703225f6cd1c99e266,SUBMARINE-336,Sub-task,PyTorch example in mini-submarine,,Trivial,100
+4f5f5456edae3b724fc5cab4a925dc080566162d,SUBMARINE-335,Bug,Add a guide of yarn runtime with docker containers,,Major,100
+f49c41621d16a3e2982fe53836d14a3c8853009f,SUBMARINE-333,Sub-task,Docs of submarine server deployment,Doc,Major,100
+c864c4dd208c3f4b37afe1962a9883026326d3ea,/,/,    [Submarine-339] Separate SubmarineConfVars from SubmarineConfiguration,/,/,99.46666667
+91c1dc41d4f35f7d54d25f24d38350b12bb528bf,SUBMARINE-341,Sub-task,Add submarine server dockerfile,Cloud-native Deployment,Major,100
+61340cda4b05071a44896116f08ee7cf0938b8df,SUBMARINE-340,Sub-task,Add submarine database dockerfile,Cloud-native Deployment,Major,100
+74cf91e9db8845d723c1a9df7990ca15484e2d1d,SUBMARINE-308,Sub-task,Support PyTorch with TonY runtime,Doc,Major,99.73351099
+b9be4309ee0439b24d9a54b11b99ffe2ef777d2a,/,/,    Submarine-334. Update the E2E test framework for workbench-ng,/,/,99.86702128
+3d815f46962405ad888eb7c8bf61a1c380d99bce,SUBMARINE-332,Sub-task,Fix submarine server database connection failure,Backend Server,Major,100
+7576a5e300b4659c3a8a36c035e125d7a5c7f44e,SUBMARINE-330,Sub-task,Pack the k8s submitter libs into lib/submitter/k8s,Build,Major,98.18067754
+1eb3fcb376605f49db658e436c123eca3c829d11,SUBMARINE-331,Sub-task,Update mini-submarine&apos;s workbench-ng,Mini Submarine,Major,100
+6f0b152f3fb4d17f751be1e8b6ecd625a3e27203,SUBMARINE-326,Sub-task,Hook REST and JobManager to accept TFJob,Backend Server,Major,98.86159377
+c545a80331588cf418ab2a30e78b4a6991323b4e,SUBMARINE-329,Sub-task,Workbench-web-ng support mvn compile,Workbench Web,Major,100
+546c5dcaddf51b075e5bf27414a41371000fe6b9,SUBMARINE-328,Bug,Submarine server can&apos;t handle http request,,Major,100
+7e5fb05e1eb3489e614cffae5c62827e2143df94,SUBMARINE-322,Improvement,Add yarn runtime examples in installation guide,TonY,Major,100
+a539fb968ab2b587c85b1983da2fe84b47beeeed,SUBMARINE-327,Sub-task,Fix unchecked call &apos;result&lt;T&gt;&apos; when used JsonResponse.Builder build response,Backend Server,Major,100
+6f2700f09abb0eafd207c1ddcc0652067cd98ebf,SUBMARINE-321,Sub-task,Add JobManager and SubmitterManager components,Backend Server,Major,96.875
+cf22db0982e11a587af47bf57e3c7a07bca78254,SUBMARINE-324,Sub-task,Submarine cluster status RESTful,Commons,Major,97.28506787
+145dd2262695e8262b05249e0b74009570387d70,SUBMARINE-309,Improvement,Make yarn service configuraiton optional in installation guide,YARN-native-service,Critical,100
+fc7e722da84fe6a7f0a195ed6f080fdd410b1931,SUBMARINE-319,Sub-task,kind-cluster-build.sh doesn&apos;t invoke installed kind,Cloud-native Deployment,Major,100
+07ef2558752a6cb12eebb28c3fb49a5298b65ec5,SUBMARINE-316,Sub-task,Support listen k8s event in submarine operator,Cloud-native Deployment,Major,100
+239db3abed54a98516a70a4b95145bdb3df192c9,SUBMARINE-318,Sub-task,create REST API for Metadata services,Backend Server,Minor,99.6763754
+bdaf829db77f390f58b5824714acacf3b36d18d8,SUBMARINE-68,Improvement,Add tests to FileSystemOperations class,,Minor,98.1314433
+855c010715db8b2521535f597fc8d88014df150a,SUBMARINE-251,Sub-task,Submarine operator framework initialization,Workbench,Major,100
+e1c70bde8a9b0f378d19292f5b3dbe93d209e5c8,SUBMARINE-315,Bug,Fix run_submarine_mnist_tony_rpc.sh run error ,,Major,100
+ec4ba2b0b15cc6359a12dacc5a325716eda528bc,SUBMARINE-317,Bug,Modify github repo desc,,Major,100
+0b26558e88e9730f725e278d11b86bbd5ca11856,SUBMARINE-314,Sub-task,Creating a k8s environment locally using kind,Cloud-native Deployment,Major,100
+89f1d7fa80da2ea8ccf327049ef23dd6abf96471,SUBMARINE-312,Improvement,Change submarine github repo description,,Major,100
+5087b9226c91f929e03603635fedae3b2edc06c3,SUBMARINE-311,Improvement,Enable issues in submarine github repo,,Major,100
+45bf826104ccf0b065d7b2c981b1b55ddddedb4a,SUBMARINE-303,Improvement,Submarine cllient submit job to submarine server by grpc,,Major,96.06081548
+d394781a2c7d427615fb9886a9a8ebe1bcbb96e1,SUBMARINE-283,Sub-task,Metadata access services,,Major,99.6985682
+6a3b701e992dca4722edc112b4320952f0114266,SUBMARINE-289,New Feature,Add the distributed applications case about Kaldi  on Submarine,Doc,Major,100
+c5b6665ad7cb8e9eea82fc63b311bf71a9315682,SUBMARINE-306,Improvement,Improve the step of building the image of mini-submarine,Mini Submarine,Minor,100
+f82ca811c73882533fa5c9851cac74387b08395e,SUBMARINE-69,Improvement,Add tests to ZipUtilities class,,Minor,99.69765684
+9d753323d3944d0160fa86eb464b87affbfd52dd,SUBMARINE-305,Test,Rename test classes in submitter-yarnservice to conform Code style,Backend Server,Trivial,94.30132709
+678042a7603d77bece7b6f544d5ea86f297adca1,SUBMARINE-301,Improvement,Tony default hadoop version is not compatible with submarine,,Major,100
+510bfefe2e841117c52376e450cfcf3774b9c9b6,SUBMARINE-60,Improvement,Remove stubServiceClient from YarnServiceUtils,,Major,100
+6cd62e333432e2352e337db819e15e60f84145df,SUBMARINE-277,New Feature,Support Spark Interpreter,Workbench Interpreter,Major,99.10569106
+01df6c18cf076d91273d797e6d3ccd95e91bb7b6,SUBMARINE-288,Improvement,Set special users to have root privileges,Backend Server,Major,100
+a3ebce18da951e69045dd54014beb1c93b13a4a0,SUBMARINE-174,Sub-task,Add travis support for K8s submitter,Backend Server,Major,99.75429975
+1b45252ff1a6f294686e2132c0b05122c6691b88,SUBMARINE-298,Bug,Fix travis build workbench-web failed caused by npm registry,Workbench Web,Major,100
+5d540e993d52c42a668dbbe7a46dc7a32cbe5e98,SUBMARINE-297,Bug,Using the specify maven version in travis build system,,Critical,100
+35f4f74ccbcd08cbd7e8788536080109d1713554,SUBMARINE-215,Sub-task,Fix failed to load class org.slf4j.impl.StaticLoggerBinder in submitter-k8s,,Major,100
+4374f2034ed0dadb7755a942eec522fc322cf569,SUBMARINE-293,Sub-task,Refactoring submarine server rest test framework,,Major,95.599022
+64ecfe9ae7227656c964e9e2ab1122a8c00b7759,SUBMARINE-295,Improvement,Modify mysql database submarineDB to submarine,,Major,100
+0030a1b71ca600e64df8eea746eb259e65151a01,SUBMARINE-294,Sub-task,Unified submarine jar package name prefix,,Major,100
+51192a8f50d99249fdf3847b8f766e2effa0dcc7,SUBMARINE-292,Sub-task,Merge workbench-server into submarine server,Workbench,Major,74.18096724
+aae0380151f79c7e93f8a05ab1b979d3c4c5ef9b,SUBMARINE-66,Improvement,Improve TF config env JSON generator + tests,,Major,99.2486852
+7a04419a96e403548326a58c16f98184f496492e,SUBMARINE-276,Sub-task,Submarine runtime class config should be defined in the new configuration class,TonY,Major,99.69992498
+02c070a41d4af0027249e5ddf09642d0e0d492fe,SUBMARINE-267,Sub-task, Initial job server which defines simple job spec and REST skelon.,,Major,90.25356577
+44e91ddf07b5b05e0428634e6fac4e12e8b0de06,SUBMARINE-290,Bug,Update submainre DEFAULT_RUNTIME_CLASS,,Major,100
+d2045ce9e484c51da270f57b1bf7fc98c187c522,SUBMARINE-67,Improvement,Add tests to Localizer class,,Minor,99.7470489
+17e8ebc0f526f1c0e113d7a9311ce53bf333a832,SUBMARINE-214,Sub-task,[WIP] Add submitter-k8s module,Backend Server,Major,98.54327335
+4e7571f164274a5e3f78f183d011768e8536fd1f,SUBMARINE-257,Sub-task,[WEB] Submarine web user manager page with angular,Workbench Web,Major,100
+9857b703e5d89cafb39f1f0ce863578f27703523,SUBMARINE-277,New Feature,Support Spark Interpreter,Workbench Interpreter,Major,99.56331878
+7d0f4546a4d9904dc6c2690e575113aadb14ea6a,SUBMARINE-286,New Feature,Add documentation of Submarine E2E Tesk Framework ,,Major,100
+a7d8af68ec1830bd41b6811847b076d140dc2828,/,/,    Hotfix enabled squash merge buttons,/,/,100
+27fef4e264bab26aa07b12f9aba8fa5bea88db2c,/,/,    Hotfix show repo label,/,/,100
+8eb6d4fec077bb6f369005e20995107b70887acb,/,/,    Hotfix disable merge/rebase button,/,/,100
+3cb9f2ad4cda32c08680cafdb06f3f33c3e4b85f,/,/,    Hotfix update .asf.yaml,/,/,100
+14a6b1da6c9e9f32a0a9a3b6fa339d39f5ecc8c9,SUBMARINE-284,Bug,Method invocation `SqlSession#close` may produce NPE in workbench REST API,Workbench,Major,100
+887cacad699884518450a14033af30eaa3d49710,SUBMARINE-285,Sub-task,Add .asf.yaml to submarine repo,,Major,100
+9bfe4b74c3da3678c882a46052efb4d5f1462d2e,SUBMARINE-278,Sub-task,Add commons-metastore module,Commons,Major,99.82425308
+8d0dfc5c3f277f759e629196ab3b83f2bda1f35b,SUBMARINE-273,Bug,Tony-mini compile error. Update &quot;BuildFromCode.md&quot;,,Trivial,100
+8a8d000a87bf94e2598ae12ecc5fcac0b0a47c10,SUBMARINE-189,Sub-task,[WIP] Add submarine server architecture doc,Backend Server,Major,100
+4b756f2de54a7da0f680944be284aef4af3f8b40,SUBMARINE-269,Task,Update Docs After Spin-off,Doc,Major,100
+ab8e081e80dee6a7650b897ac4b58c280a783924,SUBMARINE-272,Improvement,Modules build order is incorrect ,,Major,100
+96e99bae3a22415d1360800b02a22b0d1636ae89,SUBMARINE-268,Improvement,Unify all test class file name with &quot;*Test&quot; pattern,,Minor,95.1320132
+dbbf6ca7df83698e52ebb3fb1d26dfa763bd9a43,/,/,    Bump mixin-deep from 1.3.1 to 1.3.2 in /submarine-workbench/workbench-web,/,/,100
+595e0e4f7d3097acf2917e01abd227d241334923,/,/,    Bump nimbus-jose-jwt from 4.41.1 to 7.9,/,/,100
+42d992ede7bf12b99b4949ee19b58cf59f7fdd34,/,/,    Bump eslint-utils from 1.3.1 to 1.4.3 in /submarine-workbench/workbench-web,/,/,100
+0dbe00ec31d2505fa38c9746d4d8ee7600cd1d2d,SUBMARINE-265,Bug,Change hadoop-submarine to submarine in the repo,,Blocker,100
+b12ca6780bc57d96abcdad38b01cce0a591a4b78,SUBMARINE-264,Improvement,Delete unused libthrift dependency,Commons,Major,99.68944099
+2353de20d8c594ed2996203e5d36922cbda4974c,SUBMARINE-263,Improvement,Document grammar improvement,Commons,Minor,100
+f51a30a43c7a6cc23cc3fccf6893c34e2f75fc77,SUBMARINE-180,New Feature,[Umbrella] Submarine E2E Test Framework,E2E Test,Major,99.05956113
+2ba8fd783935974befc6c1ee143d4e936943079c,SUBMARINE-262,Bug,Two different version of commons-io in pom.xml,Commons,Major,100
+9e1d1c0cb0cbfc17a31533e3c36cec5673363186,SUBMARINE-260,Improvement,Remove submarine.version properties define in pom.xml,,Major,100
+db8998bd70ed908d3b9ea3d54210db03aa37c5f4,SUBMARINE-236,Sub-task,[SERVER] JGit demo,,Major,99.44311854
+ebad135c1e44bc75f76c41fbaaeece87ed65d144,SUBMARINE-255,Sub-task,[PoC] Rename the submitter package name,Backend Server,Major,76.21753247
+0ed88ff6ba9940ffc865e4b7e9b9146cf0e1efda,SUBMARINE-256,Sub-task,Interpreter support cluster mode,Workbench Interpreter,Major,98.8420182
+186a8dcf291c41eea4d65e05a846957872d8241f,SUBMARINE-254,Sub-task,Workbench server support cluster mode,Workbench Server,Major,99.25249169
+15c18b004aab4376107d3830b85f969c91d25ef9,SUBMARINE-241,Sub-task,Add submarine web user module with angular,Workbench Web,Major,100
+bc1c2b48f825997632877bcd34ed22eaf78965b1,SUBMARINE-248,New Feature,Add websocket interface to submarine workbench server,,Major,97.88494078
+399adc1b4d734fcb636caef5d310034cdd41f8e7,SUBMARINE-213,Sub-task,[SDK] Add pysubmarine-tracking example in mini-submarine,,Minor,100
+d9118a4f25a62eeaa8a2bc195a81530317d002f6,SUBMARINE-246,Sub-task,Submarine cluster server module,Commons,Major,95.7771788
+28303effe989397587978cde49f3c12ae7a10704,SUBMARINE-249,Sub-task,Submarine commons utils module,Commons,Major,99.62476548
+3249ef70a2cb313c2cf5c8a3deb27e348964e791,SUBMARINE-247,Improvement,Add test cases for Python Interpreter,Workbench Interpreter,Major,100
+6816b31ee3cdb019c8485e95e918198b204a25ca,SUBMARINE-235,Sub-task,[Interpreter] Submarine Python Interpreter,Workbench Interpreter,Major,98.86148008
+90284bde3be5e05f44f4efd2f560c70132fe8646,SUBMARINE-172,Sub-task,[PoC] Split the core module to client and server module,,Major,46.09665428
+5b539ad32d1dedf1e57575d161463a63d50fcea6,SUBMARINE-243,Bug,Workbench failed to save project,,Major,100
+be4041014abe17650e73251eda11485144dc362e,SUBMARINE-239,Improvement,Submarine cicd docker support Environmental variable,,Major,100
+aa669fd3deef0222d366b187724e553cf4fa40fa,SUBMARINE-234,Bug,Add submarine-data.sql to the doc for database,,Major,100
+16a9137b10956708dc45472219b14747b77523f1,SUBMARINE-238,Bug,Failed to start submarine server use workbench-daemon.sh,Mini Submarine,Major,100
+8a2088ff10189f71c76646ff7b7e88092bf77b64,SUBMARINE-237,Bug,workbench-daemon.sh script return wrong status of workbench,Mini Submarine,Minor,100
+8b74630166d81efbab9092472a8961485ad5c8b9,SUBMARINE-220,Improvement,Update dependency,,Major,100
+6506ef8832e628b70755bf6b898ae26e0256304c,SUBMARINE-229,Bug,Submarine-cicd failed due to the encoding error of github PR body,,Major,100
+cc6b1882c56ac2af3ad7ba7e604d5a9b57f04cb4,SUBMARINE-221,Bug,Update submarine version to 0.3.0-SNAPSHOT in mini-submarine,,Major,100
+36d8c78383bf953849e4dd0062085dd3de420253,SUBMARINE-216,Sub-task,[WORKBENCH] Integrated workbench add project web &amp; server,Workbench,Major,99.729973
+7f4a6880d345941c970e434b777cecad0496bf04,SUBMARINE-228,Bug,[hotfix] Fixed development document image error,,Major,100
+d3bd5c9f322aed6de73d24947573b01290c866b1,SUBMARINE-218,Improvement,Update hadoop-3.2 profile to use hadoop 3.2.1,,Major,100
+bcb870fd0eeb4f7f0709fd30070ad9a0ff3278b5,SUBMARINE-222,Improvement,Use virtual Python env in CICD image to ensure the merge script to work better,,Major,100
+e6519d97df18736654298796acc0f5be7e4c28ab,SUBMARINE-212,Sub-task,[SDK] Update pysubmarine-tracking doc,,Minor,100
+273691339725351fee9a7887a200fd2ea4928082,SUBMARINE-217,Sub-task,[DOC] Add submarine workbench introduction document,Workbench,Major,100
+0da38f5e4d0a4fd434ef33be7658cc9ce4136936,SUBMARINE-205,Sub-task,[SERVER] Modify license format,,Minor,100
+e17397caaef792f930447e7361aeea65550aeac5,SUBMARINE-211,Sub-task,[WORKBENCH] Integrated Submarine workbench team manager web &amp; server,Workbench,Major,100
+c8f1fa9d0c51622567ee4eec2548bd96c351f2d2,SUBMARINE-209,New Feature,Run workbench server in mini submarine,,Major,100
+967b18d574ec2ef4c2c59b9d717f880fce06d51d,SUBMARINE-207,Bug,Exclude mysql jdbc jar from the path of workbench/lib,,Major,100
+7e38b4e69835127d763452a450e1b058e9f77c79,SUBMARINE-104,Improvement,YARN application type should set SUBMARINE,,Major,95.55984556
+634e4f9bfa842aca771fa6aa857e21e8378a594d,SUBMARINE-208,Task,Add Architecture and Requirement Doc,,Major,100
+300648df4241d69590404f4de6f4d8f0d8acad89,SUBMARINE-206,Bug,Allows you to add a properties file,,Major,100
+8cfe9f79f67b3f0a607e64bcea09e9a92d79cb0b,SUBMARINE-204,Sub-task,[SERVER] Optimize the tryResourceClose,,Minor,100
+d2d6769598fb9af7813a5eecc782f74e4d3cd445,SUBMARINE-210,Bug,Link to the Submarine installer is missing,,Major,100
+e34a7ee8a28752b532156c40287ba7de26b485ab,SUBMARINE-149,Sub-task,[SDK] Add submarine-sdk module,,Major,100
+80a17dd17bbc96d77ece21e853d4c863b3554e56,SUBMARINE-210,Bug,Link to the Submarine installer is missing,,Major,100
+4f82ff18cb0093b91d823e1c8feb94898f3b9f2d,SUBMARINE-199,Improvement,Add instructions for working with CICD via python script,,Major,100
+dc3e5a7fc4ecddfb9e31777e86c37c0acf0754e4,/,/,    [Submarine 203] [SERVER] Submarine project manager TeamRestApi bug fix,/,/,99.79123173
+5053e66dc51b06ff70599fa53675786712c9b42a,SUBMARINE-192,Sub-task,[SERVER] Submarine workbench server daemon shell script,,Major,99.58158996
+54c2d5cf78221bceab31ab829f0ee85afbc3002a,SUBMARINE-201,Sub-task,[WORKBENCH] Modify module name submairne-web\server to workbench-web\server,,Major,75.10288066
+6ab4dbad432517a7215ed89d5f6cfa1a753cb377,SUBMARINE-200,Sub-task,[SERVER] Submarine project manager ProjectRestApi,,Major,98.1443299
+44a6ecd26d792195a32dbbd1b667005845355690,SUBMARINE-193,Sub-task,[WEB] Add submarine-web/server to submarine-dist,,Major,100
+6bab25e45b207332f3dc3aaba03ebba4e04a9d5e,SUBMARINE-177,Sub-task,Replace mysql-driver in the submarine-service with derby-driver,,Major,100
+f81f11a48753fbfc448f2ec351ce43cdce6e8c16,SUBMARINE-198,Sub-task,Update tony submodule to support MXNet,TonY,Major,100
+553f4c167bb004b734c3eec62a07c0a6e221b6c6,SUBMARINE-181,Sub-task,[WORKBENCH SERVER] Submarine workbench server team manager TeamRestApi,,Major,97.31471536
+80c65625c67aba9c11e86e8112320edb944e81d5,SUBMARINE-197,Improvement,Add license to cicd build script,,Major,100
+193321ad823a4eaf503a3fec8f67bf5e13499693,SUBMARINE-196,Improvement,Add a script for building the CICD image,,Major,100
+4b8e588e651c8ddc382d43a762998bfcc5e53687,SUBMARINE-195,Bug,Fix the incorrect project name in merge_submarine_pr.py,,Major,100
+e161000310763fc61bbfddaa52b46a54872cc0fd,SUBMARINE-194,Improvement,Provide Dockerfile to ease the script usage like merge_submarine_pr.py,,Major,100
+92de1807695ac4b8b8353db66645eefed7d1ee55,SUBMARINE-185,Improvement,[DOC] Add how to contribution docs,,Major,100
+6c9e181d43e752db808200297f4d084f8bcad62d,SUBMARINE-191,Improvement,Add a script to ease merge PR without access Github WebUI,,Major,100
+a44014c0af068fb9d87fc6184ab82af0fc0c5ddf,SUBMARINE-190,Sub-task,[build_mini-submarine.sh] update spark version to 2.4.4,,Trivial,100
+26b4614deb6adddacd4f1a4fc10b5ff050ae90ed,SUBMARINE-168,Sub-task,[WEB] Submarine workspace/create project webpage,Workbench,Major,100
+17dff5e593fcbc7f7e894f67e63bdc43eaf0b3a6,SUBMARINE-183,Sub-task,Build source code distribution,,Major,100
+96c8fb3dd475e591fa894fd48cd1c6cb73962af7,SUBMARINE-182,Sub-task,[WORKBENCH SERVER] Refactoring QueryResult class,,Major,97.9143798
+c7bb026cf0ff1413ab7e40317bf9267ebb134860,/,/,    [SUBMAREIN-170] Submarine team manager web page (#68),/,/,99.22651934
+913a47005b9c818a54a71c1b9a435b06283e4cac,SUBMARINE-179,Sub-task,[SERVER] add log4j.propertie files,,Minor,100
+d3b59cd90808117469d786d03466fbb2ae6c0416,/,/,    [Submarine 169] Revisit license and notice (#67),/,/,100
+030fc25ca552d2127c95820eaf2d305217164e73,SUBMARINE-176,Bug,[DOC] Fix the typo and error links,,Major,100
+d0d61873bc590c3256e5af11fad095804ccd1bb5,/,/,    [SUBMAREIN-175] Search Select Component (#65),/,/,97.73462783
+cb135a0e2437f2b2fbf1ae6967f2c6331856b6b4,SUBMARINE-171,Bug,Failed to execute mvn site command,,Major,100
+d6df55a03789c7be0a60f44f04d7771ce73a3d69,SUBMARINE-166,Sub-task,[WORKBENCH] Adjust submarine-workbench module structure,,Major,80.72417465
+a39781679ffbf00e23611cd866eb587afc57340c,/,/,    [Hotfix] fix submarine-web get user info url error,/,/,100
+e07296b4fa930ad9cc9370d5fcbfb9472cabe8b8,SUBMARINE-161,Bug,Add compilation and tests for hadoop3.1  hadoop3.2 in Travis,,Major,100
+997e6accfe8be33f9fed5da0a23f8c9ce8d9406c,SUBMARINE-155,Sub-task,[Server] Submarine workbench server user manager,,Major,97.13983051
+cae92e7ac6606149a18c0398e8696b083c29f336,SUBMARINE-158,Sub-task,[WEB] Dict Select Component,,Major,98.83474576
+7c2a2115ce458a572536d6de70ea067ca7c3492c,SUBMARINE-157,Bug,Jackson dependencies are missing in submarine-all,,Major,100
+dd18a7c25190b085947f5744f6ebe480b7a9a825,SUBMARINE-156,Sub-task,[DB] Automatically translate dictionary code in query results,,Major,96.80365297
+ec8ae3662f8da413639eb6ccca22201c92dd9b06,SUBMARINE-145,Sub-task,[WEB] Submarine web department manager page,,Major,97.78869779
+32e72219b14a2f16db8da9634325a150665179de,SUBMARINE-153,Bug,Enable mini-submarine remote debugging with submodule tony,,Major,100
+632cbeafd56dfd342ab86dbdba1025646f19a15f,SUBMARINE-152,Sub-task,[DB] Automatically switch databases during unit testing,,Major,100
+7f6e7c5dcbe8581e68a7481cdc16da27edb603e8,SUBMARINE-137,Improvement,Introducing linked tony via submodule,,Major,70.70979335
+e8eee37375e81fe41e18943d64ff0a86fec81223,/,/,    [hotfix] Add Submarine Project Database Guide to doc list,/,/,100
+e9027b9a9fb432cbb88dea9e40adfd487ddc281b,/,/,    [hotfix] Submarine doc link error. (#52),/,/,100
+14c25c73d8f22d6736066dd624bbf17688ec79a8,SUBMARINE-146,Sub-task,[Doc] Add Submarine Project Development Guide,,Major,100
+0f269b457bf8228ed726aa81ad5cd48d64a02f9b,SUBMARINE-144,Sub-task,[SERVER] Submarine workbench server dict Items manager via database,,Major,98.72971066
+c1db2bada95d2d3a5cdbdd6628feee9105e42da1,SUBMARINE-140,Sub-task,[SERVER] Submarine workbench server dict manager via database,,Major,98.63505747
+e592f5a0a919b8b455768cd6af63bdb160082ec9,SUBMARINE-143,Sub-task,[REST] Provide Json Response interface,,Major,99.41690962
+61b94eecebd0104f57f70c72fe544477ca4c8b2d,/,/,    Remove the redundant word from the 'why section' (#47),/,/,100
+58ad07cd8bf8b9ccc44878377608b43dbbcdfce0,/,/,    Add the part of Why does this fork exist in README,/,/,100
+3a475f802f5556d759a6ebe58f6d7b6be26c4b81,SUBMARINE-141,Sub-task,[DB] Mybatis support paging query,,Major,100
+603900124921b5bf74f6fdb8cee1a02399203200,SUBMARINE-139,Sub-task,[WEB] Submarine web add Dict manager page,,Major,99.63369963
+e9443cfed9c9fcb524854218a50adf9f379e1c4e,SUBMARINE-138,Sub-task,[WEB] Submarine web user manager page,,Major,100
+87e49dbd7307414169d55f6de0aceb5bbe2acee4,SUBMARINE-134,Sub-task,[DB] Travis add mysql test environment,,Major,99.77973568
+dabbaa028de6a024ffbe55511fe97fc64df7b442,SUBMARINE-97,Improvement,Connect to the mini-submarine for remote debugging,,Major,100
+ed75bfd0a78d46803023e82a38e4fecbe3ff4d86,SUBMARINE-136,Sub-task,[SERVER] Submarine workbench server user login via database,,Major,99.26035503
+23ad1f91943191fce529f87bb49c7d0dc0e3ac9b,SUBMARINE-135,Sub-task,[DB] Access the database via mybatis,,Major,99.8509687
+cfd4e83d24eff3a98d7df710a9b9be98fa0d22fa,SUBMARINE-126,Task,Reorginize the documentation of mini-submarine,,Major,100
+7a26bbb0d747f98842542c9c06ec20cc54c3cbf4,SUBMARINE-129,Sub-task,[REST] Submarine server get user info,,Major,98.56169569
+adb118e61a8c527847147a947794cecdbbcb3b6b,SUBMARINE-130,Sub-task,[WEB] Submarine web change router mode from `history` to `hash`,,Major,100
+60e82e178bd744a830d5cdbdd09d7cc392c413f5,SUBMARINE-128,Sub-task,[REST] Submarine server user login,,Major,99.30394432
+4d569ae95e9c36b4f432efd9c2b1c76a382cd781,SUBMARINE-127,Sub-task,[REST] Submarine rest server Framework,,Major,99.60906959
+c4040319ac604f03089bbd32bee16c64613c3921,SUBMARINE-124,Sub-task,[WEB] Submarine web war package,,Major,100
+d5b7085e0212ea602af94da194781db8cd03641a,SUBMARINE-125,Task,Mini-submarine failed to run mnist job due to lack of access to data url,,Major,100
+b43c6617cac0bda5099d25605355b783c33d6990,SUBMARINE-123,Bug,Move the directory `_tools` to `dev-support`,,Major,100
+e2111017a185e519ff2073a03022a0ea5a9e3e46,SUBMARINE-122,Bug,Fixed package name `org.apache.hadoop` error in the documentation,Doc,Major,100
+1d5f2e75a8b3867bd4341758495861ffa48ea809,SUBMARINE-121,Bug,AL header check for log.svg causes Travis to fail,,Major,100
+cc6651e226434d5194dd27a720de7e58c3f87e4b,SUBMARINE-120,Bug,Wrong parent.artifactId name in yarnservice-runtime,,Major,100
+c87b0d2a1bc1b6986ea655a7f6da8c7438b54dcc,SUBMARINE-119,Task,Add submarine installer to dev support,,Major,100
+4a6fe5ce85d79fdd5d9791dc8d963069a2592056,SUBMARINE-117,Improvement,Organize project documents @ Aug 11  2019,,Major,100
+719dfda7314ca393c27541dbd0e4c548e1f5104c,SUBMARINE-118,Improvement,Modify `submarine-dev-docker-image` to `mini-submarine`,,Major,100
+3eb31caa89d83e76ae83e533eda29349f987d0d9,SUBMARINE-114,Sub-task,[WEB] Submarine web Data/Create New Table page,,Major,100
+35bfbbd03d9843255afd790bef08c8b842712647,SUBMARINE-112,Sub-task,[WEB] Submarine web Data page,,Major,100
+1ba1cde784df644cb821d62ce7b575fdca9e3ad0,SUBMARINE-111,Sub-task,[WEB] Submarine web Job page,,Major,100
+053002748f6aefd1b15a2dbe14f61cf6b65986f7,SUBMARINE-110,Sub-task,[WEB] Submarine web Actuator page,,Major,100
+8523183a31ab02be8acdf38e95a2a08fb00a8cc0,SUBMARINE-106,Sub-task,[WEB] Submarine web workspace/project page,,Major,100
+0f364aacdf0bef23eac2006c5ef756abba1468a7,SUBMARINE-109,Sub-task,[WEB] Submarine LOGO &amp; PageHead &amp; PageFooter,,Major,100
+6349d66f2c399d963e30768423e8aaf477e1c5cd,SUBMARINE-102,Sub-task,[WEB] Submarine web home page,,Major,100
+44509b54c1a47015fd65d5c475b4f04fa6cd9805,SUBMARINE-100,Bug,Error constructing docker command  docker error code=14  error message=&apos;Invalid docker read-write mount&apos;,,Major,100
+bb4025742606c6abea85fbf99cffec5c3a2a2750,SUBMARINE-101,Sub-task,[WEB] Submarine web login page,,Major,100
+45caf2683b85d96c9764ed34934f7a5b1059ca39,SUBMARINE-99,Sub-task,[WEB] Init Submarine Web Framework,Workbench Web,Major,100
+de58f820a75697f31bfa7af7a16b3904c9336653,/,/,    Add executable permissions (#16),/,/,100
+404d546aeea35c208c808e731f4e603a30e85205,/,/,    Optimising the build_submarine_dev_env.sh (#14),/,/,100
+fd5075da09b8b5a5831425d95aefef37a305ba99,/,/,    Add .DS_Store into .gitignore. #12 (#13),/,/,100
+ce9855ca52965f825f4a7c980c21b9a9ed057f24,/,/,    Rename README to README.md,/,/,100
+ccc04a243fc1bb9d4ef3a7dc003fab1a3bfc0c3e,SUBMARINE-96,Improvement,Manually update the submarine package file in the hadoop submarine docker container,,Major,100
+2b6c24f38287870c821d14b9911fa38871faadb6,/,/,    Add a Dockerfile and the related scripts for submarine dev and beginner (#9),/,/,100
+2339e87f3cbccbac31c4b008a5d2c6fb2a16d8eb,/,/,    Fix Test case cannot pass #5 (#8),/,/,100
+c022e366762b39b7d6af6690350cfe4e5257eec9,SUBMARINE-93,Improvement,Add github ISSUE_TEMPLATE,,Major,100
+a2890b95e74c8fbd47a2ec4494588daa76e1b059,SUBMARINE-92,Sub-task,Travis support  -Phadoop-2.7 &amp;  -Phadoop-2.9,,Major,100
+24ff255fd74402cb6a4102796343a75fd6f2bced,SUBMARINE-91,Improvement,Integrated travis CI,,Major,100
+00958f1989e48083a38b3b6ff2c9deb79855b681,/,/,    Change checkstyle.xml LineLength from 120 to 110.,/,/,100
+fd45f35cadbfa3ebb17020546824a15f3b86e067,/,/,    Specification of the dependency package version number in the POM file,/,/,100
+527cc70a23a358836927a8f74202d0261ead2751,/,/,    Add maven-enforcer-plugin,/,/,96.74922601
+df7a4ed43d758bdba857b3205f2eeba19916946c,/,/,    Add checkstyle-plugin,/,/,97.70114943
+4b228ba7531983f6005286deaed979d671b12d37,/,/,    Move Tony README.md To submarine-tony,/,/,100
+105bcc08b9199da748333c3852c82458982bc919,/,/,    Change `com.linkedin.tony` To `org.apache.submarine.tony`,/,/,65.39050536
+61496230585836b9d9368d0c2609b6a5bfe34e8f,/,/,    Merge Tony in Submarine,/,/,39.34262948
+1821f3fde83b99f0aeb9ec2b6f4c631de073f36c,/,/,    Change `org.apache.hadoop.yarn.submarine.*` to `org.apache.submarine.*`,/,/,22.40437158

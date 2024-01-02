@@ -1,0 +1,845 @@
+a847c13a29e545524420bde68e186a8a1b913acf,OLTU-215,Dependency upgrade,Upgrade to Java 8,general,Major,100
+778c47e2ba3bdd34f06d76e14c9f50d930a941e7,OLTU-209,Improvement,remove org.json,commons-json,Major,100
+800a2aaa83db383896a05511a472cb8585804a00,/,/,    updated copyright year,/,/,100
+6b93bf80d92cade8826e75e4525e6a57ec41c71a,OLTU-205,Bug,JSON token response incorrect  google token has a unexpected format,oauth2-common,Major,100
+abca6bd23ba9e448479199126a3a7436c58c9a8b,OLTU-205,Bug,JSON token response incorrect  google token has a unexpected format,oauth2-common,Major,100
+b2d427c68264368c273ad7e5765a64852376285b,OLTU-197,Bug,OAuthFilter looks for oauth.rs.provider-class init parameter in wrong place,oauth2-resourceserver-filter,Major,100
+205b9eae4b86785166dd279556f95ff46bf18fff,OLTU-202,Improvement,Add possibility to use OAuthClient behind proxy,oauth2-client,Major,100
+2d37dbaae654415187d1a08c8561fd4de72c5ee6,OLTU-214,Bug,The Facebook client demo flow is broken,demo-client,Major,100
+37de1733ce8dd4b64dcf8866b2c6eb9bb15ec956,OLTU-209,Improvement,remove org.json,commons-json,Major,100
+09ce2154c69f6952a948fea77623554296413caf,OLTU-209,Improvement,remove org.json,commons-json,Major,100
+8542de34111d2fdef8e0b891eabe096bae5608c0,/,/,    add svn ignore,/,/,100
+76fb9c00f244be7eacd178d94b445aaf6f9cb329,/,/,    Bumb version of jwt module after release,/,/,100
+ba23bc9f9d2642acbbfaaf807db663daf71a13f0,/,/,    @releng increase development version number,/,/,100
+ffe18290a2e8744f17f83ea0dc42440e0e29b51a,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.oauth2.jwt-1.0.3,/,/,100
+e398ff693a66748e639ae58aa1432d2597ab0e82,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.jwt-1.0.3,/,/,100
+5a8c9491433de19d48905e91e2554a465d4a72ef,/,/,    @releng no snapshot dependencies in intermediate releases,/,/,100
+1634a76b8f5f6ee30d2b3d139d481d2d3f7e7701,/,/,    @releng: preparing JWT fix release as agreed in dev ML,/,/,100
+afa268414c8bb7fc3472364fb227a85565331a3b,OLTU-206,Bug,org.apache.oltu.oauth2 packages are exported twice,JWT,Minor,100
+fda5a0fa5a16416a5f727c658fe3ecfe50fec10e,OLTU-203,Bug,Extend client demo with more provider,demo-client,Major,100
+22287d00b6ea63b551f0279942b1d4d7f4a8b30e,OLTU-203,Bug,Extend client demo with more provider,demo-client,Major,100
+c09d79fc81e22346abe91d5464667f61d8ae433f,/,/,    Update parent to latest release,/,/,100
+9a082c94dbfce9fde3024ee6b30fb2ad7ffab645,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+bd69a35df7cf8ed1eaac77765393b3f074b50158,/,/,    [maven-release-plugin] prepare release org.apache.oltu.jose.parent-2,/,/,100
+f9693f44cde18fbede0f7d162ab08fc0a1c57524,/,/,    @releng updating dependencies to prepare next releases,/,/,100
+af16cb54ac6302e86211f6914ea42b0080a9d704,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+eaf7d3620c7db3c7f21db630d1178f2799f74782,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-2,/,/,100
+f080591de09bb14d215d9e12eb7cf7fb2a4b3376,/,/,    releng: update dependencies,/,/,100
+ec5d53b8e9f9d798079ab6014c8d5d24e86dc16d,OLTU-200,Bug,Wrong regex in TokenReader,oauth2-common,Major,98.25870647
+db3383120e57221086c5ff689231444d2c281beb,OLTU-201,Bug,Issue in JWS validation ,JWT,Major,100
+5d24a0dda6713135e0ec3e160d1a6e609290a017,OLTU-201,Bug,Issue in JWS validation ,JWT,Major,99.0228013
+cbc627a008b89e735a9c4501d19166e67408ddc2,OLTU-196,Bug,Type cast error in JWTClaimsSetParser,JWT,Major,100
+77d3a60e6a373332e6d5b24a01f7530e90dc1cd6,/,/,    Resolve dependencies after release,/,/,100
+101ff39fc4d84551d75ba3b9fb38aaf9d7caf251,/,/,    Update downloads page with latest releases,/,/,100
+07e4429f1beb4f3591fdd9556f80053010da5be8,OLTU-196,Bug,Type cast error in JWTClaimsSetParser,JWT,Major,100
+20689de4ad598ab8aba6c7cd92bb44e2e573b2e5,/,/,    update pmc list,/,/,100
+85a132c6e16058f25ddc95808bec54f13604a2bd,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+d7b4297278a2a8b669f6c2a0781eb7c285f57309,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-1.0.2,/,/,100
+f3f83ad90aafa43011a2a40885f23a56fc026a75,/,/,    added missing Apache License header,/,/,100
+d51e4abff96b427de15acbca099a14abd675ed84,/,/,    added missing Apache License header,/,/,100
+5ad421775a66ea3781d47b5ba2a9e33d63b8aef6,/,/,    org.apache.oltu.parent updated to v4,/,/,100
+9ed0e188c9e6f0e6237caf4457a35ee1a4b57f20,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+c01289ce92a8784386e73c7e52565538547f757c,/,/,    [maven-release-plugin] prepare release org.apache.oltu.parent-4,/,/,100
+c11613e8eeeeb256c7d239ccfbbf721d1d7d0720,OLTU-195,Bug,URLConnectionClient PUT body content,oauth2-client,Minor,100
+14a181734037219800277321cc158c82a01427a6,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+41e129c7199ac631e5dd9f0d14942d6fda25835a,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.17627677
+28e2276fcab55a3e4606eef70967cd41ca79cf7d,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,97.06129303
+5810a2454129ed8d1996dca9cd4387e6ca3747a3,OLTU-193,Improvement,Add examples for scope and resource endpoints in demo client,demo-client,Minor,100
+6e95312f9f43b6af75132eb5070c0c0242aded6c,OLTU-177,Bug,ConditionalTagSupport error on startup,demo-client,Minor,100
+4a75dce5a98b94e077e0f02abc6830bbaf4027ca,OLTU-59,Bug,Method isAuthorized() from OAuthDecision is not used in the OAuthFilter,oauth2-resourceserver-filter,Trivial,100
+a986b8df8ea8c6a67704ae2cfa9c230c2dca3a07,/,/,    Tommaso Teofili went Emeritus,/,/,100
+296f5099f1d81e2c68fbd1d92988815b2f87afdc,/,/,    junit.assert.* is deprecated  use org.junit.*,/,/,100
+9a0386b2080950a3e175661ec706de12da1cc1f9,OLTU-68,Bug,Add junit tests to OAuthUtilsTest.java,oauth2-common,Major,100
+88732d523c00f27a47b2a0b72bdcb6f69c88a94e,OLTU-68,Bug,Add junit tests to OAuthUtilsTest.java,oauth2-common,Major,100
+e6b738739d9a1ac48993f36d7bb7d814475a7f88,OLTU-12,Bug,[oauth2-resourceserver] resource access validation always fails if there is more than one parameter style defined,,Major,100
+bebe70a21a90c7fe7f98845c48a97addc2265571,OLTU-174,Bug,OAuthResourceResponse does not support binary response bodies,oauth2-client,Major,99.82993197
+380cdce8ffb027afe723935a3ee9c6aab8fe5263,OLTU-192,Bug,Bundle org.apache.oltu.openidconnect.client does not contain classes,openidconnect-common,Major,100
+59ee35337f3957748878c34650ecae0ab4593460,OLTU-173,Bug,getRefreshToken() in GitHubTokenResponse class retrieves the wrong parameter,oauth2-client,Major,100
+ea97a198ce62e561731060b06e6de7622970f41e,OLTU-29,Bug,OAuthAuthorizationResponseBuilder missing setTokenType,oauth2-authzserver,Major,96.79098005
+793714753f368a87f62fce6b5e52bb8e30f2b869,OLTU-191,Task,Get resource fails with NPE,oauth2-client,Major,99.64570416
+396cafc29fab3f611b343ea279e07c40b42d5ba8,OLTU-50,Bug,Improve the client demo in order to work with context root different than &apos;/&apos;,oauth2-client-demo,Minor,100
+bdd10e2f1e3cb66725a10a84c029f29a1daae39d,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+36155ad40ffdc0286e709f49a8d3f972c7b13e59,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+9e853d18067e9495734153cbf2bccb5a88f74172,OLTU-154,Bug,Fix logging config and add error logging in client-demo,oauth2-client-demo,Minor,98.4
+1b0753f09e89a9926c91ae7fb81004deea996432,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+58bea2c11f2a037c8b0641f35a725b5e969efc57,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.82174688
+2a0a19d5c35ae939c63b2672b990bde8a141f4ee,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,98.85260371
+4d0bfe59dc7884602c45909c6623ed95630f6794,OLTU-187,Bug,Error building OLTU ,,Major,100
+1095c5bd89c139d268baf46fd0d44a23fa176dc9,/,/,    Update statistics,/,/,100
+77bd487160294621e7e8ae65003aade894199b7e,/,/,    Update generic links in the site from http to https,/,/,100
+668453449c2f7de95ab6cad72042468bbe463917,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+e83c88f084355ddb784ce9afc728d0987e0706e7,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+1a0643b328c035b8864b5b0eaeaa03bcd9edbc27,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,98.85864794
+8bd94ce2dfaf24489f52dd6dd7f31f82b7e135da,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+ce6167dcf7070b71c3da14f376352c2927056b22,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+aa0d87bad150403e7876bec6b9263c98770cfd39,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,100
+d931b428fdc7d3392ea180885de6d339890ecfa1,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,98.1530343
+6c934b534788b47d0197d2145b1b012efc2244d6,OLTU-178,Bug,initial responseCode not set in the OAuthProblemException,oauth2-client,Major,99.8245614
+df4542d9ad1730cb8d21f4f016ff9892af34e237,OLTU-185,Bug,OAuthClientResponse lack headers access to be used for correct RESTful client implementation,oauth2-client,Major,100
+47533dd83eff394c028f12f1be5db28e80928028,OLTU-185,Bug,OAuthClientResponse lack headers access to be used for correct RESTful client implementation,oauth2-client,Major,100
+06feb9edc7a3ad182348fb6faf469e78df756adf,/,/,    Update committer info,/,/,100
+ac38c8d75d1873392e0e930a50c21332a5e208cd,OLTU-185,Bug,OAuthClientResponse lack headers access to be used for correct RESTful client implementation,oauth2-client,Major,97.97178131
+48a801d1f44fffee46e5039c896e0a7467811114,OLTU-182,Bug,Colons in client secrets are not supported,oauth2-common,Critical,100
+0005c175cb5bcd5389a606eeadb181eaa7002fb4,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+5e7a0a236d54e84234124cb27c9727f17dd9beb2,OLTU-187,Bug,Error building OLTU ,,Major,100
+637781aaf6989e09d9e223cb2c2db88eb819d24d,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.37666963
+19e128dd0a1334a7a755d4e03d069ab44a197fcd,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.18699187
+5b478f3279daf41b3643b92221d4e951e7c9b9ad,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,98.26166514
+a31ee290d879e6da906e05648e7f7c132336ff49,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,98.15498155
+d2571358b9e78a692e4e8cbfd6f34456c8489598,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,97.95918367
+02c7130d1d97b939194397917747920985bc3372,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.25093633
+398c7f9870eb9dff96001d73e27dfa448212f4c6,OLTU-186,Improvement,Adding constant for HS256,JWT,Trivial,99.62264151
+3bb3f372a94a0b35c8f57584af61b9f7deb3a23c,OLTU-187,Bug,Error building OLTU ,,Major,100
+fb8c4fc50571822a531704609753db89e8407371,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+0b6e162ca53ffb04a9e337209a943cf6e8f86390,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+811f8e8debbbc1cec116853a9b8fcdc00bcf605e,OLTU-156,Bug,No KEYS file; download page link is broken,,Blocker,100
+a3385f3f73fcfd53fba3a8cb31ce8d32327d8265,OLTU-187,Bug,Error building OLTU ,,Major,100
+5f673698e3430f07160cd3264319b08af4e1a5d3,OLTU-186,Improvement,Adding constant for HS256,JWT,Trivial,99.81132075
+47422a592ee84358bad68a7ca564c05eae06cfd3,OLTU-80,Improvement,Implement JWE support for JWT,oauth2-jwt,Major,99.81096408
+89186dc48720eb15804791f1dd0c9ef2ff6e2f8b,/,/,    added OAuth book section,/,/,100
+da75e6b016ef72ae6363250864de1a059f7dfb42,/,/,    added OAuth book section,/,/,100
+769f79655759900a38972521cbe9bb08ac1abb0c,/,/,    added OAuth book section,/,/,100
+f7158093ce88b16a056265263cf3407e378db292,/,/,    added OAuth book section,/,/,100
+d14a77afcb2d728f45c1d4598db37a2d845a0648,/,/,    added OAuth book section,/,/,100
+623c04b5030c6764af1cb934e9041e09ce30a212,/,/,    added OAuth book section,/,/,100
+ee3c1732e05cf1d552d94e4b12e034949fd7f284,/,/,    added OAuth book section,/,/,100
+b981fe57d26181ad31025318041aba620bb9ccbc,/,/,    added OAuth book section,/,/,100
+b1fe921e606021ae549aa856dbac67cccb5a7a63,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+d1f9de795fb14bf159e42fc584cd3bb0e362f8bf,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-1.0.1,/,/,100
+c4e350ef5d4f2e197afb4d6bfba5d4e727c5ea49,/,/,    releng - update parent pom to v3 in order to prepare the incoming release,/,/,100
+ebe39419ae513cddc420d3e6f13c351239918ec5,/,/,    add referenced resources,/,/,100
+d520b52128bcd7a8ba2bae6e02bee7ee50019151,OLTU-181,Bug,Implement OAuth Server Assertions Framework,JWT,Major,96.88679245
+da5b04199b6bdec6c97d9997aec6a2d60d524136,OLTU-181,Bug,Implement OAuth Server Assertions Framework,JWT,Major,100
+94d2f7747b4a7cf0ebdc3ff20d4b7bdb3679a8ff,OLTU-181,Bug,Implement OAuth Server Assertions Framework,JWT,Major,99.2481203
+a58625d4d3864d76a368855c438aa00d0e9733f8,OLTU-181,Bug,Implement OAuth Server Assertions Framework,JWT,Major,100
+49d3d3944695db58b376b52833f82424434af5df,/,/,    added Commercial Support page,/,/,100
+6ece0406cd6089c99107d401caf484aa23d2f446,/,/,    @releng fixing build,/,/,100
+0e2c9e787fa8b973848c738afbdba31755561611,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+413d14890b278da41c6ee0b7afc5f62fadfeebf8,/,/,    [maven-release-plugin] prepare release org.apache.oltu.parent-3,/,/,100
+b30abc3b81556ed034876b7ccd3c0255646b7b4f,/,/,    releng: updated ignore list,/,/,100
+f10663be71ca33a6da353f9ca1b9d5006b4bd0a9,/,/,    trivial: static Assert.assertEquals import rather than static method invocation,/,/,100
+41d8a28b45f0a77e7ae7dd6e4fc73494d8dc4c29,/,/,    releng: muted test  suppressed syserr print,/,/,100
+28443ee7e7a701dd271ce490a505613929427003,/,/,    releng: suppressed type inference warning by fixing them,/,/,100
+c99b87d0ad7c25cadae30920db1a0719613e6951,/,/,    releng: replaced deprecated Assert class,/,/,100
+f763aa38ecc659754dea18e7f428708067ddacb9,OLTU-147,Task,Upgrade commons-codec 1.8 to 1.9,general,Minor,100
+558bcf0be0b8b27a997fde5958a0dd705aa4f8a2,OLTU-147,Task,Upgrade commons-codec 1.8 to 1.9,general,Minor,100
+f0ec1dcd3b5eea64ae59419fb2278e43f7d7f00a,OLTU-161,Bug,JWTClaimsSetParser fails when aud is an array,oauth2-jwt,Major,100
+1a6bbe8cc64bbc163b055084b2bd7fc8b6ee41d7,OLTU-160,Improvement,Add support for implicit grant,oauth2-authzserver,Major,100
+afe2864619f978c0f0fd37232191d02a85e1253e,OLTU-134,Improvement,Broken OSGi metadata,general,Major,100
+e63699651d00456776aa7fb1730ed40e220286f8,OLTU-134,Improvement,Broken OSGi metadata,general,Major,100
+acd6c2cc7a4ee86acd3712a2c76fa319b7bd8887,OLTU-145,Task,Upgrade the underlying logging frameworks,general,Minor,100
+6b5f44661d3dd1f4fa1070091cc609c13d258125,OLTU-146,Task,Upgrade JUnit 4.10 to 4.11,general,Minor,100
+d093ec052140138fe67b2d262ce24d2cdc72290a,OLTU-148,Task,Upgrade json 20131018 to 20140107,general,Minor,100
+f9aec9ac1f22c4edd072c32c73b118d6aeb3e594,OLTU-147,Task,Upgrade commons-codec 1.8 to 1.9,general,Minor,100
+ca1de9ec403b9f4cc2b0d549e4597498d1ca1c93,OLTU-153,Bug,Parent POM should have URL of user mailing list archive,parent,Trivial,100
+f9562c73cd4dcef7fcf7131ab15fd8e55e69cc39,/,/,    trivial: code format,/,/,100
+b1f7fc0b08573cc9c1c80d194ad3a8debe1c7210,OLTU-105,Bug,Android 4.1 expects &quot;realm&quot; as first parameter in www-authenticate header,oauth2-resourceserver,Major,100
+f40f9ee4f832a849ef1e16316d3b56fe3ace2884,OLTU-152,Bug,Wrong usage of Base64 in TokenDecoder,oauth2-common,Major,100
+688899088939ca4ae714f17713759fbc9a46c76c,/,/,    @releng minor fix,/,/,100
+a695a3f166555ea8de0bb372c486082f85a2735d,/,/,    @releng minor fix,/,/,100
+9ab7011b9a0184ac1cae12fa8e3383caa4c8388b,/,/,    @releng minor fix,/,/,100
+7951f07139be4c2bdff3f60c0664ae43f02ac6ac,OLTU-144,Improvement,increase unit test code coverage of the JWS module,jose-jws,Major,100
+e5707da5cdf1c240be61e9cbf29f79a1d50c714c,OLTU-143,Improvement,Add support for public key signature algorithm to the JWS module,jose-jws,Major,99.62335217
+3505c77475565390df6113bb82f9e53e7dfc935f,OLTU-143,Improvement,Add support for public key signature algorithm to the JWS module,jose-jws,Major,97.78846154
+cc79690dc1e880741aaf0f093c553a75dc479b47,OLTU-143,Improvement,Add support for public key signature algorithm to the JWS module,jose-jws,Major,100
+5b7a0046f2780597cfe8815d99ec9557dc90c0b5,OLTU-139,Task,Publish all Javadocs,site,Major,100
+990b87c41f8fd757418d5ccf2222e50f2201e917,OLTU-139,Task,Publish all Javadocs,site,Major,100
+8973f10d250dfdbc48d9f6654069e346cae493c3,OLTU-139,Task,Publish all Javadocs,site,Major,100
+16197b7602617dc199073c32c2742347fffab23b,/,/,    releng: updated OpenID Connect parent & modules versions,/,/,100
+a0ee19a93e95c4982da7ce1903329de13e7437da,OLTU-138,Bug,Passing &quot;Basic &quot; as Authorization causes an ArrayIndexOutOfBoundsException,oauth2-common,Trivial,99.51124145
+10b57dd4b745638301a92c07e62b690e082ad090,/,/,    simplified download page,/,/,100
+e2f7061e9a594a408c9e7ae9708be3a587cf7701,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+0b3950d4290225413f8dcb538167761ebbe91fa1,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-1.0.0,/,/,100
+7ee324f8f2ebd14087ce21563f3626e2917b5700,/,/,    releng: it doesn't have anymore sense to maintain a single file with global changes file  since Oltu hosts multiple specs implementations and not only OAuth 2.0,/,/,100
+425b98809e22d78264217c7d3a3b5ad3da4abc35,/,/,    releng: relaxing restrictions  authzserver doesn't respect the conventions,/,/,100
+5fcc7dd84b70f1e911445f205a3f8b97efd31908,/,/,    releng: dependencies updated to latest released version,/,/,100
+51d9c0a400bd6e7eab9d50db3c6a4706a78b8b9d,/,/,    releng: updated parent to latest stable released version,/,/,100
+f20857b5900953b508b49b29dbfbe6996beb85b2,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.oauth2.parent-1.0.0,/,/,100
+94b578eab4b66194c44a3b078e7c5c1414fd713d,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+6b3e821cf794d5451f54ceb89ff9d1d36a0f41e6,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-1.0.0,/,/,100
+335bdc967661e915dbbd4161c631748629605008,/,/,    fixing broken SCM info,/,/,100
+38937d5482263798d509f58123a65bf1f2b7a0b8,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.oauth2.parent-1.0.0,/,/,100
+16dcc07dcad04c854b102008d8393da391b4d3b9,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-1.0.0,/,/,100
+54dd935d70ffc2b5e9b03a59c424f92dbe5788a5,/,/,    releng: export all subpackages in each bundle,/,/,100
+112dcc5bc1b3631cfaf68f940082f4d20a555483,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+baa0a26bc036bcc69281238cce8239365e0a1b8c,/,/,    [maven-release-plugin] prepare release org.apache.oltu.jose.parent-1,/,/,100
+6dd380d0822eb55c7656d381b48bb05f49dc9e14,/,/,    fixed RAT violation - license header,/,/,100
+9d7653794c424fa19285b10687eb027b835f5560,/,/,    preparing next release metadata,/,/,100
+58b859804c795f995852bccf2f2966a85bf2b434,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+06cf96165bdf399068f07f4cdecea4614b9d2c4d,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-1,/,/,100
+c652b53f94d1f47d40564e2c960261c4c970f579,/,/,    preparing metadata for next release,/,/,100
+a8a76da9d7ddc21a167334e3892f8b7ddd8ca7a4,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+77f841501226e708d12f7f1d56afd3eb33a24943,/,/,    [maven-release-plugin] prepare release org.apache.oltu.parent-2,/,/,100
+247959ec5da0b3ada178799235660c395c603cef,/,/,    maven-bundle-plugin:2.4.0 has issues with current oltu build  back to previous stable release,/,/,100
+d923a181006d2d5d13242f76954c14e6e2317e08,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+f872ea9291ec3533007fef1196b2eb86375e23ab,/,/,    [maven-release-plugin] prepare release org.apache.oltu.parent-2,/,/,100
+26c17cee0510ed5dcb91ea9b9def37813abb54bc,/,/,    releng: plugins update,/,/,100
+978fe374bbed9544ed44d83c81332531ff01b134,/,/,    using autoVersionSubmodules=true forces the submodules to inherit the root version  rather than the one specified in the module pom,/,/,100
+fda2aed6376659a1dde45953f06cb44948bb3be8,/,/,    all modules vesion rollback  release failed (again),/,/,100
+ab07bf7e64e9f0bba97d54953af111576b109840,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+d5e5273904b973ae9c2f8d723ea7b20ae863cf4c,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-1,/,/,100
+5a5a1479f72479e059f109842e4f9c32dc23d851,/,/,    all modules vesion rollback  release failed,/,/,100
+68f07341c104b3ffc2bbb8430b4e7da51970c8ea,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+532f5c11c9f75ec6a5fe98bdf2ce49c21a38098e,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-1,/,/,100
+46ab5481c98ecf396dfe43f0dece7d071ad2806c,/,/,    added missing SCM info  that drive SCM in a wrong path and release fails,/,/,100
+05c831cf52d5a066eab862bc9b55090883e49fe6,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.commons.parent-1,/,/,100
+e3c5a516c3cc4ffeb04ee72e2ee9258bae299d71,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-1,/,/,100
+9aef4419091339c22bba1c245b43d3a03083180f,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.commons.parent-1,/,/,100
+2fa9b7c7a692d25ece44c657727882d7fc4d09a6,/,/,    [maven-release-plugin] prepare release org.apache.oltu.commons.parent-1,/,/,100
+70ca793ab4172deaa958e349e2636583bdefa634,/,/,    @releng minor fix (moving the unit test to the correct package),/,/,99.80544747
+6579a1c2f8343f48cbfd709e643c52c65633c7c8,/,/,    @releng minor fix (moving the unit test to the correct package),/,/,99.80544747
+dc6325781bd05362e0834c15e513c9faeace3d99,OLTU-131,Bug,Signature parsing from access token is broken for character encodings that are not single-byte,oauth2-jwt,Critical,100
+e6a370f90b01a62b1b94ba1d8ee155613fb1d8dd,OLTU-131,Bug,Signature parsing from access token is broken for character encodings that are not single-byte,oauth2-jwt,Critical,100
+cf501d3a1ba1e0ff735434b86fd5ddafb7f780c0,OLTU-131,Bug,Signature parsing from access token is broken for character encodings that are not single-byte,oauth2-jwt,Critical,100
+175ae0862f9268278e37d78fd2da33daa5443574,OLTU-131,Bug,Signature parsing from access token is broken for character encodings that are not single-byte,oauth2-jwt,Critical,100
+784a843c5eaab9e14ade70ebfcf3966ffc48d750,OLTU-133,New Feature,Add HS256 implementation of SignatureMethod,jose-jws,Major,97.74288518
+6c12a6964d7dd2b56588fbeb1f693605eee8746a,OLTU-132,Bug,SignatureMethod should take in consideration also the header,jose-jws,Major,99.80276134
+c34ed8251661aab12c37332a6af6eef4a7fbfb27,OLTU-132,Bug,SignatureMethod should take in consideration also the header,jose-jws,Major,97.53694581
+79e40b3f2067f57970204b03a29b3d505db7f4ce,OLTU-131,Bug,Signature parsing from access token is broken for character encodings that are not single-byte,oauth2-jwt,Critical,100
+1d5c3b5ad4a941c9f1c3788718ba431a363dc7fc,/,/,    @releng added svn:ignore,/,/,100
+45154267eead371b30ea4f538a4113ac8381af3a,/,/,    @releng added svn:ignore,/,/,100
+b9e8afc95463ff8036961ee468ee2a390bfdbfb4,/,/,    @releng added svn:ignore,/,/,100
+39f602caf27d28f76ff005c013527def15bb3ada,OLTU-123,Improvement,logo for Apache Oltu,site,Major,100
+2e3fca10109b22d56251c6dbb1e17dc24be6c773,OLTU-124,Improvement,Replace Jettison with org.json,oauth2-jwt,Major,100
+019b8b23e30d49dedcbed4d36a6387fc157bf396,OLTU-123,Improvement,logo for Apache Oltu,site,Major,100
+b5b58abba529108bfea6c71ac20bfb6ba8a776c6,/,/,    @releng: updated ignore list,/,/,100
+c8d6d4b91c8e213e238db1dd0bdaf0badd822b36,OLTU-125,Sub-task,Create a &apos;commons&apos; module for JSON reader/writer,oauth2-jwt,Major,92.75653924
+36fa9a8ee803422c131ecaea3912850c66eb0b3f,/,/,    releng: updated ignore list,/,/,100
+abba9ab09bbf5d703297bb7f1dcb5850bab6cb81,OLTU-124,Improvement,Replace Jettison with org.json,oauth2-jwt,Major,100
+31ec1f31a124ab9acdf47be7172487ee745a94f3,OLTU-122,Bug,Broken Authorization Endpoint error page ,demo-client,Minor,100
+cd47200239c466b0f2f492b87ae27c492447bb4e,OLTU-121,Improvement,Make OAuthProblemException extensible,,Trivial,100
+cf19988c2cdb91132d440ad5bc7f6b80188ad704,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+40957981f84d302d9c6231b4ea5143c2baab9b2d,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+333478c7d9775647ad50eac6d68691046a08b925,OLTU-119,Improvement,Add a css to demo application,demo-client,Major,100
+31d05aec805751da894778384865c5a66f5efed5,OLTU-120,Bug,Invalid URL for Microsoft token endpoint in OAuthProviderType,,Trivial,100
+7974fb8b27608c3bc68e82e17c361826870d0d95,OLTU-119,Improvement,Add a css to demo application,demo-client,Major,100
+7b1f90838f922bc570718f9d9187c0fa45524f7d,OLTU-119,Improvement,Add a css to demo application,demo-client,Major,100
+b74da212e3b021504b24347d39397476a6d01a94,OLTU-119,Improvement,Add a css to demo application,demo-client,Major,100
+ed4dbb24425841f8b76a94719eb91799e9b00c2e,/,/,    trivial: code format,/,/,100
+afa0bc1e8567c688d6899793a1b26b10f03cb681,/,/,    releng: updated spring FW to latest released version,/,/,100
+e19bfc93bf98cbab2c65c1aa6ee5284722e03bb9,/,/,    trivial: no tabs,/,/,100
+0f422c3137b8826df87f815c6512ea21eb88307d,/,/,    @releng updating the website,/,/,100
+e0e5c38c3e7a7a580fec8a803dfeed3918882cc1,/,/,    @releng updating the website,/,/,100
+a7a49bc5d112add28b6303d1020918edf31356d1,/,/,    @releng updating the website,/,/,100
+013729a93c5ac974c4c3ff8ffdd57e84e32f14c3,/,/,    trivial: just inverted authentication header order,/,/,100
+81371d354e5cafcbbbb20fde1e0c02fcef3934cf,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+c8eddfa50808d06a637c01b616280828f3bb6a13,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+9453a06f8e3e1f5b81996d37d30651f578079250,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+d06c56b6a58653f520c3d88fc05541f9f407262b,/,/,    trivial: improved toString() representation,/,/,100
+b94fd7b04840d293fdfb67f530ef9d174bd56115,/,/,    trivial: improved toString() representation,/,/,100
+d32fbb6131f8ad9519e021867495592011777ece,/,/,    trivial: typo,/,/,100
+17fd5428d6ffb3253b54969c12caf70d8e2066bb,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+f1214c7c306c120c585a653c9ba627ccc68bdd19,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,99.79508197
+465d88563a3d62cbcc1cfe59bb13f0cd9033c3f8,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,98.0671414
+352adf2e6f55f12f10e57e822cd6b4d4f0407d83,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+001b0708ed7ee1fd1ad8ceb95cc7f62e6c3975c3,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+f141780946d04ab6ee6267dc612b138b40e2186c,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+2e54539093d354032eb6ffe7fcfa0ab293c2c632,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,100
+d4159d42913f6a758fff0c65238b8bf2316db66e,/,/,    fixed potential NPE when users pass a null type to cast the custom field value,/,/,100
+622b772cc21999bacb7b45dec1240affdb9c2f1b,OLTU-118,Sub-task,Implement JWS of the JOSE working group,jose-jws,Major,96.4360587
+be0359dd72ca5af9adb42de208a844caa20e99e9,/,/,    trivial: updated ignore list,/,/,100
+e1bb72e4e40dd362815ea011c9cd394b5e879491,/,/,    trivial: updated ignore list,/,/,100
+c363aed1c89823502619509b9a4f537efd1f9191,/,/,    trivial: code format,/,/,100
+cfd6a416f02d000de5641eb17ab4d779a43dfb58,OLTU-117,Improvement,Replace JWTUtils with JWT(Reader|Writer),oauth2-jwt,Major,100
+f3e1f3a3f757b763097871dc4801e3915d603990,/,/,    trivial: no needs to extends Assert class for test cases  just import the needed methods,/,/,100
+bed7f2a0a2405ba3ae8b9d6c009d5b2fbe514a39,/,/,    trivial: code format,/,/,100
+cbeb8f380d1d4a7690d6d303adeb17c66b5c38ea,OLTU-117,Improvement,Replace JWTUtils with JWT(Reader|Writer),oauth2-jwt,Major,99.12854031
+91da7581d4649afafac14e487b8572f9fa10895a,OLTU-117,Improvement,Replace JWTUtils with JWT(Reader|Writer),oauth2-jwt,Major,97.68467475
+44dfa34ff2d4fbfaf74ddd4a6df0359592c1938b,/,/,    trivial: added missing org.apache.oltu.oauth2.jwt package documentation,/,/,99.77678571
+9971b4ea0e75ea1e88c9df8f9b3ca1faf4c9be8b,/,/,    releng: JWT re-enabled for deploy,/,/,100
+3c2dff76efbb52cb9f1961d2a63a23b6f3bc7762,OLTU-114,Bug,JWT header/claimsset don&apos;t support custom fields,oauth2-jwt,Major,99.55156951
+d9f5c8f185e8b06505a230d961c2263e73066768,/,/,    added svn ignore,/,/,100
+87b701e091fc613fb3c16e3e229356230809f087,OLTU-112,Bug,Error while building Oltu,general,Major,100
+e2496527f65646c7119b3230deb403103105ef81,/,/,    added svn:ignore,/,/,100
+c59a00b282e035f2d6a5b8b486139af81513ce5a,/,/,    added svn:ignore,/,/,100
+c138f56313fa00e8fd7c9014d4a3b5c6e1154910,/,/,    prepare for next iteration development,/,/,100
+8b634446bd5ff4d3f552eda2330a4cb857b95c1b,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-0.31,/,/,100
+bde223a460f00476599f306040fce314d50bc5b0,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.oauth2.parent-0.31,/,/,100
+abf90f7deb37b40bd4ed8d08dea25c662fbc319e,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-0.31,/,/,100
+a3a30cde150e0e8f1ed51eba5ff7ba539de8c752,/,/,    [maven-release-plugin] rollback the release of org.apache.oltu.oauth2.parent-0.31,/,/,100
+ad268ca7fd7c5682b4c59c5028f10bee03093ee9,/,/,    [maven-release-plugin] prepare release org.apache.oltu.oauth2.parent-0.31,/,/,100
+54dd61574dd60f7b8d4799fbe5598ecf7705f03f,/,/,    @releng changing jwt module in order to perform a release,/,/,100
+021660aed6760ddc3063b9893bb5ade8e8f5e667,/,/,    @releng taking out temporatly the jwt module in order to perform a release,/,/,100
+660f56ccf0d1ab1439bbea7d04cf561736038ba3,/,/,    small improvements in introspection utils to avoid explicit casts when instantiating classes and obtain back the created instances,/,/,100
+5ccbf689e00cd71d0173d79068c3dd0fd68e9506,/,/,    parent v1 already available on Maven,/,/,100
+1da25c1239adc61340e2f76bde40f2de3f7dca5b,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+3fd3f126911e5fb4ac72952adc89863178714346,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+ab293ad8487c6460c2d05d52f85671fed47310b8,OLTU-107,Bug,ResourceHeaderEndpoint should use e.getUri(),oauth2-integration-tests,Trivial,100
+168fa117847a6ca655d095d38dab3af4d6626649,OLTU-3,Bug,Authorization Error Response needs to be updated to latest spec (state field required),oauth2-authzserver,Major,100
+e3123c5b0cfdc8b7b176e7090dd90f86a7329598,OLTU-16,Bug,RefreshTokenValidator needs to be updated to the latest spec,oauth2-authzserver,Major,95.33255543
+3a135402cffd3953ee81966d0870ec75dafcd7c4,/,/,    Also response code 401 can be returned by an authorization server,/,/,100
+f35d9956b11dc43cc4f2752979659d7d48f6e93a,OLTU-37,Bug,Implement OpenID Connect,oidc,Major,99.3909866
+17c2d334938e46713e535f2e25374e862013b6a6,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.75490196
+2bf8f2cd5b2fda462921cff46f227cb94923d4e6,OLTU-37,Bug,Implement OpenID Connect,oidc,Major,100
+ab840ff0ea85e750d76ec3348ecd8d1270b3b6a3,/,/,    added missing JWT raw string,/,/,100
+e29aef2bb0f801ed38e03cc59f33ff8a724b0725,/,/,    add svn:ignore,/,/,100
+f73d8ffe8da8bc2efbc82e2c2f6d20ac062d79b0,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+cccfabf1f014d832055c779ad58b9e60292f28f8,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+71225bd9eecafb41783f0d52ee0244335b5c89a1,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.75490196
+d5be8cdaf6e4524b2b16a549973465a64b85ec74,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.26380368
+8bf4c98bca59922ceda081aee4993fba2bdf2a38,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+6809e8a2d92b920658184f3fd63aa4a8480d9ca9,/,/,    releng: no needs to redefine the jettison exclusion section  since it is defined in the dependencies management,/,/,100
+5707cb6e942a6b07dd97134543f0d54da94dd6f5,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,98.50560399
+6068dc055257fe145ec5b667244a3e9ae8554240,/,/,    releng: no needs to redefine the jettison exclusion section  since it is defined in the dependencies management,/,/,100
+a08fe5ac59aa6ce5ffda4759e4c11a1353bb0f73,/,/,    releng: better dependencies management via <dependenciesmanagement/> section,/,/,100
+34f384e28c08833144b2d564d8ab95e2eb64bcf3,/,/,    releng: commons-codec updated to latest stable released version,/,/,100
+32de7e70785cb2ab098ad7e2ba15571ded55a661,/,/,    updated ignore list,/,/,100
+c77e7170b99319e46ce1588169d7102c79d1dfab,/,/,    trivial: trailing spaces and empty lines,/,/,100
+8d7440d20eb23c7ca00c06d20e76fe5fb613d136,/,/,    code format: no tabs  dropped trailing spaces  dropped empty lines  dropped empty elements,/,/,100
+9e4ffee444ddacd0996bfcc067734ddec99d9677,/,/,    extracted constants,/,/,100
+01d19778afc8fc9bc969b129e434db45aff7918b,/,/,    JWT class constructor made private - utility classes shall not be instantiated,/,/,100
+2c04517f4fa05164e81d28342d3349b8c9c9f8f9,/,/,    code format: no tabs  dropped trailing spaces  dropped empty lines,/,/,100
+4aea6d2ac5b3794e61db761597ee6d8d42282b15,/,/,    releng: updated httpclient dependency to latest stable release version,/,/,100
+ba49b2c2cc71b25d774e99798391856b2eb40050,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+3f2c68ab9c80ee22ec61eabf182098775ce8e757,/,/,    [maven-release-plugin] prepare release org.apache.oltu.parent-1,/,/,100
+c9ee6d09f4f0540c863416ffa66b01c357d1cdee,/,/,    releng: updated plugins to latest stable released version,/,/,100
+7a2b425af74a20819de81bc92e8d2e814c8a9900,/,/,    releng: added missing AL header,/,/,100
+5237f41f0204ae0c64d3404777105824e69a63c5,/,/,    adjusted ML archives according to Oltu (TLP) and Amber (Incubating),/,/,100
+cb3f9885a1ed8eb8067c241260dadd61383e707a,OLTU-16,Bug,RefreshTokenValidator needs to be updated to the latest spec,oauth2-authzserver,Major,95.60155239
+ee1f0070ac2cd3bf86b3e8fb3f073c34f928f756,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.73333333
+8152eac8f6671d3ec49c7338df6913215afff383,OLTU-96,Task,Improve client API in order to support known Provider,oauth2-client,Major,100
+0111a97a5b895ea69e740373587407f04a1856b4,OLTU-96,Task,Improve client API in order to support known Provider,oauth2-client,Major,99.59349593
+50ab889ef9e0bcc76c76ebeda63b2391146aa373,OLTU-100,Improvement,Add Linkedin flow in the demo webapp,oauth2-client-demo,Major,100
+3350436074319cedcb137bad0722fe45983e78df,OLTU-99,New Feature,Add a decode JWT  to the demo,oauth2-client-demo,Minor,97.27891156
+761f0a0147e352b575f30f4ff787f03541d265df,OLTU-99,New Feature,Add a decode JWT  to the demo,oauth2-client-demo,Minor,97.29364005
+c0a8ab6d3bfd27c03b8ed1913f1c51eb80a1e8b7,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.45652174
+226f19542c92eda6d1b008a4337b6e8bb8de54c5,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.72899729
+ebacec4c4b9a7e23a085742887b497c392984c2b,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.72899729
+095f5c16981e84e0053ecfa06299d3e1ef0410f5,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,99.72752044
+a6913e1fdb4f99c4505d2180feb467a930a3f721,/,/,    releng: updated ignore list,/,/,100
+e78bef3e5136cd05adb8e46f7a5ecbe6db3c0542,OLTU-97,Task,Split the demos in a separated module,general,Major,91.625
+81045364ea4154dc9fdfee9a507a8ae24581c0d0,/,/,    Add svn:ignores for IntelliJ,/,/,100
+ecc537c797a6de4701a9074d7948f5b994d3e5be,/,/,    releng: added openid-connect module in the reactor list,/,/,100
+eaef74ca294d4c0086a022102bf24954ec7bc28d,/,/,    trivial: trailing spaces on empty lines - no functional modifications,/,/,100
+1645074d8a32e441af40bc3a872279a867c76fdb,/,/,    trivial: trailing spaces - no functional modifications,/,/,100
+bdcc763725d025b93cc419da771d4fee47b6c7ea,/,/,    trivial: declaring empty elements has no effect  see help:effective-pom,/,/,100
+83c1184537f2fd77b294fc055e182bb33b5b5fdb,/,/,    trivial: declaring empty elements has no effect  see help:effective-pom,/,/,100
+dd1cc40621040217777980dacc8b60af90d65be2,/,/,    trivial: no tabs  trailing spaces - no functional modifications,/,/,100
+9975ce7ff6ab34a6505c5fc0d7f033d5513b79e3,/,/,    releng: created the Oltu-OpenID-Conect job on builds.apache.org,/,/,100
+dc29b462fed826749d0511ece4dd33054911bbe6,/,/,    trivial: declaring empty elements has no effect  see help:effective-pom,/,/,100
+691a0296dcdb2b0285d98f0564b2e6e4fda504d9,OLTU-93,Sub-task,Add OpenIdConnect flow to client demo,oauth2-client-demo,Minor,100
+ec80837787225d2a5e072e35f96bebed94720273,OLTU-95,Sub-task,Add OpenIdConnect client module,oidc,Major,99.53757225
+c98d8a6e6bf4e342d0e6dda37d7ce24ebe885d6f,OLTU-37,Bug,Implement OpenID Connect,oidc,Major,99.76744186
+159ffe010720a7f2fb48b1356d0c1ec793f60804,OLTU-37,Bug,Implement OpenID Connect,oidc,Major,100
+c27a8292b586e0b3eeb7573df4ecf9df73bf7324,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+53244e5ac8b720cdfd8f3b9c6aa35db928d05116,OLTU-78,Sub-task,Implement Plaintext JWT ,oauth2-jwt,Major,100
+840438ee3f90e00f8506a3640bcbf35309c8f3bc,OLTU-93,Sub-task,Add OpenIdConnect flow to client demo,oauth2-client-demo,Minor,100
+5ad1c48e2acf0a127d2e5901db432d44a6674adc,/,/,    no Jira - updated organization for myself,/,/,100
+30f6b817a80224fce26dec1f6ba4e9863344d42a,/,/,    trivial: Stein moved upside  in the active committers  and not between the emeritus,/,/,100
+9f0729f81a4513b46b938a42b71668a2e6402b66,/,/,    releng: there's no longer site on root dir  moved the script inside the oauth2 submodule,/,/,100
+2b284508f34c2dee3e11bf0f1c78ac5587f394f6,/,/,    trivial: added Simone Tripodi (myself) organization,/,/,100
+861e4c358066524b34e40b5b3b2dff0d8a24327b,OLTU-92,Task,Drop the sources-dist module,general,Major,100
+0f80d346b22c2df0e0da71646a91ff1109214bd6,/,/,    releng: apache-rat-plugin version updated to 0.8,/,/,100
+2d32de25eaaa39a9d6f2282bc902f8865e5362ed,OLTU-92,Task,Drop the sources-dist module,general,Major,100
+9e407a46fa5891046f0e1d54507ec9d502dff59e,/,/,    trivial: don't show the version in the main site  since we are going to have oauth2 and OpenIDConnect modules  both with their different release lifecycles,/,/,100
+1f1a8a5a01efd6c6c625a405c68e5dbe6d7564c5,OLTU-92,Task,Drop the sources-dist module,general,Major,100
+afc5f50e20780b68103185b2063b5584c83e834e,OLTU-91,Task,Move the main site as a separate module,,Major,100
+11f900695c5873c0b729750a86282a851a7c23d6,/,/,    releng: dropped incorrect and no longer needed distributionManagement for site,/,/,100
+daf7914248b2851c2df1f0bba211cc0a14f04dcc,OLTU-90,Task,Attach DOAP descriptors in each component,site,Major,100
+6a9ccb86eacaea2ba5f64676e75a3380dc64a206,OLTU-90,Task,Attach DOAP descriptors in each component,site,Major,100
+e713b191251eda8730768bd696d6b57b4d29af1b,/,/,    releng: added missing apache parent reference in main oltu parent,/,/,100
+0102cdeb642d19e000ad6b08f88c0b142d9a67f5,OLTU-90,Task,Attach DOAP descriptors in each component,site,Major,100
+097e87efc6b5a0d33bec72ac217a8d3f0333196f,/,/,    trivial: added missing description,/,/,100
+a499379c67711e53a9fd5cdcf69c1a4bc6271c0e,/,/,    Fix build.,/,/,100
+1e71c6aa5b5f2233dc8dc7133a06349733831c27,/,/,    Add IntelliJ ignore,/,/,100
+90bb115e46d719709c61787dfaf852d8f7aa1640,/,/,    Add all fields to toString method. use StringBuilder instead of StringBuffer for speed.,/,/,100
+05ae9f1b098ab92f8f51f957f52c9a94275bbeb8,/,/,    Remove default IntelliJ comments,/,/,100
+f7efd4f9f26d1cc0b9744abed1a0bc97fbac4f73,OLTU-89,Task,move artifactId to OSGi-alike taxonomy,general,Major,100
+0c2992aefe032ad67407a9d0fb39048606dd00de,OLTU-89,Task,move artifactId to OSGi-alike taxonomy,general,Major,100
+aa513ed6fb3b6b2c24e4116f22181e5e61d5cf9f,/,/,    trivial: updated ignore list,/,/,100
+f153671c0717ea451abaf568033522d829ed7d3b,OLTU-88,Task,Extract the parent pom from the reactor one,general,Major,100
+36d06d5a9a8b240c77dcd68871326eccd059d2ff,/,/,    trivial: relocated groupId/artifactId order in parent declaration,/,/,100
+7bad60af9c57f864a394a0c9c1e657cfded257be,OLTU-87,Task,Migrate OAuth2 modules groupId to org.apache.oltu.oauth2,general,Major,100
+38a4eefb0cee0cc15cbc10fac3aaa70b00390ebf,OLTU-87,Task,Migrate OAuth2 modules groupId to org.apache.oltu.oauth2,general,Major,100
+52167bfe91502512bf3fc6c808c72b502450109d,OLTU-86,Improvement,Make Oltu artifacts valid OSGi bundles,general,Major,100
+b51811e284b3d961328a4de55e0974e540c9ab55,/,/,    trivial: no tabs  no trailing spaces  dropped empty lines,/,/,100
+7692681e4a35281905f8dade3103e726a4019feb,/,/,    updated website links for Jira and wiki,/,/,100
+e40c20d75c549a6ba4953c708add792e27e0e79c,/,/,    updated website links for Jira and wiki,/,/,100
+f75e553f5c7696abfb75d342a97eb586b5451ce5,/,/,    added contributors information,/,/,100
+1bcf8b6b7c26c7434356a5d3e13ef62875cd4313,/,/,    Add extra svn:ignores for IntelliJ,/,/,100
+3a22f530f7bc2d0d7299aab0b6819a7523c88320,/,/,    Formatting,/,/,100
+9605974af8e454a46081737021f8d01a8a0ebab9,/,/,    Add myself as committer :-),/,/,100
+1d118995f3e6b8a323d643613b1da2cbc3a67359,/,/,    AMBER-64 - QueryParameterApplier needs to include the scope parameter in the fragment :,/,/,99.53161593
+6e42387a66da0ee1df2c78b4a9bc3678e03125d7,/,/,    (re)configured ciManagement for configured modules,/,/,100
+173847da74e7d4eec6dd374af06af2b3b0279c5c,/,/,    [AMBER-75] Change packages  artifact names  etc. to Oltu,/,/,100
+391c6ef2c16b694804b8e141fb38f02de119c96b,/,/,    [AMBER-75] Change packages  artifact names  etc. to Oltu,/,/,25.28735632
+e45b62e9ac9bfc27efc5bf05d9ee03e1fae4a0f2,/,/,    [AMBER-75] Change packages  artifact names  etc. to Oltu,/,/,100
+6d9f8c704809f9691b46355703ee4c03991a7bb5,/,/,    [AMBER-79] drop the -incubating suffix in the version,/,/,100
+590b3d2c63f5727e10b5ef4e139ed555e8fdefae,/,/,    [AMBER-78] Remove Incubator DISCLAIMER file and relative inclusion in packages,/,/,100
+c71b27e41e470757632a6e1996506569b96f8a2f,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+35199cda1e89fbdd0ea639683fca6522a3bf7c19,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+3a0bd59875e31de343dcf99d56ae963ed3eb40b0,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+5398645cfd9e8c336389348654672c7af4ce2895,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+ef1018d7f3dad09ba039fa00a025c5f7e3735ddc,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+f5c4a664b7616fb5e0181dcda0e4266c8b9fbe55,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+f015087941808da55dfc9a9931d4f634107e2fe0,/,/,    code format: no tabs  dropped empty lines,/,/,100
+eb99d8c6663b226a6ca6c5e5bfafd66969104e6f,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+1bea43bd81b1f613ea3b4e9d5bbb35ea1f2f9380,/,/,    upgrading the team list according to the discussion in http://amber.markmail.org/message/llw4wz7nqgwf226t,/,/,100
+6b09a237ef24d4f046cf7bc0d7782b0830558d06,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+bf6c5e86ba5fdebc6bf73d75d0949e2e5f0fb9fc,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+7bf29b569d082f386c84e559ff1735756af9f60e,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+0e90a024e8b19efb1f3c78918456bee0b57455ef,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+2af85ad93e7214b00e2d765fa8906b1380596dc1,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+9b9b05cba36787106e9ea02a1533c1a0430037b8,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+f697ae026be6291392e4adfd13c77415c46c2002,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+5b4c1ee1f5ff4a4a4ca6f0135e9331ce8681278a,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+ba56f14d5bf98a1da190c6c00a7fde8efbc2f7a9,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+7112b2f34c34cd49f8a25a0a19e5604e08d7c5b4,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+878f140071124690a66fe627f68472c2d65eed91,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+4d4adef4c9f2664f4804fa3592e8f40ab782097c,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+6f5b5cd91ca4db7df941e6df9bc4691a90a62d52,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+417dbda8df94f48f99af05e4a3326e9ba6c64d0b,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+968c155d3af1b24ca5138e2312a29e4f4f51da7a,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+3490ccb9191edb6072a631643c86f091e0f6be77,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+3c384305c7d94d2e85a7d0457528e91e75f5a125,/,/,    [AMBER-77] Update the Oltu website,/,/,100
+efa808185014d77a512448a593fb94daa03661a2,/,/,    [AMBER-77] - update website from incubating-amber to oltu,/,/,100
+a5dfead35ec474f5a3335101998112eedf4dab85,/,/,    Oltu has become a TLP,/,/,100
+4bc72a13a3ba6433866f478c67c5e92df5e8d3de,/,/,    AMBER-73 - Update the client demo web app in order to leverage the new API in AMBER-70,/,/,90.45643154
+47e789c4f132be5f779f4f8729fe2c4f3a718e00,/,/,    AMBER-70 -  Extend the client library in order to easily handle bearer token request,/,/,90.87248322
+c0eccac4617e40df3869bce1a8683f8f125090fa,/,/,    AMBER-69 - Client code generates wrong header for Bearer Token,/,/,100
+408b6407b0613ac17504d5a132a6db82e31d0e60,/,/,    AMBER-64 - QueryParameterApplier needs to include the scope parameter in the fragment,/,/,100
+e59146324f3f2fe4a6d4b7e9e7c306c1b429a703,/,/,    AMBER-58 - Add generic flow to client-demo webapp,/,/,100
+22a8d3c538153d076e4469c0a604e31fd30d7e56,/,/,    AMBER-68 - Add integration with Google  OAuth 2.0 for Web Server Applications to client-demo webapp,/,/,100
+11f378594c7f1c6c5345907407d02d0871793cc5,/,/,    site profile already exist  so,/,/,100
+d7356f9034ae8f36f9a17ecd5098aaa4a6dfcff3,/,/,    added Raymond in the committers list,/,/,100
+339024533a6f7c8373d070d2fb181a01284ac30a,/,/,    updated maven-project-info-reports-plugin version,/,/,100
+09dfe54f64efedbd7e451df436219d5c5bb88040,/,/,    started plugging the scm-plugin to automate manual operations,/,/,100
+e0b2e9911129e1c786c79e474b571d4a272df914,/,/,    fluido skin version upgrade,/,/,100
+477c4fd1fe96d72b741fb63cb11103fb319fcb8c,/,/,    AMBER-61 - Client defined HTTP headers in OAuthClientRequest,/,/,100
+4eaa72272ea556ced9ecd3cbee754ad9f513d091,/,/,    AMBER-62 - Add Extra fields to OAuthProblemException for easier spec compliant error handling. Thanks Stein Welberg for the patch!!,/,/,100
+6837603eb218568c1bc8ca7f231f987bb9b7e2b7,/,/,    Fix for https://issues.apache.org/jira/browse/AMBER-60,/,/,100
+6b19d59604f7794f9480d2ea8aaf54d83f8307e5,/,/,    NullPointerException in the OAuth2 client demo,/,/,100
+f9a3c771d61fca7db3eb167983b566ccb2c60086,/,/,    change the pom version in order to be aligned with the latest version of OAuth 2 spec we aim for,/,/,100
+48fc83b8349782e893746fa55e0f6f3d78ab2883,/,/,    typo  thanks Jason Millard,/,/,100
+245d55c33db9bba8a727ad9396e7c5e6b28e2fde,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+027fed627e17a7dfdbed137ac762fad520e9660a,/,/,    [maven-release-plugin] prepare release amber-0.22-incubating,/,/,100
+58c8e984c6885be1f1d811df2269dc13e530fb77,/,/,    exclude eclipse files from RAT checking as well,/,/,100
+39993f412ba2fb406f5270b67fed1dca509e6103,/,/,    exclude any NOTICE file by rat checking (assemblies ship their NOTICE version),/,/,100
+5751168427ec0b0670763842bd43d602014d6dd6,/,/,    rearrangig stuff,/,/,100
+c9cb99e6b40c2998ded6d024c5e01c919458c8b3,/,/,    compiler-plugin settings,/,/,100
+f5b8beab1f6c11c3b71a29cc8f43da674bae9d2b,/,/,    updated maven-compiler-plugin version - the latest one is faster especially with multi-module projects,/,/,100
+8301e0719cc9c201231cee79bcbfee2ba81572d5,/,/,    it is good practice to set plugins groupId even when implicit...,/,/,100
+0d5b50707c86c64da925210277df29929599b5e5,/,/,    updgaded maven-jar-plugin,/,/,100
+a4101a63383f423dd60b21a4fa99b31ca03cd8cc,/,/,    updgaded surefire report plugin,/,/,100
+9a9f685eb773af23aef85b82ae0b952be129d6a7,/,/,    upgraded PMD jdk target,/,/,100
+95000e73b47b3d79ecca54e07c467c002629d833,/,/,    KEYS file no longer on /trunk,/,/,100
+38686425791b370d02122abd9853597d7ee368f6,/,/,    added link to maven search service for mvn artifacts,/,/,100
+cf0dfb7365c02e9e71167d48200eb3e3a097fda5,/,/,    side effect of copy'n paste,/,/,100
+b962e226c0b6f891b1f014085fc760ec69237a6d,/,/,    added link to main page in the sidebar menu,/,/,100
+39a4d0a5882f0efb7310b7acc6487efe6e598a55,/,/,    added an advice also to APIs doc on homepage,/,/,100
+a2265006db99407b57f68957b2fc8f2c4e7346a8,/,/,    added APIs documentation link,/,/,100
+d2b0c576fb6af09e557cdfa8235243ee8a8a0a5d,/,/,    removed empty unused apt dir,/,/,100
+b86f5a797eab100f481cf69fa7a64b2cc18742f9,/,/,    added missing XML encoding,/,/,100
+22639ef96595dd4a40724a7bdae65242bb62079e,/,/,    added Documentation and Download advice on  homepage,/,/,100
+7e6c04021adb46fc97d37cce88d9d77d488a09b5,/,/,    Added documentation link on sidebar menu,/,/,100
+f8e3f5a60d5962b7983d3a4579e8fecfa870130f,/,/,    added all downloadable modules list in the download page,/,/,100
+28fd4d63387a6b30bad6f1609645332f16b2397e,/,/,    fixed sources path,/,/,100
+514c1f412d865e0423f740daf6c40018f62cf62a,/,/,    sync'd the soruces package artifact ID,/,/,100
+864c97952e934aedc9c6862ed39f7954f6687987,/,/,    updated doc on the release procedure mode,/,/,100
+14772182e5f342ee8b691334cae32b894b14d4d4,/,/,    renamed rs-filter artifactId as resourceserver-filter,/,/,100
+a6b18fc0217757e727eb7800913cc654b09219e2,/,/,    committers' GPG KEYS moved to the committers space on SVN,/,/,100
+1fb8bfb38c5d684ffbbbbcabd535abb1b1ae8dd8,/,/,    more 3rd party licenses in the demo distribution module,/,/,100
+85d0cd66e6394c11fc3b503f3f1aecee754515a3,/,/,    s/SLF4J component/SLF4J components (it brings slf4j-jcl as well),/,/,100
+77463071b1115878dff22900650c0a22ca5dd049,/,/,    updated ignore list,/,/,100
+d4f4e0d4e21a1bb5d108dcb725fa11c6b3236de3,/,/,    stripped the 'oauth2-' prefix in physical dir modules under 'oauth2' directory,/,/,25.29644269
+56bdeb90b761195637e9fbd8a2ca897bb17f321e,/,/,    fixed assemblies base directory,/,/,100
+4c1068bb72f446c3d8c4bed9e10e56230e6ecfec,/,/,    added war plugin to build the target war that will be redistributed,/,/,100
+3cc37ad064e5b44fde2a0a1a77de435bcaf7bafd,/,/,    added rs-filter assembly packaging,/,/,100
+f02dba3f49a752cdecd80afdaba29183af49cde1,/,/,    added httpclient4 assembly packaging,/,/,100
+521679f3ab2b0b0e4aff472764a8a40e9039583b,/,/,    added resourceserver assembly packaging,/,/,100
+6d312fbb08dba5e9b96252090cb42e124d33d743,/,/,    test-utils must be scoped as test dependencies,/,/,100
+50f7a13d9f81d6a38ccbb2c857c29eae315dfa25,/,/,    added dynamicreg-server assembly packaging,/,/,100
+f5967774fd3b03f159b8c5f88f6889fd77667ed3,/,/,    added dynamicreg-client assembly packaging,/,/,100
+a7dc24976881162c8e70c8897b885976354a6a0d,/,/,    added 'amber-' prefix in each artifact,/,/,100
+233a438404521be722eafe1cadc4579e8d05c7c2,/,/,    added authzserver assemblies packaging,/,/,100
+97782a7c0ffcd50f7c38c46fe0a5fb2f9036b83f,/,/,    added missing Amber copyright 'header' in NOTICE files,/,/,100
+db752fe673505f2718de2ff373886a3962819ac7,/,/,    added client assemblies packaging,/,/,100
+7afa80f81cf9a32306aebfc009fdfc938df5bb96,/,/,    omit assembly ID by default from zip/tgz artifacts,/,/,100
+b50a4f4b6cca24d4a4ee3a06655eebb202666487,/,/,    sources module renamed as 'amber-sources',/,/,100
+443d42b4a14097d348f9e0950a04480f09bc7f07,/,/,    changing assemblies name is a hell when deploying - they will be renamed by install plugin (and caused headache in Any23  so better taking advantage from past experiences...),/,/,100
+1f6dc864f9b25bfe2cf7ff5236018e9597593f0a,/,/,    fixed assembly version - thanks Antonio,/,/,100
+c161ad76f9f9e97b18321e7d97e426ea72297073,/,/,    trivial format,/,/,100
+8d6de8e09196a3496cfa6b1213fc4b06bff00606,/,/,    added 0.22 change list generated by JIRA,/,/,100
+d8e5e6484732a58c223675d3fb948cb0019d5d45,/,/,    updated JIRA project ID in the message template for vote,/,/,100
+069474905695a5384336ac0bf77f85eae80f9167,/,/,    produces coherent assembly archive name/extracted base directory name,/,/,100
+4aa3f833ebc545dc0ceaa0bc3cc7e5a08bf8a332,/,/,    code format  no functional modifications,/,/,100
+5b9cda4e4d998aca11dcb33b296f2a679b978475,/,/,    added Download page link in the sidebar menu,/,/,100
+8ff03667dfdb72d08de9a2db7f379e2a92e18425,/,/,    first checkin of download page - still misses bin packages will be distribuited not just as mvn artifacts,/,/,100
+f44d388a4ff3e397a0441797576d9d9dc884bb63,/,/,    add the staging distribution assemblies staging repo to be evaluated in the VOTE thread,/,/,100
+61d73753dd0fc7637dcbd492231b0b75cf5e0c50,/,/,    exclude the CHANGES list from the RAT check,/,/,100
+8693d1392f2ea80d4eb0d0184bd31cf4bac1fe27,/,/,    no automatic changes report by Maven  JIRA manages it in a better way,/,/,100
+4c595a76e4eeaa17a808b072f8f0d22e7a135baf,/,/,    added the name format for tagged code (amber-parent looks not good),/,/,100
+e2bb393c11a9934946ef34730f969b09a011c6f0,/,/,    `sources-dist` module can now be managed,/,/,100
+cfdce37c78adeb2f42a92aec0093d6acab948bb1,/,/,    managed the assembly plugin,/,/,100
+215157976cb2c32c38d81adff844a045460fc32a,/,/,    the `apache-release` profile enables the assembly-plugin at all level  which is undesired behavior,/,/,100
+621249df4f5f1158460f4aa5cfcc16ebc1142880,/,/,    fixed wrong resources management,/,/,100
+b5e8c4637e64308a64b10b699c191090368d319f,/,/,    generate the site in a proper profile  avoid automatic procedure that is incredibly slow with wagon-svn  the manual procedure is incredibly faster,/,/,100
+2b485db0a7306285dcab0b145f0568df25ae20e9,/,/,    fluido upgrade,/,/,100
+42a79d7b38388eb9a09708d6e374e19247ddf2b1,/,/,    release guide linked in the sidebar menu,/,/,100
+9798a38aa40eec90e66e38155d546eae3badb839,/,/,    initial checkin of the release guide (could contain typos or refused from copy'n'paste...),/,/,100
+1d0a0c43bc3b286abfe09be77229597a67128961,/,/,    added the module to create the sources distribution package (merely copied from Any23  not added in the reactor list yet for that reason :P),/,/,100
+04b89ea72165398e617b16745a13623f83d7b48d,/,/,    initial checkin of (empty) CHANGES file,/,/,100
+33cfbb7012b64f4288f46719507f8b53e83e2b1e,/,/,    trailing spaces,/,/,100
+1e7ac8c0e516d07b2b63a9a1c985323329cafe10,/,/,    Brian went emeritus :(,/,/,100
+f2bdd896979d491d0a5ce38dbe123f3b830d6a8a,/,/,    [AMBER-54] - fixing warning about missing javadoc maven plugin version (inside the reporting section),/,/,100
+b0ab7a4df601486c1286e5cb5b8792ff80f1c7c5,/,/,    [AMBER-55][AMBER-15] - moving signature and server modules to sandbox,/,/,86.6894198
+fa43b00bcaacd506dd03ad423f67ac63509b243b,/,/,    [AMBER-55] - moving server module to sandbox,/,/,98.32181639
+20f6befd622b1b69ab2409a5cfd574eabd84448b,/,/,    [AMBER-55] - moving oauth-1.0 to sandbox,/,/,100
+199a8e0d66ba2e073a685165cc17937b891471f5,/,/,    [AMBER-54] - removing empty CodeTokenValidatorTest stale file,/,/,99.80544747
+b00eae8d013254f44beeaecbc97734736ca2598b,/,/,    [AMBER-54] - adding json files to RAT exclusions,/,/,100
+cd318580f4f7a40d17898d5778bd720b521ddd0b,/,/,    [AMBER-54] - removed all @author tags,/,/,100
+21a1753683f21374d709344a7256abc0e8a2ed6c,/,/,    [AMBER-54] - added missing license headers  starting removing @author tags,/,/,100
+549d656221030ce6782e9fd97fb6ac426d178293,/,/,    [AMBER-54] - adding my gpg key to KEYS,/,/,100
+6ca96f81f3f545eaa50c5950b7a6a754728f321b,/,/,    [AMBER-54] - adding my gpg key to KEYS,/,/,100
+ccfd98d99100811d906b205cda355bc8b56f2a88,/,/,    [AMBER-54] - excluding .idea directory from RAT check in release profile,/,/,100
+793e5f823fe573b4cf556f789aadf0e815b6eef0,/,/,    FIX for AMBER-53: Make sure the expires_in is a number,/,/,100
+a97df3ddb08ab29f000eb250fcf7e6339787399e,/,/,    no Jira  adding missing AL header,/,/,100
+6268b517ff25a304e0afee207f46889ac6afa80f,/,/,    no Jira  addming missing AL header,/,/,100
+c7b9ddbeaad334d0be8907cef73d876d2d5ad0a6,/,/,    Fix more code to handle query parameters,/,/,99.70873786
+fb894f09bbe69a546d8a8882f7136b028ffe08da,/,/,    Fix the code to not mess up with HTTP POST body,/,/,100
+0b7f441ba913d46646863cdbda66b2a25113818c,/,/,    AMBER-15 : adding new unit test,/,/,100
+f43b80528ed6a487a4393923152582d4840e7e13,/,/,    fixed project info issue with submodules - didn't understand why  but when generating the site with older config  it occasionally raised an issue,/,/,100
+3d6aa4e5946fcf62db080df28bfb121ffd01a64c,/,/,    moving forward the SvnPubSub  modified site distribution management URL and replaced wagon,/,/,100
+2511e0a84a6fceb92007bfb5efab380e66a48930,/,/,    AMBER-48 : Resource Server module extension,/,/,99.03846154
+ac45bb68869e52fa000d4d457cd6ea0b6c42f93d,/,/,    AMBER-48 : Resource Server module extension,/,/,97.19535783
+89dc67ce26ad59a8e2be652019364130e4971af9,/,/,    AMBER-28 fix OAuthAccessResourceRequest and extractors using old version of spec to find access token,/,/,100
+db87fa96db1fbc2d1143d3ab03937b15d6f68218,/,/,    AMBER-29 OAUTH_HEADER_NAME needs to be updated to latest spec,/,/,100
+c719a765d43dc1f66fd709e31a783a38b3dc16ac,/,/,    AMBER-28 OAuthAccessResourceRequest and extractors using old version of spec to find access token,/,/,100
+bb5c0709c36748fadba85db3982e2088a97c0d58,/,/,"    Configure the maven eclipse and war plugin so that we can run ""mvn eclipse:eclipse""",/,/,100
+2a2d1b0f815ffde11c77bd2f80388a2559aff2c5,/,/,    restrict using keys in different methods using generics,/,/,99.13461538
+de2d37f93c6c71a91d9a933973d175a094ba9c03,/,/,    plugged not-yet-commons-ssl to resolve Rsa signature issue,/,/,99.0530303
+c76ce784940ad56fe6fc69253d3e003c40b73ead,/,/,    AMBER-45 : Authorization Response needs to be updated to latest spec,/,/,100
+51e78ba2309ad9683c6baa6ef9fff81153d5d37a,/,/,    AMBER-37 : Specify the CI url inside the Maven POM (added notifiers),/,/,100
+bb0e0f3867e5e77d6d721b1e456062fded694178,/,/,    AMBER-37 : Specify the CI url inside the Maven POM (revised),/,/,100
+f5880e1df352ab15724b51cda6b16a636f726640,/,/,    AMBER-37 : Specify the CI url inside the Maven POM,/,/,100
+c8fdabdd2ea8bee854a8cd02569e1c5158112bd6,/,/,    AMBER-47 : Update OAuthError class using the error code as for version 22 of the spec,/,/,100
+a378448750d4d899014ba02ea95a0b7f573671e9,/,/,    AMBER-42 : Update amber based on the latest oauth 2.0 draft v22 . Apply patch from Raymond Feng. Thanks!,/,/,94.49901768
+a340e695f4ab0943dc5ccb8ce7ed65316fcdaa24,/,/,    added incubator banner on right,/,/,100
+bc532e2f978d08be94fb5fcdfcb4eb8a8353f3fc,/,/,    update personal information on the team page,/,/,100
+1c80e04981c67260529c38e0c8a2213c0e4cc68a,/,/,    no more needs to version the site  it can be deployed via meven using ssh on people.apache.org,/,/,100
+2fd0deaef2f9111cd6556b379e942495ce6e997f,/,/,    dropped broken javadoc parameter,/,/,100
+fb2a48b8789684b5d81b26233683e1576015f8fb,/,/,    looks like id is required to deploy the site,/,/,100
+66ea67e55d20db12aa9649f7271c92187b3ee4f9,/,/,    updated maven-project-info-reports-plugin version,/,/,100
+3daa67866c0085ada9827ffb9ee1e0dcfac56cff,/,/,    made resource path coherent,/,/,100
+28b440416d02dcf8daa8e33ce460ea1f14160675,/,/,    wagon-ssh plugged as site-plugin dependency  no needs to have it globally (artifacts are deployed via http on Nexus),/,/,100
+34fc9bfff8646f99411bfbf7a79c8bae6feb8ae7,/,/,    site distribution management id not really useful (ssh pwd is always prompted  so even if configuring it in settings.xml it has no effects),/,/,100
+dd622a23ebbb87ef0be33b23fe9355453ab66621,/,/,    added MLs archives,/,/,100
+a768e39902bec359fe5b4d71cf6c4fad1d465ee5,/,/,    upgraded apache parent  enabled profile to deploy on Nexus when releasing,/,/,100
+f4f996656dea5d2ce03cbb3d68f160b8972df1e3,/,/,    added Google Doclava as Javadoc Doclet,/,/,100
+252ab8d00a5a57981c5e5bbd58fc1b624d23c472,/,/,    removed unneeded property,/,/,100
+2a0f92c26f5bde456d3e71208d03e012767eb23d,/,/,    no needs to redefine the groupId,/,/,100
+64899d5d5a2fcc565a619af78b0f2a84909240a8,/,/,    added the wagon-ssh plugin  Maven3 doesn't handle ssh/scp by default,/,/,100
+c6668bde927fd37cfec6b69ca16961d46a2524b1,/,/,    updated image logo with TM as per ASF requirement,/,/,100
+36fed021b08d0d3705d515d5e4835c695c9f1071,/,/,    added the ASF menu  as required by the Foundation,/,/,100
+2ed5e8899b4b8d7db676686168137e29a6b2fe09,/,/,    double logo in homepage just makes some noise  dropped it,/,/,100
+1cf27c819fb16509fc509e0a137874821e70210e,/,/,    removed tommaso affiliation  under his authorization,/,/,100
+a2026774f938b5bcbec26341a6ecdaf7186501b9,/,/,    include also the build branch in build number  not just the revision,/,/,100
+6ba5de18d7d315576a791112e184f099460f7834,/,/,    removed unneeded property,/,/,100
+43bf61e865bdc7bb00bf89f7fb806437adc7c8ae,/,/,    cleaned up oauth 2.0 POMs,/,/,100
+12b94f73b08c9f13b389158e6a2fd2ef0f04bce9,/,/,    moved the rap-plugin in the release profile - there are currently too many unapproved licenses that make the build failing,/,/,100
+e103da9710aec8f30c49c7c33fb9a92acb31290a,/,/,    removed overriding maven-surefire-plugin version,/,/,100
+f6584738480856cf3cf448919715b36702f3d7fe,/,/,    managed surefire-plugin,/,/,100
+ecff605a41fa4b50bc1a5bb8de47f64dec1d66b4,/,/,    updated spring framework version,/,/,100
+803d8ad7ee87acedcd70fbe4138631c89df287ec,/,/,    replaced old codebase header with ASF header,/,/,100
+6dec00d9a6581ff8422d06587b36d001caf3bdf4,/,/,    no needs to override the version  inherited,/,/,100
+f56e3568d88c9515558cf898e98f2fe9c1390e79,/,/,    replaced license header,/,/,100
+d41e8e34eab876b5db9cd99d798f9ede4735b364,/,/,    switched to 2spaces identation,/,/,100
+ecacb6087e189244118e0edc5b0d48ea1e9b79c9,/,/,    removed unused build elements,/,/,100
+7e2f8e0abfed8c285ffb616f38a4878e9de5a22c,/,/,    managed cobertura-maven-plugin,/,/,100
+93241c8c785422d29ffbb0362332045f02cec5bb,/,/,    reorganized XML elements,/,/,100
+f3a526e411b7272042268b0f6da725c0cb1a0361,/,/,    removed inherited elements,/,/,100
+e8219bf38c992291d16f4164e6c4647d67c2e341,/,/,    ASF projects won't be deployed on Sonatype repo,/,/,100
+d97b53852fdd1aca2ce0fdac665f649db98377fa,/,/,    updated resources plugin version,/,/,100
+b3bdc00c1ca6db14882d9ff4c5693ca4259684b1,/,/,    clean  deploy  install and resources plugin moved to the managed section (they don't need to be explicitly configured),/,/,100
+5714a5f7f255b2c4831d9eea627add7cd089b352,/,/,    updated maven-enforcer-plugin,/,/,100
+cbddf863a30477090977af1f92ed70daf3b9ac30,/,/,    rat exclude list made coherent,/,/,100
+c4817713b8d578bbca01096dc474cfdaaafb1f14,/,/,    plugged the apache-rat-plugin,/,/,100
+3fde22f6604355f4ec06252253f8c24c188c806b,/,/,    managed javadoc-plugin,/,/,100
+0101c09c19d765cee197f0a1f8c3e17f9bb65c41,/,/,    no need to specify the source encoding  taken automatically,/,/,100
+678bd270f7e51ec8ff1fbf2e1c9de9486b88976b,/,/,    empty line,/,/,100
+dbb486018749ccccbb23d54b9e11207f5e308da3,/,/,    no need to specify the output encoding  taken automatically,/,/,100
+e73948585d4161f7dd6935428743dc5fbabc82bb,/,/,    package sources jar just when deploying a release,/,/,100
+1e7687a288a3b54b7be598d01f03f024acf27c34,/,/,    package javadoc jar just when deploying a release,/,/,100
+6879fc28753ae09d02ca0654a63b2154a30652a1,/,/,    added the index page (with ASF disclaimer),/,/,100
+df5c0a9e9fb3df4a91f58c4765da62d7310a4f71,/,/,    declaring build first  then reporting,/,/,100
+3a7559221e20aa00a01dedd6df8271d29d0c2a64,/,/,    updated gpg plugin to latest version,/,/,100
+75a8483832102849ce46c8d1dbf4fc76f1ad18c9,/,/,    deploying sources/javadocs when releasing  otherwise Nexus won't let close the staging repository,/,/,100
+0f2e8018a2680669996e1f14200179584658d5b6,/,/,    release-plugin moved to pluginsManagement section,/,/,100
+641fcb7dbafa831f58481dab2a9d5acc011361b4,/,/,    removed implementation.build property,/,/,100
+97169c148ffd17faa3bfa7ba2d4f9c3a33bce7a9,/,/,    enhancing the build number via buildnumber-maven-plugin,/,/,100
+c97d22dd76ac593f1125e4ac1f3ba95ed51adb14,/,/,    added Antonio Sanso as committer,/,/,100
+2114b5b9999e368403b47044d521691f3006e587,/,/,    latest junit release is 4.10,/,/,100
+c47aa7e8561d8ca850d7fe8bd44ae96d1c77223c,/,/,    trailing spaces/empty lines,/,/,100
+8e5ec69667b2f25cf1fda6b1c70de1d6b79d1885,/,/,    reorganized stuff according to http://maven.apache.org/developers/conventions/code.html,/,/,100
+0988421d197506679d71f8dba7171b534a923542,/,/,    added trademark footer,/,/,100
+6f375baf4ebe9020fe367206229e84271e4b22b1,/,/,    linked project descriptor XSD,/,/,100
+1699c1e01242c1af543b86ff11e191f7dd3ef292,/,/,    switching to maven-fluido-skin,/,/,100
+cd2c76d635a466e43f83fbb755ecc236a27c9d57,/,/,    podling PMC Members are PPMC Member,/,/,100
+970f31734146755882101821947b7976d0fe93ce,/,/,    removed my affiliation,/,/,100
+629a4f9d903185a703aef2ef7e9b5a6b85768e78,/,/,    [AMBER-30] - applied patch from Antonio Sanso,/,/,100
+9d6fd7f9d12032f20f5a8c1cd7a986785d0afdd8,/,/,    [AMBER-31] - applied patch from Antonio Sanso,/,/,99.69604863
+4c76c26aecb6eb636a0d5bf5d6be81a74b34fd72,/,/,    [AMBER-36] - applied patch from Raymond Feng plus updated oauth2-common version used in authzserver to 0.22-incubating-SNAPSHOT,/,/,100
+a423244f4b3bf2f3d22051e749986568693598c3,/,/,    [AMBER-44] Add method to OAuthClient that allows sending GET request to OAuth token endpoint,/,/,100
+cf2b24c2e8235886ce2111028f78b9b17e78510a,/,/,    [AMBER-39] - new version is now 0.22-incubating-SNAPSHOT for all the POMs,/,/,100
+9565bb8233c12a94f9cf7d6ae60f53e13cc633a7,/,/,    [AMBER-40] - set the current trunk to a same version 0.10-incubating-SNAPSHOT,/,/,100
+cb3b5a284270f30ee618baa8e981338dfcf0c22e,/,/,    [AMBER-43] Missing OAuth parameter is ambiguous for a resource request,/,/,100
+1a668567f61603aef5c074a486a381491972a5d3,/,/,    [AMBER-35] Add a shutdown method to OAuthClient/HttpClient to allow graceful release of resources,/,/,100
+28a4aa304d504151a47e09d7caa908be6c8d1441,/,/,    [AMBER-34] Fix the pom.xml so that we can run mvn eclipse:eclipse,/,/,100
+cc19363fdcc62aa051745905bc024d7be508dbec,/,/,    [AMBER-23] Update svn:ignore property to ignore target folder and eclipse project files,/,/,100
+4058de469b444b1f3aa9996e2b6d1317a6d18d5d,/,/,    - added new fields to the dynamic registration domain classes,/,/,100
+f2babb051954348a941363e7f89036628d974aac,/,/,    - added domain classes used by dynamic registration,/,/,98.2492276
+cafe252cb1c326f21939732b5c927cb03a15b85e,/,/,    - added public key block,/,/,100
+992bef616f448bb0e610d40145a340677e221f53,/,/,    - new constructors in the OAuthToken class,/,/,100
+b290560958c18d4a629f19e070b23d2d73cc2aa5,/,/,    [AMBER-27] Remove unnecessary AbstractJettyServerTest,/,/,99.27159209
+37524c99be12673c1f097af99fcca0c8b2e85748,/,/,    - added OAuthToken class for access token response from AS,/,/,98.65979381
+e7b6e759b9469a16d03a320f234f6278ffaaaeec,/,/,    [AMBER-26] - OAuthAuthzRequest does not contain getState() method,/,/,100
+aee65dd8bf296cf926e0719a25dde4b2ddf7fa73,/,/,    [AMBER-21] - Update dynamic client registration module to be compliant with the OAuth Dynamic Client Registration Protocol - PUSHED metadata,/,/,91.99199199
+baf046e40ba3c57dc828174f588fcfe21f1b6e74,/,/,    - added two new developers to the main project pom,/,/,100
+795b80f9ac75724729d3c58b96c4622c2238af9c,/,/,    Temporary fix removes ref to  and inappropriate file contents,/,/,100
+980364c075c7b91e3caebde283138e877a57a40f,/,/,    added svn ignores for intellij files and target directory,/,/,100
+9aaa3506099318a07ae73aca2eae51587574f3d2,/,/,    added svn ignores for intellij files and target directory,/,/,100
+1aa5db5a4986986e2f3ddad6104c7b4d867f5d71,/,/,    added svn ignores for intellij files and target directory,/,/,100
+ac83e587c27bdd88ae1c1ee078c5cdd1e0c7d5a5,/,/,    [AMBER-16] - applied patch by Ben Noordhuis,/,/,100
+59badd8494bb763c9ec297eba71fbe786e0c2a52,/,/,    [AMBER-14] - applied patch provided by Ben Noordhuis,/,/,100
+138ffbeeee3893013f22c3be35892bec5ac0a36a,/,/,    [AMBER-13] - add methods signatures from Leelo class to OAuthResponse interface,/,/,100
+2b1e76284b6870725ec61b5ca5947ddb538b441c,/,/,    [AMBER-11][AMBER-12] - added oauth-2.0 parent pom (Amber parent),/,/,100
+3c6dbb6b6aa6139b05c819bb1dc3fb76984c5f73,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - basic pom modified for server modules,/,/,100
+e82572a5d6ab00bc044b9ff300811052de830674,/,/,    [AMBER-12]?- import of Leelo OAuth 2.0 implementation - rs-filter module,/,/,98.81656805
+ffeedcd1cfeb42db21c2c6fa0e18c5b5957cc6e2,/,/,    [AMBER-12]?- import of Leelo OAuth 2.0 implementation - resourceserver module,/,/,95.95435685
+33bfc888c49c90d020649c45b00a9f5d563e1f3d,/,/,    [AMBER-12]?- import of Leelo OAuth 2.0 implementation - integration-tests module,/,/,90.59633028
+7f1ba8ccfbdd483f6b308acee84b34404cf65c11,/,/,    [AMBER-12]?- import of Leelo OAuth 2.0 implementation - dynamicreg-server module,/,/,97.04797048
+0fab49cf3eb783c369d8674884505dcc28bb3481,/,/,    [AMBER-12]?- import of Leelo OAuth 2.0 implementation - oauthzserver module,/,/,88.27586207
+fdbb5e254d12336eb02bf551bbcf85d7dd7e2e13,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - basic pom,/,/,100
+1cbeed35911e8a365fd0bd1c16ada34e0b6bad68,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-httpclient4 module,/,/,98.61751152
+0d892d47b0e3b9f14020e56e08df43cbdb10d4e1,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-dynamicreg-common module,/,/,97.68518519
+5f6dd35ae7c07ee55d22072f0979701e140c8ce4,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-dynamicreg-client module,/,/,97.90996785
+aa4efa366b06101968abeaa460d692a573aadea5,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-common module,/,/,85.3974122
+40d5972749db6e766c92c539ec651e9198659585,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-client-demo module,/,/,94.9339207
+23fcd5e92c15cebfa01943de7ad50190cba33fea,/,/,    [AMBER-11]?- import of Leelo OAuth 2.0 implementation - oauth2-client module,/,/,80.11363636
+849fc4b20f5f25b6300df63303dfa43e6c5bea62,/,/,    [AMBER-10] refactoring amber structure,/,/,100
+94a7c6e9898a6fb26962301eda7eb6c9221d365b,/,/,    [AMBER-8] - first site version,/,/,100
+73def7ca6667a506d43c1baf899a7acdbd5e1ff5,/,/,    [AMBER-8]?- Fix site plugin version  distributionManagement and aggregating of javadocs,/,/,100
+7778d0350d70059e6d53db9ff933efaff003e673,/,/,    [AMBER-8] - fixed findbugs version and configuration for site generation  added fluido-skin as a skin  removed reporting plugin in spec-api module that is already defined in parent,/,/,100
+79d7d974185d0d45e39a3b6ef65acf2c512adda0,/,/,    all plugins updated to latest version,/,/,100
+906168ded871e4b304d80e53af957bcf5c9eac9f,/,/,    updated jar/compiler maven plugins,/,/,100
+a9f80f06fa47a817e335ddfe212e7493eecee6ee,/,/,    removed properties already defined in the parent pom,/,/,100
+b58ed13895b60242b220cee8a9b0d7736251e4ea,/,/,    fixed class headers,/,/,100
+c5623dbb845eb6fca53865312b0a406d9b5b1bc0,/,/,    extracted method to close quietly Cloaseable instances,/,/,100
+f2fe9760e304fc03eae488a89659c9f61df75423,/,/,    calling ServiceLoader#reload() means calling reload() twice,/,/,100
+a75f0c88333deb9025e687143d53ec91733a36a9,/,/,    ServiceLoader configurations are the same of ServiceLoader's default,/,/,100
+c53b36b2508594ae998c28aac14e8f831c26a6bf,/,/,    added 30sec tutorial at the beginning  updated simonetripodi PGP key,/,/,100
+5bc2886f5af2307c0f843fdc274d9c1620f0a727,/,/,    Refactoring  moving client and server related classes inside proper packages,/,/,91.51291513
+59058dc5a3662c6ad911a47d91c463e365749d93,/,/,    Maven site basic configuration,/,/,100
+651f3178fc81f5e81942e48df45252dd7e747629,/,/,    [AMBER-5]?Removing unused stale CredentialsStorage class,/,/,98.90510949
+5a53fac4c0dd4c0b002137c671ee5dfa3caa6f0c,/,/,    added the nonce generator,/,/,98.54545455
+cf66c19da564115a1233b0ef35e44bc1924debf4,/,/,    first checkin of NonceGenerator interface,/,/,99.26470588
+ee35a30f3f8564406a64a94277b9e0b72ca8f4fe,/,/,    minor format,/,/,100
+3489666b834bdfb95fdfd50cd8feb7cd0013b441,/,/,    added the parameter location (header|get|body) in the Request,/,/,97.81818182
+87494d465376f40bc978b20626d7aa4a1ea65cb0,/,/,    added simonetripodi's gpg key,/,/,100
+bd81f2b39d0ecb39ab12d83e8bef3af03cba22c2,/,/,    removed trailing spaces,/,/,100
+1d73964fa7ef001ce21d9078022751cc67c81610,/,/,    added DISCLAIMER file,/,/,100
+93f8fe411d5a8dfbe728ccb88a6dc1ed4a64fae5,/,/,    patched broken test  please see TODOs,/,/,100
+7ae5be45a6f01e9fc5f5dce151859f0fe2d0a0db,/,/,    properly renamed abstract that implements the test case,/,/,95.37366548
+ebec60824026cfb24c9fde7c68aa1bb4d702afb4,/,/,    first checkin of RsaSha1MethodTestCase class,/,/,95.25423729
+501245ff3a1e079b9113f1d8a73b3ad2582b5932,/,/,    fixed javadoc,/,/,100
+34f9ac213a9152410d0702d529b619caff27d9e4,/,/,    fixed VerifyingKey implementation  not SigningKey,/,/,98
+ba587ccefc132c36989751019b4fa6e2e31430d3,/,/,    fixed typo in he class name,/,/,98.63013699
+416970b3e0a823de3caafab12af087f7eab48aee,/,/,    moved test certificates in the proper package,/,/,100
+e47d385b1ab6b26dc31c2dfebf63ec64d159d3b7,/,/,    first checkin of RsaSha1Method class,/,/,97.71986971
+cdd2face18d327ed296d81e185e5bb12c33b2cdb,/,/,    renamed local key variable to a meaningful name,/,/,100
+8cef55a5086c0ff3349e6eb1fa8b2301bc48bfed,/,/,    fixed methods name consistency (encode|decode)base64,/,/,100
+3293fb630609223207a266c745dc72f1ea29c47c,/,/,    at some point  the type is needed...,/,/,100
+8d9c76b7f19daaca6e531afd226c639f4c23e7a4,/,/,    the parser returns directly the private/public RSA key,/,/,100
+493876bca4ccc1def5a97195d27d38a4d6beb08c,/,/,    added missing commons-logging dependency,/,/,100
+247ac94cfaab6ee25e4f69e846869b12fab56794,/,/,    removed useless beanutils dependencies,/,/,100
+a0e05cec1446cf35b32ebc6a5ad1dcae7cd79847,/,/,    defined a default toString() method,/,/,100
+3b321745a80ef7e0b685aea4a454c29fcae805dc,/,/,    added spec dependencies to client impl,/,/,100
+59e39171ce2080d1a2a5fd69cb3d034bec1b69c1,/,/,    request url type switched to URI instead of URL,/,/,100
+cfa71744fe1d9322a7bc421b516ad407cdb31e59,/,/,    modified test structure to prepare RSA test,/,/,95.33333333
+8d693256a959b9dcb060e3202637c7d5f28ba92c,/,/,    first checkin of PemRsaSha1VeifyingKey class,/,/,99.27536232
+b97459ffba1e996d8b5a5a82353e5c8079ff2408,/,/,    first checkin of PemRsaSha1SigningKey class,/,/,98.89705882
+236b0a305c1d60cefaaa876636c186861b892e3d,/,/,    fixed certificates headers,/,/,100
+2b007d9c123389e01fad665213258837f2bb2223,/,/,    first checkin of private/public test certificates,/,/,100
+4e55f054cab8ccf61c6bffc6fe0d3c9c29e0c624,/,/,    fixed target package,/,/,100
+1f7f0094c46e9007d1fecefb8a51b69997c7ee5e,/,/,    fixed version tag,/,/,100
+cd493960e9cbdeec644f24e803057d44915580f7,/,/,    added methods to load a key from classpath  file or URL,/,/,100
+53dd52ee0447077729fe458ae0001b5b3a1f69ed,/,/,    first checkin of AbstractRsaSha1Key class,/,/,98.12734082
+728085482b998a5df4e23bf35710732f27bd0460,/,/,    no needs to keep that interface package private,/,/,100
+ea7c26a42ededa8b1893125410583309ad513146,/,/,    no needs to reinvent the wheel  List<?> and binarySearch() replaced by the simple use of TreeSet,/,/,100
+769a32d8a94c64cbdd19af105965f07019c207f9,/,/,    fixed broken tests: no need to expose a specific data structure  Collection is enough,/,/,100
+e7e8c9bcca62b29b99038dc5ddb01d2f392575d2,/,/,    minor format - tabs replaced with 4 spaces,/,/,100
+1d105807a1b2c341a9f19c474972b338a2050ea3,/,/,    IAE converted to SignatureException,/,/,100
+7c8f6631eb05e7b55da94390faa25cc96e4e35c3,/,/,    added method to block sign/verify operations with unsupported keys,/,/,100
+c05844e0e215ce2cba751c38745258883292ce9a,/,/,    removed no more existent generic class types from javadoc,/,/,100
+a0a7de8fcbb1b0e79c16594955c8400b09bf28c0,/,/,    Fix test case (side effect of OAuthRequest modification),/,/,100
+61f08a54517b468ca5ae95f055f10cfef9b12f9c,/,/,    Add accessor methods for parameters; code will be duplicated in various places otherwise,/,/,97.32824427
+150bb728d84e0700f8d5e79da20df99ef4eda2ca,/,/,    Minor: added javadoc,/,/,100
+50502bb525d2336c8990f23816fce5501f73ed78,/,/,    Type erasure should mean that we can package the core/client spec API and implementation without the server spec API sub-package - the factory object impl will check the class is present before proceeding,/,/,100
+6ec73aa276f94fecbdb7e829a9bdb9dd474ee065,/,/,    removed useless packages,/,/,100
+1f795c4dca407a45233fb495d55f1204a5813aad,/,/,    successfully integrated the API specifications in the concrete implementation,/,/,64.55696203
+26c5b639eb1c1a694ec94296409b11dc123b06a8,/,/,    fixed parameters have to be included in the base string calculation,/,/,100
+482c48bd471e08459dd285623bb21a18c83bc647,/,/,    fixed license txt URL,/,/,100
+035f04f3ac9551a83606019b64b224db0b7ff8f4,/,/,    removed unneeded methods,/,/,100
+86af89cc6cdb08546db646bc41fc7fbf29c183c0,/,/,    fixed potential NPE when comparing objects,/,/,100
+b9f41449b34fc5e09a406eb152655e30b3669df2,/,/,    the expected value first  when asserting,/,/,100
+c5fccdb170c0f8320750a5df53454cb3bd961b1a,/,/,    reverted latest change  not a good idea,/,/,100
+78280f4d3f741b50e8cbdfd3c461be69f222d49f,/,/,    no needs to keep it private  it can be used when normalizing the parameters during the base string calculation,/,/,100
+86aa773a1ae56463f10d66c291c099b42fdcf73f,/,/,    classes are already final  no needs to define final methods as well,/,/,100
+764a592bbef11ff26cc94f017c182c46d734cce6,/,/,    equals/hashcode for parameters have to work depending on the parameter type:,/,/,100
+c822618033f5cbd32088b204424923c30f3d994a,/,/,    added missing token in the methods signature,/,/,99.46236559
+007af495d40ffa34e1e9c5deb727a0b26b4f2646,/,/,    dropped generics to improve the ServiceLoader-based engine,/,/,100
+e17b27f9e682305867b7c9a2eefcb032ecf7f1be,/,/,    Forgot the svn props again.,/,/,100
+c3885b22d4fc7e53fec51a955dc05e4f39084eb9,/,/,    Utilise the configuration object on initialisation,/,/,97.56756757
+2670849a51d5bc5a2323d9c97c73b6ea8f70e4c5,/,/,    Incorporate storage methods in a configuration interface  more config will be added here,/,/,97.01086957
+8a3e300c06fe8087ba1aad4abef430161d1c0990,/,/,    Revert previous commit adding storage methods,/,/,98.63760218
+ccb3323b90c5068c9753effbd34002903bec6752,/,/,"    removed ""deprecated"" *Algorithm stuff",/,/,98.64498645
+d190734670b8bac3f8280a9d9cf4f1a153bbde13,/,/,    added spec APIs dependency,/,/,100
+e75d7372de6b40885b1bfa52b268687d1e8a18c4,/,/,    realm is not required neither included in the signature,/,/,100
+00efb3f15c4e9f8cdd2b66683e464621180ca91e,/,/,    minor format,/,/,100
+c0abd8de6b47c3565be3590d779040f556189f18,/,/,    Rollback changes,/,/,100
+a911847cf90097c0d4f405d70bd0b703c571da6a,/,/,    replaced the map with collections of already defined comparable objects that will simply the sorting task according to OAuth sorting requirements,/,/,100
+331f7e227025ee9297c4f954e813156fc1aba167,/,/,    Alternative interface proposal - without generics,/,/,100
+0d906bd03fcf64f8015669d73996861b4f7ba0b5,/,/,    Adding more methods to interface,/,/,98.92761394
+06552e4c8468b0bc9c896d4f79d49601b3197bf4,/,/,    Correct @version tag to common standard.,/,/,100
+b0bb5b807bb6134d6b77f567a8c52263d369375a,/,/,    Incorporate storage mechanisms into the server API  (protected methods will be hidden from users but accessible to the implementation),/,/,98.65951743
+eb9ab2ae53ca009610a1c6e01c27ab9f7c04737d,/,/,    Set properties  because I'm an idiot and forgot,/,/,100
+e8fa8df98d219b546245b671aad33449620c57e4,/,/,    Changes to OAuthServer API  to separate authentication (authn) from authorization (authz),/,/,98.09264305
+5af7e7053614a41b51ca23ff12475a183067f608,/,/,    I think this was a typo  minor fix.,/,/,100
+2e45d26df36ac30b7c15fc2657ae4e05fde015c4,/,/,    Minor cosmetic change to simplify name,/,/,99.16666667
+433e1846a7b577f6eb0bfa65c82ee6038766ea80,/,/,    fixed values for missed parameters,/,/,100
+8955b20ce104e913f2ae5f4ef6f55345101d49d2,/,/,    adding metadata to OAuthParameter  such if it is optional or if it is required in the base string calculation,/,/,100
+a410f3a8b2e8b85b092a10846ced432e2bc679e2,/,/,    added OAuth request message and aux request message implementation,/,/,97.42857143
+e404db713bacef39e175f448cf277e4111a8950c,/,/,    minor format,/,/,100
+adae888a6b9c42e0bd769a0b7958bcdf2c0d3c93,/,/,    prototyping the server interface,/,/,97.66081871
+08f331e2f2135016ab278b942e73c71f71249137,/,/,    first checkin of TokenStorage interface,/,/,99.11764706
+bcecf718056d204b8c2590b9e30419de57cf6f74,/,/,    minor format,/,/,100
+8f7f1255d8dcee37768b8370a84887ca921e790a,/,/,    first checkin of ConsumerStorage class,/,/,98.20895522
+899d9447654bf9749242aa6620cb718a74c1d575,/,/,    started migrating server stuff,/,/,92.77108434
+93b8c250f0d73d0363fe298c84d7707ada824753,/,/,    Initial commit of KEYS file,/,/,100
+bd4b97857613ef28e890bfe56a59579f4b07fe2a,/,/,    Add serialVersionUID,/,/,100
+ab74d6c5d451bad3cae01f96ce0dcc186eea61f8,/,/,    [AMBER-4] - minor javadoc fix,/,/,100
+2b4ad6e63fef1ae0888d957b765dae2a6c1419c6,/,/,    [AMBER-4] - added hashCode and equals methods,/,/,99.09090909
+0ce3400a199c746d4214c236fa495c7921d78c11,/,/,    added missing serialVersionUID,/,/,100
+21a2d189783d1aed5fee40844a7a2689f39f39c0,/,/,    reverting it as interface makes it compatible with 3rd part frameworks (ie JPA),/,/,100
+99655732b8dddc0201d0e3155b80a01bdfb0ab34,/,/,    the same key can be used to sign the request with more than one algorithm  ie the same key is valid for PLAINTEXT and HMAC_SHA1,/,/,100
+267900f6161da93297a565eeef906fa5b290a5cf,/,/,    the OAuthSigner replaced by the the one defined in the 'signature' package,/,/,99.39393939
+01c64bf565d6c41aa38b76afee1cc453b1caf4f2,/,/,    first checkin of SignatureMethodAlgorithm interface,/,/,99.09090909
+e3b748c1f5cbf36fc05141d3a46cda49cb16cecd,/,/,    first checkin of SignatureException class,/,/,98.76923077
+e40fd36a0baccc13a069c32f3f568a056f04ef6c,/,/,    first checkin of Signing/Verifying keys used by signing algorithms,/,/,98.10725552
+63841a579637b906e298530f561d10a9388319f7,/,/,    first checkin of generic Key interface,/,/,99.35483871
+c0a40e6b7bb5e79266092e87c80d0ce6c4914e98,/,/,    first checkin of signature package,/,/,100
+ccb8336437b7dfc94bb222875c04eb3ffd85bc12,/,/,    The Token can be represented as a final entity rather than an interface.,/,/,100
+098c98d789d2509e4551a06e6b71a9945d12cb10,/,/,    minor javadoc format,/,/,100
+870a5a04e5a10fed00f5a217c2561092e1861051,/,/,    minor javadoc,/,/,100
+ea4166e7ba9fc754a0a7d3b736ceabe20f707078,/,/,    removed test resource,/,/,100
+420d769ad8022f369ddfaa28394fcac31b08da4a,/,/,    Java compiler upgrated to Java6,/,/,100
+764990dc477fcfccf78035b76b552f41f0584f45,/,/,    added missing license header,/,/,100
+57bb98fa039942c1b42b9c1ddd78a455ed47f585,/,/,    first checkin of HTTPMethod enumeration  imported from the signature-api,/,/,99.34640523
+18637fd209de4bbe3965ecd74fb7b4d1db2e760f,/,/,    fixed svn properties files,/,/,100
+b39add09e6686bdbf9f13c989a11ca957b7881aa,/,/,    upgrated the maven-project-info-reports-plugin version,/,/,100
+4aeb669b5c9fa2e9f534794560d8fa22d9777b23,/,/,    removed deprecated dir,/,/,100
+d0bd93c948a063e8241abb190d4b8c3cd6cb0e56,/,/,    upgrated plugins versions,/,/,100
+f798291fff497ec78a4f042eddb6671d1fed9830,/,/,    added missing license header,/,/,100
+2526ae416c26574bf81ea88f8195b160e8c86063,/,/,    svn properties up,/,/,100
+3cb31d97531db64bd38d8e5423bf585441766b62,/,/,    just renamed artifactId and description,/,/,100
+f2cee83e5b4113d7c814930d5d0bfd1677347fff,/,/,    removed unresolved and useless dependency,/,/,100
+c4888aa6f0502b2dbd4941b261bd7730ebdefcd3,/,/,    Add spec-api module,/,/,100
+f287ff8c29ccf00bd57e198067c323f10a196673,/,/,    Corrections to layout and source.,/,/,75
+7019690b28a935877f64a190c226466062664bd2,/,/,    Partial API proposal,/,/,83.07692308
+f3270d4b3f2add42f393b3a9b8433c3c1506dbfd,/,/,    Trying out SVN,/,/,100
+0127689c2cc8ac1cded6c2dc4346bee692f038db,/,/,    defined plugins version,/,/,100
+2c1569bf31f37d039094f8a0cb0e742131fb1ab1,/,/,    removed useless and deprecated packages,/,/,100
+89fc288062388423bf92b673919db1ebf70d1e1f,/,/,    refactored packages removing the lab part,/,/,21.15384615
+bc293707ab6e7baddf1c68efb7a7a31f0a995cfb,/,/,    upgrated pom metadata from lab to new incubator infra,/,/,100
+d0e23531fe5eed9f400b4cc1f55f859d7375d090,/,/,    imported initial Amber codebase from Lab to Incubator,/,/,100
+7d2d4a63c7c192c59e2dca435bbff636f139c834,/,/,    minor javadoc,/,/,100
+70d01a9685bc2108ec475345bb1a9a8525184c89,/,/,    first checkin of CredentialsStorage class,/,/,97.96954315
+331c68d68a3478103bf1239689e6e70045ea2011,/,/,    added the signature APIs as dependency,/,/,100
+05af103bfff4fc08ae867e8be1443b4064189d08,/,/,    a generic storage exception for all storages is enough,/,/,97.93814433
+1ebd1a27ba26a20222a1e24aa786ba06459b76eb,/,/,    minor javadoc format,/,/,100
+c8a71d4209f3a5913cd8a46ddd4da91256590ffe,/,/,    first checkin of AccessStorage class,/,/,97.38219895
+091f23cefa4e9dd2ffdc42063edf2b5731f574ad,/,/,    first checkin of Access class,/,/,98.92473118
+7bcc6d0f5252610d20bbe0cab221bffb0bfbebdf,/,/,    first checkin of AccessStorageException class,/,/,83.97435897
+9de7b2ca0bed83fa058b092bab5a92ec326617de,/,/,    first checkin of TemporaryCredentialsGenerator class,/,/,96.8
+11eef23c579f29f27bbfb85f73e41421f045c60a,/,/,    first checkin of TokenCredentialsGenerator class,/,/,98.33333333
+79ab206690fc1b167a3d5b3393a935dda8e3f72d,/,/,    implemented RSA-SHA1 encode method,/,/,100
+c405b9a931dc9ec283a2e60a90bb1a1583c0ba82,/,/,    toString() method finalized and return value modified according to used pattern,/,/,100
+514a26ead1813058b6c22c2dc697cedb06ce462f,/,/,    implemented toString method to debug the certificate location,/,/,100
+55b75c43959aef9c7c59ec61654463277861cbdf,/,/,    byte sequence to (not chunked) Base64 encoded string algorithm extracted as a method to be reused in subclasses,/,/,100
+2029503e6488b66906df29cb58ccd6dc2d725973,/,/,    improved exception message if any error occurs while signing using RSA-SHA1,/,/,100
+b0c12f885ae986e9d481ae8c76deb67cd66d5f17,/,/,    implemented the RSA encode method,/,/,100
+9b13cb32b2575fb3fd3b43504363d9d4ba21fc06,/,/,    string to UTF-8 bytes algorithm extracted as a method to be reused in subclasses,/,/,100
+a45a70502416e57de901e59627f1d3a4603d44b3,/,/,    first checkin of RsaSha1MethodAlgorithm skeleton class,/,/,100
+985085bf312d0c69e0bb69e6ce9acc7c952441c6,/,/,    added missing interface implementation,/,/,86.39455782
+a2be70dec833f63402a0f396a972b4d8f71525ac,/,/,    fixed test method name,/,/,100
+5a30a16a743bdde7bde1a9229a08b960eb57f6e5,/,/,    first checkin of PlaintextMethodAlgorithmTestCase class,/,/,98.8372093
+ca0bb3fdd143fd0aade277b0380855326f49bac6,/,/,    when encoding  string has not be chuncked,/,/,100
+2f1c54bd14ac564bb9b00ef72310f76660feea0f,/,/,    version included in the signature,/,/,100
+3321b4756523caa4b834ea8b44bf738a1313307e,/,/,    assert doesn't work with junit,/,/,100
+35c1efe89df361e7646da515d6050069b84d99c2,/,/,    added toString implementation,/,/,100
+a0332e7aaacbb6b4e8ca5b713357f3e426d2dc77,/,/,    added missing javadoc,/,/,100
+3adfb3f3892bdff89038236617eaade52af77c56,/,/,    added missing parenthesis on toString method,/,/,100
+f7f6890963d700c03edd3c9b55480a0b567b3a19,/,/,    added toString implementation,/,/,100
+7fb917417d1e19b65933f4d2ab331e43df78691e,/,/,    first working test case of HMAC-SHA1 method algorithm,/,/,96.96969697
+a2aaaf3360e7936d3864271622dce7d1a9d3a130,/,/,    first checkin of AbstractMethodAlgorithmTestCase,/,/,94.93670886
+e3df9d4c624e2c25393f622a45148267463385fd,/,/,    first checkin of PlaintextMethodAlgorithm class,/,/,93.00699301
+f7f416903a7fee8173b1142bb411d15b06af8625,/,/,    constants first when comparing,/,/,100
+aa85afee83ab618711fd4b293e9f0e95c49583a7,/,/,    minor format,/,/,100
+7be14d5780ed2dc22da3b193ef24c62df418f0f1,/,/,    added logger,/,/,100
+ee73718481af6a7ee6c8c2eb0b52135873f0855a,/,/,    first checkin of HmacSha1MethodAlgorithm class,/,/,96.42857143
+dede792e4731f3851a7653fcfe1bbcb3d47b866f,/,/,    better delegating to beanutils the reflection stuff,/,/,100
+5768e3a85ddf7378ab1afbe06a75d643888d9b4d,/,/,    percent encode algorithm will be used also in concrete algorithms implementation,/,/,100
+6243a9f43ee22e4a006c64ec51a4c4ea98d4b3a0,/,/,    reduced field visibility in the finally statement,/,/,100
+e3caf86cae34fe15b9593376c12da863a7c2b6f5,/,/,    added the message parameters for base string building,/,/,92.42424242
+506ae81fac7244fc45552ace98b679b04d8ca743,/,/,    added Parameters Normalization algorithm implementation,/,/,100
+4ed0fe4fe0ff0abbbe82aab937004d3b702a450b,/,/,    If two or more parameters share the same name  they are compared by their value.,/,/,100
+a1d9b4da694945e1b4a4e9b46668c15c59fc1db4,/,/,    refactored variable name according to the spec,/,/,100
+105264ec975d3ea4fe935cde52cedbd0c315e060,/,/,    added percent encoding algorithm implementation,/,/,100
+977121e9faa56571fe0e0299675ad2c668f383a1,/,/,    started building the base string  retrieving the method and the rquest URL,/,/,100
+a721f2475e9a40fe6f0df78a2f1cdb134bc65ff2,/,/,    first checkin of AbstractMethodAlgorithm class,/,/,88.54961832
+2bda5483b5f2899cbb35827b737c49498a53b141,/,/,    first checkin of SignatureMethodAlgorithm interface,/,/,97.24137931
+9c872077dc0a15dfb75fe287197a78510eb752bd,/,/,    no need to have abstract implementations  DERs are enough,/,/,94.36619718
+b60e658aca3b571d66e00dc4534ef718a26909b0,/,/,    first checkin of PemRsaSha1VeryfingKey class,/,/,93.98496241
+67a40729a2ea044d8853dda2be58f91c51854f89,/,/,    first checkin of PemRsaSha1SigningKey class,/,/,91.80327869
+27e7222daa69ba5a5d07d5040fc4d6e93cbb6bcd,/,/,    added javacc plugin to generate the PEM certificates parser,/,/,100
+1b8bd788198566f683fe264edc6838e9e2e8ef89,/,/,    svn properties up,/,/,100
+346138db7e5f1df11c837f1e640b457547f8b4c9,/,/,    first checkin of PemCertificateParser parser,/,/,100
+ded219dacf46c896d873c0da0802510603be8ce0,/,/,    first checkin of DerRsaSha1VeryfingKey class,/,/,90.6779661
+174d76af3413e4d8b7f9ef43d095f7ad78d4f5a6,/,/,    first checkin of DerRsaSha1SigningKey class,/,/,91.22807018
+55c221eda1e44c8414b1b9ff3f3bdd45dffda95f,/,/,    first checkin of AbstractRsaSha1VerifyingKey class,/,/,94.49541284
+20935aa3fd0116a6969745023d442ada30940586,/,/,    first checkin of AbstractRsaSha1SigningKey class,/,/,94.39252336
+bcba47a7357ed2bd8e18ab713988f737775da6dd,/,/,    reading the buffered byte array could throw an exception,/,/,100
+ab2591e66120da9463f4df73dc88d03f73a5d4d8,/,/,    no need to make the buffered certificate as class field,/,/,100
+f31b4ee64ad75a09d99b31886e752a55e0f23441,/,/,    first checkin of AbstractRsaSha1Key class,/,/,97.11538462
+c4af0fc4a4c5a42f00527971aef3f66c09be57a5,/,/,    first checkin of PlaintextKey class,/,/,98
+54881689baf14aa43a7661c644cd9c306af4be0d,/,/,    first checkin of HmacSha1Key class,/,/,95.78947368
+2513877d8dd79f3715ef3b557cdcc28db9b5fd42,/,/,    minor javadoc,/,/,100
+a309ba5fbe0fc9290f8514ce7c3cb8300b70a63d,/,/,    minor javadoc,/,/,100
+d9f74b54d5afde65e3915459274b876622a908a8,/,/,    first checkin of AbstractKey class,/,/,97.77777778
+71be5ff127ad1408324a2f1c051e20f473d163c6,/,/,    minor javadoc,/,/,100
+09bdc4c3b9fc6716fcb0545af1f8db183629462d,/,/,    first checkin of SignatureMethod class,/,/,97.6744186
+58ad6c01fb6e51225bfe4a95047df3dc2ca648d6,/,/,    first checkin of VerifyingKey interface,/,/,97.56097561
+5ea1d64845336227fb679bc9e0dc01423b6d576a,/,/,    first checkin of SigningKey interface,/,/,94.80519481
+9ad37b2a503c4ea5c60798d3fea7e57eb934639a,/,/,    first checkin of Key interface,/,/,97.22222222
+3fbe347493f1fc43c77c936b1390ba136bf7f250,/,/,    first checkin of TemporaryCredentialBeanInfo class,/,/,97.05882353
+9752ad9ec5f6dbb4944b1690193f20cb21eb15ca,/,/,    first checkin of CredentialBeanInfo class,/,/,96.875
+813d593bb6199f3dea101a054efe83511885e65c,/,/,    using the common AbstractAliasBeanInfo instead of the custom one,/,/,95.3125
+522ed1825d1bb00e83c4c0af77e2c2c8d21e704f,/,/,    added support for default 'value' property,/,/,100
+a41b051642550022d589c6fcf6b3d772c55c1996,/,/,    first checkin of AbstractAliasBeanInfo class,/,/,96.875
+98055c0409848d70b91536932290e2cdaca46581,/,/,    added beanutils-core dependency,/,/,100
+0692956fef65e3ce495cc297ae3f3a75a5dd4326,/,/,    annotated interested fields with @CredentialParameter on Credential classes,/,/,98.38709677
+ae8bebb901af07171fe01367edf26c8fbb933801,/,/,    first checkin of CredentialParameter class,/,/,96.66666667
+216d030a48e3118156a97d2e6fe47bd078a119c9,/,/,    no need to prefix classes with 'OAuth',/,/,65.51724138
+a2b3166ecabbf61c5bc09416686d83380cdc0b02,/,/,    first checkin of TemporaryCredential class,/,/,92.72727273
+0c2ca11ede75dbb84c40dd65d3d4de8996ec463a,/,/,    first checkin of Credential class,/,/,96
+19876b5ca2d7f339b36fd7ab5751397a1191067e,/,/,    first checkin of SignatureException class,/,/,91.11111111
+7fda4653767b45673317735a97f53e24d51c929a,/,/,    added flag to mark a message field excluded in the signature calculation,/,/,100
+3371c20cdf029952dec5cf5727f37622f74cb7da,/,/,    first checkin of Service class,/,/,95
+c46af4598d466def7d92f3b9e062d3da8068f4f6,/,/,    first checkin of HTTPMethod enumeration,/,/,88.57142857
+3878091e9733bad416b187cdd1d4d674682d2e51,/,/,    added commons-codec dependency  will be used for Base64 and URL encoding,/,/,100
+45f3e76588eb141b975fd3e943795ad3df41f894,/,/,    first checkin of Parameter class,/,/,93.33333333
+e0e74df20e9ca7fbb35ad9339a2c0fafc23d7319,/,/,    first checkin of OAuthTokenRequestMessageBeanInfo class,/,/,92.30769231
+bab628f22fe1313b43de46a91327d39fbfa2d460,/,/,    first checkin of OAuthRequestMessageBeanInfo class,/,/,86.36363636
+b7a2777ea8f458859ce0c9c6bfbeaa9ad684d6a7,/,/,    first checkin of AbstractOAuthMessageBeanInfo class,/,/,76.47058824
+15cb95908577e8a9bf4ac03bec73b504f86cb5d1,/,/,    commented that the message classes are not thread-safety.,/,/,100
+e9104e7697439eadf7b4103b0cf2ed0bc57655c8,/,/,    first checkin of OAuthTokenRequestMessage class,/,/,83.33333333

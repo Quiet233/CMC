@@ -1,0 +1,1164 @@
+df0e91de65cf9428f0f735065eba580e37183030,EAGLE-1102,Sub-task,Integrate CVE maven plugin,None,Critical
+b553aeeb05897df2b88a1094f7ab03b8f36b0466,EAGLE-1101,Improvement,Update merge-eagle-pr.py to support python 3.x,None,Major
+d1326e2ad2f3bdd8b995bbc82c9d5abb1106ccfd,EAGLE-1068,Improvement,Upgrade siddhi dependency to v5.1.4,Core::Alert Engine,Blocker
+7ac9421c2c27d12ae88f001866b4444310fcaa3f,EAGLE-1088,Improvement,Inconsistent method name,None,Major
+e37349c2f797cfb236f6bddd552e5b6179672d28,EAGLE-1090,Improvement,make merge-pr script python 3 compatible,None,Minor
+dba01fbf57f77c1d8773e24dc4a01ca5f238f5b6,/,/,    Update MRRunningAppMetricBolt.java,/,/
+f4370ac3394595f21d67d35ebd0afa05009712fc,/,/,    Update JDBCSecurityMetadataDAO.java,/,/
+80e2fe40e5042bcb68034b8f15ee9cfd287a2a06,EAGLE-879,Bug,Using Slack Notification throws ClassNotFoundException,None,Major
+3c6b2b7308ecc92e8aed8f3dafd16c31ed615a96,/,/,    Apply checkstyle fixes to eagle-storage-base module,/,/
+d74a82681e47212885c1d5646f162d1cf5c23593,/,/,    Upgrade jquery to v3.3.1,/,/
+68fc0668c7fc30fa0dc4c24da79c979f9500a902,/,/,    Disable DocType declarations,/,/
+6e919c2e8d20957775ed22410557a4fee83339a4,EAGLE-1081,Improvement,Checkstyle fixes for eagle-entity-base module,None,Major
+c970bb426b9460939e7283e77e2f505b6ba3c9d5,EAGLE-1080,Improvement,Fix checkstyle errors in the eagle-query-base module,None,Minor
+06a828f0806900d0e740a4ca00b83a889044be7d,EAGLE-1082,Bug,The server script can&apos;t be started from the same directory,None,Major
+b51453857c75398f024c5a18ea97f904e239442b,EAGLE-1083,Improvement,Upgrade Storm to 0.9.7,None,Major
+eaef3d6ebed34a37778e762ea40507c7490e0742,EAGLE-968,Bug,using Email Notification Feature throws IncompatibleClassChangeError,None,Major
+31706c05adfa699fdb092bd1dd563ccd799d3a8c,EAGLE-1071,Bug,Login form takes empty entries ,Core::Eagle Server,Minor
+7f4dd3b46d08a0ebf577bf1498e2d1bd6a79a600,EAGLE-1074,Bug,eagle-docker.sh uses the wrong path,None,Trivial
+6b8ed3361130d16dbb679fa37b10049d7be6b121,EAGLE-1078,Improvement,Remove references to the &quot;incubator&quot; from the source,None,Trivial
+e256503d3d240158589a3b2271ad4b0d7651d22f,EAGLE-1079,Improvement,Fix checkstyle issues in antlr module,None,Minor
+52edcd1b7bbb4965957e7942b20379453fc10244,EAGLE-1075,Improvement,Can&apos;t specify configuration options for AlertFilePublisher,None,Major
+732a8654c98b8fc8b01d669d3c9ac99657072566,EAGLE-1077,Improvement,Set the secure processing feature on all DocumentBuilderFactory instances,None,Major
+5ee33c85036d97349b2b71f1b6d08b49b525c0a0,EAGLE-331,Bug,avoid to use junit.framework.Assert,None,Trivial
+78cc24fc06cb675cc46532a89dd8eab6d767e866,EAGLE-1025,Sub-task,bump version on master,None,Minor
+5991e52fe8081453ce3bb3d6179ee03d31ae11ce,EAGLE-1051,Sub-task,Check if a publisher can be deleted ,None,Major
+1b7abb0a99feb91beafb0b53eba3502b17108cea,/,/,    [MINOR] Update README,/,/
+3c46266d8fad3cfedfd8638d450c3dc044d1695c,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/eagle,/,/
+7628ade8810aaaa1e02ec237985f43b63ce285e4,/,/,    Merge branch 'branch-0.5',/,/
+9fbc796bded9469c57e6c577403b90234e4f5b83,/,/,    Merge branch 'branch-0.5' of https://git-wip-us.apache.org/repos/asf/eagle into branch-0.5,/,/
+0b9c91b8788e166ff203e342baf1940d4bd3247c,/,/,    Add CHANGELOG.tx for v0.5.0,/,/
+dc38466c6415eec3876a19ede84d4f8b6e1ce5b2,EAGLE-1017,New Feature,New further: support for query alert of a specific machine.,Core::Alert Engine,Major
+798c2e840fb4d89a579cbf72d26743618aca143b,EAGLE-973,Sub-task,update site document content,None,Major
+06d971622b6707d37871b0ffea07b71ad1108262,EAGLE-973,Sub-task,update site document content,None,Major
+7bb0007cdab1680548d042f606dc7ee0360130c8,/,/,    [MINOR] Docs: remove incubator words,/,/
+93095296a16a72986e04a9f720fc8d5a28a181fb,/,/,    [MINOR] Docs: remove incubator words,/,/
+ba79b5485622b9de92373d612631d1b96a245287,EAGLE-1059,Bug,fix a bug in policy prototype resource,None,Major
+c930a7ab4a4fb78a1cbacd8f8419de3b5dbf1bd7,EAGLE-1060,Sub-task,remove SNAPSHOT from version,None,Minor
+53247e195cbcfc07f6a6803563b7562cd285f476,/,/,    adding missing apache license header,/,/
+ ,EAGLE-1058,Sub-task,add missing license header,None,Minor
+f20bf0eb31bd46f08ff0386dc86546bf7ae306df,EAGLE-1046,New Feature,Eagle supports policies import to a new site from a policy prototype,None,Major
+16c037b080a4ab410125663677ea1229c69a3582,/,/,    [MINOR] fix compile error,/,/
+d0f07ae3e41688b82e8e1d55aef60caa77beee4e,EAGLE-1055,Improvement,Improve policy prototype apis ,None,Major
+8c738eadad5aa020a8d93206b131cfa8d9114d0d,/,/,    using openjdk for docker,/,/
+ ,EAGLE-1057,Sub-task,use openjdk instead of oracle jdk,Integration::Docker,Minor
+ea28bccec3552c20bce40fb6584c9e0848898059,/,/,    using openjdk for docker,/,/
+ ,EAGLE-1057,Sub-task,use openjdk instead of oracle jdk,Integration::Docker,Minor
+783257bd1f188514a5595b55ea73d1621ad4d54b,EAGLE-1045,Improvement,remove scala-tools.release repo as it causes build issue and not useful now,Core::Alert Engine,Trivial
+d85ac92b39c7b005e44f8a88566abd4ff09dd51a,EAGLE-1045,Improvement,remove scala-tools.release repo as it causes build issue and not useful now,Core::Alert Engine,Trivial
+053648be16bafca31a0c9bc43d0dcc0a754050d1,/,/,    Docker updates for eagle 0.5,/,/
+ ,EAGLE-925,New Feature,Eagle Docker Image for v0.5,Integration::Docker,Major
+39ab83e625a271a2f3d55a9395c60a43c61f09da,/,/,    Docker updates for eagle 0.5,/,/
+ ,EAGLE-925,New Feature,Eagle Docker Image for v0.5,Integration::Docker,Major
+9a844290b67db50f7d7924147e322b47c60a8a61,EAGLE-1056,Bug,Fix a link bug in the email template,None,Minor
+aa136afa9e99381835356f647daccbf6b7a8be9f,EAGLE-1056,Bug,Fix a link bug in the email template,None,Minor
+a51bf5e1ab054fbd03d7679e48847b9caa85ebfc,EAGLE-1053,New Feature,Support typeahead in Eagle UI,None,Major
+a4f953516248df6eccb65014c712f385a36e3d26,EAGLE-1054,Bug,Publisher delete don&apos;t close the dialog,None,Major
+ffbcfb372fccbf8bedabad620817ba302a728584,EAGLE-1048,Improvement,Delete an alert publisher on Eagle UI,None,Minor
+092ddbe487e8c9262df449cac453336abc639068,EAGLE-1044,New Feature,Support policy import using a policy prototype,None,Critical
+62d5530f7d598c91108748784255ec6a28fc93b2,EAGLE-1047,Improvement,View all alert publishers on Eagle UI,None,Major
+dd61a490ebbbbc5c30dbb457aee72bf4a5fc225d,EAGLE-1049,Improvement,Support metric filter in the metric preview page ,None,Minor
+737cf467fe32af4e27d426b37768817b8604bef6,EAGLE-1043,Improvement,Chart component display date info,None,Major
+2398c7b7e6159f48468bacd468c02a51f6c13a6b,EAGLE-1039,Improvement,load alert de-duplication configuration in the page edit page,None,Major
+a260c9efeee7ef11fd1b756d15e264547b5f526f,EAGLE-1041,Improvement,Support policy processing pipeline,None,Major
+f7994cd2f586ebba3fa3005783c3911f929b3fb8,EAGLE-1042,Improvement,Metrics preview support metric name display,None,Critical
+e963abeda31db0f561b401cebe0709a551afdd62,/,/,    [MINOR] update eagle-assembly/src/main/doc/README.md,/,/
+e2fbb861389ebfeb7d0c96743f7a79b185857e43,EAGLE-1038,Sub-task,Support alertDuplication customization for each policy ,None,Major
+1db33df5ab97e91e60711b512f5177142123a1b2,EAGLE-1037,Sub-task,Add alertDeduplication configurations on Eagle UI,None,Critical
+a37d2e1bc3082507ed2bad41e33920ac6ebc42ea,EAGLE-1032,Improvement,Add policy duplication settings in the policy definition page,None,Major
+d6d859fbdbd8d3d86cd4595303a9101d0ae0dddd,EAGLE-1029,Bug,Wrong groupSpec is generated when more than one alert engine topology ,None,Critical
+1fb60cc762da24625f37c599c2ea89d693adad67,EAGLE-1029,Bug,Wrong groupSpec is generated when more than one alert engine topology ,None,Critical
+f02b6df19df1caa69ffc142f5e89236b5a172abe,/,/,    MINOR: enrich MAP_REDUCE_JOB_STREAM,/,/
+cf3e0b21d1c5cd73ceb63595d0f07cab4ec68b5c,EAGLE-1023,Improvement,update Hadoop jmx metric collector scripts &amp; fix bugs,None,Major
+e8a58b66f1fce57f1f73f9d97e1aaf2944e69a74,EAGLE-1023,Improvement,update Hadoop jmx metric collector scripts &amp; fix bugs,None,Major
+43bd197d6a2fdbb3781cf7d91928be404ae941aa,EAGLE-1024,Improvement,Monitor jobs with high RPC throughput ,None,Major
+af9b056dc453f46c6a2aeb92d8dd6fe503f1b577,EAGLE-1016,Bug,Mysql table eagle_metric_eagle_metric_schema is having issue,None,Major
+3e62a756c6c7991fa3f1901e2d807fbd9c182788,EAGLE-1022,Bug,Configuration parsing exception in SparkHistoryJob app,None,Major
+7d39863f48916116e99cdff98527e60f9379a475,EAGLE-1022,Bug,Configuration parsing exception in SparkHistoryJob app,None,Major
+7111b7656e28fa2e30dc2dfdbb79e53a75c20f45,/,/,    [MINOR] Sync 0.5 branch with master branch changes,/,/
+342df9974c91f845608c9ff3c65b8c1818d56884,EAGLE-1021,Bug,JPM overview OPS should use sum instead of avg,None,Major
+845f891517a2befccb73267c54fc08f8dc2c811a,EAGLE-1020,Bug,JPM UI overview page OPS unit error,None,Major
+31aa29f593c7adeda50c755569a59493152d3e60,/,/,    Merge remote-tracking branch 'origin/master' into branch-0.5,/,/
+8da06636b8e3834f7bebf6b1af923ad24b7d6d8b,EAGLE-993,Improvement,add duplicate removal settings in policy definition,None,Major
+47f00f159231958fb39748b4a6a01c4520371dec,EAGLE-1015,Improvement,Add an interface to add storm configuration in an application,None,Major
+eaad6cf74c896a97a061a3f600a0ec64a95c0963,EAGLE-1014,Bug,No data in alertEngineSpout - handle exception,None,Major
+84d40ae6f7eb50214de231b4f9744a034cff1a4a,/,/,    Add license on service.sdl,/,/
+e3afe444f59d3117fbe9d778120a47c411e2aa99,EAGLE-1009,Bug,`return` inside `finally` block may result in losing exception,Project Infrastructure,Major
+b4d07113933aa79e8575715370b08ef79c287444,/,/,    MINOR: rename 'HbaseServiceInstance' as 'HBaseServiceInstance',/,/
+8b402e7cd003e13d95cff19b75b6d205b45f3299,/,/,    [MINOR] Add license and exclude file end with sdl.,/,/
+3b66c0d3c710b7c64be7839c0246218edf806e8b,EAGLE-1008,Bug,java.lang.NullPointerException in JHFEventReaderBase.close,None,Major
+cc5d23baed2a30bafc31bba713cc1dbffed86971,/,/,    HBase Naming that unify `Hbase` and `HBase` into `HBase`,/,/
+ ,EAGLE-992,Bug,HBase Naming that unify `Hbase` and `HBase` into `HBase`,App::System Metric Monitor,Minor
+391c6723b3281ac0a4f41b1f87760216dfa08102,EAGLE-998,Improvement,Add eagle csd,None,Minor
+d182819d8d72276d3ae29b3904007d0f01ce8c15,/,/,    [MINOR] fix metix heatmap chart size bug,/,/
+ecb5129ec5b1ccc2be528a3ae98d94754a3b92df,EAGLE-982,Bug,The log length has exceeded the limit of 4 MB in Travis,Project Infrastructure,Major
+fc7281d715f57f2f911079d24f5c09b1f79c50cf,EAGLE-1007,Sub-task,Fix memory leak in ExecutionRuntimeManager,None,Major
+31f2582da42c0c4cc75bf5c93edacab603a30b89,/,/,    [MINOR] adding myself in developer list as a first commit,/,/
+d20f2e1162f986c66fd5e5e23c85a22aabd5d417,/,/,    adding myself in developer list as a first commit,/,/
+c243f4161d9ac62e9cb8af90c604ca5452afd7cc,EAGLE-1001,Bug,Compare Chart of JPM detail isn&apos;t sorted in the horizontal axis (time domain),App::Hadoop JMX Monitor,Major
+9b488f1fe8d0db7974241c46c8883443c18a9394,/,/,    [MINOR] Add Java Object serial file to rat plugin exclusion,/,/
+e8d572dc1630e024a270fce1e04a52b885d935a9,EAGLE-1002,Bug,Can&apos;t display every hour detail in Hourly page,App::Hadoop JMX Monitor,Major
+01553a34639423621b534bc9837dea4cf4c71b4b,EAGLE-953,New Feature,Host-level Overview Heatmap Diagram for Topology Monitoring,App::Hadoop JMX Monitor,Major
+4ff4d628f52b88bc3fc9b570abe1446f525a1e16,/,/,    MINOR: refine app config,/,/
+b5d729bd75f817390df9dd127ba1004b23c31b2b,/,/,    [MINOR] add copyright of mkdocs to LICENSE,/,/
+7c0d83f3c4847dac450ba505153a5bf17d30fd73,EAGLE-999,Bug,JobConfigSerDeser fails to serialize/deserialize data with long string ,None,Major
+20b4bea3edc12e95ed0056594e630564e28fd4a9,EAGLE-986,Bug,HBaseStorage unable to deserialize Deserialize from java object bytes,Core::Query Engine,Major
+29b79761477311367cf42e2bf2f213c0d3a08ab1,EAGLE-989,Bug,Fix HA check bug in HAURLSelectorImpl ,None,Major
+0c52711b897a4fd6d5aaf7330e89572582f1d189,/,/,    [MINOR][DOC] Add oozie applicaton installation doc,/,/
+ee55054a7a5de8e20abecf0dc233c312a70d2e98,/,/,    [DOC] Merge doc source,/,/
+dd2c098888d5850adececc03c4a4f563aab4f7ff,EAGLE-987,Bug,Job Comparison Page throw error in dev console,Core::UI Engine,Major
+8b40dae567b2cfc68d3507af0adb67cd968000a1,EAGLE-988,Bug,Can&apos;t sort by Duration in Job Details Page,App::Job Performance Monitor,Major
+c01a258b6f9b8fa0ca340b605e7ef942b95c3afd,EAGLE-971,Bug,Duplicated queues are generated under a monitored stream,None,Major
+a64b622cc086198a2ae056cc9cc59fab8b4f628d,EAGLE-978,Bug,Queue capacity exceeds 100% on Eagle queue page ,None,Major
+ ,EAGLE-964,Improvement,Add a column &apos;severity&apos; left to description in policy list page,None,Major
+ ,EAGLE-978,Bug,Queue capacity exceeds 100% on Eagle queue page ,None,Major
+8e76d34ea30bafc6d02c818319ac547ef132a4dc,EAGLE-977,Bug,Duplicated entities are generated by TopologyHealthCheckApp,None,Major
+4e228a8ded607a9e77676e7f48463a02d1145022,/,/,    [MINOR] Fix Topology Check system config thrown NullPointerException bug,/,/
+812002740cd6acea8c5e4b2f0e2267e47668aa10,/,/,    [MINOR] Fix regionserver datanode dashboard datetime picker exception,/,/
+3fb7ff27d4011a4a93e349df63099766486b37cb,/,/,    [MINOR] Fix transform metric exception problem,/,/
+368197f622b83ab342f1e245b318815fb8a96df0,EAGLE-970,New Feature,Alert list page show alert trend,None,Major
+673a81e440914ca292b14b26ec2eb8b757a01e8f,EAGLE-872,Improvement,Transform counter metric to rate metric,None,Major
+0cda01b58f4a4bb06a1ab71bae597fdc4f7c39cf,/,/,    MINOR: fix bugs in HadoopYarnResourceUtils,/,/
+95a506b441829a617d0a0740fafa02b9ce0a9cab,EAGLE-934,Bug,update packaging to use new configs,Core::Eagle Server,Minor
+4e8d8c2053749193e88b49e82a07dfb2bb2edd6e,/,/,    MINOR: change UserPrinciple into User in JHFSparkEventReader.java,/,/
+c616c22c0049a91b602bdb1d64963cae712081df,/,/,    [MINOR][DOC] Add slack information in README,/,/
+5630417334c64e36c0573f71677af34d39ec5d35,/,/,    [MINOR] Modify some type error.,/,/
+d9842b75c6622bce09c45f1cdd45113105f2854b,/,/,    [MINOR] Fix jdbc depenency problem in package assembly,/,/
+84d661e65e6232e62450ecbceb520e25e9d13b8a,EAGLE-961,Bug,Text could  go beyond job list widget,Core::UI Engine,Major
+0d47184a6bd5f6f1d6b28095acd2267cd41c3945,EAGLE-963,Bug,Job duration conflicts between job list and job detail page,None,Major
+1e7250d8e4ca942bbb3dde8ad37d9d0f5b31d614,/,/,    [MINOR][DEVTOOL] Fix eagle-dev/checkout-eagle-pr.py for git repo changed,/,/
+a1c6a3948c574e646e89ceb77396f35d9d49fad7,EAGLE-960,Bug,Fix email template link problem,Core::Alert Engine,Major
+c96c1927ecb59b670cf7461841b30cc41e9b27ec,/,/,    [MINOR] fix system-metric-collector collect disk info bug,/,/
+877d3e77b18c162455d1970a0cff9d5e04dc44b2,EAGLE-952,Improvement,System dashbord,None,Major
+fa713a48eb15d75bf596fcbe5e50cd9859cb5259,/,/,    fix some hdfs dashbord problem,/,/
+ec52457cdda61be2d26c1f08935198447bde3d86,/,/,    MINOR: change the rest api for testing resource manager HA,/,/
+b31b5470ec8a58fc97b7b02909cf69221c50eda0,/,/,    [MINOR] Add analysis_jobs  analysis_email metadata into metadata-ddl file,/,/
+b1f6b35286e5077b47dfea5d5c5e5071522fd98f,/,/,    [MINOR] Fix query criteria in hdfs dashboard.,/,/
+33ad0a58b34745afb01887f7b042811f042cfb61,EAGLE-959,Improvement,Add a configuration to limit the total number of apps to be returned in SparkHistoryJobApp,None,Major
+0071c79abfd9d6535fe726721c0a17286b29af43,EAGLE-940,New Feature,Hdfs RPC monitoring for per cluster/user ,None,Major
+ab5bf1076e3d199edfe58659fb9b14904d63ac8f,EAGLE-957,Sub-task,Metric Explorer and Customized Dashboard Metadata Part,Core::UI Engine,Major
+3fe637eb573c0d8aa85420c5d6101efd6aef13e4,EAGLE-946,Improvement,Refactor MRRunningJobApp &amp; HadoopQueueApp ,None,Major
+93f83f4a975dd3303f776c4fc9b3da8a53384aa3,EAGLE-949,Improvement,JPM support job level suggestion,None,Major
+9066920586174c2ba967fbd2434a21fa5b8353fa,EAGLE-947,Bug,Publishers with same policy but different schema could produce duplicate alerts,Core::Alert Engine,Major
+7e41ed0b9d9c6bcbd5fef156ae5ca1cdc7e16c28,/,/,    [MINOR] Fix metadata updating bug by impl equals/hashCode,/,/
+a71a36bf4ea212e23ac21c117adae51568e13295,EAGLE-951,Improvement,UI adjust,None,Major
+56c2b8a6f828e36eb399a780a7705000222475e6,/,/,    [MINOR] Fix AuthFilter to support REST Stream Proxy,/,/
+d5dce2b3498960417da498895e3f2d9c4241f66b,EAGLE-950,New Feature,Add REST Stream Proxy for easy integration with Eagle Alert and Dashboard,Core::App Engine,Major
+dd16620e235478b27e83565432ac2c98d070a175,EAGLE-945,Task,JPM support queue level overview,None,Major
+1085dae698371fd58f60c2aa728430edfef916b8,/,/,    [MINOR] fix sla job timezone issue,/,/
+ ,EAGLE-851,Bug,Add validation for policy name,Core::UI Engine,Minor
+b6165aab3dabef98c2ed7c2d3fe7ae7f58589c5a,EAGLE-944,Test,UI remove useless css import,None,Major
+1accc24def11259d863b86261d69b53b5e3e7db2,/,/,    [MINOR] fix project css miss,/,/
+25dfff7b092c7a65df167ba8e98094d2c0306721,/,/,    [MINOR] optimize sla publisher,/,/
+ ,EAGLE-850,Improvement,fetch node usage from name node/resource manager jmx,App::Hadoop JMX Monitor,Major
+af6dd7d4c039d5a55cf223102a05693e7c26adea,/,/,    [MINOR] fix null pointer exception for sla jobs,/,/
+ ,EAGLE-849,Improvement,System metric collector python script,App::System Metric Monitor,Major
+d766f68152d6cd120d3d0487907f7ee85f7a614a,EAGLE-935,New Feature,send alerts if finished job duration exceeds average duration,None,Major
+c75eadd44d097df3e6ff830ddaebadbf7751a637,EAGLE-943,Improvement,Return topology builder to enable flink-storm topology build.,Core::Alert Engine,Major
+287a1c109c003140959781870222b608778524e2,EAGLE-923,Sub-task,Integrate role-based Authentication in UI,Core::Eagle Server,Major
+8d79f0888eac4e3380bc094907c0ea7728dccbae,/,/,    [MINOR] Fix BasicAuthFilter when username/password is null,/,/
+a8d82d55f53a25d24cdab45c4b59a24007e9085e,EAGLE-932,Improvement,Support group in stream definition,Core::Alert Engine,Major
+75a92dcf6ef57321ac1d7bd32a4756520da08d27,/,/,    [MINOR] Add Authorization into Access-Control-Allow-Headers header,/,/
+605e53a9004b357aa04d0fb54f73ff1cfe3ae6e2,EAGLE-941,Bug,Time range sync with timezone,None,Major
+07990e3e7cbda78babada5dfe2b7295e837115a0,/,/,    [MINOR] Fix jslint of $notification,/,/
+1c90aa46d23e8ed2f35bddc37e34900392060dac,EAGLE-930,Task,UI Notification support,None,Major
+7bfe55de7bf37242a0c60b47f3759fe706ff44b1,/,/,    [MINOR] add string:listSize siddhi extension,/,/
+ ,EAGLE-848,Improvement,eagle should log proper error instead of dying,Core::Alert Engine,Major
+6e0fc410d4d148eba238c86d3bb7b2be507f6d82,EAGLE-928,Bug,Refine system metric schema design and fix system metric collector,None,Major
+97ae1da52d09d8c22b37a63b53dac0649b2c024f,EAGLE-924,Bug,urls to healthy and unhealthy region-servers in hbase dashboard is not accurate enough,App::Hadoop JMX Monitor,Major
+af33ae3c364aa3edf57df5469c97ab28cf0ce3c1,/,/,    [MINOR] support sequence in policy definition,/,/
+ ,EAGLE-847,Task,UI sync time zone with backend,Core::UI Engine,Major
+a42f7891c90e654a6a74283f1eaedddd531ad39d,EAGLE-929,Improvement,UI Policy definition stream group use group name,None,Major
+086d11e1ddc0f00f5209d4b74086dd6a920eaa85,/,/,    [MINOR] fix unit test cases to get rid of creating file.bin in code,/,/
+5ec75f2abce494d01319998c3970301c991960bd,/,/,    [MINOR] Fix ServerMain CLI,/,/
+75586658ba1aa202ee0ebec8c4cc52546cb0aae2,EAGLE-926,Bug,Alert engine fails to support more than one stream consumption from an application,None,Major
+3011fdf845e429d842e528ff00a4a7b7b55038e9,EAGLE-927,Improvement,add jmx resource info to Hadoop JMX Monitor,App::Hadoop JMX Monitor,Major
+051dc69c5cc50bc354e72a4951472ae2c9a25524,/,/,    [MINOR] Add kafka log4j appender integration test cases,/,/
+167ec0815db237b787cfeb7b3eea1c74ff5a39e3,/,/,    [MINOR] Support source_host aside host in metric collector,/,/
+610b9f2ecc1221c6aee2243615860a86a3e16593,EAGLE-908,New Feature,Hdfs JMX Monitoring Dashboard,Core::UI Engine,Major
+86eed4f567f82fdbf3b53014837ec0eb847a7f28,/,/,    Merge branch 'master' of https://github.com/apache/eagle,/,/
+81ad0311d1b402a28d9ef5644f5c7115af6f7dbf,/,/,    [MINOR] Fix RAT on class BasicAuthRequestFilter,/,/
+b1c8f2442345eaa520dee5ac5f7adfaaa69bb0f1,/,/,    [MINOR] fix jslint check,/,/
+e220ae1fe28c0698fca1987694eb2bf3e61c8ca3,EAGLE-919,Bug,Fix mr history null pointer exception when counters are null,None,Major
+94b597b774464d33c30b290538a4231075a363e1,EAGLE-918,New Feature,Improve eagle auth framework to support @PermitAll/DenyAll/RolesAllowed/Auth,Core::Eagle Server,Major
+a7df69e3ad19ec43f59a9592cf399cd86d6fa418,EAGLE-902,Improvement,Add JDBC data storage dependency into eagle server module ,None,Major
+ ,EAGLE-273,Bug, Issue with creating MySql tables   only 14 were created out of 24  reason being varchar(30000) for multiple columns lead to exceeding the maximum row size of 65 535 bytes.,None,Major
+ ,EAGLE-902,Improvement,Add JDBC data storage dependency into eagle server module ,None,Major
+c6866e5fb57cd5c4481158d5b492f30abbc5c90c,EAGLE-916,Improvement,UI alert detail pass timerange,None,Major
+c32b7152595bb074745523cfd9d829484458d90e,EAGLE-900,Improvement,Only show left navigation item (HDFS  HBase) when we install the JMX application,App::Hadoop JMX Monitor,Major
+c0198a0cea7d3aca506b3252b045e24ce90f5921,/,/,    [MINOR] fix job error mapping flush bug,/,/
+ ,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+271fa7ff56897d8d148c25896284cf835ca7fac4,EAGLE-911,Improvement,Have mongo metadata dbname configurable,Core::Alert Engine,Major
+278fe87b175f308b1cb49a3cd8d5f4945a0a711b,EAGLE-870,Bug,NoClassDefFoundError while running storm topology for alert and MRrunning,None,Critical
+9f4649d1abe65fa9ee7f626825aae52db8f78bbb,/,/,    [MINOR] fix mr history null pointer bug,/,/
+ ,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+3fe82b81768887b42b019c43178887261f984a9b,/,/,    [MINOR] add Job error category and error message mapping,/,/
+ ,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+45a6493999853328b89c16cd1dbc462a4315953a,EAGLE-917,Improvement,add Job error category and error message mapping,None,Major
+4a5c4a43c1c38bea07867306028e5f3a4b856552,EAGLE-915,Improvement,Fetch accepted MR jobs to assist queue analysis,None,Major
+a27289fd3158f5c8cf8398b24d1a102a22d3ea5e,/,/,    [MINOR] Support /streams?siteId=SITE_ID API,/,/
+c85056736b9d41df17dd895ecf9cb66ecce2f433,EAGLE-914,Task,UI move alert &amp; policy to site spec,None,Major
+579e83f5f78b79e61569d64708b895985ba1d72e,EAGLE-912,Improvement,make application health check message more readable,None,Major
+3027e5fbc7d30f938371c17caddb3b2d91ad5b54,/,/,    [MINOR] remove useless code and fix fetch running job config time out,/,/
+ ,EAGLE-844,Bug,Potential NPE issue,Core::Query Engine,Minor
+73d03b9e5b534a737e0fb96bd2f09e4c51591321,EAGLE-910,Improvement,UI merge side bar item if same name,None,Major
+db26c1cf140e2bd6bb2961de33cd57a3825800e3,/,/,    [MINOR] Fix TestHdfsAuditLogApplication by support await RUNNING,/,/
+71522d95648d93cf8791c4a4112d3756a0b601bc,EAGLE-909,Task,UI Policy definition require siteID,None,Major
+255f00f177f007f5aae32a39de60327f1b8d413d,/,/,    [MINOR] Revert index.html,/,/
+26e1f067704e5059b4c71fddacd29c0fb3f51335,EAGLE-866,Sub-task,Refactor HBase JMX Metric with appropriate navigation path,App::Hadoop JMX Monitor,Major
+d9bb79952283c07f2682fd91f9f04ccbcfd4fd42,EAGLE-898,Improvement,Show jmx dashboard background first  then render the chart as that in JPM application,App::Hadoop JMX Monitor,Minor
+ ,EAGLE-899,Improvement,Show two charts in a line by default,App::Hadoop JMX Monitor,Major
+ ,EAGLE-898,Improvement,Show jmx dashboard background first  then render the chart as that in JPM application,App::Hadoop JMX Monitor,Minor
+ ,EAGLE-899,Improvement,Show two charts in a line by default,App::Hadoop JMX Monitor,Major
+ ,EAGLE-898,Improvement,Show jmx dashboard background first  then render the chart as that in JPM application,App::Hadoop JMX Monitor,Minor
+ ,EAGLE-899,Improvement,Show two charts in a line by default,App::Hadoop JMX Monitor,Major
+ ,EAGLE-898,Improvement,Show jmx dashboard background first  then render the chart as that in JPM application,App::Hadoop JMX Monitor,Minor
+ ,EAGLE-899,Improvement,Show two charts in a line by default,App::Hadoop JMX Monitor,Major
+077e27b236c4b31454a45bb66a7372bfcd01e13a,EAGLE-889,New Feature,Add two restful APIs for Hadoop running queue to query top N users or jobs ,None,Major
+4ed406abc69f47321e54c53fd809a6888719151d,/,/,    [MINOR] Add hadoop_jmx_metric_${siteId} to support dynamically changing topic name,/,/
+5628dca7f666d174224be3bab8d930f2d83a385e,/,/,    [MINOR] add missing task error category,/,/
+ ,EAGLE-843,Improvement,Refactor application shared service registry framework,Core::App Engine,Major
+000ac3c0012c79f6eb1f6d7384a254a1e5f8ac9c,EAGLE-901,Improvement,UI Alert view support site filter,None,Major
+49ca3b0ec481f6fcfbf339cb6d3b63b4dede1011,EAGLE-895,Improvement,Improve alert engine metadata to organize by siteId ,Core::Alert Engine,Major
+7681287cb2e3b841f7d35a9d1c760d840cca676c,EAGLE-897,Bug,HBase JMX Widget Url is wrongly using siteName instead of siteId,App::Hadoop JMX Monitor,Major
+83d9c8277b32003fceacf755df37ada1963c536c,EAGLE-896,Improvement,[UI] Add site group/filter for policy definition and remove inputstreams column,None,Major
+67c170f9354a56a65efc31ed0413abc75724bb88,/,/,    [MINOR] add N/A of jpm widget,/,/
+ac577675017a6ef437b8a774aa2c0e43cc973502,EAGLE-892,Bug,MRRunningJobFetchSpout throws NPE when there is no apps found,App::Job Performance Monitor,Minor
+1cfff2b9a9ade5dd7c9fd1b9c5e8f5928963da85,EAGLE-868,Sub-task,Refactor metric chart render process to improve user experience.,Core::UI Engine,Minor
+f9bce30848b5bb688d9ec264e5bdb160b610a18f,EAGLE-864,Sub-task,Make sure &quot;HBase&quot; nav active in sidebar when visiting hbase monitoring web through URL,App::Hadoop JMX Monitor,Critical
+efeda20085ceec841195cd4697c017549369398a,EAGLE-873,Improvement,Add job name column to let user search their jobs using that field,App::Job Performance Monitor,Minor
+ce53540f3d3128ed9aeec2112d184fa214edca45,EAGLE-884,New Feature,JPM support queue view,None,Major
+5e4c937e3479a09b7a21cd5176b7b2ebdd6c8287,EAGLE-882,Improvement,Stream leaf RunningQueueAPIEntity into Kafka for queue monitoring,None,Major
+031835c772a87f1ca5228a409b21145caad79ff4,/,/,    [MINOR] Change default-rack to /default-rack,/,/
+dbec60fc1120317d436270a43e5e8a4caa7503f6,EAGLE-883,Bug,Users in RunningQueueAPIEntity is missing due to misconfiguration ,None,Major
+9381c2d17e3e10a02e9f0f359a05d0728ee17752,/,/,    [MINOR] fix small bugs in MR job performance monitoring,/,/
+eae6e8f11367c397c3a9ce39f2c59cf341f33847,EAGLE-859,New Feature,MR job performance suggestion,None,Major
+015d577883f72707d7c38015840607be4ae226fb,EAGLE-876,Bug,TopologyBaseAPIEntity comparison should consider rack info,None,Major
+9c71b0ea05d3dcec51024873667865c695075ac1,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+6537254848d21a730833bfe2e6bc5c8f82069e7a,EAGLE-877,Sub-task,Rename metric &quot;hadoop.hbase.ipc.ipc.*&quot; to &quot;hadoop.hbase.regionserver.ipc.*&quot; to support different hbase version metric,App::Hadoop JMX Monitor,Major
+2cc61baa57ca0293228b6f788747f9326cf7bc38,/,/,    [MINOR] Handle series if no data,/,/
+1550c8954b23b443ac41f6d13a7caa02d2a6af6a,EAGLE-863,Sub-task,Refactor Topology Monitoring Widgets,App::Hadoop JMX Monitor,Critical
+ ,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+2534a34c5087a30ea95c8baeed90d485ae5777ac,/,/,    [MINOR] Refactor Percentile Chart for Assign  Bulk Assign and BalancerCluster,/,/
+ff31d571790b97cc9ddd1174b53f6f46307f71ad,EAGLE-865,Bug,logger class mismatch in MapRFSAuditLogParserBolt,None,Minor
+e38c19e135ec649b0816fa016e24800ba0b4a7d6,EAGLE-869,Bug,Fix MetricStreamPersist bug: no tuple pass on when batchSize &gt; 1,None,Major
+2160673c81af3ee850f9cb514104421e8b6b74dc,/,/,    [MINOR] Fix unit test cases caused by forcefully using fasterxml-jackson,/,/
+14f7f3fa3c08abab9babe72387cbb4d36dc383d3,/,/,    [MINOR] Fix license header missing in eagle-jpm-analyzer,/,/
+abdeb3a369717dd4c23bff7f2dcb938bc3dfb98e,/,/,    [MINOR] Rename Overview to HBase in hadoop jmx dashboard,/,/
+74d722406dd776c0d1a3c1065ad80b0c6637236e,/,/,    [MINOR] Change AlertEagleStorePlugin in sql file,/,/
+71c1f95a46fef70bff42cf0b1db56cfc3f6b1d3c,EAGLE-860,Bug,TopologyDataExtractor can&apos;t extract right rack info,None,Minor
+0a4299766b852b82e33b02b5194a106998f9f4d8,EAGLE-782,Bug,Upgrade org.codehaus.jackson to com.fasterxml.jackson,None,Major
+3523480c458b475763bf27c21c9f65929abeb478,EAGLE-851,Bug,Add validation for policy name,Core::UI Engine,Minor
+0622ae1f402d834753db6a7eb7312b9a6a29cce8,/,/,    Typo fix,/,/
+2a2b07cb960032ec17b48968b02af030d0954c7a,EAGLE-852,Bug,Application start button should be disabled when it&apos;s running  and the same for stop button ,None,Minor
+3af9ac4802a9dec2f2160aa98cd3b90287e14d48,EAGLE-849,Improvement,System metric collector python script,App::System Metric Monitor,Major
+b4695801f6c93ca0991fd9758c470b784aa8c781,EAGLE-797,Improvement,MRJobParser fetchjobConfig should continue when parse throw exception,None,Minor
+2adbbf59f23b7088cf60fa4e82540b4017c3693d,EAGLE-858,Task,JPM support task attempt info,None,Major
+0d4f109fa51d2f1c409e8335f8c4e5d48a66a87b,EAGLE-855,Task,UI support metric preview,Core::UI Engine,Major
+18424b9f5f6ceaa54a5574eda391b19d4a4e3e57,/,/,    [MINOR] Fix unit test problem,/,/
+02d6cce73679ce90fe610dbdb30fd1cbdd062897,/,/,    [MINOR] optimize mr running job list api,/,/
+ ,EAGLE-842,Bug,mr running job count in zookeeper does not match the number in hbase,App::Job Performance Monitor,Major
+c9c475e2a6b6e3406764c5d7fbfa44a3c5eeead8,/,/,    [MINOR] Refine hdfs log throughput monitor,/,/
+257a3517bf0b191dfe931c21232810f65cfc5a63,EAGLE-845,New Feature,HBase JMX Monitoring Dashboard,Core::UI Engine,Major
+d2fee6e6ff319f6a35e4c8209bd89d2d4e864c5c,EAGLE-687,Bug,When creating sites in UI and metadata storaged as jdbc  the field &quot;Description&quot;  can&apos;t be null,None,Minor
+8b3729f97f73901ad5fa70a79ff7b6a8a19f0659,/,/,    [MINOR] Migrate 0.5.0-incubating-SNAPSHOT to 0.5.0-SNAPSHOT,/,/
+ab50e62acb2483dd009d87b2d68814e13e3e3d92,/,/,    [MINOR] update SparkHistoryJobApp & TopologyCheckApp configs,/,/
+77fbff720145e08e5ea6ad30117317ef5b1e031d,EAGLE-846,New Feature,HDFS Audit log traffic monitoring,App::HDFS Audit Log Monitor,Major
+62f8c78d39f1e80fa2f04c1ec2dc9606138c28f8,/,/,    [MINOR] modify eagle-dev/merge-eagle-pr.py  changing urls from incubator-eagle¡­,/,/
+91a63d583601a141768b154685434a2cf6fecf0a,/,/,    [MINOR] Update links in merge-eagle-pr.py,/,/
+231560ad3eb11678d489923b03c4a017d307e8b5,/,/,    [DOC] Remove out-of-supported docker and refine README,/,/
+89d136ae927bc1c32fc5d05175258bc44e921227,EAGLE-820,Improvement,add unit test for eagle-jpm-mr-history,None,Major
+ ,EAGLE-775,Sub-task,add unit test for eagle-service-base,None,Major
+4f4a7a3b349f005c4eae5642ba7ed8006235cf61,EAGLE-847,Task,UI sync time zone with backend,Core::UI Engine,Major
+73642a4ee2e307a572457bca664b790385038c81,EAGLE-844,Bug,Potential NPE issue,Core::Query Engine,Minor
+a34ef878a21dada05c8c297a4b66f93889361d50,/,/,    [MINOR] Fix unit test cases with ApplicationSimulator,/,/
+12a0fb96144f70a9bd73939d7e968a2160b9999a,/,/,    [MINOR] Refine policy detail and logging format,/,/
+725e733778dd405c2056249e766d342cbed32e8a,EAGLE-843,Improvement,Refactor application shared service registry framework,Core::App Engine,Major
+a89275bfc86c4db63688e28ff12196ee97a78207,EAGLE-834,New Feature,Add Daily Job Summery Report,None,Major
+229d7b9073a430de7dbbb12d39ddc330646eb458,/,/,    [MINOR] add stream data source config for mr history job,/,/
+ ,EAGLE-796,Improvement,MRJobEntityCreationHandler flush need retry N times,None,Minor
+e24de5c7e85f7dba7eb5dfc4aee56b421c0e8ec4,/,/,    [MINOR] fix job & task attempt stream publisher bug in storm env,/,/
+ ,EAGLE-796,Improvement,MRJobEntityCreationHandler flush need retry N times,None,Minor
+8fe968cb7e340e2f21711b5a0f701e760cb91d59,EAGLE-840,Improvement,Task Failing Nodes List and bad node detection,App::Job Performance Monitor,Major
+bb71d37df856fa7738af9d654afc3a772a0ef8f8,EAGLE-834,New Feature,Add Daily Job Summery Report,None,Major
+3082b5e6264eb0051a60e7929cc5a78390cb7ac4,EAGLE-834,New Feature,Add Daily Job Summery Report,None,Major
+f430f521faea959491208c199b59244386cef438,EAGLE-834,New Feature,Add Daily Job Summery Report,None,Major
+67c91512787ed50ebb976d0218cead62756f0b82,/,/,    [MINOR] fix Failed to find entity definition of class TaskAttemptErrorCategor¡­,/,/
+ ,EAGLE-795,Task,additionally capture reservedMB and availableMB in hadoop-queue-monitoring application,None,Major
+8734c37cbaeb00120eba9127f92f7d44f0f1736e,/,/,    [MINOR] Fix bug for NPE caused by Kafka2TupleMetadata.properties and debug log checking,/,/
+7639ff2237352884c76e862fd14826cb053bb0fc,EAGLE-841,Improvement,CorrelationSpout reads zk connection from datasource override engine configured,None,Major
+880ba738c54251734da14411cf873d5aebd13d76,/,/,    [MINOR] Modify timeout settings and support single-process mode,/,/
+9ca2cebaed3dd91a9504326f753cb36a97f150d5,EAGLE-835,Improvement,add task failure category,None,Major
+ ,EAGLE-836,Task,Add JMX start up page,None,Critical
+d6987af2bbd04e1fe44263720d0b8eb41905bd02,EAGLE-837,Bug,Stream definition change does not reflect in AlertBolt,None,Major
+84ceeb150a2cdbc9a44be001fb5a86c4079644e1,EAGLE-839,Improvement,add job diagnostics,None,Major
+ ,EAGLE-835,Improvement,add task failure category,None,Major
+87feb883c68a9251a3e9d09222e49ea223da169d,EAGLE-836,Task,Add JMX start up page,None,Critical
+f5f07402d40c19962ea6650092509c32aafb12e6,EAGLE-838,Improvement,Resolve defunct process in hadoop jmx script by kill -9,None,Major
+7c6315311f2f08992773d175d80314c449c7e9b6,EAGLE-837,Bug,Stream definition change does not reflect in AlertBolt,None,Major
+743de733050e87653f64aca449d5d0a0eb15532d,EAGLE-827,Bug,Coordinator schedule time out,None,Major
+b27998f822a492c33ed587d729ba894280660ab1,EAGLE-838,Improvement,Resolve defunct process in hadoop jmx script by kill -9,None,Major
+b12abb38d973d470f9bebdaba8e7b76b7dee5326,/,/,    [MINOR] Fix HadoopMetricMonitorAppProviderTest for modifying app type,/,/
+ ,EAGLE-836,Task,Add JMX start up page,None,Critical
+3025e5d7285ebac8236e8988df7dc52690420117,EAGLE-836,Task,Add JMX start up page,None,Critical
+268096f193926547f76c52cf40cf7775b581dc80,/,/,    [MINOR] fix health check inject bug,/,/
+ ,EAGLE-794,Improvement,Enable publish bolt parallelism,None,Major
+e99b2fedf158f36857cc78279771e4b95a582776,/,/,    [MINOR] Create MetricSchema in batch of 1,/,/
+7ad45fd1bd63c76b294faecc7e13bad8c8145799,/,/,    [MINOR] Fix eagle-server.sh log redirec bug,/,/
+0fd2d7774acba6a33d192e3d81627ec947b626a1,EAGLE-833,Improvement,Add MetricSchemaGenerator and MetricSchemaService,None,Major
+aa8d3c9b9a17ffa66c599fb88bd06e898328d431,/,/,    [MINOR] add sortSpec to pattern match if exists corresponding StreamPartition,/,/
+ ,EAGLE-793,Bug,Dropwizard related class not found exception in topology ,None,Minor
+02abe02c37cd4351ea456ccf42fe24fb9544682d,EAGLE-832,Improvement,Support to define granularity for MetricDefinition to avoid metric duplicate,None,Major
+cfd4d38fdbe9fa3922dcec566461f0ead810cf0c,/,/,    [MINOR] Rename createTable.sql to metadata-ddl.sql,/,/
+c1dcfb13b47588b886a9bc0fc002eaf87e713523,/,/,    [MINOR] Assemble eagle-external/hadoop_jmx_collector to lib/scripts,/,/
+dd9cd7c51cd5454fd201cd27377f22eb2d60d9ec,EAGLE-831,Improvement,UI alert support time range select,None,Major
+162aac84f1d1e01d232c8a43b98d5f06280ddaa3,EAGLE-821,Bug,coordinator bug in alert engine,None,Major
+269ff147f29cde959af50b1b9a4e528112ec4799,/,/,    [MINOR] Refactor alert list and detail pages,/,/
+3914e39ddce1bbadebdf56732e81701a6bdf5c70,EAGLE-830,Improvement,Enhance policy UI,None,Major
+dcf9e32f70ed92cf2bacc8f021ca908ecc132f06,EAGLE-813,Task,UI alert api update,None,Critical
+6a7842fc554862fb2e2bf53a2133ac7804876cf0,EAGLE-829,Improvement,Refactor PublishmentType model to align with PolicyDefinition,None,Minor
+5ef6c183f5b8708f83d08c5e51b2556c6371b82a,/,/,    [MINOR] Rename beam_group_filter to bean_group_filter,/,/
+8416f64da7dcba0c48527aa678a5b2ec9a37d4a8,EAGLE-825,Improvement,Improve jmx collector with built-in metric filter,None,Major
+188ddf50086ef29b4af5c6afe498197dbc7aa0aa,/,/,    [MINOR] Fix initial sql syntax problem,/,/
+5da9df8221a51252b5e91127d20dea3165553b68,EAGLE-823,Improvement,Refactor zkroot and lockpath to solve the problem occured adding zookeeper lock,None,Minor
+9f4e7633d939580ce640d7488ec1fdeb07c00c3e,EAGLE-824,Bug,Multiple policies in one alert bolt produces duplicated tuples to publisher,None,Major
+f833e9831f473660a084327f67418197b5f00d02,/,/,    [MINOR] Add makeSSS and makeSRS in RouteSpec,/,/
+976edcd868b3b90327efe34ee088db579dfc6e89,EAGLE-810,Improvement,create interface StreamOutputCollector to abstract outputcollector,None,Minor
+0d1dcc408ddf499a09e3868480494062e45cb736,EAGLE-819,Bug,Data from topology health check are inaccurate ,None,Major
+f899ca1c29533f571e1d2abcfa93e164519937c6,EAGLE-818,Improvement,CEP Based Aggregate Framework,None,Major
+1c81c0865c70b9a0a91b86d7813be923e86e1dba,EAGLE-815,New Feature,Support alert template to generate human readable alert ,None,Major
+e5e215e0bc0d4829e120069cab92922e0fef5f5a,/,/,    [MINOR] support group by in siddhi pattern match,/,/
+ ,EAGLE-792,Improvement,Resolve google-fonts external connection blocking problem in AdminLTE,None,Major
+3a84a2c6285146d7765a120ca64567183af6bdf8,/,/,    [MINOR] add retry when read jmx timeout,/,/
+ ,EAGLE-790,Sub-task,Add unit test for eagle-jpm-mr-running&apos;s MRRunningJobParseBolt,None,Minor
+30e35de60c532502731ef5b51360df15c0026397,EAGLE-811,Improvement,Refactor jdbcMetadataDaoImpl of alert engine metadata,None,Major
+aef7ea36c1473b29f76420dd67d646e738f7d10b,EAGLE-805,Bug,sync some operation in RunningJobManager,None,Minor
+e6c4b0a731942c9c4bf746ecc6b067429d755ff6,/,/,    [MINOR] Sleep 1 ms after versionId was generated,/,/
+a292c1556058126e5fcb897cab58a31ab6dbb49d,/,/,    [MINOR] add missing licences,/,/
+a0f134422dbab0c4a98bd181b75f78cf7a8c3343,/,/,    [MINOR] avoid adding duplicated publishment in spec,/,/
+c52e23c748ba5f0f497622f8a2d50bcd7de340a9,EAGLE-817,Improvement,add KillOptions when stop a topology,None,Major
+df9d9b085714c55c1bdc5a4d4e71a96c5d0c9c30,/,/,    [MINOR] remove system property for metadata.metadataDAO in JDBCMetadataStore,/,/
+ ,EAGLE-791,Improvement,Refactor eagle module names to be more meaningful ,None,Major
+68a3e8bde3418add34c0b585a206236ee227c6e0,EAGLE-816,Bug,Fix host name bug in jmx collector scripts,None,Major
+f39ffe9151cee6bb363515f88aef1cfe62484171,/,/,    [MINOR] Fix jmx listener bug,/,/
+e7a80deb051cdd15a87a13ec7e1956a4704d53a0,/,/,    [MINOR] Access resource manager REST API anonymously,/,/
+10572c296f58532897cdea4f80132d1420890679,EAGLE-806,Bug,Integrate Metric Process and Persistence with Application Framework,None,Major
+ff2253754c265ffb81727a52b3e0f2f196697184,EAGLE-814,Bug,fix alertId is null in AlertStreamEvent bug,None,Major
+285524efb7e898c1ace70c70a62933d8370b1f63,EAGLE-807,Improvement,Refactor JMX Metric Collector Script,None,Major
+fb853dfd8ce722a8ee4ee970f9416b2dbfc79d8c,EAGLE-807,Improvement,Refactor JMX Metric Collector Script,None,Major
+286034ff3b68eb8ba1650c6fd013dd5d6feb68f5,EAGLE-775,Sub-task,add unit test for eagle-service-base,None,Major
+021c2bddddd98892442f43d0425c67effa192273,/,/,    add ScheduleStateCleaner.java,/,/
+ ,EAGLE-803,Improvement,Just save latest N schedule_state in eagle database.,None,Major
+c69f94eff767a7c1cef3b66f23be21aae0d2ec71,EAGLE-796,Improvement,MRJobEntityCreationHandler flush need retry N times,None,Minor
+dcefa206835542c187059878d2ffbae50c1df1a3,EAGLE-804,Improvement,make interface StreamContext more abstract,None,Minor
+70600b2609c20c3f1385e60813823abf48c63c03,EAGLE-794,Improvement,Enable publish bolt parallelism,None,Major
+aeec7f389ec44bf0be0291f310a27d7d312ebc8e,/,/,    [MINOR] Remove field siteId and modify PowerMockIgnore,/,/
+7976858ee068ca4a85d67f70f7bf574f3e75115f,EAGLE-801,Test,Add unit test for eagle-core module,None,Minor
+4d4d8c0eafa06d537a307291df03f344cdae6ef5,EAGLE-800,Improvement,Use InterProcessMutex to sync operation in RunningJobManager,None,Minor
+6a0529e96e1f581c4fa476a82e5e897fc2509828,EAGLE-798,Improvement,Add a new alert publisher to store alerts into hbase,None,Minor
+52dc7a5d99ed37b7778813c8b6483a4227e7c0ee,/,/,    [MINOR] change delay strategy of topology check app,/,/
+ ,EAGLE-789,New Feature,Add a new publisher to write alerts into a local file,None,Major
+de061d599c35735abd6b9447d37949289827e1e3,EAGLE-799,Bug,Can not get hbase info by service api when the master becomes not available,None,Major
+8042f9e44201b485537ac7a96d729dc9e4f1d694,/,/,    [MINOR] fix email format and change default delay time,/,/
+ ,EAGLE-788,Test,Add unit test for eagle-client-base module,None,Minor
+65de7b0acaeff274b07b2e9318fcb6c41d77deed,EAGLE-790,Sub-task,Add unit test for eagle-jpm-mr-running&apos;s MRRunningJobParseBolt,None,Minor
+3becca68929cd005416605da0b9be4cbdb0c0cba,/,/,    [MINOR] optimize health check: add some information,/,/
+adeaa0f9e1be4f8f017449c7155f52b072052ed7,/,/,    [MINOR] Health check optimize,/,/
+929a21da7182986dc62db953639e27cc983f6f23,/,/,    [MINOR] health check optimize,/,/
+8d7f81e1cdcc61e16769677dda2c371897f25dca,EAGLE-776,Test,add unit test for eagle-alert-parent,None,Major
+ ,EAGLE-777,Sub-task,add unit test for alert-metadata,None,Major
+7499be694a6ae2c334751d49927cc5eaac6f5f2b,EAGLE-786,Sub-task,Add unit test for eagle-jpm-mr-running&apos;s MRRunningJobFetchSpout,None,Minor
+a39ca45cb146f3d4cf681f36f789538fa6995bad,/,/,    [MINOR] Application health check optimize,/,/
+dacb86f3178bff034dbc7efea17f555bf453d390,EAGLE-789,New Feature,Add a new publisher to write alerts into a local file,None,Major
+30b127b8db310201acae1dd7801c14a8c8e62e78,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-eagle,/,/
+229d6b32f8e4d5e87c623e58ca9ac0a44346ff2a,EAGLE-791,Improvement,Refactor eagle module names to be more meaningful ,None,Major
+225d53973f4016e9fb22cf95b3166b2ef27e7a8d,EAGLE-427,Improvement,Query startTime &amp; endTime should support timestamp ,None,Major
+7471eced641b132df7e2950a93a00914be75cc97,EAGLE-787,Improvement,add healthy check for hadoop-queue/topology-health/spark-history apps,None,Major
+620959bbdd334aab15fd43e8312554f5e67b4a75,EAGLE-788,Test,Add unit test for eagle-client-base module,None,Minor
+a267e731e13b2b382a1a115a65259f96ee0b4e5f,EAGLE-785,Bug,change hbase configuration to optional,None,Major
+b821439bce99e03591136436bf71ef22e4d0d655,EAGLE-791,Improvement,Refactor eagle module names to be more meaningful ,None,Major
+dc9fe0b4735d4900922de9019e54d478cb49c4d2,EAGLE-427,Improvement,Query startTime &amp; endTime should support timestamp ,None,Major
+14d55dd51eaf3ccd51d28f23ad151ccd916d70aa,EAGLE-787,Improvement,add healthy check for hadoop-queue/topology-health/spark-history apps,None,Major
+57da45a8dd5086a2e086f1447929f8e3df5c0328,EAGLE-788,Test,Add unit test for eagle-client-base module,None,Minor
+ddb45f56e86c0f49ca1ee81a6aa9a7335eeeb040,EAGLE-791,Improvement,Refactor eagle module names to be more meaningful ,None,Major
+fd650be8fc19e2434257dd8675cb8f52264241df,EAGLE-785,Bug,change hbase configuration to optional,None,Major
+03dc7d8488366ad87889ee2398ef5aac62eaf985,EAGLE-781,Bug,Add unit test for eagle-audit-base module,None,Minor
+30b671cf2a208dfac2657dddcba3390fbe8cc3f9,EAGLE-773,Bug,org.apache.eagle.service.generic.MetaDataResource doesn&apos;t work correctly,None,Major
+3005c4be8f16f71839fa9358c8c10583a37821a6,EAGLE-784,Improvement,application health check support notification,None,Major
+d6e78bec28b804f3c6bfaec2f69774a717f5cbaa,EAGLE-783,Sub-task,Add unit test for eagle-jpm-util,None,Minor
+4874433a59c59e599b73a1235819db92e3248ce1,/,/,    [MINOR] add jobConf.additional.info in spark history job app,/,/
+ce8e1c5080c0f9a8fae9010cbd29dc3c138f13d8,/,/,    [MINOR] add settings for case: ldap authentication over ssl,/,/
+18f74d4487eb42518f06d16f22c87c5353c19558,EAGLE-779,Improvement,add a managed task to regularly schedule registered healthchecks,None,Major
+8b648011df4b9f10394ac853978256f0e62e014d,EAGLE-780,Improvement,Update spark running config to integrate with the application framework,None,Major
+fbac5c3cc16150dbdc13d654e3425d197ed74300,/,/,    Minor: metadata dao change have wrong null check,/,/
+164e844c1ec9e16b4228eddd5fb6a2ba8196e661,EAGLE-583,Sub-task,implement ldap authentication logic  taking Basic Authentication credentials,None,Major
+446c22720d930bc832fc5f3e32addf72115429a4,EAGLE-770,Bug,remove InterProcessMutex from JobHistoryZKStateManager,None,Major
+8bb32c012dd8b4c4f588824a54e4a2f0693762d9,EAGLE-769,Improvement,InjectMembers in ServerApplication when initialization,None,Major
+9795fbccba96a8b6b336398115b8e325303b0c89,/,/,    [MINOR] Move getHealthCheck from Application to ApplicationProvider,/,/
+c1ce6ea4f62c2f2ed53099e0b0ccb3a130128c30,EAGLE-764,Bug,MR history feeder support Health Checks,None,Major
+44a4d660b3e32cb13ba7b4ffcfb21f2612abe449,EAGLE-766,Improvement,Set default host&amp;port of JPM_WEB_APP as null,None,Major
+41cb7e1a06c6d2479d27d0d8bba160094289efba,EAGLE-757,Bug,fix alert JdbcDatabaseHandler connection issue,None,Major
+8b504792bbc551908be280cd50b357bebb8dad25,EAGLE-643,New Feature,Implement oozieAuditLogAppProvider,None,Minor
+45af18e7faac26eb564ae247cb702f89f9e886d2,/,/,    [MINOR] add back policy scheduler,/,/
+aa7b0254ddd1b8aa665f581eebf6a88c9d694563,/,/,    [Minor] : Merge confliction cause scheduler trigger still running,/,/
+38ec7fc23d06c77b6e083ad2dfb9c61e729901e0,EAGLE-762,Improvement,Add AlertEmailPublisherTest test cases,None,Major
+75ab7722cd9e87e2380d9fac4fd6922513cc23f3,EAGLE-750,Bug,Improve coordinator schedule strategy to reuse alert work slot,None,Major
+0a0d1f6ee9dcb36ca96721a90392a676b2652d28,EAGLE-760,Improvement,Policy alert list support size limit,None,Minor
+8f8fe57e6ab7484f400333d3369bb849cb2c0e6e,EAGLE-761,Bug,Data skews in KafakStreamSink,None,Major
+ad8cc9c99bf33c75ebc1de60f87fc91128535039,/,/,    [MINOR] Fix test fail on windows,/,/
+ ,EAGLE-733,Sub-task,Add unit test for MetricSystem,None,Minor
+3099a9e8ccabd3c371afe8f61fd8a1a151083232,EAGLE-734,Improvement,Integrate maven-buildNumber-plugin and Version.java,None,Major
+32582d2300306d6321fcd026b62b17ff1707d95c,EAGLE-738,Bug,Fix eagle-metadata checkstyle warnings,None,Major
+a88e1cef80b3f9c6e896d5948154cd5b5b37d643,EAGLE-737,Bug,Fix eagle-embed checkstyle warnings,None,Major
+2b61cef585b02fb6f40d5c3de7f7c5c060926ecd,EAGLE-749,Sub-task,Add unit test for model,None,Minor
+1da8dc4f1fbb46c5ce76cd3b2af7f680f6f8cc29,EAGLE-759,Improvement,Policy detail support alert list,None,Major
+db28ae2b280387d88b3b922dbce0912adbadf6b9,/,/,    [MINOR] Add missing apache license,/,/
+9a5cdb26d6db15e05a21cc1d6c70e94aded181d7,EAGLE-758,Improvement,Add tuple log for spout &amp; alert bolt,None,Major
+4df63def83f1e33fd0899693d5ac751b24bf39a2,EAGLE-739,Bug,Fix eagle-metric checkstyle warnings,None,Major
+2f4df34cfbcce2ab0cd72f52c45a7873ec689722,EAGLE-698,New Feature,Help eagle to collect system and Hadoop JMX information,None,Major
+327351b92ce2f050d4cfc6a3cd6f3990b22555a5,EAGLE-754,Sub-task,Refactor -  move ignored test class to corresponding module,None,Minor
+53a74633e90c9638554a96b7d21ef1a0bbbd4755,EAGLE-747,Improvement,Add unit test for eagle-storage-base module,None,Major
+137b9e038e8fe056e003f2b39e8385cdd63db160,EAGLE-733,Sub-task,Add unit test for MetricSystem,None,Minor
+81114c3b50ca5186c8e661c5dcd066a92acb82fe,EAGLE-758,Improvement,Add tuple log for spout &amp; alert bolt,None,Major
+1d549abbea9a18d1cd5c28e646b9f70a2565f62a,EAGLE-736,Bug,Fix eagle-data-process checkstyle warnings,None,Major
+ab3ed13e18c85fa3fd64a08a070aaf24391aeb1e,EAGLE-728,Bug,Application can&apos;t load application.properties when running local mode,None,Major
+6ec928941364bcb565ec2b20d6da20336aaa3578,EAGLE-756,Bug,metadata change (with coordinator build) in publishment is not sent to runtime bolts,None,Major
+bd5f242307fa184b9e8f272a862d7468e4dedd23,EAGLE-755,Bug,Publishment without streamIds update encountered NPE,None,Major
+60206b5b5d0e078102d78c5b2f73da28afb49f38,EAGLE-752,Bug,JPM statistic need remove jobType,None,Major
+02cbdb68d677e1d286149caad8ca7efcb64489ee,EAGLE-751,Bug,Two policyDefinitions with different status are equal ,None,Major
+f21145635a609dc25477f0384cbb14fb17fbd0be,EAGLE-675,Bug,AlertEngine: don&apos;t host long-live curator framework for schedule,None,Major
+cb3bf7b6063adff6ef566650b7a438dfe4b52290,EAGLE-746,Bug,PolicyValidation is insufficient  and will cause blocking for extended handler,None,Major
+a5537c0c2ce283ba2013f9b2f46e81efc5c72c58,EAGLE-748,Task,Streams UI display dataSource describe,None,Major
+607e74a7485d557016b39ad4c7910ec732c21c48,EAGLE-741,Improvement,Make publishment settings both policy &amp; stream awareness,None,Major
+eaab4a9e0e5ec6077059c26fbf136ecf6d84a99f,EAGLE-743,Bug,StreamRouter fails to modify the routing map,None,Major
+3f8a33d8bb6b2fd936852f77b1de6ab28b980627,EAGLE-745,Sub-task,web ui should check success(true or false) when delete site,None,Major
+a28e2c4858f4c66172106e95f7c63e34adc651b2,EAGLE-744,Improvement,add a new rest api to filter alerts by policy id,None,Major
+ceeebb42371dc00bc39f65269d00de6145e73aca,EAGLE-735,Improvement,Policy detail UI update,None,Critical
+300c457c0392c81f6498d0796caa964e2cbcecb2,EAGLE-742,Bug,check applications when remove site,None,Major
+9f64be00e9d0e9156e0a187650a3ef9b4185d5b6,/,/,    [MINOR] Resolve apache license header missing,/,/
+d4be077b892b62ac614908fb8f129d56efb2b191,/,/,    adjust description of dataSourceConfig.rMEndPoints in hadoop-queue-monitoring,/,/
+66baf258c37fa035e57f7aa4de1bab16ee433fe6,EAGLE-411,Improvement,Improve code coverage of eagle-storage-hbase,None,Major
+0952732e6bb0e428daaedbc6c0df0e6f19e86b86,EAGLE-723,Sub-task,Add unit test for configbus,None,Minor
+ca0fae40712fe5bb6962554b5fe17e7ff360763f,EAGLE-724,Bug,Fix eagle-common checkstyle warnings,None,Major
+38f2926448f1227761edafa367080d95ade9d255,/,/,    [MINOR] Exclude jetty & old servlet-api,/,/
+82b1c2249f9edd02b0a2f00bdcc55c4d265e7e6a,/,/,    [Minor] : DateTimeUtil not to depend on hadoop configuration jar,/,/
+3e09327bbd881b0d08d7943490c6f0bc705681c0,/,/,    MINOR: change timeZone in Eagle to UTC,/,/
+725786cdb0626a73b63180c846c27521df30d53b,EAGLE-729,Improvement,add hbase kerberose principle and keytab to provider,None,Major
+3595f29dc800a52cc6b8932a1fa3bc7a5a660c8b,EAGLE-725,Improvement,Policy list UI improvement,None,Major
+e39c76ce8b503fcf447814cd9ea51c9ced2fee81,EAGLE-717,Sub-task,Upgrade maven-surefire-plugin for supporting forkMode ( = always ) correctly,None,Major
+f108c7f456a02d92c70479895f61d3ab724745f8,EAGLE-690,New Feature,Integrate topology health check with alert engine,None,Major
+2bc25969a14972a4922270acba536798d49d96da,EAGLE-720,Improvement,Policy edit ui auto generate description,None,Major
+8beda32daa55b6bbe148140aaf95c8d17ba7b6ff,EAGLE-721,Improvement,Remove duplicate DataTimeUtil class ,None,Major
+c57f86dd186a87ec749420e50fdf3180959cb16f,EAGLE-719,Bug,configuration bug in applications,None,Major
+0cd117c1fb798b6deda7c10bc72bd1e22dfd4da4,EAGLE-707,Improvement,Mark &quot;Task Statistic&quot; page title as &quot;Task Statistic (Beta)&quot; instead of &quot;(beta) Task Statistic&quot;,None,Major
+8abbd23304bfed5c1a402353838eae9d511f84a7,EAGLE-680,Improvement,Can&apos;t generate Html coverage report ,None,Major
+77524c7c4f8e3a186bb1fb5c802b73a582585e5b,EAGLE-716,Improvement,[API] Validate before saving policy,None,Major
+21fcd7333e3e11ccf74525fac0c38774eba6e9ed,EAGLE-714,Improvement,Application improvement,None,Critical
+56c2c4114fc9dee8a1c2da47fa8045036f7d01bc,EAGLE-715,Bug,optimize some configurations for alert,None,Major
+6b0ed3d0de8fb7302d412f3a190e4793ea0c7977,EAGLE-704,Improvement,Update spark history config to integrate with the new application framework,None,Major
+9954b4e1187bbcd8f4b4961b9ca4fa1d06c99cbb,EAGLE-713,Bug,Publish &amp; Router bolts spec change is not thread safe,None,Major
+fa4334e1ef5371efed6a37f771aff40bda186eee,EAGLE-705,Bug,streams is null when call /rest/apps/ api,None,Major
+6385174eda387f821ae05f26ebbf497ae22e6c5e,EAGLE-706,Improvement,Policy UI adv mode support sql highlight,None,Minor
+7848680d362e3c14480149e8c100efdfcd6782dc,EAGLE-701,Improvement,AlertEngine: bolt should check ZK for latest spec when start,None,Major
+e71d6d8524a4066ffcf7cb49b914e71abf2cef88,EAGLE-703,Improvement,Application UI add confirm dialog,None,Minor
+3eacc828313a76afed017d8f3c846bd767ac20d8,EAGLE-696,Improvement,Improve HdfsAuditLogApplication &amp; AlertUnitTopologyApp config ,None,Major
+4ff963b47fd82cb1ca8394027518a9183f39176e,EAGLE-693,Bug,fix application could not detect stream change,None,Major
+ ,EAGLE-700,Bug,API /policies/{policyId} throws exception if policy does not exist,None,Major
+4250e2d32f2cb33760af5d3b1d7f06a9bb91748f,EAGLE-699,Improvement,UI imporvement,None,Major
+e3f358c8462af497fdc9f4498dbf374599af57e6,EAGLE-683,Improvement,AlertEngine : Improve metadata store performance,None,Major
+38d46c8bb549c9d6673c48f00a07bb82f57ad43a,EAGLE-700,Bug,API /policies/{policyId} throws exception if policy does not exist,None,Major
+ ,EAGLE-693,Bug,fix application could not detect stream change,None,Major
+cbf6d3c10211ba2a5650f6f583e7c2e8ca1432c8,EAGLE-697,Bug,wrong metric url composed when endpoint url doesn&apos;t end with a slash,None,Major
+6002c61404d952a553b929e5026dcd681eb5639c,EAGLE-695,Task,change to fetching hadoop.cluster.allocatedvirtualcores instead of hadoop.cluster.totalvirtualcores,None,Major
+c4a0b94d760b54b3613e11d67e355e982a18910f,EAGLE-694,Bug,alert engine could not reduce alert bolt number when parallelism of policy reduces,None,Major
+ab1c9b64f6aec62d43e26dca2417e967b7740543,EAGLE-688,New Feature,UI support Alert display,None,Major
+2e5cb719c3a49da920d8d6807e10bcfdb6e55934,/,/,    [MINOR] Enhance new publisher AlertEagleStorePlugin,/,/
+ ,EAGLE-681,New Feature,Add new publisher AlertEagleStorePlugin ,None,Major
+f077777066c6bdc53bbe3004555ff3f24953ed25,EAGLE-681,New Feature,Add new publisher AlertEagleStorePlugin ,None,Major
+1add6d96f198fb3b8aecd20243bc087b3973f656,EAGLE-686,Improvement,UI add site select on top nav bar,None,Major
+8d26a4f129f0d3a8729f8bac356bb748090d834b,EAGLE-659,Improvement,MR history feeder and Alert Engine integration,None,Major
+ee65453dbbfb2f829201d4e8189ee716bcc849de,/,/,    remove unnecessary code of eagle-hadoop-queue,/,/
+278b0961c9c198ce68dc0596b7f9b71ffd89b038,EAGLE-685,Task,adjust hadoop-queue application configuration parameters according to classified style,None,Major
+8e00cdfe0506b91c8653443cf8195cb0566464f7,EAGLE-661,Bug,Status is wrongly shown as &quot;INITIALIZED&quot; when updating installed app&apos;s configuration,None,Major
+1f5126a1481ac3557247e6711e0f94880bd8b662,/,/,    Eagle-631 Policy UI refactory,/,/
+ ,EAGLE-627,Bug,Add PolicyValidator and Validation API,None,Major
+ ,EAGLE-631,Improvement,Policy UI refactory,None,Major
+852bac94eba470527207398893c687c0610d80d8,EAGLE-684,Bug,AlertEngine : PolicyDefinition.Defintion should not be changed.,None,Critical
+7a2255670c0404fa734859792ed3f2878174ef72,EAGLE-682,Bug,fix /policies/{policyId}/publishments bug,None,Major
+15f39705d0e4c86803d1c552810a3adf2f9b50d6,EAGLE-679,Bug,Fix missing CoprocessorService and MR Running feeder task number limitation,None,Major
+6b87fb3a714f6adf47ba4752b61284b638035f0e,/,/,    [MINOR] Fix hadoop jmx metric config,/,/
+698b302821c7a89cee1172dbf8d2cdb296506b54,EAGLE-650,New Feature,Hadoop JMX Metric Monitoring Application,None,Major
+3ff3e55ac6a5c1031a75491085e75b6e07b15f36,EAGLE-670,Task,AlertEngine: Make Kafka Publisher configurable to async  for throughput tuning,None,Major
+8a34294ec604b42bee5dd99f40ba6e9f9fc498b5,EAGLE-674,Bug,fix grouping between AlertBolt and AlertPublisher,None,Major
+ ,EAGLE-673,Bug,add numOfPublishExecutors to alert engine topology,None,Major
+c15e7f81497f6873dee25421c69f4c1351fdcb9c,EAGLE-672,Task,AlertEngine: MongoStateStore should be removed,None,Major
+e520e4011796ebdea52f80ca43b9bffddf3aa50a,EAGLE-673,Bug,add numOfPublishExecutors to alert engine topology,None,Major
+56e7048ff75a9d8865173961e1537daf18eeb41c,EAGLE-671,Task,AlertEngine: incorrect metric system use : too many metric object create and registered,None,Major
+8bd30aec1e75f964a0e45af605f37e1b672ba312,/,/,    [MINOR] Register StormMetricTaggedConsumer only when metric.sink exists,/,/
+435451eff2d845b1953d99f57948ee79c70cadf3,EAGLE-665,Improvement,Refactor kafka stream sink and hdfs audit topology using shuffle grouping,None,Major
+8d662e3a2ee4fc4411fa903cb5005cd81a65aba5,EAGLE-662,Bug,remove jarPath/mode from entity context,None,Major
+3980dcb4c34f024e8247747a48f5966438415c82,/,/,    Minor: Expose several async producer config,/,/
+281aa52b089f5f2fc8cf069b67ce0244bc532041,EAGLE-660,Bug,Stream delete mongo implementation is not working,None,Major
+cb6c0cb02410245f8e65846a0fb5a71066e10eec,EAGLE-648,Bug,Stream router does not work properly sometimes,None,Major
+eafff46c3df9e245120e5d7235a040d06a3715ce,EAGLE-652,New Feature,services health check for hdfs hbase and yarn,None,Major
+4472fa1f5a5a664acc6b9f486d6fe5c46a3b01ac,EAGLE-656,Improvement,Integrate metric system with application framework,None,Major
+49db82c5e129c7dc1d0bd5932c97518891c6158e,/,/,    [MINOR] Fix cobertura.totalLineRate as 25 and improve some UT,/,/
+538e88f71c0cf8011dc4709b62b3e45b04ac1982,EAGLE-655,Bug,Fix metadata bug,None,Major
+ ,EAGLE-653,Improvement,remove zk root from configure,None,Major
+823c66dae5accefa9631b03bb6e3ab607a12bd55,EAGLE-646,Bug,AlertUnitTopology does not rebuild the scheduler state after restarting,None,Major
+d76fa311b2f8c5e3a51ef12700807f01c8f2e98c,EAGLE-653,Improvement,remove zk root from configure,None,Major
+605c8b21afcecd5d09444755302bce34b3400c2b,/,/,    [MINOR] Resolve unstable UT and clean slf4j-log4j dependencies,/,/
+64fce8f80745d6180ff04b6950364a802d73723e,EAGLE-647,Improvement,Support Policy Execution Interpreter and Planner to compile siddhi query to distributed execution plan,None,Major
+8991b61e2dcf92aaf76ffba7cd15f344cf9495d5,EAGLE-642,Improvement,move application runtime configure to ApplicationEntity context,None,Major
+ ,EAGLE-644,Improvement,optimize some default configurations for JPM,None,Major
+c3bdf46ca290cd9b36a09d79943d680af2ece5f4,EAGLE-644,Improvement,optimize some default configurations for JPM,None,Major
+ ,EAGLE-642,Improvement,move application runtime configure to ApplicationEntity context,None,Major
+44259aeca48554b9ee60d127cbc4d39649067943,EAGLE-641,Bug,Publishment reload may introduce NPE,None,Major
+c45ac6d57a29cecde179476b93ca53fd2ef89cc1,EAGLE-638,Improvement,clean up configuration for Eagle JPM aggregation feeder,None,Major
+6f88c30f855249c401a40efc6941090a152670f3,EAGLE-639,Sub-task,Generate sortSpec only on externalWindow,None,Major
+453c3a5fa209c6c6e40dc25be6951adada61f72f,EAGLE-563,Improvement,Refactor Hadoop queue feeder using application framework,None,Major
+855b86ef3820cbe7405d43576995e5876c551887,EAGLE-637,Improvement,Set router/alert task number of UnitTopologyRunner,None,Major
+71a4bb013c2acabb54e03d8988f5b07c4923384c,EAGLE-634,Improvement,clean up configuration for MR running feeder,None,Major
+6dbdb4f72ec5adf89f4f7a13bf766e01e3ff6705,EAGLE-635,Improvement,Refactor policy parser and validator for richer plan details and better performance,None,Major
+adc2ba900a2d29352e96489ad48addde17bedccf,/,/,    [UI] Improve integeration page,/,/
+c3bde0194f405deea438a553a4f83abb03d599d9,/,/,    [MINOR] Remove confusing .gitattributes,/,/
+76fc4410bbfcddc4757eeb6ebabaa8baf658036a,/,/,    [MINOR] Fix windows EOL,/,/
+2479d32791dd1a424af7513279ba28543baf6af4,EAGLE-633,Improvement,MR history feeder read some configurations from eagle server,None,Major
+310935d27d8be8dd12f246ceceba958c1005e2e9,/,/,    [CI] Integrate coveralls to track eagle code coverage,/,/
+a781937e978025b708ccc70d47ddaadc18668948,EAGLE-632,Improvement,clean up configuration for MR history feeder,None,Major
+3d6a29ec2e67a83742158a08d378cfc5cad59814,/,/,    [MINOR] Set task number of each bolt in HdfsAuditLog Application,/,/
+473496747d42b9bfe72f32cb89c312eef1a360bf,EAGLE-628,Bug,Fix jdbc metadata bugs,None,Major
+ecda7d5abfe30125f9c9b7ee3ebf8e8a49ce054e,EAGLE-599,Improvement,Some improvements when submit JPM applications,None,Major
+eda6e586bb598d443e11bbf6db6a72ca966d0b9b,EAGLE-630,New Feature,Add Publishments to Policy API,None,Major
+a710082d486e10b4732c00a06dd367dc556df60a,EAGLE-615,Bug,Jsoup parse hive sql return String without line break &quot;\n&quot;,None,Minor
+a6bc0a52413db0dbc56060c7b6c25230422b7153,EAGLE-627,Bug,Add PolicyValidator and Validation API,None,Major
+e8a73893d5d395fdba37167100007f728e8768ae,/,/,    [MINOR] Add missed license header in BasicAuthProviderBuilder,/,/
+b103e201ebe7b1500ba3d0297bb7aa88e7aa811a,EAGLE-621,Task,set authentication disabled by default when no &apos;auth&apos; is configured in configuration.yml,None,Major
+33b9720656b8cd7ec5df883b79b20bccd5bddb3e,EAGLE-625,Bug,Site home page error for missing partials/site/home.html,None,Major
+97edbbbe315b9b927bf5e3386a2162e7e4ad99bf,EAGLE-624,Bug,Installation Doc is not correctly shown in Installation Dialog,None,Major
+1a74b09b714412d023c99c4fbf6498cc16984657,EAGLE-562,Improvement,Add a new metric totalVirtualCores in Hadoop queue feeder,None,Major
+7279ee711587a4c6364e324002baa1daea089270,EAGLE-622,Bug,AlertEngine : unit test failed caused by datasource name and topic name change,None,Blocker
+00e92d993bc7de3cb253c87622a9041cf614844f,EAGLE-619,Improvement,UI Home display site states,None,Major
+8ff8ecf1b8d9ace5c87ad6acc30235b4a43d98bf,EAGLE-618,Improvement,migration eagle-jpm-aggregation to application framework ,None,Major
+98d1964ff6bd19c706952fd4b09ad40dbc5a4870,EAGLE-616,Bug,AlertEngine: Reduce the connection from alert-service to ZK,None,Major
+2e715e3e94a6b98e0f3073d5d384878a0a845b72,EAGLE-620,Bug,AlertEngine: SpoutWrapper are sending duplicated message.,None,Blocker
+c6ac2eb6f1b5ba6d6c8702e79e7f669e77dcb0a7,EAGLE-618,Improvement,migration eagle-jpm-aggregation to application framework ,None,Major
+e6f9d1bbd6894c31b60bec4d23f42da07e6fe713,/,/,    [MINOR] update AlertUnitTopologyAppProvider.xml,/,/
+f3204bcafc345edc9b600715776af77d0d1f4496,EAGLE-612,Improvement,Use LOCAL when app provider is from class file and use Cluster when from jar file,None,Major
+649adb1ae400e026a8e932d53bd813f03fecb2d1,EAGLE-582,Sub-task,register simple Basic Authentication to server application,None,Major
+ ,EAGLE-433,New Feature,DropWizard Service Security Integration with Basic Auth &amp; LDAP,None,Major
+ ,EAGLE-582,Sub-task,register simple Basic Authentication to server application,None,Major
+7bd5d1d2adb909eef7f59424f758fc0818fb683b,EAGLE-618,Improvement,migration eagle-jpm-aggregation to application framework ,None,Major
+0bca234ff8d6b747a62853ff1f3028fc9ab1e4f9,EAGLE-617,Bug,Scrollbar is missing when install Map Reduce History Job Monitoring,None,Major
+5e57c7bbc81bf2603ed56ccb5428aeb9869fa48d,/,/,    [MINOR] Update unitApp configuration,/,/
+806a29c15ad20fed8457ac39c52ac62f4c26641d,/,/,    [MINOR] Simply reorg maven repositories,/,/
+a3df074379b3952c366e1d9d876d0223ca24ffed,EAGLE-594,Improvement,Remove raw alert from kafka publisher,None,Minor
+1d0f9f5b03acefbfb9af97a83ca19ad3d02d638a,EAGLE-604,Improvement,Support view/editing application configuration after installed,None,Major
+4dfb528c4bf2d8935bac78b10a82b6bc15f0be59,EAGLE-614,Bug,NPE in DynamicPolicyLoader,None,Major
+74c3cbb5b1653974870e805b717987eb75e5113d,EAGLE-602,Bug,Exception that Spec Version [xxx] of AlertBolt is newer than Stream Event Version [null]!,None,Major
+3301c9d68acc9b780c62d032aabbfe69db3e7b5d,/,/,    [MINOR] Update eagle-env.sh to support MINGW64,/,/
+6823410fc85fe13d9295125d9093754d38e4f0ac,EAGLE-613,New Feature,Support modify ApplicationEntity through POST /rest/apps/{UUID}/,None,Major
+279bc01cd6115281d44df7f81ac3b2be9f3b748f,EAGLE-609,Bug,NullPointerException in DefaultDeduplicator,None,Major
+fc2407cd53438a31b4c1072ce7d5b08578b8e43d,EAGLE-556,Improvement,Install/Update Alert Topology Metadata when start alert engine,None,Major
+fa85dc3e20f163ff84f39ca51d16c5d54fad0482,EAGLE-605,Improvement,Fix MR feeder provider.xml and remove useless configure,None,Major
+97978c60d5feebf47ff214db310e7816f2dea52e,EAGLE-610,Bug,ui-build.sh not pop grunt exit code,None,Major
+6f9fb4eed47c7e4b4ff1b955861a4fdbf8cf296f,EAGLE-608,Bug,UI update: metadata/policies/policy,None,Major
+757f510a14a2c79b4d20b4c156aaf079cc1683fe,EAGLE-601,New Feature,Add updating policy status API: PUT /metadata/policies/{policyId}/status/{status},None,Major
+9205433bccefd1b8e477dc09ef7e7ef5ae15ab41,/,/,    [MINOR] Update HdfsAuditLogAppProvider.xml,/,/
+36df3ee7a556b9e430df2d54ccbf6c483344b6e2,EAGLE-603,New Feature,Enable/Disable Policy in UI,None,Major
+7d5025336b647ed7afc21e6ddbbeaac2c074ea36,/,/,    [MINOR] Support PUT in Access-Control-Allow-Methods,/,/
+4b53793d3c76025aa2b47ed93b730beccef8d019,EAGLE-601,New Feature,Add updating policy status API: PUT /metadata/policies/{policyId}/status/{status},None,Major
+4e5641c356b4e5ae4dad1d7d012bd418fc7b408d,EAGLE-577,Task,UI policy management,None,Major
+d9b82b45daa3adb678fff7138855bd07a241afb6,EAGLE-600,Improvement,Make sure AlertUnitTopologyApp compatible with both appId and topology.name,None,Major
+0277ff75e10620cdfc17d01823a37719af63995b,EAGLE-598,Improvement,Create &quot;ui&quot; building profile and enable Eagle Web UI Building by default,None,Major
+17316124af9d82e07c0589550854c274d0cb1059,EAGLE-593,Improvement,Eagle Topology assembly multi-version Hadoop support &amp; bug fix,None,Major
+9e87377052314f559918fc384f667b60c74f4394,EAGLE-545,New Feature,hdfs/bhase/yarn health check ,None,Major
+8ba1b844cdb9e165844896b526631eec5a1b64aa,EAGLE-597,Bug,Add API to filter publishment by policy: /policies/{policyId}/publishments,None,Major
+ae88577723ea85cf261d773e5983b85094b4e195,EAGLE-570,Sub-task,Refactor: Make sure engine publisher only have general feature.,None,Major
+91643e84dab0f21916b47a552c0e02b277ee05f8,EAGLE-592,Improvement,Add a hdfs audit log parser which consumes message in Json format,None,Major
+c629ca1eba2b139c2b62fb60163f9301e3a02031,EAGLE-575,Bug,Refactor StaticWebApplication to StaticApplication to support both web/static application,None,Major
+7d43cfe1057f9f926832d1056f433a6dbe57be96,EAGLE-591,Bug,Fix conflict streamId between different sites when installation,None,Major
+f467954acc427763d5ab900214018a6be4830f02,EAGLE-590,Bug,AlertEngine: the kafka_spout might be dropped by metadata update when system ack a tupe,None,Major
+f12c82f8ae354bad96c40ab778cb38600947559f,EAGLE-589,Bug,PR 472 incorrect merge of pr 471,None,Major
+17cb77f3a6e4431194155dfb86c95d721e11e418,EAGLE-588,Bug,AlertEngine : Not to Use commons3 stringutil.isnoneblank,None,Major
+9339c2c90932d9bc9708f68939d0d5528f163303,/,/,    [EAGEL-587] : AlertEngine : simplify state-based dedup to have only deupvalue for given dedup key,/,/
+c5279cab10f47fdf289f698faedfa1a365cbff58,EAGLE-586,Bug,AlertEngine: multiple routing of alerts is broken because of event not copied,None,Major
+4f348e3dc40fbf992a672acbd534f1f7a16b6d02,EAGLE-585,Bug,AlertEngine: create metadata validation api,None,Major
+f6fad2ebe8a384a6d17e40c609041ff77f6a692c,EAGLE-580,Bug,MongodbMetadata: kafka have dot in topic name cause spec store failed,None,Major
+f1cd71e90241f0f6cb6f9b543b50df04239c7aa3,EAGLE-579,Bug,Cloned stream alert event missed stream name,None,Major
+039bf25d6bd61f5b0d3227318ddd477a3e4564d7,EAGLE-432,Improvement,Application status monitoring,None,Major
+5e59407eb71204ae90d81bceae149548fd78c59d,EAGLE-578,Improvement,Make dedup state value case insensitive,None,Major
+89d8e3a0935ac9d6dd04d8b9d9ccf6e3410c732e,EAGLE-576,Improvement,Dedup enhancements,None,Major
+d61d3469822dfae3a85d6b796d135f68d58dd0ba,EAGLE-565,Bug,Because of the &quot;type&quot; field when has subqueue  response of RM REST API doesn&#8216;t match the SchedulerWrapper object,None,Critical
+50ddd604cf43ae6d86e57ca5b864314107565f00,/,/,    [MINOR] Update History Job Counting API,/,/
+a1285351d82c86b27d12bf0a4872f5e3e745c72e,/,/,    Merge branch 'master' of https://github.com/garrettlish/incubator-eagle,/,/
+eb26286126c34272967d1159d07b0d645157c61a,EAGLE-576,Improvement,Dedup enhancements,None,Major
+afb897940021caec79982e29f7194f2b6c733b49,EAGLE-574,Task,UI refactor for support 0.5 api,None,Major
+1fa490e0c5b0c1b827791909968fcee7adc8ea7c,EAGLE-573,Sub-task,NPE when apply change of 569,None,Major
+ ,EAGLE-569,Bug,AlertPublishImpl: Concurrency : Inplace change metadata cause concurrent modification issue,None,Critical
+0fac33799e21ae92d9b4a7e98e5090b032145b06,EAGLE-569,Bug,AlertPublishImpl: Concurrency : Inplace change metadata cause concurrent modification issue,None,Critical
+c897f74b544e037cfea72968aacbeca97e07fd37,EAGLE-567,Improvement,Enhance Slack publish format,None,Major
+16c17067a8d75ae065c492be61f29078dee5c7b1,EAGLE-566,Bug,add dedup fields into publishment compare consideration,None,Major
+45ff4b8f58f9de4a7f4f01b452ba4ca5071cde0c,EAGLE-564,Improvement,pack mr history/running feeder in one topology and bugs fix,None,Major
+ad6a53490fcf3cf725c1cf4b842b7db0ca40716d,/,/,    [FIX] update joiner from storm to google library,/,/
+2fcb22128b5361b6fa0632066c3f7ceb6cc58c0f,/,/,    [FIX] change the required dedupFirstOccurence name,/,/
+2583a72e33e770e76fac3759ecb12fd4a3cb497a,/,/,    [Fix] Change fastxml from 2.5.4 to 2.6.6,/,/
+ce9aae294b4bea995800902e4a99209700341059,/,/,    [Fix]: have numberic serializer compatible with Number value,/,/
+e6c77f762088f36d4e948785cc16dc9581d7a620,EAGLE-559,Bug,Fix TestServiceAppWithZk test cause failing due to port conflict,None,Major
+cfd5c7f826a2816bd5bf8db194932d2b3ec9ff4c,EAGLE-538,New Feature,Add Mapreduce task level apis ,None,Major
+ ,EAGLE-554,Bug,EagleServiceBaseClient cannot configure the basePath,None,Major
+020a5b3cfb3dfe37db54db7f91343b925623ec49,EAGLE-550,New Feature,Add Alert publish implementation for Slack,None,Major
+48a2c6f5596623b25a92633be8a3a9f4ff33f54a,/,/,    [Fix] check style violation fix,/,/
+b4bbecdc4bc60c82dc3106b678e4abc5cc404650,/,/,    [Fix] MultiScheme not a sub interface of scheme,/,/
+269cdcf87e47dede5c288a2a247c00a6ac62941b,EAGLE-560,Bug,Retry embedded zookeeper port by port +1 when conflicts,None,Major
+187fbdeddb82a72488273223afc61a24d1ad4a9a,/,/,    [FIX] Have only one version of curator 2.5.0. 2.8.0 curator-recepies have imcompatible method signator with 2.5.0,/,/
+b02e304b36ea84f23408d9ccf5f822c2b6e80bc5,/,/,    [MINOR] Add Apache? Eagle? trademark label,/,/
+d100d03ed0cadcb6f9a024147868e601a8383b85,EAGLE-551,Improvement,fix some bugs and improvement of mr history feeder,None,Major
+158a1524bf016676f7f7b3ca52029b1cfd94afcd,/,/,    Fixed wrongly aggregateCondition.getIntervalMS(),/,/
+ ,EAGLE-553,Bug,Fix /entities/ timeseries query bug,None,Major
+dcb2b5de1e82d27293405bb03969715f357d5521,/,/,    [Fix]: Add simple support for given multi scheme instead of always wrap into schemeasmultischeme,/,/
+98dff2480f9bf7105554c4c2d62aebacafb3a858,EAGLE-550,New Feature,Add Alert publish implementation for Slack,None,Major
+83bb66661b46e8d69497e9459d7cca78264a1300,EAGLE-539,New Feature,add failure category and job count by state to mr feeder,None,Major
+02aab65b722fbc9bce61ee21d8fd05b8165d012f,/,/,    [HOTFIX] Resolve eagle-server.sh,/,/
+3706dc7e628f5bf5375dd88638796f99f1db06e7,EAGLE-544,Improvement,Enhance dedup to support extended deduplicator,None,Major
+a0005997cce58aa6a4095f0de740393e84d751d6,EAGLE-549,New Feature,Add required field for application configuration,None,Major
+2306c43a5d2e9e73feb3d0514f279d193d7cfebd,EAGLE-543,Bug,Fix eagle default configuration and invalid dependencies,None,Major
+6e723650117232f0a4c77fa8a7e5d9bb54910cc2,EAGLE-548,Improvement,Add eagle service host and port config in jpm web app,None,Major
+0903ed2c918b13b99f5c10b334a3c82b5ebd37f2,EAGLE-547,Bug,Fix duplicated view path,None,Major
+ec80d1b8c40e1763c74e49dd3b2e47b682c9a39d,/,/,    [HOTFIX] Remove deleted dependency on eagle-jpm-app,/,/
+2fd72527f189ab030db60eca4cb81db23b4e0a47,/,/,    [HOTFIX] Remove useless dependency in eagle-server,/,/
+83bd4e3d7c538052bb1f3048dfad4ad1f05a7738,EAGLE-536,Improvement,Suppport application dependency in framework,None,Major
+2c30276caebf7a920c4a3d09f84f80f0986b31c0,EAGLE-526,New Feature,aggregation framework for mr history jobs,None,Major
+fcaf14a4e6dcfc9f06aae51cfa7cc25a79a3ddd2,/,/,    [minor] fix eagle-server assembly by add eagle-storage-hbase jar,/,/
+7f41d4278d47327f018d00291aaf0787aa401336,EAGLE-531,Improvement,Dedup alerts according to state change,None,Major
+4e7c5f2b7c687f4994d6e8c98bec2ce0342246d7,/,/,    [minor] Refine default server configuration,/,/
+4ba634d551c16be6b2987940b2bfa359d126107f,EAGLE-535,Bug,Fix eagle-server.sh to support to run under windows bash like Cygwin,None,Major
+ ,EAGLE-534,Improvement,Integrate typesafe-config with DropWizard,None,Major
+c752ed868cbb7d93306e66f890c291c621411a33,EAGLE-533,Improvement,Fix storage configuration and remove AppJUnitRunner,None,Major
+3db5cdbacd8a6976e853c1128e8476972f378403,EAGLE-516,Improvement,Implement application entity service by jdbc ,None,Minor
+f45ec4370184b8563b1d170bd924a726c58bb9d1,/,/,    [minor] quick fix for checkstyle violation,/,/
+ecbdec8efae12a7b6044d0d998934a6653936d5a,EAGLE-532,Improvement,Fix eagle-jpm code style warnings and enable failOnViolation,None,Major
+a0fc870849a5fa5d54c0980b21226977eef81920,EAGLE-530,Bug,Fix eagle-alert warnings,None,Major
+2958bc8b4655312a094720d87ce3634b05e9f219,EAGLE-447,Improvement,convert eagle-maprfs app to use new app framework,None,Major
+c2a7576e2d05a2b8e280590cde15b79dcde7466a,/,/,    change READMD.md to keep up-to-date with develop-master moving,/,/
+9899a58dc3250c677c5df19bc88f02458e72f55a,EAGLE-525,Improvement,refactor oozie to new application framework,None,Minor
+21187b55c9e549de9d8b797a59516b0c99507f90,EAGLE-520,Improvement,Decouple Co-processor with Eagle Aggreation Query Service,None,Major
+3324279e42e17c0a063922be355a135cce8c975c,/,/,    [Fix] : Have alert stream event only refer to the policy id  not the policy definition,/,/
+0a2ce9ed33e0291ad5e187df72756d8c57e2c754,/,/,    [Fix] New add file miss apache license header which brake apache:rat build,/,/
+f81ae06217235a04745997f70ddcd1c4d92707e9,/,/,    [Enhancement] eagle alert engine policy handler extensible for customized handler,/,/
+fce6ae3f0c33ded811e78ca4bf8ff4c0a7ff3935,/,/,    add jobTypes list in response,/,/
+3110c72e47f697f5c59b5f7d6559d527cf25db3a,/,/,    Update spark history job feeder config & refactor the code,/,/
+8774b85cd97b7b4c386c1b04cff36c13b3bb82d3,EAGLE-524,New Feature,aggregation framework-job level metrics aggregation,None,Major
+b66e27b909156644b68f4ec12e28565ce3dc8ee4,EAGLE-489,Bug,maven Javadoc phrase fails on develop branch,None,Major
+4a15e18f9c90f50fabdbd78f8d79264824962176,/,/,    Update eagle-alert pom.xml for source jar release to maven repository,/,/
+ebbaad091b797945efa7147698de554a53117955,EAGLE-519,Improvement,No data / gap alert enhancement,None,Major
+b2b16b745e210eb80929d970820c322d557d93e0,EAGLE-518,New Feature,add Job counter metrics for mr history job,None,Major
+9488afc15e3d721f55aaaf10da46673d3ebb69a7,EAGLE-511,Bug,Fix NullPointerException for spark history job,None,Major
+3f7004f1cc939ba2e633e38248c322d2216e48a9,EAGLE-502,Task,Always retry to parse spark history job when failure happens.,None,Major
+e77877518ba0cba6cbd3c20ccd0d040c5a3cd86b,EAGLE-498,Improvement,overwrite equals method for PolicyDefinition should not contain field description,None,Trivial
+c940f56c27296c5fec657bd240e96c5522199262,EAGLE-515,Improvement,convert JobHistoryZKStateManager to singleton,None,Major
+8de69a88df0df12363007a47a801e71c29269953,/,/,    Remove useless kafka adminUtil dependency;,/,/
+a66f64cf9f4212f4923f0e6ea6c7270449aa2ce4,EAGLE-514,New Feature,Add two job count apis,None,Major
+4aa5b45260e9bf4ea029a84dd04ed87eae4dc38b,EAGLE-512,New Feature,add job count statistics to mr history feeder,None,Major
+da7f5520613c4860fb2dfb2cb5fad64f9d5d727b,EAGLE-506,Improvement,AlertEngine : Make policy definition handler extensible,None,Major
+3cc183017da19889cff6bb2c57ecfe41dfbc71e8,EAGLE-504,Bug,Fix warnings for getting json values in eagle-jpm-spark-history,None,Major
+4f4fd0c4f606a8bc8ab83c66510aca4226becef8,EAGLE-495,Task,Convert spark history job using application framework,None,Major
+a10eeb7019b8eff964316b084c0b25b68bf58b44,/,/,    Add test case for MapComparator function,/,/
+000b746041ec07774e4ed5d5562f9c66307f1c20,/,/,    wrapper alert engine as one application of eagle server,/,/
+ ,EAGLE-481,Improvement,Make alert engine topology to be one application so to be managed by Eagle API,None,Major
+36f9a8481e507d3ac0a4522da28a600f0ec6d451,EAGLE-499,Bug,Fix flushing entities for spark history job.,None,Major
+c5d05abd1d5f71d78dbe9a577a3975dc5b964d51,EAGLE-493,Improvement,Create alert metadata based on application stream sink configuration,None,Minor
+7f37267160af48b5cb46b4bcbd85a3a82957b192,EAGLE-501,New Feature,add attempt fields to mr history job entity,None,Major
+a846c401c0b9fad912578cc17b0b0e31d52e983a,EAGLE-500,Bug,inaccurate IllegalStateException not caught within unit-test-cases when MongoDB normal stop() fails,None,Major
+b5fd782c0968ce8dd499de1899464c8edbf50dfd,/,/,    [minor] Change resourceFetch to resourcefetch,/,/
+6f5f972c966ea1edc2adf0573dbdb1b0d5ff9671,EAGLE-492,Bug,Fix negative total execution time and make some code optimization for spark history job.,None,Major
+24e6622cacf6189fc04dbf7dfeb32eb123fcbc35,EAGLE-483,Test,Test email alert publisher,None,Major
+b54a63e0497f6dbca6203fc3024ca649bc767f25,EAGLE-460,Sub-task,Convert MR running app with new app framework,None,Major
+0b852cbcd4243e71f51ae7a42c68e1ce7571545e,EAGLE-496,Improvement,Fix code style of JPM,None,Major
+6a55b59f0a53f6e832318691ac1dee5a6d0b90e7,EAGLE-484,Bug,StreamRouterSpec class should override equals method ,None,Major
+ ,EAGLE-497,Improvement,Fix code style of Oozie,None,Major
+0bde482be40f208ba944d32ece23533714c87133,EAGLE-461,Sub-task,Convert MR history app with new app framework,None,Major
+b52405f128dee0354c1791bd4b7995a730c9050c,EAGLE-494,New Feature,add fields to mr history job entity,None,Major
+97c5f1ec966c443df37cd997e345ed2cf64ef6c2,EAGLE-488,Bug,fix not delete finished application path in zk and jobDefId issues,None,Major
+4b891ba01328ccc02a7d2d80dbbd7e4bc46e1284,EAGLE-491,Bug,AlertPublisherImpl dedup throws exception when dedup column is not configured,None,Trivial
+71f253c919afbcafbf2d125c56daeab6eec7abaf,EAGLE-476,Bug,Outdated HBase audit log parser,None,Major
+a197eb027552348b9e35fe51394d74cf63b183ee,EAGLE-482,Bug,Fix checkstyle configuration,None,Major
+38beb8b2c2c38a5bbf954e791732ada81a408991,/,/,    add consumer shell and fix some wrong parameter names in alert-engine,/,/
+fad4b3b546e293badf73ed59f76b58743c95b87c,/,/,    policy-base project removed,/,/
+6d21774a26753ca5ede259f3c6966ba9a0572982,EAGLE-487,Improvement,use guice module better in app framework,None,Major
+b31bac50b267fbd72b543eba65594c3a98bc67fc,EAGLE-477,Improvement,eagle-data-process project clean up to contain only common processing classes,None,Minor
+d6ec142d3b1a6de28787e5fcda94f8f28cf02a3e,EAGLE-467,New Feature,Add job query apis for both running &amp; historic jobs ,None,Major
+acee5cb334a266ed1f7cb215d0f8252fd5b4e067,EAGLE-458,Sub-task,Convert spark running app using new app framework,None,Major
+9432fcf91ab94cd9e228eb353e1b93739f977e67,EAGLE-473,Bug,Query error if query string contains &quot;[]&quot;,None,Major
+34e77cafc4ef73802b9a5716dca6a6f7b54e10c5,/,/,    Refactor : Move siddhi extension to alert project,/,/
+2c63fdf0ce3b4edfa75c2bb3a9de838fdd8311b7,EAGLE-472,Sub-task, Fix HBase unit test,None,Major
+5bb91c4bd306ef6c612058dcbd88c14c29a49151,/,/,    missed license header,/,/
+076f3a491ae656bb9e938643ea4c0d5672bc5e04,EAGLE-475,Bug,Fix generic email publisher and publish emails for absence alert.,None,Major
+6fc103338fa3e3275a1357144dfab2feb1a103ec,EAGLE-474,Improvement,some improvements of app framework: appId naming  jarFile field  InstallOperation etc.,None,Minor
+92ca7c54233a71689da8cffd01e282ee8f8de05e,EAGLE-470,Improvement,data enrichment refactor in eagle security monitoring,None,Minor
+48bb082e709b029aee61684fff7a4eb2522aa153,EAGLE-462,Improvement,Alert Dudup - same metric generate alert should be deduped,None,Major
+2cd17cbfa2a5788e9514a441c90d0e7076ca17ba,EAGLE-471,Bug,AlertBolt introduce un-serializble member ,None,Blocker
+e383e879622b27bf43ff1be4fd062acda1cfbbd5,EAGLE-469,Improvement,make dataSource configuration extremely simple,None,Minor
+58f66a857f12ab0676b5e091dc5cdeda0904fca9,EAGLE-464,New Feature,StateCheck: multiple stage of definition in single policy,None,Major
+d3a7e480af180a6e72f30dd826577e60f2e0e5f9,EAGLE-421,Bug,JMX Metric APP use new application framework,None,Major
+46afec3953405592d9a74f1b051877fe07c14835,EAGLE-468,Improvement,clean up eagle-application-service to be replaced by new app framework,None,Minor
+18ae3bbbbdbfbfa6b2462670d7c55c7322d81fc1,EAGLE-465,Improvement,Hive security monitoring refactor,None,Major
+ecabbe4ca98b43356e8e1410b6f4eabc159791d6,/,/,    TestSerDeserPer failed with Windows Git bash,/,/
+ ,EAGLE-466,Bug,TestSerDeserPer failed with Windows Git bash,None,Major
+1517c132658408952e790e27565496b9587da06b,EAGLE-421,Bug,JMX Metric APP use new application framework,None,Major
+b4732cb2fc104350e2f9e6c3edb8518f41a21a11,/,/,    clean up eagle-data-process,/,/
+c66b52554e7de8bd8c1be1928aee90303ada8fbd,/,/,    large PRD missed some files,/,/
+0f11a591a1521bfd50b6646aa5f27ada4c68c402,EAGLE-341,Improvement,Display meaningful error information like request timeout error if possible instead of blank page or &quot;OPS&quot;,None,Major
+0f7ddab58da25f50144d60008f49677b4614cf84,/,/,    add back bash files,/,/
+984586580b3840f254f36e2f24a786c1eca98370,EAGLE-444,Improvement,convert eagle-gc app to use new app framework,None,Major
+15e1c8335ada8d6e492affc9113f8f0b39fb7d9d,EAGLE-446,Improvement,convert eagle-hive app to use new app framework,None,Major
+502c7e37f842eabc4021c47053dd95bdd1c7efde,EAGLE-438,New Feature,Multiple Inputs for Hadoop JMX Collector Python Script,None,Trivial
+cc12615536626dcbb71e47d37fc1f7df95dcdd20,EAGLE-450,Improvement,Alert check meta version conflict between runtime modules,None,Major
+9a7fedcc9db8611ec0e6c9e46d38727cbffc8ad6,EAGLE-416,Improvement,Add check style support,None,Trivial
+a7a5358d8df9a256677a7a78869a922ebb4fa38f,/,/,    add back file name issue,/,/
+45dd605f25a8b3b27e1cbc5863a0dde615e35d62,/,/,    HDFSAuditLogAppProvider naming issue,/,/
+27513f7b7cf4d3c34523f811ecf4454611012368,/,/,    hdfs hbase mapr app conversion,/,/
+43d229eec09e01dc09f89c04e28b9cbe405032b5,EAGLE-455,New Feature,Provide shared JDBCQueryService for JDBCMetadataStore,None,Major
+d74c186fca81ebd3d5cb0f7fa1796eb1a5bd83ba,EAGLE-435,Improvement,Coordiantor schedule operation must be exclusive in distributed deployment,None,Major
+a772a05568ac30fcfbff21cfaf94e72022b6fe68,EAGLE-440,Improvement,Alert mongodb storage refine,None,Major
+08abde5130da77e2d6d65c3940728b2beccb3f52,EAGLE-453,New Feature,Use META-INF/providers/${appProviderClassName}.xml as default metadata path,None,Major
+6d5907daaf1b164f1e399df2a50ab87dbf2ca1c9,EAGLE-442,Sub-task,Support to extend metastore DAO modules in SPI,None,Major
+c65138b8b4a4ff1695c2edd93fdfad2d0f563ece,EAGLE-443,Improvement,refactor ProcessedTimeStamp,None,Major
+678437aadb5ca6e5c7256fabd40b4966e4227911,EAGLE-440,Improvement,Alert mongodb storage refine,None,Major
+e2532a1dbd564ce5b857ea1f720e83579a3f9680,/,/,    Convert fid uid in MapRs audit log to FIle/folder name  user name,/,/
+ ,EAGLE-283,New Feature,Convert fid uid in MapR&apos;s audit log to FIle/folder name  user name,None,Major
+17bd3b89746433f0493ddc37541de06cb70027d5,EAGLE-430,Improvement,explore new packaging method for eagle using new app framework,None,Major
+9b10f22221b60f0f6451e71ac3396b326f9565ef,EAGLE-441,Sub-task,Combine environment configuration into application configuration for execution,None,Major
+ad5becc9fbac37653fc63b5f4eee75d6a410d120,EAGLE-436,New Feature,Decouple Application Class-based Configuration,None,Major
+a0458ba2605a4026d1d139816f1bf3efb8112d5a,EAGLE-439,Improvement,Introduce policy enable/disable support,None,Major
+17670acae1ad64ca378e8a60676f027845528dd8,EAGLE-439,Improvement,Introduce policy enable/disable support,None,Major
+53370c2e79fc418edf6c7697aa6fc3ac7fce3747,/,/,    Hbase monitoring metadata browse API in new app framework,/,/
+32d96b2952f578a0397e3227358cad608243daf5,EAGLE-434,Bug,BUG: periodically trigger schedule in service mode,None,Major
+5bf2c62d264ebc7922b18d932995b4f2b46c4a1a,EAGLE-422,New Feature,eagle support for mr &amp; spark running job monitoring,None,Blocker
+5c0db6aff007defee467878a820845edcb70f9d9,/,/,    Load app web classes and app topology classes using configured lib dir,/,/
+ ,EAGLE-426,Improvement,Load app web classes and app topology classes using configured lib dir,None,Minor
+660bfbd3fac6febddb612b9b629a8d466b536b3d,/,/,    HBase audit monitoring with new app framework,/,/
+ ,EAGLE-420,Improvement,HBase audit log monitoring using new app framework,None,Major
+1d842563ae7a7d0416a58324eb75760dbdc8d06f,/,/,    stream tumbling window aggregate library,/,/
+ ,EAGLE-410,Task,stream tumbling window aggregate library,None,Major
+2115d0ad59d675fedfbeb581c62c7e20cc284d31,EAGLE-418,Bug,Unit test case failed: org.apache.eagle.alert.cep.TestSiddhiEvaluator ,None,Major
+c0b90247214949410925d95de1ae562ce1299c80,EAGLE-417,Bug,Fix unit test failure on develop branch,None,Major
+9581b66c3cc0cf68ef41cbbb8d4ef83867e8febf,EAGLE-415,Bug,Compilation failure in develop branch - Copyright missing,None,Major
+1c7cb62e580524a45eb58e0f28c64ea809aafd7e,EAGLE-406,Task,Add develop branch CI build status to README.md,None,Major
+6f8b82ef0d0f5d2597f0ec4549c0cce3ca5fec54,EAGLE-402,Sub-task,EAGLE-402 Refactor Application Framework  to be better managed or deployed standalone,None,Major
+89a5bcca7fb71756f9edb46e4b3150c7868a943f,EAGLE-402,Sub-task,EAGLE-402 Refactor Application Framework  to be better managed or deployed standalone,None,Major
+4ad1a4182ae6525e338b9f17cc60d1ff39ff2ebe,EAGLE-402,Sub-task,EAGLE-402 Refactor Application Framework  to be better managed or deployed standalone,None,Major
+30db8ef87ed0d8a2c16e3cb05d572c48db575626,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+037b97ad627148c81d53aa8444e599f0103020e5,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+f2f07211d3b71e70903e04d6875aab098fc49689,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+5b190a5a936ef90d3b25d58e591be388ee215a86,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+557ccf9b15166dbb2c1db72b62eb42386b42e812,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+0d613195173c6f6b2f869b8c70e9e90206ade1a0,/,/,    add Michael Wu's PGP pub-key to KEYS for sake of future releases,/,/
+0feba43d4bb93b431f8eccc41ab001859793cecd,EAGLE-403,Sub-task,Enrich Metadata API of Application Management,None,Major
+b7536783206d3e131040eb43b613093b83a35325,EAGLE-399,Sub-task,Implement consistent RESTResponse Wrapper for operation (CREAT/MODIFY/DELETE) request,None,Major
+994a1e584432e8bef5463be57faf955553bd4d01,EAGLE-401,Bug,StreamRouterBolt and PublishBolt also have NPE ,None,Major
+7e9dfaf3d5a51b52539ba5b298fbeb9d559ddd07,EAGLE-400,Bug,Compile errors in develop branch,None,Major
+4d7ccd18e817ac65e81fe80ca992801b6ed90174,/,/,    fix typo in files,/,/
+8777936d2edfd02ff55f3f7cd6a9caa78b8c74bd,EAGLE-398,Sub-task,Refine example application for developer to easily know how to create a new app,None,Major
+c017fe4cdfcba0c95b9a32f665e8314a8bf99271,EAGLE-399,Sub-task,Implement consistent RESTResponse Wrapper for operation (CREAT/MODIFY/DELETE) request,None,Major
+043a103fd6137fd9367e5ad520fb19fffb954469,EAGLE-397,Sub-task,Implement KafkaStreamSink with type safe StreamSinkContext,None,Major
+f1a93b1bbc29aadbda5f09ddf2622252e8893b0b,EAGLE-394,Bug,Fix NPE bug while metadata inconsistent; Fix unit test,None,Major
+fabfc25b9d30faff7b72f45c2ca39e392726eda8,EAGLE-393,Bug,Fix UnitTest Error caused by streamDef.json and TestApplicationImpl,None,Major
+ef84ca1e3c3b0bfc04ece5d6f453262b00ccff95,EAGLE-392,Bug,&quot;parent&quot; tag in eagle-common/pom.xml is configured incorrectly on &quot;relativePath&quot;,None,Major
+e73e35da0fa778564fb23582478541fe390f2a0a,EAGLE-386,Sub-task,Refactor Application Framework Interfaces and StreamEventMapper,None,Major
+e21b073f6a21e2b9b6aa580d11dbadfa474c9c4c,EAGLE-382,New Feature,Monitoring Application Framework,None,Major
+ ,EAGLE-385,Sub-task,Monitoring Application Framework Core,None,Major
+ ,EAGLE-382,New Feature,Monitoring Application Framework,None,Major
+f0af3e5dc7cebdff426d0450bea7256a31ca77ec,EAGLE-384,Task,Alert Engine BugFix and Improvements,None,Major
+04468a9f87d528db994b1334238d40d88f9db8d6,EAGLE-358,Improvement,add help for 404 error on Eagle UI,None,Minor
+a153b233f9e9e0470cebb7e45ffe858067f73195,EAGLE-376,Task,skip faulty hbase related UT code,None,Major
+0cbce7f7b4bee1845f223403357c88ea7c0be583,EAGLE-374,Bug,sub-modules of eagle-jpm lack of relativePath tag pointing to parent in their pom.xml,None,Major
+9d32fb1726785df7a4a7054f155bd50df5f2a77b,EAGLE-372,Improvement,Change AlertNotificationEntity#fields type from String to List ,None,Major
+3ac32770d4dec422428560fd6f5e96f3d27b219b,EAGLE-366,Improvement,Create HBase tables if not exists in Eagle 0.5,None,Major
+9f6fea4ab65f4e7386d01b936b3a5d913ebee7e6,EAGLE-350,New Feature,Running queue metrics monitoring ,None,Major
+f3e7687e33ebe519b09660332bcf24a78630392a,EAGLE-371,Improvement,remove eagle-docs from develop branch,None,Trivial
+1dffec09ccb084c484e0427d2ce2cb567403cf21,EAGLE-370,Improvement,Absence alert engine,None,Major
+0b77d947a4ebdb996d837414c9e3eaa8b0f06093,/,/,    Fix test building problem caused by kafka version and remove unused files,/,/
+160f674cd17f5530e08524179c2bf1ea83090ccf,EAGLE-359,Bug,Fix building problem caused by #250 with invalid kafka version,None,Major
+72a1501c3ff645d93067b4fd9907f8183c2763b6,/,/,    Rebase code base,/,/
+fe50912574dfe2126da0154b8544d81022126acc,EAGLE-276,New Feature,JPM - Spark&amp;MR job history monitoring,None,Major
+f857cbe42a351157d00204345b96105f798b534c,EAGLE-349,Improvement,Add batch processing apis for metadata in the new alert engine,None,Major
+7f6269cd913a2d31f45eba4e791b223011cfec0d,EAGLE-338,Bug,fix topology-assembly build issue because of module name change,None,Trivial
+8b646715edbe8f0e3a4a2d926c10e4a942117085,EAGLE-334,Task,clean user profile code in Eagle 0.5 and redesign in Eagle 0.6,None,Minor
+eef4930c3b9cac7d8c596af684ba098ec2b2229d,EAGLE-331,Bug,avoid to use junit.framework.Assert,None,Trivial
+9d16f213c991a816b4cf89732a51243b871b0c5a,EAGLE-329,Bug,Dependency incompatibility bug among jersey  asm and extcos under JAVA 8,None,Major
+9850801123d408194ffbd84cd215344c15fd3240,EAGLE-325,New Feature,Initialize next-gen alert engine code on branch-0.5,None,Major
+1d51f826c735096aa3c4cc1eb16362359c1d3b29,EAGLE-324,Task,Initialize code for 0.5.0-incubating-SNAPSHOT,None,Major
+8dc70df42f917c58f2fca131ec45c418be68c055,EAGLE-324,Task,Initialize code for 0.5.0-incubating-SNAPSHOT,None,Major
+737e5a2d50c9d479d6810bfb7562e54a2d0dfb47,EAGLE-325,New Feature,Initialize next-gen alert engine code on branch-0.5,None,Major
+656dd2305754e5ed0d19f36008c11276ca4010a1,/,/,    Branch 0.5 fix license,/,/
+614c118ef3d739cccb18bdeed0bbdb58b757649f,EAGLE-324,Task,Initialize code for 0.5.0-incubating-SNAPSHOT,None,Major
+341816d48657ef79252b41c46df4b0b4a10d14dc,EAGLE-304,Bug,Enable Advanced dedup configuration in policy definition ,None,Critical
+ffd5fddd357effae7aaf2384a2a9b6d479f9c930,EAGLE-305,Improvement,Add a config tip to the document for &quot;Application Manager Tutorial&quot; - setting &quot;appCommandLoaderEnabled=true&quot;,None,Minor
+ ,EAGLE-308,Bug,Consistency issue: deleting a topology doesn&apos;t delete existing topology-execution bound to it.,None,Major
+ ,EAGLE-313,Bug,normally stopped topology-execution shows error message in the description column,None,Major
+ ,EAGLE-305,Improvement,Add a config tip to the document for &quot;Application Manager Tutorial&quot; - setting &quot;appCommandLoaderEnabled=true&quot;,None,Minor
+fd39e6e14ed5cdca1e7b4314b2b4e5e1d1d97425,EAGLE-298,New Feature, Oozie auditlog integration for Oozie security monitoring,None,Major
+0a76242d13c3163acc830877459a89dc20d16f42,EAGLE-316,Improvement,Feature topology should not be added into an application,None,Minor
+4ad4b5ccfcd3d3df16d03080ac9a73a1465c2d3d,EAGLE-315,Improvement,Add tutorial for mapr audit log monitoring,None,Major
+253f99bce6fb72fd18823dca0d496516fda6dde0,EAGLE-280,Task,Update logstash-kafka-conf.md,None,Major
+5578cfd912d70ebc0bb52a754f145996c6e5efd8,EAGLE-296,Test,add unit test for eagle-storm-jobrunning-spout,None,Minor
+e618d256e4854602d01a6440f51d9962be7eedea,EAGLE-279,Bug,Create Documentation for Sandbox Quick starter and JMX monitring,None,Minor
+9ad4b635d1bad7d7db9470b7ab48d99d1e4aa3e1,EAGLE-294,Bug,If a policy metadata field is not set  null attributes can not be able to add into input stream for SiddhiCEP ,None,Critical
+e7433a3b1647131433fd1473d9514d64fdac5643,EAGLE-236,New Feature,Change project version to &quot;0.4.0-SNAPSHOT&quot; since &quot;v0.3.0&quot; has been released.,None,Major
+8df78b185eaba1c094ae7b713b4342a476e9b92a,EAGLE-297,Bug,Email with authentication can not be validated and sent out.,None,Major
+8dbbf7100f12ddd75215e1ae99384623dd5cf3f7,EAGLE-297,Bug,Email with authentication can not be validated and sent out.,None,Major
+50ff38d99de630d6cb4ced324317237bcca65e8b,EAGLE-300,Bug,Disable spring debug log by default in webservice,None,Major
+8dad5fe6fd83b76674e4df6e6bd50e0b11f3bec0,EAGLE-291,Bug,JDBC: Update transactions fail in PostgreSQL,None,Major
+6768fe4924fe321c4c89736f8118e17f0c8ab8fb,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-eagle,/,/
+8087ec0b64f3809360361233d2d356fea4b19364,/,/,    disable testLengthSlideWindow,/,/
+cf4b277a1645087df306e3b2f2c133c58a8826e2,/,/,    disable testLengthSlideWindowWithGroupby,/,/
+02fcb79d7dcb959338547bec280cff1991b33cdb,/,/,    Add configuration value to enable application Manager,/,/
+f90a0a49a6cb4b9c2d10881c5fe2cd80c3b9d72e,EAGLE-289,Bug,$elem[&quot;dataSource&quot;] in alert email,None,Major
+d8be43f1f7ea22fccf8478dc335bbde42ce856f4,EAGLE-254,Bug,HdfsAuditLog topology keeps alerting for one piece of log,None,Major
+a725ea5578917fde915675123c5251eb6afd99b9,EAGLE-222,Task,Documentation for eagle alert plugin mechnism,None,Major
+c2574fe40d0ff6c9d81febc3acde87b757b17953,/,/,    Author: Huizhi Lu,/,/
+035a9f6949e3ef378e98c9fad84c3087afef5e4d,/,/,    delete duplicate email template,/,/
+ecf75b280ba63733b285ee18925f0489f69601f0,EAGLE-271,New Feature,Topology management in remote mode including start/stop/status operations,None,Major
+ ,EAGLE-272,New Feature,Support topology management in UI including creating topology and monitoring status,None,Major
+ ,EAGLE-271,New Feature,Topology management in remote mode including start/stop/status operations,None,Major
+ ,EAGLE-238,New Feature,Support scheduling topology in local mode including start/stop/status operations,None,Major
+99b25759c0f742bea27a60773808bf5b8ceffc3d,/,/,    Fix java.lang.ClassNotFoundException: org.slf4j.impl.Log4jLoggerAdapter,/,/
+5d82c61099416c99e3a3f011d0851c0589ddf383,/,/,    change dataSource to application in ALERT_DEFAULT.vm,/,/
+ed270c9e38f0316ecb9a2b6bcba5d1169d81ba2f,EAGLE-239,Bug,Alert list and details are not correctly displayed,None,Major
+1ea33dcc8ed25349389c759d94f0506729cc438e,EAGLE-266,New Feature,Integrate MkDocs for eagle-docs: http://www.mkdocs.org/,None,Major
+74a2655d99d12d752ce149cf8ec718ec6530f53e,EAGLE-266,New Feature,Integrate MkDocs for eagle-docs: http://www.mkdocs.org/,None,Major
+01f48fe8034a9eaf935e1576d442f3c348b66d84,EAGLE-257,Bug, Failed to convert ComparisonOperator:!= to SqlEnum,None,Major
+72b79c5588964039b69b4625b04f5035136b6751,EAGLE-258,Bug,Automatically add apache-github and apache-git in pr tools,None,Major
+4bcf78abcb67836d3b7b204ecb81f9701a76e45f,EAGLE-196,Improvement,eagle-topology.sh should have jar file path as parameter,None,Minor
+48b59525110c4073ff75b371f58c8ebabd159b7b,/,/,    minor: Fix bad char in eagle-dev/merge-eagle-pr.py,/,/
+12e4395fda473e6474d556843b21bb576b79c2fd,EAGLE-223,Improvement,Notification plugin to enable multiple instance of given alert plugin ,None,Major
+ ,EAGLE-239,Bug,Alert list and details are not correctly displayed,None,Major
+ ,EAGLE-221,Task,Support cusomized notification type in policy editor,None,Major
+ ,EAGLE-223,Improvement,Notification plugin to enable multiple instance of given alert plugin ,None,Major
+f9b1bc7b63c0cd6a180689dc831890d7778f8432,EAGLE-84,Task,Create scripts for merging PRs automatically,None,Major
+c46cc7e23e2bcd40bed2d2bda4cf8f01dfbca975,EAGLE-84,Task,Create scripts for merging PRs automatically,None,Major
+772938ade85474072a27c312efc18315598e3497,EAGLE-248,Improvement,Rename directories according industrial common sense,None,Minor
+3b405cbf821d96074c556cf0f2c6cb8374c0ee3b,EAGLE-248,Improvement,Rename directories according industrial common sense,None,Minor
+7cfb19e5937a7eb2c3a3c81cbfca5aa20d822d3f,EAGLE-242,Bug, Import the notification plugin metadata when initializing,None,Major
+60325aa2fccc81d47a3f2e27799bb697a6b06381,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-235,Bug,org.codehaus.jackson.map.JsonMappingException: Conflicting setter definitions for property &quot;alertContext&quot;,None,Major
+ ,EAGLE-229,Bug,java.lang.IncompatibleClassChangeError: class net.sf.extcos.internal.JavaResourceAccessor$AnnotatedClassVisitor has interface org.objectweb.asm.ClassVisitor as super class,None,Major
+ ,EAGLE-228,Bug,org.apache.eagle.notification.plugin.NotificationPluginManagerImpl - fail invoking plugin&apos;s onAlert  continue  java.lang.NullPointerException: null,None,Major
+ ,EAGLE-227,Bug,java.lang.NoClassDefFoundError: org/apache/commons/pool/impl/CursorableLinkedList$ListIter,None,Major
+ ,EAGLE-224,Bug,Column not found to EAGLE_METRIC when using JDBC,None,Major
+ ,EAGLE-240,Bug,java.lang.ArrayIndexOutOfBoundsException thrown by MetricKeyCodeDecoder,None,Major
+ ,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-225,New Feature,Create eagle bootstrap scripts for examples ,None,Major
+ ,EAGLE-229,Bug,java.lang.IncompatibleClassChangeError: class net.sf.extcos.internal.JavaResourceAccessor$AnnotatedClassVisitor has interface org.objectweb.asm.ClassVisitor as super class,None,Major
+ ,EAGLE-237,Improvement,Add development tools for quickly starting zookeeper  kafka and webservice without depending on sandbox,None,Major
+ ,EAGLE-225,New Feature,Create eagle bootstrap scripts for examples ,None,Major
+ ,EAGLE-230,Bug,Exception in persisting entitiesService side exception: org.codehaus.jackson.map.JsonMappingException: Conflicting setter definitions for property &quot;alertContext&quot;,None,Major
+ ,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-224,Bug,Column not found to EAGLE_METRIC when using JDBC,None,Major
+ ,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-225,New Feature,Create eagle bootstrap scripts for examples ,None,Major
+ ,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-225,New Feature,Create eagle bootstrap scripts for examples ,None,Major
+ ,EAGLE-232,New Feature,Create local Kafka/Zookeeper/Storm runner tools for quickstart examples and add related scripts to start/top zk/kafka,None,Major
+ ,EAGLE-225,New Feature,Create eagle bootstrap scripts for examples ,None,Major
+ ,EAGLE-240,Bug,java.lang.ArrayIndexOutOfBoundsException thrown by MetricKeyCodeDecoder,None,Major
+ ,EAGLE-237,Improvement,Add development tools for quickly starting zookeeper  kafka and webservice without depending on sandbox,None,Major
+8e338fea1a36a7842e72ab23e80c6a29654cb59d,EAGLE-214,Bug,Policy edit page need auto switch application,None,Major
+f311630fb8cb7a77d3543c01dd299bbc6f1e9090,EAGLE-224,Bug,Column not found to EAGLE_METRIC when using JDBC,None,Major
+f6aebe631c20685674c0d5c57b29c0ff257ddcc8,EAGLE-212,Bug,Fix AlertDataSourceEntity Bug in Hive web,None,Major
+48ac798da4bdfa14c96604b277b14dec4f44181c,/,/,    minor: Fix eagle-gc dependency groupId,/,/
+6a0a11f2da3c0d11091fcc2e2f05258f61a3da99,EAGLE-216,Improvement,Added RM Policy and GC Policies in Resource,None,Major
+ee6c6ad6d07c1294605d42a05926bff7a20481c2,EAGLE-189,Task,LogStash Config Addtion for GC Monitoring,None,Minor
+1026b84877abd2fd0ab49bd734d47cccbff54d07,EAGLE-213,Bug,Updates fail for MySql  ,None,Major
+a3986fccbcb9e50d51184810f928441f6f24bc44,EAGLE-212,Bug,Fix AlertDataSourceEntity Bug in Hive web,None,Major
+c2c187789270b3559b1cccb3c9a7dd9ef655dc14,EAGLE-210,Bug,UI application group not display correctly,None,Critical
+57aa3d3acc25fb0d5d75757268c3fed2ca3eb9b0,EAGLE-208,Improvement,UI metric dashboard should support order &amp; rename,None,Critical
+46ad97843b8ed54b88a813040568aa23f0c5f73a,EAGLE-205,Improvement,Metric dashboard support multi metrics,None,Critical
+60f4fcf5caf1c7027ec9ad43fb0538b7af16f5fd,EAGLE-207,Improvement,Management page add tips,None,Critical
+f9b1316717c0f1083b2b84284ddb2ddfd44d3ca7,EAGLE-206,Bug,Fix apache-rat by enabling useDefaultExcludes,None,Major
+0605b34faaff218a847bb8b2b7ea9e2ae114b32f,EAGLE-204,Bug,JBDC Support Groupby and Timeseries Aggregation,None,Major
+c4bdb63f83e5d7d12924466e5eea778fbd061a8e,EAGLE-202,Bug,Specified key was too long; max key length is 1000 bytes for mysql,None,Major
+c6b76b9d7effa3594168da5af6b219330e215b97,EAGLE-198,Bug,integrate new Siddhi version so that thread should not die when event evaluation fails,None,Major
+45f7c7067b8a44c6fe630b859998c1bbb707e65d,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-eagle,/,/
+34aec7e9a99e231be74193f4446943ca49488f0f,/,/,    Remove kafka-python from top level license as it's under Apache License,/,/
+8ce8d384c5fda4d8087d9c6d8eb0aa9afec528f1,/,/,    Add AL for eagle-core/eagle-data-process/eagle-stream-pipeline/README.md,/,/
+e21da5c2943cb49f6eb59df9ed7c9c950db6f5b5,/,/,    Remove AdminLTE and Google fonts from top level LICENSE,/,/
+123e80993f10b356d96dc3efa5e07f9775503bed,/,/,    Add missed license header,/,/
+e0529d4d59287fa7d18b6d636a4d28b50b9ff408,/,/,    Copy external license content for six Google Fonts AdminLTE,/,/
+877ca9369a1ffda6e17a62a2ebcb2b51ac49995f,/,/,    Remove kafka-python from top level license as it's under Apache License,/,/
+ffd84fa0e2dcf2fd3a8d444e1b589341789f6bcd,EAGLE-190,Improvement,JBDC Metadata Storage Extension,None,Major
+4c1831aa1682c4f5fc332e4577df6bd7eb3e787b,EAGLE-201,Improvement,Change maven group name to org.apache.eagle instead of eagle,None,Major
+c8c826b3017983830a372aef66612569cd31201a,/,/,    Merge branch 'master' of https://github.com/hdendukuri/incubator-eagle,/,/
+986a9996f9d9e80f53f841bbfe61cffab566eacf,/,/,    Update dependency license file,/,/
+bdd79e46c3cc4a422065a7c829f5a9d320538332,EAGLE-199,New Feature,gzip lib/EAGLE/package/patches/app.js lib/EAGLE/package/patches/app.js.gz avoiding binary file in source code,None,Major
+91b195650a6fc796aba5c91c85408925bdf0a61b,EAGLE-195,Improvement,policy metric display with interval of 5 min or customized interval,None,Major
+16ae0c316bb84c290abbdfee8376637132f7bb62,/,/,    Implement SiddhiPolicyExceptionHandler for handling exceptions,/,/
+267a8d385e10c000e117b32436ed6b69608a9d39,/,/,    upgrade siddhi to 3.0.5,/,/
+84d4723d8263b1c16b54efff3da04f79373bc583,/,/,    change dataSource to application,/,/
+124de31aabcb33154d4e3546bac36fb42917cd21,EAGLE-194,Improvement,UI show exception alert if service error,None,Critical
+625f7c19a8827c1cae762b0d4ab7e0e5a9b23d4f,EAGLE-193,Improvement,UI metric dashboard support sortable,None,Critical
+cab2e42d06d0cb5cea9f6f61b6f4b81570eacab4,EAGLE-191,Bug,Fix Copyright message and update pom version,None,Major
+cad5d965ca597fc52109a38f1d0b265abb7cbe45,/,/,    update eagle version to 0.3.0-incubating.,/,/
+37c0fe16afbbd6bccb7c0d24b9afd464b807655d,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-eagle,/,/
+66258977a13e40b0b0e9c16a946293456eeed2b2,EAGLE-103,Improvement,add comments to readme to tell users: currently  eagle is tested under jdk1.7.x  may have compile error with jdk1.8.x,None,Minor
+1b74ed649371518d00cc750d3aa72acb2b9bb8be,/,/,    Updated licences to the files which had wrong copyright message.,/,/
+ce2d54c1d9fc5d85d2d4a8b143f9a05f02f8d4d6,/,/,    Removed unnecessary copy right message in the templets.,/,/
+6732a4e6eefc1891ca9119ca10d35874a0784584,EAGLE-185,Improvement,UI create cache after building,None,Major
+a641aca155531edaf4e6ab843d6aa2c7f4eff022,EAGLE-186,Improvement,Add capacityusage in script support,None,Major
+d394a8e34ddb758f1f6f96bf40346d176859628b,EAGLE-61,Improvement,Support for secured cluster connection &amp; enable Ldap authentication ,None,Major
+1a3b9b0861c0cfb7750e27c94d3a152570cebdfb,EAGLE-157,Bug,policy metric should be refreshed every minute,None,Minor
+2b09be95443ae7f2658e772362d5a91b5dd571d6,EAGLE-177,Improvement,Replace Legacy &quot;dataSource&quot; field with &quot;application&quot; in all metadata,None,Major
+d9ef76d9756fbf7c8992918b6f99fa2ca4c392fd,EAGLE-173,Bug,Mark/Un-mark a sensitivity type does not sync status mark in the table list.,None,Minor
+7bc5d9a65bc53aa1019eac380c3acfdd17976619,EAGLE-176,Bug,Metric dashboard UI keep api refresh after page switch,None,Trivial
+6f4fb5c4b4084067e4ad9abcfd0feef931cbd84e,EAGLE-31,Sub-task,General monitoring UI support,None,Major
+1965b4aff6f27b971effc7bd5be0fd773a686789,EAGLE-167,Improvement,Refine JMX Collector Code,None,Major
+d37643b0ae7c3fe22fe2794a9fa18ec74b8f9eb2,EAGLE-139,New Feature,Eagle UI Modularization ,None,Major
+ ,EAGLE-163,Bug,HDFS topology not working.,None,Major
+ ,EAGLE-139,New Feature,Eagle UI Modularization ,None,Major
+eb0734b6f1eb0d868f7d8d39d5e543a11d87d0bb,/,/,    Eagle -168 - AlertEmail Initialization Issue,/,/
+ ,EAGLE-168,Bug,Notification Plugin AlertEmailPlugin Error,None,Major
+f9a921157c6104fda91251fa5bf01e5f2c3dcdc5,/,/,    Auto fill site from configuration if not set,/,/
+86f2f8f0ec8d44934c4396e7bf9d678ed9306a72,EAGLE-166,Improvement,Enhance metric collector script to extract hadoop ha status as metric,None,Major
+46155d97c9316b5d91a1e992dae23abdad5ec644,EAGLE-165,Task,Add more jmx metric cases,None,Major
+62db846d6df909639b6b57d4951358634d5f3bfc,EAGLE-164,Task,Tutorial for setting up the development environment on mac,None,Major
+9fb932cfcb9296e4c608fab6b869381876093246,EAGLE-141,Bug,fix some unit testing exception which is thrown within annoymous class,None,Minor
+c7ce706b4217d8e68388bf1fffade2eec489f2bc,EAGLE-158,Improvement,Disable org.apache.eagle.datastream.EagleTuple,None,Major
+fba3aebae232ba4090dc3fdc64dbdd2946b197ce,EAGLE-154,Task,hadoop-metric monitoring sandbox starter script,None,Major
+88d0126cb2e8a74f01aef968c553de763d1e5212,/,/,    notification plugin framework,/,/
+caa2dfef50edb6801edc06c4fc1ec4a25e3dccb8,EAGLE-152,Improvement,hadoop-metric monitoring automation script,None,Major
+0a984939832534acf2f867f9dfffed339be5859c,EAGLE-95,Bug,DAM HDFS topology fails to start  if there is invalid policy.,None,Critical
+f213bab049c9f19e7a1e8ecee25c7cbd76a3c318,EAGLE-149,Improvement,Enable hadoop jmx metric cases,None,Major
+bd3b555a156e60f989b490c0596edc07a509d01f,EAGLE-148,Bug,Master build failure due to siddhi ql test,None,Major
+2ac5985f963ed06624bdfc679432f5e86e8efb25,EAGLE-140,Sub-task,Eagle Pipeline Package and Script,None,Major
+dcfeae75998af071dffe9a78ba3dfdd957285241,EAGLE-138,Improvement,Extend JMX Collector to support &quot;hadoop.namenode.JournalTransaction&quot;,None,Major
+52a89dc6d15ed18177256fec0326833dc6c846fb,EAGLE-138,Improvement,Extend JMX Collector to support &quot;hadoop.namenode.JournalTransaction&quot;,None,Major
+4688a9ccbf8a906ab9f394d456c7c46422cae4b3,EAGLE-138,Improvement,Extend JMX Collector to support &quot;hadoop.namenode.JournalTransaction&quot;,None,Major
+13bb16cf44cb41ae0be235bd7f5fcfcf27c86bea,EAGLE-136,Task,Setup hadoop metric application,None,Major
+d00513ce52063f41a7577ac40d7081e446228a6c,EAGLE-130,Sub-task,Eagle Pipeline DSL: Parser  Compiler  Runner,None,Major
+8f8a58f98f545ae1c75fb4aadd3a17a6f8e7f02e,EAGLE-130,Sub-task,Eagle Pipeline DSL: Parser  Compiler  Runner,None,Major
+a979b0f2a19d2bd8f1f5313baad021ee4efd2821,EAGLE-130,Sub-task,Eagle Pipeline DSL: Parser  Compiler  Runner,None,Major
+c1485aac543cff1245b7eab359a89d60c35424b1,EAGLE-130,Sub-task,Eagle Pipeline DSL: Parser  Compiler  Runner,None,Major
+f6c63e78a6e16e647e4c245332fc83b934397450,EAGLE-128,Bug,Fix unit test failure,None,Major
+48870eafe49dc4088d73303cf111c6636c7abe83,EAGLE-125,Bug,Add LICENSE in eagle external,None,Major
+90a1fb3f886c2246841dd4a3c0df8136946813a2,EAGLE-104,Bug,Fix the unit test TestHDFSSecuritylogParser  ,None,Major
+db2bbf91b30e8cc00adaadb64affb863dd41dc44,EAGLE-120,New Feature,add system metric collector for hadoop performance monitoring,None,Major
+ ,EAGLE-100,New Feature,provide tools to collect hadoop jmx metrics,None,Critical
+ ,EAGLE-120,New Feature,add system metric collector for hadoop performance monitoring,None,Major
+178d0664629eb753e68378f70bb6b3905efab113,EAGLE-119,Bug,fix unit testing bugs,None,Major
+da8f419c67b5ef42dcc480a19ca7ebce5a9a16b9,EAGLE-79,New Feature,Provide analytic DSL support ,None,Major
+dd26aa430194f489c475432bf34978d454e494b5,EAGLE-114,Improvement,Enable RAT check and fix missing license headers,None,Major
+ce64b4202de6f6b093cd96414449a7d1af3f9047,EAGLE-112,Improvement,Should support sum aggregation in front end for slide window function,None,Blocker
+e087501378ecf68e04e2546a46f718c845d06a70,EAGLE-97,New Feature,Enable GC Log monitoring for important service like hadoop namenode,None,Major
+dd72acebafae12cbcff2422e279f1b2432f3cc8d,EAGLE-117,Task,update Build Status Link and make it point to CI job building upon master,None,Major
+8537d4557461d107e6e0835971174d8f56a91396,EAGLE-106,Improvement,UI use same chart component,None,Minor
+23b32b12a19c1b2359f565664f42d0d3864f943c,EAGLE-47,New Feature,Ability to audit who made changes to Eagle policies,None,Major
+4e77f11d9497a0ffb492c899ebba211493850ef8,EAGLE-47,New Feature,Ability to audit who made changes to Eagle policies,None,Major
+dea3112d3772b8242f5831d50959b19ab6981c97,/,/,    remove patch file,/,/
+feaeabc18454bc760cbc247bba6a1ba80047b118,EAGLE-99,Improvement,policy distribution statistics to be printed in log,None,Minor
+89f788a9b0bed5be4fe41c913261566dc136f1f8,EAGLE-107,Improvement,Build Status Icon has been enabled for our github repo  please apply it to readme.md,None,Major
+b6f83353d54a62f1f06df9c29337ee056f599c9e,EAGLE-86,Improvement,Rewrite HDFSAuditLogParser to a non-regular expression version,None,Minor
+628e8753759294d3dfb5a0295493a1f2ef264631,EAGLE-75,Sub-task,Leverage dropwizard metrics for generating Eagle Topology and DataSource Metrics,None,Major
+0c583e5d90f1053599fdf64ab9c8c693c4f5e9be,EAGLE-88,Improvement,Eagle web-service should have status url,None,Major
+20808642471c879b0e4a656a3023fde726b5570a,EAGLE-94,Bug,fix the bug of eagle docker in Mac,None,Major
+52b8e58b1af53273782454f52e61b4f4700626c9,EAGLE-66,Improvement,Eagle TypeSafe Stream Processing DSL,None,Major
+2734b42221346ca4eb7bf27894e89bac89f45ab8,EAGLE-76,Bug,Disable creating newStream for common user role,None,Minor
+56a0523e210bd9e925065b43c4d2f126fb324c4d,EAGLE-62,Improvement,Add jshint for front end UI building,None,Minor
+2076130d07aa9a31c098453c12eeae64cbda3266,EAGLE-80,Improvement,remove httpd directory,None,Major
+9f9531679d9d22b0a9c3912ace485f3e89f4a6f5,EAGLE-85,Bug,Fix unit test failure.,None,Major
+eda2f96a879ad34ef8209c9cb508648a86fc0385,EAGLE-74,Bug,in sandbox setup  change package name from eagle. to org.apache.eagle,None,Major
+e362b6f33b32f7afb13c215d545e18aed8baca94,EAGLE-14,Improvement,Re-assemble high level hdfs commands for better policy,None,Major
+5334a23d0709b34b718c3be7cc0408ae090f7d61,EAGLE-71,Sub-task,Fix eagle docker run command,None,Major
+403e959d80b4a71455a31ab8931ac8804c026295,EAGLE-64,Sub-task,Push eagle docker image to docker hub,None,Major
+296b145791c4cc0fe83e6c9ac66dac5d15a3cca8,EAGLE-65,Sub-task,Eagle docker consistent port mapping,None,Major
+ad4dc2ea93e7e27977241d3b9686506acd10effd,EAGLE-65,Sub-task,Eagle docker consistent port mapping,None,Major
+9ffec2423e4131add3ce6b56969fc3ed9a16cf7b,EAGLE-70,Bug,Fix Goovy into Groovy in pom,None,Major
+3ee73e8d5953b1c51d3c8c7d2af24ff417ca57f5,EAGLE-2,Improvement,watch message process backlog in Eagle UI,None,Major
+91aa216a81505a8d3b9162cccfd8da3b558e0929,EAGLE-55,Improvement,JobCompletedConfigServiceURLBuilderImpl in hive running spout miss anonymous paramter,None,Major
+f2fa44d7b21157facec5ebb9fa09b98781a998a5,EAGLE-44,Improvement,previous page should be reloaded after login session is timed out and re-login,None,Trivial
+369093cd74c5091fc2a05cc53400301f64b91d87,EAGLE-60,Sub-task,HBase sensitivity UI,None,Major
+de30b151e0780c1242099c8c2aa24b2cccf09145,EAGLE-58,Improvement,Enhance Hive query parse model ,None,Major
+31890530bb00ef38284b9df0d4838ffa3eb2c356,EAGLE-65,Sub-task,Eagle docker consistent port mapping,None,Major
+b11a223a452b6a11d4a111175ca26948663d17ef,/,/,    modify some interfaces and constructors,/,/
+66c3ef520e76791c0c664712c74564fb721b856e,EAGLE-65,Sub-task,Eagle docker consistent port mapping,None,Major
+0637cad6cf0c068c968cdfe8b957226372888225,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+53b1da503cc0319879e75c8477b6f0ab4862bc13,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+b372df2af9dd3c59f184d83f59a6938fe515ccb1,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+6b9dc1c4b440d1a6709e643f931068ac534962dc,/,/,    Update README.md,/,/
+aee5d6fa2e919e6eff2f21f4c047256cf4e86775,/,/,    Update README.md,/,/
+8509591a3b691c7c1292d7f5164763e9877a752a,/,/,    Update README.md,/,/
+0a078a571fa687b26ac36645d226341e1d599127,/,/,    Update README.md,/,/
+2ed0eaa5b3696c50ae8c6873588edbce8237ccc1,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+4959646a6a4a57836ef94f18a93d60b4964de972,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+b5efa1544344255587fbb3fa415a050795258e8d,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+58a9555e28894e707d0dad528758dceb2e08d20f,/,/,    fix a typo in fetching alertConfigs,/,/
+3de5cce698e2da3db223c468d28388ae5189a2e2,/,/,    balance events partition based on greedy parition algorithm,/,/
+9f3d2721471279744bdafd183408b89be12cd224,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+34fa6d90a8cfe21a8ad85ce852b648a4a05cc363,/,/,    add metric topology for offline metric collection,/,/
+5d977e6ba3cb2282a05b520693ee059b2c31f0d7,/,/,    support hbase sensitivity,/,/
+6f29955aeec4112318ab9ee5cdd52318376737c2,EAGLE-55,Improvement,JobCompletedConfigServiceURLBuilderImpl in hive running spout miss anonymous paramter,None,Major
+92a040843aa046b7c01d949c9a8579e83ece8186,/,/,    Merge branch 'npm' of https://github.com/zombieJ/incubator-eagle,/,/
+a9d064a739ce16d4697246de6fe1f0274781456e,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+43bae921711c2db6c505d0b4bca444ed7dd871d5,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+dfcf1409856521925fdb326c086da58f318fd334,/,/,    add exception processing,/,/
+b12c28f590c2f3614474c4065c8bf0766516b2c6,/,/,    JobCompletedConfigServiceURLBuilderImpl in hive running spout miss anonymous paramter,/,/
+dc5b5ab38f830c942d9c22bd9bb0003dbc915839,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+b7f23722235ce37585faec2c959b86f5197e3ba5,/,/,    session keep url,/,/
+f9d688f00fc431a176a283d5d7caf43f1617e3a8,/,/,    Flot npm don't have min file,/,/
+4046666b170d4b3d8b3fcbcf3fc1b24e55f0d2dc,/,/,    remove --jar in eagle-topology.sh,/,/
+be7a62014dfe196931957c0f493bf870cb5cce26,/,/,    change eagle file's download url,/,/
+e931c210d55f02d836f94c12f7bd037b7d9309d0,/,/,    bootstrap components use npm,/,/
+0783ee3425245627826db0c2cb193c51cd498dd4,/,/,    add version into docker image,/,/
+22929cb22cac980bcc5c290c7eb6a066ffe2d4c8,/,/,    add LICENSE,/,/
+2c3005c99e7182d719755a5d61305c1627d9ce82,/,/,    update pom using npm to install web deps,/,/
+ca6abfbe5c49a2a5713e94fa6655296a68866852,/,/,    eagle docker work with single-node and mutiple-nodes,/,/
+c38b9221dc7671fc87b781374fee4b44f1c32e03,/,/,    Fix quartz job have already exists error,/,/
+86e3d6d0d9684c96f5f9a145e96514eb65bc79e3,/,/,    enable storm configuration for Eagle,/,/
+4329ef12365fbf163fc91126271ddad0d54198b9,/,/,    change package name,/,/
+db5d61a668b808d0d53ad5af8c2b9a8ef30c5e9d,EAGLE-53,New Feature,Docker Image for Eagle,None,Major
+5bffdfd3a9af0f65fd7257d4de114a198a73cce9,EAGLE-49,Improvement,Handle the bad-format message in smarter way instead of throwing exception always,None,Major
+86fe855d0f5eb4fb9b15c748c01128eba7452108,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+c99e1e9c7034c018b743515e990775a31d74842d,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+d74165fa4c82fd698be874ad5dc66a58bd349589,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+b72c796f691232028e8479970e8a476ecbad37cc,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+2bae0044361437155ec73fa7ce64bec6affbd1db,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+bf35ede03a55df9c851669e16c59049f696e0b6d,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+37e44290d629dc726440ca3576a48994a726e4d9,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+e05fac6d5c4140b3cd0b1e1c34b6b1154348cbb6,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+afe86834a09e734d4c4235a8c762d2011bea2daf,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+df3969103851f76066ad05dfe6515dacfaf8faf2,EAGLE-46,New Feature,track the work before moving code to apache site,None,Major
+d824a7c8bbdbca5cbc9736f45191ce928b7436d2,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-eagle,/,/
+5f618fa5f328d2aa29a04f7b3760d0d356b2411f,/,/,    Merge pull request #35 from qingwen220/hdfsSecurity,/,/
+ ,EAGLE-17,New Feature,HDFS security log integration for HDFS security monitoring,None,Major
+6a3df5e02d9c6c0e3af0fb45eb6d388c5421bd93,/,/,    Merge pull request #29 from sunlibin/Eagle-30,/,/
+ ,EAGLE-30,Bug,Topology run in storm local mode should not terminate after Integer.MAX_VALUE milliseconds,None,Major
+75dd9fd782f1dbd557b46b988fd4055e0b54c744,EAGLE-28,Bug,Znode root should be configurable.   ,None,Minor
+a610c251d9c502a40406de9ee6ccfce537549922,/,/,    fix confict,/,/
+685d7a6818ea6ae022a6b3c7d370ccf8f1f00cb5,/,/,    add hdfs security log monitoring topology,/,/
+f423c2bc60b1c842873d7ea26962262867d037ce,/,/,    Merge pull request #30 from sunlibin/Eagle-6,/,/
+ ,EAGLE-6,Bug,group-by user between bolts and spouts for hdfs/hive audit log monitoring,None,Minor
+9bd96e4585cf068d3d3e7a10e5967822be2396ee,/,/,    Merge pull request #25 from qingwen220/master,/,/
+ ,EAGLE-16,New Feature,HBase security log integration for HBase security monitoring,None,Major
+ ,EAGLE-10,Bug,Bad way to check kafka installation in eagle-check-env.sh,None,Major
+851b555b71fed18c5c2d133abf4ec99e7fc96c9f,/,/,    Merge pull request #34 from zombieJ/policyDetail,/,/
+ ,EAGLE-40,Improvement,Policy detail page support alert list display,None,Minor
+c1b9a7d93738cc5c43149157389186177d3f3872,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+ ,EAGLE-32,Sub-task,Mininal General KafkaStreamMonitor,None,Major
+ ,EAGLE-31,Sub-task,General monitoring UI support,None,Major
+a51ce2d6ca0f29b17e82d251946317be24d41a37,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+cb28812969841a2b7709aaca23c7cf3c491c4877,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+4d7229d2ccd8910126bed83b5dda5d1f21579f32,/,/,    add alert list in policy detail page,/,/
+8331e4be8a538ec4980d5417bf31fbc142143c2f,/,/,    group by user when transfer data between spout and bolts,/,/
+a7f4b0bb8ccfb48bdb2e0860975ae575de9ea523,/,/,    add znode configuration for Kafka,/,/
+95737c4b0751373b60eec3d590d8491991e90cac,/,/,    remove some data,/,/
+291c2a5d49102ded81039f10c83c2c622c255b42,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+9d1f2acd019c736b1e2649f76d184c9ade66a14b,/,/,    add GenericLogKeyer for log4jKafkaAppender,/,/
+84b52a431ad248e7e49253ea2329ebb018b70a1a,/,/,    policy float & double type support and add executor missing alert,/,/
+546b43a45d5840220496247922149111637365fc,/,/,    Merge pull request #27 from yonzhang/master,/,/
+e96dd9287e95543917df03c6efb357740de5a785,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+f7012ee61f14d1b3b309a2975590229d9782ed3d,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+1ab3dd47f90347bff96ab73b40a27ab1c5cceead,EAGLE-30,Bug,Topology run in storm local mode should not terminate after Integer.MAX_VALUE milliseconds,None,Major
+0ab5a98f4e37cab876d3db69206249f2c7d84cd1,/,/,    Merge pull request #28 from zombieJ/alert,/,/
+ ,EAGLE-29,Improvement,Update Alert page for display more infomation,None,Minor
+246d4279095dafb011d27baa8fe313ec4eb1a3ac,/,/,    add hbase classification api,/,/
+6bf0d00f0a42c8b826d126c180ed3b0e83375c0e,/,/,    update alert list & alert detail page for both display the alert time & message time. And add more info in detail page.,/,/
+8e618d9d799fbf0ce6f4b68f3f3cd438a0c14511,/,/,    fix HBaseAdmin close bug,/,/
+f61fda37e33974a5e2d69ae97b06828f1af9693b,/,/,    add hbase alert metadataSchema,/,/
+cfebc8cd6b16702461671a7ff033db7a0d9b0bef,/,/,    add hbase security log sample data,/,/
+a6854e63a931853034d570072e5013c0d199d12b,/,/,    delete detection in scheduler,/,/
+154837f3acb8c2eb59a52c82717ac7e1e6e76ffa,/,/,    add Hbase Security log topology & web resolver,/,/
+b7745c7d09ee3e7b0bfb44e537d08cf5f416d866,/,/,    update metadata page to support manage the data stream,/,/
+ae69096a2f472c799a8f59df924ce34eecff1da9,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+080fa2d87018b6882116aeeff65e891d9915ec52,/,/,    delete detection configuration,/,/
+226831a09afa5d0e659c193391354dbdf9dc4613,/,/,    clean detection job,/,/
+15974409d869473603fcbecf640bd4fd4c752217,/,/,    fix bad way to check kafka installation,/,/
+f3ca677bea8e895443b80b62f595caae504c6bce,/,/,    Merge pull request #24 from qingwen220/master,/,/
+1670fd0875f0797daa68045af0c5a0ddca43e8f6,/,/,    configure parallelism with bolt/spout friendly name,/,/
+4b76b8fb5319410c622458884b27fc9c8486f93a,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+b7471909987faf4ad7b019bd2af54cd3749a1b9d,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+c2784733c22884b5fdb96be9f4d85480a9031739,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+5ce6f223067b2b50c86611d6bc8a3198198ecfa2,/,/,    Remove useless modules,/,/
+8c460065e3ad2eb843bfd8b1b12cd7ed596ea6ce,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+a98ed5d30b1cdc058fb5be7921bdbed7ccd5f4f6,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+92ecb3a8dcfa459e2e596330955595fa7f1b0b9a,EAGLE-5,New Feature,Minimal general-purpose monitoring engine ,None,Major
+42b058cb5c38020dd26318431163988f827c0566,/,/,    Merge pull request #15 from yonzhang/master,/,/
+eebf7ddf28eefb1cbd3007a765cab6e69f05bdab,/,/,    Merge pull request #23 from sunlibin/master,/,/
+d02bd3b7000e635adae79483458f73d75237dd87,/,/,    add string constants,/,/
+3eaa80c780fa4a2b207f7da34feab6b8ce9a9fe7,/,/,    remove unused classes,/,/
+c8ece66937e33ac35c350e934f5520a5f9eae359,/,/,    Merge pull request #11 from haoch/master,/,/
+42c9ca7fb87493bf9b04deb0537828d8bba0b4cc,/,/,    Merge pull request #20 from chaitaligupta/userprofile_eigenfix,/,/
+35b7e9736cbd2010b86fde2ce1cd004f30985ab9,/,/,    Merge branch 'master' of https://github.com/eBay/Eagle,/,/
+e336747df99fa9f48f8660fe2b2326ed6d4c8f38,/,/,    Merge pull request #22 from zombieJ/policyEditBugFix,/,/
+22185b0ce1a7b5eb0b1d200080229d30c8e798e4,/,/,    ajdust logic of delete entity,/,/
+c5582023f67e1d96077c1f4f577539d3cbb51838,/,/,    varible scope fix,/,/
+90b5692cc7ef3f98a50d9716bf0d1650ae24b2a3,/,/,    Merge pull request #21 from sunlibin/master,/,/
+5f58a60489e36714b6eba7d40e6aecec9d5ec9f6,/,/,    Correct a field type in hdfs auditlog stream,/,/
+675e54563015107b4d36f0a3020c399d33eb968c,/,/,    eigen model results fix,/,/
+6610616dabb3bc79846805f4e2a5a2cc4f1fb631,/,/,    eigen model results fix,/,/
+b5b319506c359ed89a43e19fee9c3947c15abe09,/,/,    eigen value result corrections,/,/
+2f7951f0307e7284c97f5f6964fb95013a0e904c,/,/,    Merge pull request #18 from qingwen220/master,/,/
+f5c4c7325cf9115e481f256f1f559f2b8420ec19,/,/,    Merge pull request #19 from chaitaligupta/userprofile,/,/
+8a46d35e367d29636fc86e8270dd4b02afb0f028,/,/,    fix bolt id problem,/,/
+a34e83a65bef6b3f359335cca946a6a23520f2ae,/,/,    test code for eigen decompostion,/,/
+2febeb1f6737bddee6e712a785c36512149acf4b,/,/,    remove author & date info,/,/
+1865dc0bad3fecc8a88455866b43d1fe6340011c,/,/,    Updated Apache,/,/
+209dd6885242decf923ddc1e982d6ef46efc6ef8,/,/,    Merge pull request #17 from zombieJ/policyEditBugFix,/,/
+bc15d0ed99482137f18272a5816958af9c2df6a9,/,/,    Merge pull request #16 from sunlibin/master,/,/
+d4c28b79cacee4cfb39ff78fb1d0894ecaca2e50,/,/,    fix type of bool in policyEdit,/,/
+eb0650e6d84929f88e0b0bf14b4458028af69092,/,/,    fix some unit tests issue,/,/
+493159cfb2d615f7b714c54e8195f66a55634ae0,/,/,    resolve unit test issues in eagle-stream-process-api and add empty tests to make mvn clean install pass,/,/
+a4605c063f402779d373e61d88f4e37833bb0fdd,/,/,    clear unused import,/,/
+ba208893701d7ac9e033022538f812745e096e72,/,/,    Merge branch 'master' of https://github.com/eBay/Eagle,/,/
+1b65d02abfefa1ee377bb244b7266f07bbeeebfc,/,/,    fix jar conflict issue and comment external dependencies unit tests in eagle-security,/,/
+4d654631d940391457b336cd8f4e3451ff57cc6e,/,/,    comment some unit tests in eagle-client-base,/,/
+f86a89097e4ac0dd3644312e82e11cd4995f1b18,/,/,    clean an unused test in eagle-common,/,/
+c4db3925c98de59a0b03b380ffc4abfb5c5838b8,/,/,    fix unit tests in eagle-service-base,/,/
+8197a4b52be15cf476a2899840e237972d2d9602,/,/,    fix unit tests in eagle-storage-hbase,/,/
+a498359f12efe9474a8911c1ce4fa4204dc6dcc6,/,/,    fix unit tests in eagle-storage-base,/,/
+f20d286b8be818f55980a5f917406243f64ff5b1,/,/,    fix assert fail in eagle-query-base,/,/
+cb7d9d97730b8a30d565580ddc59605010c73ac9,/,/,    pass all unit tests in eagle-entity-base,/,/
+3e823c0bcf703da81e670f758e08bf9a0e6b297c,/,/,    remove unused classes and modifiers in eagle-storm-jobrunning-spout,/,/
+ddb8d6d5ba67889673dd7dae44f0aeaa6a85ead4,/,/,    remove unnecessary tests in eagle-storm-jobrunning-spout,/,/
+3bf45f2a2f17d8ca9e754f0ac166b650503b4405,/,/,    Merge pull request #14 from sunlibin/master,/,/
+15acc7c5a07fa3afedd01e0e281689fd257b88c9,/,/,    Merge pull request #9 from zombieJ/ui,/,/
+4e12a605199f07582af1b43641bb6054d60b0f62,/,/,    add fileSensitivity file,/,/
+2eba537c55331c6652e8c6a43394bac615347ca2,/,/,    add init script for embedded hbase,/,/
+85c14f1284311bfd190057009b4f0783d6a015e5,/,/,    fix akka exception,/,/
+31626371adb1c115574149d21d95fdb9a6c7706f,/,/,    pass all unit tests in eagle-alert module and remove unused ones,/,/
+aeeff979fffe7d412a4b6a2bcf3ca99c49a84ae8,/,/,    Merge pull request #13 from eBay/HADP-11314,/,/
+5389a387a1f5e0a1db5acc326c430334548a03a3,/,/,    sample data removed from being packaged into eagle assembly,/,/
+d00cc3d2731dc0e2c23f9645d29f62f752f7f796,/,/,    adding example userprofile training data and validation data,/,/
+fbfe5a6c64fde2c6b937db2c9cf15eb22522a383,/,/,    Use DE instead of KDE,/,/
+7842daf534bd38f37e8ae3dc7cc5072086378ae6,/,/,    Rename KDE as DE in user profile algorithm name,/,/
+4f9f5c524923ff915aa89dc8f3c73257dc2e5cd1,/,/,    Skip install and package phase for CI,/,/
+72fe6a667f8f93c320c1c747a829b2d1f8c2f45a,/,/,    Merge pull request #8 from haoch/master,/,/
+31b13c0a6ac22686f99dacc3f227e1c242d5627c,/,/,    Hook travis CI,/,/
+978177c08c8b07355381be53f94541725c949d05,/,/,    Merge pull request #6 from haoch/master,/,/
+6e7b3b29a3cc83a98261cda4562af87a5f6a851e,/,/,    Updated contribution,/,/
+ea3168deea56a6f13a6947b8494d66babb83eee4,/,/,    Merge branch 'master' of https://github.com/eBay/Eagle,/,/
+ddfe7c80248d35fe6f38cea1f459295e6ee7422c,/,/,    Refactor code style for user profile training,/,/
+47b47f5a705828f50c67f766c5c8841904c1cc58,/,/,    Merge pull request #4 from sunlibin/master,/,/
+5a3dbbf5b740e0c1edbf3622d61497bd48af56b3,/,/,    Merge pull request #5 from hdendukuri/master,/,/
+882acad87d224617363a5938a8f3aa3b386ca2eb,/,/,    Change 'Alert De-Dup Interval' to 0  so that the first time user can see alerts happening continuously for his action. Also made change to Policy queries for proper display in UI  when user wants to edit default Policy.,/,/
+5665772c0c590152635c7681ea36781acdbee22c,/,/,    fix some config for unit test,/,/
+3374718afbb946728935cb10a8c4db83dedd022a,/,/,    fix some unit tests in eagle-alert-process,/,/
+ac99498d0e2db64b2d6fdd4cb71cf4adfe98e447,/,/,    remove unused alert classes,/,/
+6a16dea16c5fd6472098c6f6341d4570408a8ca5,/,/,    fix a bug of SiddhiPolicyEvaluator,/,/
+2e86c665118fe7e8f8307a7b22d180988f743c43,/,/,    do some cleanup and refine some comments,/,/
+0c35025031cdcaf29d67c5335a0fb6068dd936fe,/,/,    Update README.md,/,/
+d2ae22f90533e6bfa11458ad6fdab976edcce2d0,/,/,    Merge pull request #3 from yonzhang/master,/,/
+d92373d87a79b589a74159ab736f4174e3bcc40b,/,/,    Merge remote-tracking branch 'upstream/master',/,/
+765513213047100806365c0c4d47071cf9e2f249,/,/,    Merge pull request #1 from sunlibin/master,/,/
+e85c77f3c99ba82102d86df2406f8792f6b02406,/,/,    enable full gitignore,/,/
+7f132acfa4e6164b10aa2da81ec6099171ff45f8,/,/,    Minor edits to the documentation,/,/
+d182c4fefd9e690584ade69dc4d8ea25e8dd57d9,/,/,    delete unused classes,/,/
+e5bc6f5fc7662bda38027651ffeb0d9c5ae6cf97,/,/,    remove unused public modifier on interface,/,/
+a87485798d63b4801b15e90a01ac76d6f75d980a,/,/,    fix a typo,/,/
+d9ae4caf9d67092fa79b62ad9b0537cd08fe6c3e,/,/,    remove unused comments,/,/
+2494e474da483ba315ae8836447f1d643e7d9f69,/,/,    case insensitive checking for hdfs/hive data,/,/
+f288944f6d418c488176a0fb8fcaca7a91ca6470,/,/,    add siddhi case insensitive contains/equals/regexp function,/,/
+e623f523d9416477c80b18bbdc076dfbabd65e90,/,/,    add missing jar files,/,/
+d97273dc01d4a1a64f8d83fccf9b7ff88a6d8058,/,/,    Merge branch 'master' of https://github.com/eBay/Eagle,/,/
+47f48bfafb4a895a4df75abb9a3b898064a0802a,/,/,    add missing bin directories,/,/
+9af2318248f47d69c56c20c0749f4174d03cb562,/,/,    Definition,/,/
+6065291ffb8372e3debfbab00b9d4c49b9a9d120,/,/,    initial commit,/,/

@@ -1,0 +1,880 @@
+38742d250275529d07c1ff4f912a29b73a5985fb,CHUKWA-824,Improvement,Refine project setup,None,Major
+c6e70714aba5f7403631a2d0bc2f4b28f47ee63b,/,/,    Fixed typo in the README.md.,/,/
+a7c886930c6437b5617dac5aa743a8de55231687,CHUKWA-824,Improvement,Refine project setup,None,Major
+5514e15861db62ec2ed9956f1984d062b2af9a20,/,/,    Merge branch 'master' of https://gitbox.apache.org/repos/asf/chukwa,/,/
+140a58df0852c8f05dc6b2dc9a7e7cf60f67712d,CHUKWA-824,Improvement,Refine project setup,None,Major
+65f6972859115a4ddad6def06475465f0971e9ae,/,/,    Close #9 Update README.md,/,/
+8f8ef253c26ab91cba18d65b073705402600dbde,/,/,    Fixed Spelling.,/,/
+1695db7d4f3118ba4a34751196a99ec2e4ea7aa0,CHUKWA-822,Bug,Update struts version to avoid security hole,None,Major
+973e11e9de2b6067f2a8431599912b04db49a50a,CHUKWA-821,Bug,Chukwa Trunk fails to compile,None,Major
+e90967f94cb2b5251761f45a9a61518db48677c9,/,/,    add Apache license header,/,/
+337a0a9743ad01b8357dc557bb3277868f37d333,/,/,    add Apache license header to the Junit test case,/,/
+ce5d76b37c5f0e4de34529c20e9fa11c684b56f4,/,/,    Add Apache license header,/,/
+c9715241cfb24954f423099e94c053f7cc37ad2a,/,/,    Fix test case,/,/
+322119d9884ebf49678c0ed307e946c8c05ebc9e,/,/,    Fix test case,/,/
+4223cbe1ee8b903bc4df78185842bb3fc31a0b05,/,/,    Create Junit test case for caffe,/,/
+d1b7ef949c7db832ae3476310a2eeab2b5103b22,/,/,    Chukwa JIRA-819,/,/
+971641927fd399143329bcc0480e0f1e6b032a74,CHUKWA-817,Bug,HBaseWriter leaks connections when parser error occurs,Data Collection,Major
+5bf50709d070144bf958616111efa57c6c0475a5,CHUKWA-818,Bug,SolrWriter zookeeper connection leak,Data Collection,Major
+ffd0d400ebd911ffa88bb9a46b08a261bc999dd6,CHUKWA-816,Bug,A suspicious use of incrementer in a for statement,None,Trivial
+384e3a13a82f37b26e9e6e8ff8c8f34d2acabe9e,CHUKWA-815,Improvement,Dashboard add widget and chart interaction are not user friendly,User Interface,Major
+e0ff0ea8b6237549624f2ddc2f82c088223f8ef0,CHUKWA-814,Improvement,Update Docker demo with HBase 1.2.4 and Solr 5.5.3,Build and Test Code,Trivial
+cf722856c14b6132cfb335d1b3aa36709dde14f9,CHUKWA-813,Bug,Solr can not sort by multi-valued field (date field),User Interface,Major
+6276ed15c46dd08a21ae9240e4371930d5a5b2d5,CHUKWA-812,Bug,Throttle dashboard saving,User Interface,Major
+fcfcc088b61a262f81876e24ecce854e13cbd6c1,CHUKWA-812,Bug,Throttle dashboard saving,User Interface,Major
+20be5ae512207de60ef57d596ec0c0fe30d00743,CHUKWA-810,Task,Trademark issues on website,None,Major
+3a356ddbbc4790684530ecde4d59ef3ee26d14b1,CHUKWA-809,Improvement,Release Chukwa 0.8.0,None,Major
+bc8436849a5a7f0dc4146055be4977f721fc641f,CHUKWA-808,Bug,Solr startup in docker image should be synchronized,Build and Test Code,Major
+750e3190cdebb6b026fd0dcf07702a67c7d1b997,/,/,    Update Change Log for 0.8.0rc0,/,/
+d3834147435fa5160014686569d001e74721d940,CHUKWA-807,Bug,Update docker support to use Hadoop 2.7.2  Solr 5.5  and HBase 1.2.1,Build and Test Code,Major
+0cce2791af8a7dfe83ae7b6d0f2020a6d1a99420,CHUKWA-806,Improvement,Replace Gridster with GridStack for hicc dashboard,User Interface,Major
+6f04f07cd061ff94d212d9b35400d9a036af5d50,CHUKWA-806,Improvement,Replace Gridster with GridStack for hicc dashboard,User Interface,Major
+6f6e4399eb10f11814b2d478527d88b6ad351a99,CHUKWA-806,Improvement,Replace Gridster with GridStack for hicc dashboard,User Interface,Major
+e0bf3c0efd5a60aef21d86578fa74f961045c505,CHUKWA-805,Improvement,Show examples in HICC REST API document,User Interface,Major
+84ade82813f0986fed597c3a5e3ccfe1540fc5de,CHUKWA-804,Task,Update user document on how to start/stop Chukwa processes,Documentation,Major
+f77266b555d46969bf3e0985f120312603be105a,CHUKWA-803,Bug,Update SolrWriter to use CloudSolrClient,None,Major
+8011ff1f59b4702d1987281fc90b2ca60f2e3a9b,CHUKWA-802,Improvement,Update Javadoc for Java 8,Documentation,Major
+8329221c48c9d5846e6792031be7ec148b06fe08,CHUKWA-801,Bug,TestFileTailer fails frequently on Jenkins,None,Major
+7bd52b278fa4a4e35ee1a83d24ca9065c5dd67bd,CHUKWA-798,Bug,Implement Retry logic for SolrWriter,Data Collection,Major
+7eb11028f2ab146b2598085cf90f5d96809714c8,CHUKWA-798,Bug,Implement Retry logic for SolrWriter,Data Collection,Major
+6b2ddcf0c2f94a264edfde2009d928ee5c832852,CHUKWA-799,Bug,Upgrade jsoup version,None,Major
+80bd09e9952c27326254bff0da15d9d116ce61df,CHUKWA-800,Bug,Upgrade Hadoop and HBase dependency,Data Collection,Major
+21b24284255d15fdc359ada9fc68d3a59fb60f7f,CHUKWA-798,Bug,Implement Retry logic for SolrWriter,Data Collection,Major
+fc70665574b7b54de583cd224552f032d8706633,CHUKWA-797,Bug,Improve retries of HBaseWriter,Data Collection,Major
+3f5bb3c3cbc4dccc460f5ead2c132a0108576d47,CHUKWA-796,Bug,Shell script still reference to collector,Scripts,Major
+326f05987cab95d3d58c5ead461c2c9360ba73d6,CHUKWA-795,Task,Release Chukwa-0.7.0,None,Major
+20a6456dd66d3bc782147328ad237c0aecf386fe,CHUKWA-795,Task,Release Chukwa-0.7.0,None,Major
+15a2900e2878427b3280fd1a1b7c57e8dd5e644c,CHUKWA-795,Task,Release Chukwa-0.7.0,None,Major
+db2e5f8ddb7d6acdbed453a987a8a435fbf4d8f9,CHUKWA-795,Task,Release Chukwa-0.7.0,None,Major
+b9fa3b25ac5d81d4b850f7029a92f370e995f945,CHUKWA-734,New Feature,Gora Storage System for Chuckwa Logs,Data Collection,Major
+cac335a10c8f9b0ce09cc4dc5bead940e07f78bd,CHUKWA-734,New Feature,Gora Storage System for Chuckwa Logs,Data Collection,Major
+83baac244354fe51d25b70110f0f2d3c8202f53a,CHUKWA-791,Bug,Quick links shows page not found in Docker environment,User Interface,Major
+d6e09cfac3fa91b5593baf5984de3482f61be758,CHUKWA-790,Improvement,Support Java 1.8,Build and Test Code,Major
+f0f60e2ed6647c44f7fafe35741872fef2ea008c,CHUKWA-789,Task,Document new Chukwa HBase schema,None,Major
+6e69e543cbb8bac1ca3c4e82f24a28871520269d,CHUKWA-789,Task,Document new Chukwa HBase schema,None,Major
+6b70f9e544074bedddb573f3ab4cf45ce0f0eea8,CHUKWA-789,Task,Document new Chukwa HBase schema,None,Major
+aa76d992103168e93b7d1b2c1c92d67fad843567,CHUKWA-788,Bug,Ring Chart threshold setting is not stored in hbase,None,Minor
+49384fb15850145f728c62c5d7320881c4909450,CHUKWA-787,New Feature,Add full screen and quick links,None,Major
+0e518f8d71a3bba3534ab068e6703386e32f4c23,CHUKWA-786,Improvement,Update Chukwa document to match 0.7 release,Documentation,Major
+5e66273f6f5960f01eae97d8b719f50e1e394fd1,CHUKWA-785,New Feature,Add new chart type to graph explorer,User Interface,Major
+a13bc5ae09af5b60c52b465792d33bd5fc86ad12,CHUKWA-784,Bug,TestBackfillingLoader test case is failing,None,Critical
+c440a9f901a9f29b60f10047cb67e0b1cb188f89,CHUKWA-784,Bug,TestBackfillingLoader test case is failing,None,Critical
+93a1f75c45f7333dcba2980f5ec9ebbdc64bb9d3,CHUKWA-784,Bug,TestBackfillingLoader test case is failing,None,Critical
+a990fc54a555a409b6716e170d9acb92d56bf2c3,CHUKWA-784,Bug,TestBackfillingLoader test case is failing,None,Critical
+0d9f40360edff12f0ee25aa461aa8a6063cde5fa,CHUKWA-783,Improvement,Update documentation within the Quickstart to ease publication.,Documentation,Minor
+d3fba3fac8c17b1b2a5a835d74fbf57ac073fde6,CHUKWA-780,Bug,Chukwa master branch failing with RAT unapproved licsenses,Build and Test Code,Blocker
+978656ad9429803e34e175191e050f5d6dc6ef1f,CHUKWA-781,Bug,Prevent infinite loop of login page,User Interface,Major
+6e9e7899daa1e1621e754875260357a6c398859e,CHUKWA-779,Bug,HICC crashes due to incompatible JSP libraries,User Interface,Major
+666dbb9c12eb1078c345b4a281f3da629298b425,CHUKWA-778,New Feature,Add ability to generate circle and pie charts,User Interface,Major
+602b55f962657f35baab7a0c2f42de8947f6fb4b,CHUKWA-777,New Feature,Add Home page dashboard,User Interface,Major
+253797e830c51e5e542d654987f8e54681636bd1,/,/,    Add ability to generate circles graph.,/,/
+112d3bbd652dcdb15b40bdcdc9b01398019e6eff,CHUKWA-776,New Feature,Support Docker image,None,Major
+a311649089d25a8c8ec33902da2a6c06fd155d29,CHUKWA-773,Improvement,Update maven-surefire-version,Build and Test Code,Trivial
+dd10a5cf72bdc9b5e4960ac050761070cc62c913,CHUKWA-775,Bug,Update Jersey dependency,None,Major
+14e823343cfac98a34e2502ffa49c3169e2c8a7f,CHUKWA-774,Bug,chukwa-env.sh may not correctly locate CHUKWA_PREFIX,Scripts,Trivial
+7f662e8c625b7f14164329ff75ef038456e600ca,CHUKWA-771,Bug,Findbugs flagged coding style issues,None,Major
+0961ec169e349beff2c631c785147de581f8599a,CHUKWA-772,New Feature,Implement Parquet writer,Data Collection,Major
+6012e14f8d96c98439ab7e71001c9266a467da72,CHUKWA-771,Bug,Findbugs flagged coding style issues,None,Major
+e29381f07cb5c122ee43f887c6326e99652548f1,CHUKWA-770,Bug,Improve default dashboard population,User Interface,Major
+384d3449ce18694ac58ab77754f18ec87492ae00,CHUKWA-769,Improvement,Update usage of HBase API,None,Major
+f3dfc942025d4f476815df85091d35559e13f72a,CHUKWA-767,Improvement,Implement low pass filter for Charting REST API,None,Major
+068b454e149842734e4bfc880e8aad97da0877a0,CHUKWA-766,Bug,Update LICENSE.txt and NOTICE.txt and source file headers,None,Major
+be0e0cf1d2ac98bc820abded5dc6e353800df8b6,CHUKWA-765,Improvement,Stylesheets clean up,None,Major
+c914d3401026c8dbb8b93bba4da52841b704f0f5,CHUKWA-764,Bug,Consolidate usage of JSON libraries,None,Major
+01a72e24b816f93f9a9c97312c4f4b62664a1c68,CHUKWA-763,Bug,Remove unused libraries from Chukwa source code,None,Major
+2e7c6feb108153e44a46f32e78bc4e1387f4d01b,CHUKWA-760,Bug,Add user friendly error message for missing HBase or Hadoop configuration,None,Major
+7770e2257275b150f7a42afd939d552410a4ff67,CHUKWA-762,Bug,Remove staled test cases and fix broken test case,None,Major
+df343afef8ce1425b4271717115384a33efd4cf3,CHUKWA-761,Bug,Remove confspell jar file from Chukwa,Data Collection,Major
+e1f0df55dcaadb48398bb680fc85c2983f897279,CHUKWA-759,Improvement,Configuration for collect HBase metrics and log files,Data Collection,Major
+d8abe979aaa2f107240ea5aeaeca9207eff65332,CHUKWA-758,Bug,Update dashboard default widgets,User Interface,Major
+0cad3aae2355b101c6324a9d46a784cbab00090f,CHUKWA-756,Sub-task,Update Chukwa Solr UI integration,Data Collection,Major
+88ec3d01180519193f0f85912e404d8816acf6d2,CHUKWA-757,Sub-task,Supply example log4j.properties to stream Hadoop logs to Chukwa,Data Collection,Major
+d26630bff21d561832ac62b8c3aad9b528d96b61,CHUKWA-755,Sub-task,Add a reverse proxy to solr,Data Collection,Major
+2d20ab592b0db8abcad09f616e803f085dcb407a,CHUKWA-749,New Feature,Redefine Solr facets for Hadoop log monitoring,Data Collection,Major
+b2bcd77b08e2392cc7c202ccd2594be7fa7f64d6,CHUKWA-754,Bug,Improve graph explorer performance,User Interface,Major
+dfe84a2c3721521a1007d33e8f7daa15ea99aef2,CHUKWA-746,New Feature,Redesign dashboard,User Interface,Major
+0f9b5cf3f3956635123f5ab38e29d0e5dce4e6d9,CHUKWA-748,Sub-task,Refactor Series object for charts,User Interface,Major
+4134fc32c095e83570bd36ec571b2f1904348149,CHUKWA-747,Sub-task,Update Widget storage to HBase,User Interface,Major
+1c4ed7bcc043e6b391ca5a74edb224a6cdabc1cb,CHUKWA-747,Sub-task,Update Widget storage to HBase,User Interface,Major
+a6e0cbad7cd52cc04a5363c04bc0fbd5b78f66be,CHUKWA-745,Improvement,Improve charting service metadata management,User Interface,Major
+16927ce693554c312197ad60d1db5b7f8f4f6702,CHUKWA-744,Task,Refactor ETL process for HBaseWriter,Data Processors,Major
+f9dea324bd532478e81ca4a4fece26ec42119b6f,CHUKWA-744,Task,Refactor ETL process for HBaseWriter,Data Processors,Major
+6def7b64d294f13ff2ef50e783d32cd0384c949f,CHUKWA-743,Bug,race condition in PidFile,None,Major
+ecf9b2b699a58ad3d5c2efca071fa28b54a92189,CHUKWA-743,Bug,race condition in PidFile,None,Major
+7ae68398626b33ac5fc06caf83573e992b766af0,CHUKWA-667,New Feature,Optimize the HBase schema for Ganglia queris,Data Processors,Major
+fb022bfd21afbdb8d512bf9d0fb68e85078c8486,CHUKWA-742,Bug,StatusCheckerException.java and README.md don&apos;t have license information,None,Major
+f01a8943eac429cf49c8f5545b75ace23cc6b6fd,CHUKWA-741,Improvement,Update to Hadoop 2.6.0 and HBase 1.0.0,Build and Test Code,Major
+5ef725a66baae830815b60bda51065bff4ec7b69,CHUKWA-740,Improvement,Update Chukwa README,Documentation,Major
+da6868453da5380d71ab3dd834611fb2a2480379,CHUKWA-740,Improvement,Update Chukwa README,Documentation,Major
+021c78c794fd848c3c206f59dad62a84bf8bb8e6,CHUKWA-740,Improvement,Update Chukwa README,Documentation,Major
+b9f3c0b13827828de7e767662bc70934ce7b6aa3,CHUKWA-739,Improvement,Update XSS filter to use actively maintained API,User Interface,Major
+555add1c16110307479dee5ba1ac1850190b56b0,CHUKWA-738,Improvement,Dragging widget over iframe cause mouse event to hang,User Interface,Major
+a912d6c66dacf17271c358aa24492b0a4dfe1005,CHUKWA-737,Improvement,Add heartbeat adaptor to push chukwa agent status to remote http server ,Data Collection,Major
+9d88538ff48f60a839ae7d24f997af5905e1c835,CHUKWA-736,Improvement,SSL for agent rest api and rest adaptor,Data Collection,Major
+e1fd956b9241260624a6f2f3812d2421e0f94300,CHUKWA-735,Improvement,Update Nagios support,Data Processors,Major
+a8d8a62ed56cf9d4c46f0c854515dcbfab3a4b91,CHUKWA-723,Improvement,Update Chukwa code to use new HBase API available in 0.94,Data Collection,Minor
+49116b0aa22b01d4271e010301172965db5fce58,/,/,    Ant file not really needed,/,/
+c63f6a96631d411cb4cf2d9d0c4bd38ac5e80c95,CHUKWA-725,Bug,Solr configuration file prevents rat audit to pass,None,Trivial
+6c6a28123bbb6e2cb5d6230f6291b80df8c4ed0a,/,/,    Moved rat excludes to Ant file,/,/
+e4a51b7c4d27f178da04edb3394109b7a1da0bdb,/,/,    Empty file not needed,/,/
+6e3e73e9af5fed61a3fd6eae24f4886c1899f7dc,CHUKWA-730,Bug,Solr configuration mismatch between solr 4.7.2 and 4.9.0,Data Collection,Major
+71bcad35f84ef6a638c91dc655ea7dac33c3fa0f,CHUKWA-729,Bug,Downgade solr version to work with JDK 6,Build and Test Code,Major
+b467068312ed9e361cd54f793c606d7c6b8f4d92,CHUKWA-727,Task,Release Chukwa 0.6.0,Build and Test Code,Major
+5bcfc0b732bdfcfad14470800ffe5ee78fa991c8,CHUKWA-727,Task,Release Chukwa 0.6.0,Build and Test Code,Major
+74f23dad5044947e4f94bc695567d3c81224cad6,CHUKWA-728,Bug,Update start-chukwa.sh to start essential components,Scripts,Major
+c43e10c378a2487debdea5b0b9503f577a9dc1fc,CHUKWA-726,Bug,Reduce port binding test from 120 seconds to 10 seconds,None,Trivial
+77f97405d973e761eebfc7540aa55e3a47de8349,CHUKWA-725,Bug,Solr configuration file prevents rat audit to pass,None,Trivial
+e0aa4c1812ec376f693c1f15762335cddb421fba,CHUKWA-722,New Feature,Integrate Solr with Chukwa,Data Collection,Major
+d3f7189f2bf94ff9fb153394c954e9f7ca7be769,CHUKWA-719,Task,Make Chukwa work in Kerberized cluster,None,Major
+4e7e7e01d1898b93cfc2dfaa50640db1bcdf2dd8,CHUKWA-715,New Feature,Implement Oozie Adaptor to collect oozie instrumentation info,Data Collection,Major
+3ae226a3a937f990087fff1cf9e54344d1de6ead,CHUKWA-713,Improvement,SystemMetrics enhancement,Data Collection,Minor
+160b22b99a15f48d7b529905032c9d927df7712b,CHUKWA-712,Task,Rest Adaptor to collect metrics exposed via REST URLs,Data Collection,Major
+865596312a26726fe2c74573a17bff36bfa20be6,CHUKWA-721,Bug,Update Chukwa document to match 0.6 release,Documentation,Major
+e4b13e4ac3798393869e63cadfd306c2cead2be9,CHUKWA-718,Improvement,Document Chukwa Agent REST API,Documentation,Major
+7d3c502c364ac9890ec98033141ecf254253babf,CHUKWA-718,Improvement,Document Chukwa Agent REST API,Documentation,Major
+0a2f924aba6c8871cc8a5e72fb05fd7157557172,CHUKWA-716,Bug,Frequent unit test failures org.apache.hadoop.chukwa.inputtools.TestInputFormat.testInputFormatIllegalRegex,None,Major
+7a30f2d592f824f2f29a3572905e9aac06e5474d,CHUKWA-716,Bug,Frequent unit test failures org.apache.hadoop.chukwa.inputtools.TestInputFormat.testInputFormatIllegalRegex,None,Major
+e8ab727dbfea21070694e374f7ca9fe183db0d50,CHUKWA-714,New Feature,Ability to make memory queue configurable  ,Data Collection,Major
+5001f857aee75c92c1cecf469e20c6fe21a787bd,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+827af0cebab9a9a729b295502ccf9d1d7c79f591,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+2f74fbbfc995f0382d2d300dfa452174cc0e575f,CHUKWA-674,Improvement,Integrate Chukwa collector feature to Chukwa agent,Data Collection,Major
+313cca14a3736c45b03a2e18da70d45f58f0e5a6,CHUKWA-705,Bug,Support JDK 7,Build and Test Code,Major
+b80cd910c535ff19a2c1bf8e6bf6f9f8f96ec34b,CHUKWA-708,Bug,Update the links for downloading the chukwa code. ,Documentation,Minor
+b126d4920d01fc5b494eb0091431db1a51ce281f,CHUKWA-705,Bug,Support JDK 7,Build and Test Code,Major
+0793f361cfc852065687c6e355a2a9c76486f94b,CHUKWA-705,Bug,Support JDK 7,Build and Test Code,Major
+dd9fc62a54e7a817255c20f6ce4fdff285e00ea1,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+03b1d75fd37859407ec16ab116c3d5daaf6dd561,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+4b75902d126eb482d8f9713353565c31c260da71,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+65b03cd41768b716319a4642ee30279ae030e628,CHUKWA-710,Bug,Need to reuse server sockets,Data Collection,Minor
+d1d9476a648df567dfa0bd7b368e81bd583ec0cf,/,/,    Chukwa has become a TLP,/,/
+81cac7eefea97b7e7a2c4949ef73f41b74b27999,CHUKWA-699,Bug,Update event viewer stylesheet,User Interface,Major
+7ca54fb91930f4a51510c053cdff4773072dfe1b,CHUKWA-698,Bug,Update Rat plugin to recognize MIT license and missing license files,Documentation,Trivial
+40b67fce7c1cec4dcc1fa9f0f56a12ef24d8d8ad,CHUKWA-697,Bug,Create a generalized REST API and widget for creating heat map for time series metrics,User Interface,Major
+8b6ba133a11d2af0013000c0dd692924fb4aecf0,CHUKWA-696,Bug,Improve hicc stylesheet,User Interface,Major
+4095f2de2e1a87704b1f0c2af4bcad044a45347a,CHUKWA-695,New Feature,Add ability to export widgets from graph_explorer,User Interface,Major
+ce8f75d4305119e9e938760edd32ba7537f7afb2,CHUKWA-694,Bug,HBaseWriter can not find demux mapper class,Data Collection,Major
+bf08fa3c4a2a9c6a6bcab134e6898f0d10405569,CHUKWA-581,Improvement,Demux  do not support user custom reducer package name.,MR Data Processors,Critical
+386cd76f11709922dcd10d174a524b549e653217,CHUKWA-693,Bug,Update Hadoop and HBase versions for 0.6.0 release,Build and Test Code,Trivial
+9026d77107daedb07a465541d077696c1061efe4,CHUKWA-692,Bug,Race condition in TestExecAdaptor,Data Collection,Major
+d2799168b3630c6bd4057bf73036dd8324a81444,CHUKWA-581,Improvement,Demux  do not support user custom reducer package name.,MR Data Processors,Critical
+27200b4a2d2076370d499f0a5f87b51b810eb24a,/,/,    Whitespace checking to test permissions,/,/
+644c9cfbe5419b067604af808886063e6c405518,CHUKWA-686,Improvement,Creating a new adaptor: FileTailingAdaptorPreserveLines,Data Collection,Minor
+7d5c0df04d3c9dfa175c470964c3b2efde9f4d46,CHUKWA-686,Improvement,Creating a new adaptor: FileTailingAdaptorPreserveLines,Data Collection,Minor
+e138ae2f97ec43ef722d748148512307f2dee990,CHUKWA-691,Bug,Improve PID handling for service not running.,None,Trivial
+0e33e1139b44b1b749baf1b2434d541048537bf8,/,/,    Whitespace checking to see if I have the privs to do so,/,/
+fdc92fe56b487ffe4c9d8faf9880f108a0944baf,CHUKWA-565,Bug,HbaseWriter not compatible with TsProcessor,None,Major
+87e86df8b1da34887a90f6f8bf04c9fbdc292820,CHUKWA-676,Bug,Too many unapproved license,None,Major
+e6ef506c6941c73555695fbe71050eba1c57c1a1,CHUKWA-677,Bug,chukwa script fails to check if the process is already running,Scripts,Major
+dac18b1dd563218bf1b6c26acb3e477e0cccc5ba,CHUKWA-676,Bug,Too many unapproved license,None,Major
+c333d2d5e27967f3355b1e7742309a4f04896e7d,CHUKWA-669,New Feature,JMX adaptor,Data Collection,Major
+cf73656b49f062f9fc01b31599d672bc85532691,CHUKWA-671,New Feature,Json processors for processing JMX data from Hadoop  HBase and Zookeeper,Data Processors,Minor
+a26ff89b6463065151ce575a95faaddc72e571b5,CHUKWA-672,Bug,Adaptor not found in checkpoint after shutdown,Data Collection,Major
+e5086afb977c4950252653e9a5449b4e5784a616,CHUKWA-675,Bug,Bad sleeping condition in FileTailer.java,Data Collection,Minor
+0d1e5c8eff7ae817444339558072af81761c4a41,CHUKWA-642,Bug,Unvalidated Regular Expression Usage,MR Data Processors,Major
+b58a0520f368438b9857b12db1fe435f2c06d2d7,CHUKWA-668,Bug,Infinite loop in FileTailingAdaptor,Data Collection,Major
+941c7213e9e63c6247960c22eb7380d982fb352f,CHUKWA-664,New Feature,network compression between agent and collector,Data Collection,Trivial
+6b1bd0a287b1d9fc30acf183a2c7c88da0633a09,CHUKWA-653,Bug,Pre-compile JSP code in mvn compile phase,Build and Test Code,Major
+ed0c27460eb57906f04932d1ae21ddaf4506d59b,CHUKWA-642,Bug,Unvalidated Regular Expression Usage,MR Data Processors,Major
+88379bf74b78c93331b1a8f10d610f38c73fd0d9,CHUKWA-632,Bug,Logs getting lost in hbase using TsProcessor,None,Major
+837d3118338f27b5b527131d61d74379b7f9fcd6,CHUKWA-655,Bug,host_selector_user.jsp contains redundant source code ,User Interface,Critical
+734b8a48a46ae79fa304237aae67ab07478740a2,CHUKWA-662,Bug,Compling errors in event_wrapper.jsp  event2_viewer.jsp files,User Interface,Major
+1960cf709c6c18df8ed82f89f0638fcdcb255ef9,CHUKWA-651,Bug,Cannot view hicc index page ,User Interface,Critical
+d55104a67f7df6f73133f5542b295126730b1727,CHUKWA-635,New Feature,Collect swap usage,MR Data Processors,Major
+b80b08ae7f3cc4a6194d25ace2658546ca2bd6b3,CHUKWA-637,Bug,Initial visit of HICC does not have cluster selection setup properly,User Interface,Major
+518c4b5d1fca3bd8988862b6d5bc87ea4c5430e9,CHUKWA-648,New Feature,Make Chukwa Reduce Type to support hierarchy format,Data Processors,Major
+ff7754b91407d37ce87a744df2bf6fc93a6e8e4d,CHUKWA-654,Bug,HICC session hosts bug,User Interface,Major
+cbf91f9c32ae3c70cde80e21c0c1f5a29a7425f9,CHUKWA-652,Bug,chukwa hicc web descriptor utilization.descriptor json format  parentheses match error,User Interface,Major
+a6a4f8c6a2c9015a3e5738f2f9eaf0cf1cbfaa57,CHUKWA-648,New Feature,Make Chukwa Reduce Type to support hierarchy format,Data Processors,Major
+34c5bc3567f7cec76d2f551d86a467bfe7d3c30e,CHUKWA-650,Improvement,Re-configure Demux ReduceNumber without re-starting the DemuxManager service,Data Processors,Major
+7051d09101dfbfff815b3c92da963da9c4486bbb,CHUKWA-649,Improvement,To handle pid-file missing case while stoping chukwa processes,Scripts,Trivial
+e8126396d3deab11187beebdc5ccd159227bb1ee,CHUKWA-647,Improvement,Spread out intermediate data with the same ReduceType into different Reduce Tasks,Data Processors,Minor
+7d1290cc59b5631a2b75d3683cf6313a46595333,CHUKWA-646,Bug,FileTailingAdaptor can&apos;t handle the file rotating rightly and the checkpoint size is wrong,Data Collection,Major
+78b289209b2f954c841f1c9bd31b16a9a0ae91e6,CHUKWA-645,Improvement,Update dependency to Hadoop 1.0.3 and HBase 0.94.0,Build and Test Code,Major
+6c85a174aff630ad83ebd34b027da4e7049c5828,CHUKWA-640,Bug,JVM not terminating if agent is not started,Data Collection,Major
+e44f5798117c9c684eabafdfcaaa0ecc2a5df3e5,CHUKWA-643,Bug,Hicc builds with conflicting jar dependencies,None,Major
+78d81df53de14c6009dfa147c3fb48c39e806356,CHUKWA-640,Bug,JVM not terminating if agent is not started,Data Collection,Major
+fc7cfe2cca0609a77cdb7025b6a06303eac30822,CHUKWA-641,Bug,PatternSyntaxException Crash from Unvalidated Regular Expression Usage,None,Major
+7b2c69ec8c95e518d14ae57dbb859727bcd7ed3d,CHUKWA-640,Bug,JVM not terminating if agent is not started,Data Collection,Major
+3ed0259c9061962481523adeeaada2315daf60a8,CHUKWA-300,Bug,wiki pages severely out of date,Documentation,Critical
+935b7d2ea11a99a9800539928b8200c545985f5c,CHUKWA-638,Bug,Daylight saving time causes TestChukwaWriters unit test to fail,Build and Test Code,Major
+50fc2ea7610ca0ebff4a24f0957d90eacffb8bcd,CHUKWA-639,Improvement,Update HBase dependency to 0.92.1,Build and Test Code,Major
+e5027faaf3819753763452b83a38edf1b3af82a2,CHUKWA-638,Bug,Daylight saving time causes TestChukwaWriters unit test to fail,Build and Test Code,Major
+63efa572ea09af9d313f433db9cdd463c34095ab,CHUKWA-636,Bug,Cannot start hicc successfully,User Interface,Blocker
+c4a012d0e7eb323656d6c6fbb4cdf30906c68d83,CHUKWA-630,Improvement,Chukwa&apos;s RPM should create the user &apos;chukwa&apos; before installation,Build and Test Code,Minor
+7634c21918e359254e081ab2ed3c3731a17b4b4a,CHUKWA-628,Bug,Update LICENSE.txt and NOTICE.txt and license related items,Documentation,Minor
+71a1b0c4893335ca30c6baef3f0eadb26cf3523d,CHUKWA-629,Improvement,Update Hadoop dependency to Hadoop 1.0.0,Build and Test Code,Trivial
+f24511c0d8084a3ac2f673253a668d4193cf797a,CHUKWA-628,Bug,Update LICENSE.txt and NOTICE.txt and license related items,Documentation,Minor
+c4fd5b29d4b6b2f4f82e9f1f85cd475813dbd6b9,CHUKWA-628,Bug,Update LICENSE.txt and NOTICE.txt and license related items,Documentation,Minor
+b17fe9bcf64da3517d5084db6b5e0678ff2045e4,CHUKWA-627,Improvement,Update LICENSE.txt and DISCLAIMER.txt,Documentation,Major
+0def2d8a68768b2db5a905c3229a957eb56d02fa,CHUKWA-626,Improvement,Document dependency licenses in NOTICES.txt,Documentation,Major
+ff1b75c5e752e7777665232b7b6a69fdda07de73,CHUKWA-624,Improvement,Add md5 signature as part of maven install,Build and Test Code,Trivial
+39f9f866835c0f7491764d32641ba71a26881049,CHUKWA-623,Improvement,Add ability to create source tarball for release,Build and Test Code,Major
+a9f8fdec8cb7fcd36cceb89505170b213c4ef3ec,CHUKWA-623,Improvement,Add ability to create source tarball for release,Build and Test Code,Major
+97937fac0d7a4f477bee52cdb10b4325e945c01f,/,/,    Increased Chukwa trunk version number to 0.6.0.,/,/
+08ab66cc53c770ed4d9e500b32aaef331d5b7d9f,CHUKWA-622,Task,Improve documentation to include HDFS instruction for collector,Documentation,Trivial
+fbddd8a5d751508bbd669666aef5054784c3e7f2,CHUKWA-621,Bug,Fix warnings found by code analysis tools,User Interface,Major
+a183e04f867f0f7fdce0408e8ea5d86907c13353,CHUKWA-620,Improvement,Update code analysis and license check in the build structure,Build and Test Code,Major
+688fc62e38fe176e807000a2f2006d03c7b62dd3,CHUKWA-619,Wish,Disable Trace Method on Collector&apos;s Port,Data Collection,Trivial
+95849255b8f5fa7b37714b3cc27e83f3b16e4ea0,CHUKWA-618,Improvement,Describe how to create HICC widgets in programming guide,User Interface,Major
+c4cd7613ea6ad9af2b87786aee04366bf0bea479,CHUKWA-522,Improvement,Add HICC User guide,Documentation,Major
+08fcfcfb0be5ba47579a1ddd00945f77f2c25c81,CHUKWA-617,Bug,TestSocketAdaptor and TestFileAdaptor fails on CentOS 6.1,Build and Test Code,Major
+2658fc6b522d18a15f7f68349f4f52c750dcce69,CHUKWA-616,Bug,Chukwa document is missing changes log and release notes,Documentation,Major
+d15bb6d9bd48b5fa3e098dfc65009e5fbd2300ad,CHUKWA-612,Task,Convert 0.5.0 documents from forrest format to apt format,Documentation,Major
+eeae7f0814d441b079308a41cc45b6994594bdf5,CHUKWA-612,Task,Convert 0.5.0 documents from forrest format to apt format,Documentation,Major
+1aaf9557f873ea5c0b63d5450186077221bf9168,CHUKWA-615,Improvement,Change HICC default view to monitor Hadoop,User Interface,Major
+fbc7540ce49567db3cebf1f23ec7a75dabca6852,CHUKWA-614,Bug,HICC chart content is clipped on webkit based browser,User Interface,Major
+be2e3a70494d935edfa8a5901ea1d169d9b71d5a,CHUKWA-613,Bug,HICC throws exception on startup,User Interface,Major
+19094a71dc9c32b7bad5b31fa3aeb6b0e6cbea80,CHUKWA-612,Task,Convert 0.5.0 documents from forrest format to apt format,Documentation,Major
+cac9c8f7f2cce320122bdf0234ebacab0f12ace0,CHUKWA-612,Task,Convert 0.5.0 documents from forrest format to apt format,Documentation,Major
+6e5649864dc54040e722654fab9adee69fc4b909,CHUKWA-608,Task,Change Quick Start Guide to APT format,Documentation,Minor
+384c41f8dcbfe57d5a87104225ed332f71268568,CHUKWA-611,Bug,Chukwa-0.5.0-client.jar is not in packaged tarball,Data Collection,Major
+3228f0a851f473393ffc0432ccb82309289dd9a5,CHUKWA-606,Bug,Update HICC view files to match loading metrics from HBase,User Interface,Major
+5d4dd27f5e79bf03251f9bfb01be44f3f7f0bedf,CHUKWA-588,Bug,Some housekeeping required for hbase.schema,Data Processors,Major
+7871e69c1a5d22f4b5aa05e16568256800b58f11,CHUKWA-609,Bug,HICC webserver should redirect / to /hicc,None,Trivial
+ba6e2a356d942fb78f894bf1d765a762f9ce55d2,CHUKWA-605,Improvement,Update directory structure to be consistent with HADOOP-6255,Build and Test Code,Major
+c36ce45d084d298a92bd1d1c31d1ba7217226e4e,CHUKWA-593,Bug,Archive daemon: infinite loop at midnight,MR Data Processors,Minor
+0800322b9972f2b21a1b094896184540f82ad60a,CHUKWA-602,Task,Set svn ignore properties for maven and eclipse files,None,Trivial
+e72d1b7ba948a6dab4fb6b4436567e926a4aa0db,CHUKWA-590,New Feature,Migrate from ant to maven,None,Major
+4ec79ec47c778ea3fa83edb59ed3c501fef7623b,CHUKWA-590,New Feature,Migrate from ant to maven,None,Major
+d2d9573afa47956c487a8934f88fd494d11ade57,CHUKWA-601,Improvement,Remove database_upgrade_0.1.1-0.1.2.sql,Scripts,Major
+828742125479758c5f8697794849650785b9ce3f,CHUKWA-599,New Feature,Support Metrics 2 in Hadoop 0.20.203+,Input Tools,Major
+5d66444835319f9f5c046c61412d09aa660f2469,CHUKWA-599,New Feature,Support Metrics 2 in Hadoop 0.20.203+,Input Tools,Major
+21cd19e2c8a228a6d45d4ce0388773f7362e5bb7,CHUKWA-597,Bug,Chukwa collector/agent/hicc should close standard error and stand out,None,Major
+e88f05c46ba9c9933f43f4101b09d505baa920d7,/,/,    Download Hadoop jar files from ivy.  (Eric Yang),/,/
+e56b2f473d431dfdddf1c2451aec338226a5aa90,CHUKWA-596,Improvement,Chukwa HBase storage should scan for column from most recent time instead of starting time,User Interface,Major
+207f8b8e86dce4e48d249edeadefb3b82df84ff7,CHUKWA-38,Bug,Chukwa should pull hadoop from ivy,Build and Test Code,Major
+982df51b1e408ad4b8b5fa487ac0d76955547dc4,/,/,    CHUKWA_595.  Fixed buffering time calculation for Agent to send data to Col,/,/
+39c1e0065214e63d35ade3b349ba53a9c65694fd,CHUKWA-594,Bug,Substring matching in Row (system name) in HICC web interface (function getRows of graph_explorer.jsp),User Interface,Minor
+f489c903d78861e912465dbc6501d5fa26e24231,CHUKWA-592,Bug,Update TestHBaseWriter,Data Collection,Major
+a2b8d437a7680dbdbe8e6017ba900a8eb4b0c7da,CHUKWA-592,Bug,Update TestHBaseWriter,Data Collection,Major
+88097a6445751ed44c61ec2e40feda31f20a4111,CHUKWA-591,Bug,ChukwaHBaseStore - java.lang.NullPointerException,None,Major
+6381ad09c289094fdaf76efc456c08865a787cb0,CHUKWA-589,New Feature,Functionality allowing collectors to close .chukwa files at a fixed offset inside the rotateInterval,Data Collection,Major
+d2e1fcf3cae722286f1ea0a875530af089cc8608,CHUKWA-586,Improvement,Update HBase dependency to HBase 0.90.x,Data Collection,Major
+34b89ecc9c6db7b008cc9fe780f5fd3e99b54ad5,CHUKWA-587,Bug,The logic to load the front page of hicc appears to be broken,User Interface,Major
+8282e072b88af924a03677c3130c7b045fe7d321,CHUKWA-585,Bug,hicc listens only on localhost,User Interface,Major
+5738aa76867b351bb77152ae4f38840691e1e180,CHUKWA-582,Bug,change MoveToRepository filter to ignore anything starting with _,None,Minor
+ca916bfe10c374d8abf45c8636e9d26a55104a11,CHUKWA-579,Bug,Package initial_adaptors config file for running &quot;ant tar&quot;,Build and Test Code,Major
+6ed485dddb45cb5d5a711537910ae0d9eb252433,CHUKWA-569,Improvement,Add an option to speed up graph_explorer.jsp in fetching Column Name and Row Name,User Interface,Major
+6bf1f0b825ff95d5c8279a3a7f7618b494acf088,CHUKWA-575,New Feature,Cluster Summarization script,Scripts,Major
+0b04c6f8e70df468f4a1b52d03a2452840cf3851,CHUKWA-577,Bug,Convert HadoopMetricsProcessor to use Simple JSON library,MR Data Processors,Major
+af4ca3879c1f78dd41a51bae28949f7c482093ec,CHUKWA-574,Bug,Multiple metrics emite at the same time causes logger to print corrupted metrics,Input Tools,Major
+20aba80f6810c96e472188d31bd0bf349b0a9435,CHUKWA-573,Improvement,Seperating Chukwa Metrics collection from Hadoop Metrics collection,Data Collection,Major
+52c2fdbca795fb2e17f52aff9e70ffb8593ba301,CHUKWA-572,Improvement,SystemMetrics Adaptor should send disk and network stats delta instead of accumulated value,Data Collection,Major
+eb3fe876d2197addb2d9fe9347ab7c0cb8776fae,CHUKWA-571,New Feature,Add digested system metrics to SystemMetrics demux parser,MR Data Processors,Major
+2545b4e419081b6ea9c41be1f53becf8596ad079,CHUKWA-568,Bug,SystemMetrics demux parser still uses json jar file instead of json-simple.,None,Major
+ef6459376b4468377663781fbc976d6c303b9b06,CHUKWA-568,Bug,SystemMetrics demux parser still uses json jar file instead of json-simple.,None,Major
+ce486baf6f8a12bf5a9a651b30aa1409a93219bb,CHUKWA-554,Improvement,Remove jdbc.conf from Chukwa,User Interface,Major
+e7b6aaf33f61fc2432bc9b1684de8aaa0f423ec7,CHUKWA-231,Bug,Widget name renaming for HDFS metrics and remove deprecated widget from default view,User Interface,Major
+304ad6fd4d51c69660415518b318db83ddc3c2b7,CHUKWA-562,Improvement,Use RegexFileFilter instead of WildcardFileFilter in the DirTailingAdaptor class,Data Collection,Minor
+9b4c010f66c4375186efe3f5a6adb1ab5a540887,CHUKWA-562,Improvement,Use RegexFileFilter instead of WildcardFileFilter in the DirTailingAdaptor class,Data Collection,Minor
+629597b4546e7d239c73dd464d123231f92c0900,CHUKWA-566,Bug,HBaseWriter does not set hbase.zookeeper.quorum properly,None,Major
+e67f8a6a9be1bc42a08511ee0c547a910605f0a7,CHUKWA-563,Bug,Collector Crashes when HBase is not started,Data Collection,Major
+5173ba8693414b3d7c565c6c7a46a0c0838a96a0,CHUKWA-474,Wish,Replace JSON-licensed json dependencies,User Interface,Minor
+82fa7ce60b5b75bdf24e209a07f5ea19f64963cf,CHUKWA-7,Bug,chukwa agent should do something sensible if CHUKWA_HOME isn&apos;t defined,Data Collection,Trivial
+ccf177feb83a2fcbe7d6978628ef19cb2ed0c72c,CHUKWA-474,Wish,Replace JSON-licensed json dependencies,User Interface,Minor
+456b48275367ca0080d77dd0fd84a90722d75f4b,CHUKWA-474,Wish,Replace JSON-licensed json dependencies,User Interface,Minor
+cd1356082d9f2e7024a340210c933381323d9f48,CHUKWA-560,Improvement,HBase performance improvement,Data Collection,Major
+34c0f2b32c723292a434adee03bd86ee6e5cb0d4,CHUKWA-560,Improvement,HBase performance improvement,Data Collection,Major
+265f8ae69779e1bd18fa553b48a701092b2807cc,CHUKWA-553,Bug,DirTailingAdaptor doesn&apos;t honor the file filter correctly,Data Collection,Minor
+97d356de399903e76bbb50c6606d0b0343ea3733,CHUKWA-553,Bug,DirTailingAdaptor doesn&apos;t honor the file filter correctly,Data Collection,Minor
+9a8029d7dc2309f6b7ff322dea65f9f12ffdbdbc,CHUKWA-559,Bug,Unit test for Hicc runs on port 8080,User Interface,Major
+779064cfbdfa17d8da065e95d9f8eb5c02d9594b,CHUKWA-559,Bug,Unit test for Hicc runs on port 8080,User Interface,Major
+b15cf01cc09825de23077fe8642a8bb88f09bd6d,CHUKWA-533,Improvement,Improve fault-tolerance of collectors.,Data Collection,Major
+6834ceca2a20bb09c74b2cbf181b4414a1447ad8,CHUKWA-558,New Feature,Update Chukwa configuration files,Data Processors,Major
+669e345f51c01140083830fd362cb6410f54bfba,CHUKWA-558,New Feature,Update Chukwa configuration files,Data Processors,Major
+460e3b551a7004e5c4775265d89bfda17be17358,CHUKWA-558,New Feature,Update Chukwa configuration files,Data Processors,Major
+91f837bc572c2d0dd81faa55740d1be92cec7b40,CHUKWA-561,Bug,No month in log file name,Data Collection,Major
+20107254a979eb8031b2d0b75b66d2e5e80cfcdb,CHUKWA-543,Bug,JSONException in hicc.log file,User Interface,Major
+13e3cbaf22d275c6b078286f88a4a810956665a2,CHUKWA-543,Bug,JSONException in hicc.log file,User Interface,Major
+2a77d2c0d588e84fd767906a334e527d3cff37ba,CHUKWA-555,Improvement,Covert HICC descriptor files to support system metrics and hadoop metrics from REST API metrics,User Interface,Major
+f748e315ed87ff1a71c50a6c83059b4c116a4c0f,CHUKWA-555,Improvement,Covert HICC descriptor files to support system metrics and hadoop metrics from REST API metrics,User Interface,Major
+11a2a4c6a500e7ca05fa6a18ba94be098f1cda11,CHUKWA-557,Improvement,Make differentiation between recordName and contextName and clean up chukwa metrics,Data Collection,Major
+27140aea11a35a5e8089f90f68334ad17c6174d8,CHUKWA-557,Improvement,Make differentiation between recordName and contextName and clean up chukwa metrics,Data Collection,Major
+9bb9c3dc7558cf6775b0c7e6fcb25dedda718d6d,CHUKWA-552,Bug,HICC+ HBase + options with % sign = bug,User Interface,Major
+9ca9b294a1b46069d45ae6bf2f5e2d7f61bade52,CHUKWA-353,Improvement,Make port for HICC Jetty server configurable,User Interface,Minor
+c572f078b0a2dc68647af8ac3b44ec361cc867d3,CHUKWA-547,Improvement,Implement Adjustable Axes on the graph,User Interface,Major
+0b79057d2fd3e3d7da695be740f2f147ff5c2abd,CHUKWA-548,Improvement,Gray Out Options in HICC That Have No Data,User Interface,Major
+073e07477c8072fed6ea6f71eb96fbe1bff828e3,CHUKWA-546,New Feature,Add SocketAdaptor for collecting data from SocketAppender,Data Collection,Major
+be528bfc3dfceb18f797c3c03d777b8cf3e8eafd,CHUKWA-544,Improvement,HICC graph should handle single series or multiple series more gracefully,User Interface,Major
+53a554cda660028306c53c93a9e66bcefc25feb8,CHUKWA-447,Improvement,Load increased by 50% when using ExecAdaptor instead of org.apache.hadoop.chukwa.inputtools.plugin.metrics.Exec+FileTailingAdaptor,Input Tools,Major
+4e142c114bf80035ce502d5db8f0bd4989dafc08,/,/,    improvements to docs,/,/
+a9b9ca8a5e4edeb7938f79db2ed206e252a00248,CHUKWA-493,Task,Add incubating keyword to release artifact,Documentation,Major
+14637dff241da98533e86a3abd4bb0e72444c80d,CHUKWA-542,Bug,Metrics rest API is not working in HICC,User Interface,Major
+5c23e06f86f75d0f4b130caa8485f5a0af3dfc6a,CHUKWA-542,Bug,Metrics rest API is not working in HICC,User Interface,Major
+0c3204875e0a4adcc9e54654caa7dbc5c8e37c0e,CHUKWA-523,Bug,Reload collectors doesn&apos;t work,Data Collection,Major
+2df1b2603401db1b2750f4f06a4c92dfea862d3c,CHUKWA-525,Improvement,Extending DirTailing Adapter,Data Collection,Major
+837b816d414bd5ff1764804e078827900c9d5815,CHUKWA-534,Improvement,Improve fault-tolerance of DemuxManager  PostProcessManager and ChukwaArchiveManager.,None,Major
+436613ef220937aba88a03102760fe6e530dc7c4,CHUKWA-530,New Feature,Syslog Adaptor for mapping Syslog facility name to Chukwa data type,Data Collection,Major
+2b9df02589f7bceecc75e81ef7098aa9979c3d04,CHUKWA-531,Improvement,Bundle Hbase 0.20.6 jar file for trunk development,None,Major
+ad5f21367500171f9e5e7d184ec33e907636145f,CHUKWA-520,New Feature,Metrics graphing REST api for HBase,User Interface,Major
+82127d543e70216a60b3e2d2f0f06ba9f6d3166e,CHUKWA-530,New Feature,Syslog Adaptor for mapping Syslog facility name to Chukwa data type,Data Collection,Major
+6ac196941e0586ca0d33ebc78171f63951e981ea,CHUKWA-369,New Feature,proposed reliability mechanism,Data Collection,Major
+efa28f8ef0cd1b3acda43610cc074e77499424b8,CHUKWA-527,New Feature,stronger configuration checking,Documentation,Major
+2235e80c06adb5fc7704838b437ad2a584a723d8,CHUKWA-524,Improvement,Add default.properties configuration for specifying HBase location,Build and Test Code,Minor
+67b9b1f997b611ee06bd726b665406a86a2a2362,CHUKWA-524,Improvement,Add default.properties configuration for specifying HBase location,Build and Test Code,Minor
+6b7cd604b5c8c68fb30e6b8e5a7de5c1e5bb8a55,CHUKWA-419,Improvement,Replace system metrics collection with sigar,Data Collection,Major
+fa39654d05d0c43f81928340b132f57f55eb091c,CHUKWA-516,Bug,Downgrade interface to HBase 0.20.6,Data Collection,Major
+755d209dc513fd4dcc8e69dd33fcabe26a357505,CHUKWA-419,Improvement,Replace system metrics collection with sigar,Data Collection,Major
+b20d89df647db092760503dd16d17a29b953bea9,CHUKWA-515,Sub-task,REST API for Agent,Data Collection,Major
+1bd9156128428f65629b72d6f411eca006c63618,CHUKWA-521,Improvement,Differentiate default hicc port number and collector port number,User Interface,Trivial
+148faca4f67107b735092554cc2d30c29ba5250f,CHUKWA-518,Bug,JMSAdaptor does not shutdown properly,None,Major
+9ad913421c852240beefeb2cb2723632d1fedee1,CHUKWA-496,Bug,Wrong config file reference in design.html,None,Minor
+ ,CHUKWA-506,Improvement,Add retry logic to MetricDataLoader,None,Minor
+670e398d7f72bd97a42efc540ce8fef7a9a80f11,CHUKWA-506,Improvement,Add retry logic to MetricDataLoader,None,Minor
+9348f33a279a96e84135e484f0d1af8cf122ba90,CHUKWA-496,Bug,Wrong config file reference in design.html,None,Minor
+92d8e0bed05782fe5073521bb9b1e928a961b6ef,CHUKWA-517,Improvement,JMSAdaptor to support queues,None,Major
+dbd23ed80a0ea6288dedf950c29d6a6cbb553832,CHUKWA-444,New Feature,Redefine Chukwa time series storage,Data Processors,Major
+2c279f771714f497cb54be78c48b876e3c1c5ef6,CHUKWA-510,Bug,JMSMessagePropertyTransformer inserts &quot;null&quot; string for null JMS message property values,Data Collection,Major
+89e2ff659389bd204c13f001ec0fe8ac006b5b46,CHUKWA-508,Bug,Distribution is missing some Chukwa conrib build files,Build and Test Code,Minor
+2943208d30d63e10806577dd2ba70f2c62c3d7f6,CHUKWA-507,Improvement,JMSAdaptor url validation too strict,Data Collection,Minor
+e8e68abef25f4e717fad436e68f04678e13690cd,CHUKWA-505,Bug,Duplicate classes in chukwa-core jar,None,Minor
+8e152c790d39cc18a7fa92ec5595378249c1bdaf,CHUKWA-501,Improvement,Update maven repository location for dependency projects,Build and Test Code,Major
+7d2427371a8573e48f69bca394cfa2272956a36e,CHUKWA-504,New Feature,Implement ability to delete file in FileAdaptor after successfully uploaded,Data Collection,Minor
+d2a68bb26c83573215a39dc0044eed69052f40c0,CHUKWA-495,Improvement,Implement Pig 0.7.0 compatible Loader and Storer classes,None,Major
+2ccd071111ce0308204d774961ac82118e639113,CHUKWA-487,Bug,Collector left in a bad state after temprorary NN outage,Data Collection,Blocker
+2056338f60a668920cb53b25aca553a1f5816005,CHUKWA-499,Bug,JMSAdaptor misses last argument in some cases when parsing,None,Major
+10e25be585bc6e9691ee54f75394c65c9145fed6,CHUKWA-498,Bug,Agent logs incorrect number of chunks sent,None,Minor
+d5e0c125b4d88d7319a1d25643fa0c68b7b4abca,/,/,    Update trunk readme to 0.4. Mostly just a commit test.,/,/
+a93b0ba9dd2df876bc809ea6ed5f7a276f627c72,/,/,    moving chukwa to incubator,/,/
+24f766a4160ea9d18c78030c0d8d1e5bf0974228,CHUKWA-494,Bug,NPE when no time range is specified,User Interface,Major
+5f8ee534ea4891b06042af11d3d30eb9d2f2793e,CHUKWA-492,Bug,Docs do not reflect database script name change ,None,Major
+aef4a983b2d22b0c298bdeb5c294f71e8103da4c,CHUKWA-492,Bug,Docs do not reflect database script name change ,None,Major
+477c3185855934a354862ef6e78bc9fccd49e9ef,CHUKWA-489,Bug,Malformed SQL generated in MetricDataLoader when values contain single quote character,DB Data Processors ,Major
+ ,CHUKWA-490,Improvement,Allow mdl.xml to be split into multiple files for ease of maintenance,None,Major
+72c2f249518324998311da873494e719502635cc,CHUKWA-490,Improvement,Allow mdl.xml to be split into multiple files for ease of maintenance,None,Major
+979ab883f6c74d8613c191d447abe9f780561849,CHUKWA-489,Bug,Malformed SQL generated in MetricDataLoader when values contain single quote character,DB Data Processors ,Major
+d1d2a1ea43164a9c5250ba64685164e7f441bcca,CHUKWA-488,Bug,Hadoop cannot find custom Demux class,MR Data Processors,Major
+6bb6414850f4400be3a5daaf4523d493b796e890,CHUKWA-483,Bug,bin/chukwa stop broken,Scripts,Major
+4b31347102384354ba10bf29e470155c49b9ddaa,CHUKWA-4,Bug,Collectors don&apos;t finish writing .done datasink from last .chukwa datasink when stopped using bin/stop-collectors,Data Collection,Minor
+ba80edd1bde19fb0fc5c25617818aef8d0b59305,CHUKWA-485,Bug,TsProcessor mis-handles some dates,Data Processors,Major
+9433debb20a768edddd6b964862c1c07449c9bd4,CHUKWA-473,New Feature,Make default processor configurable,None,Major
+fae6487a1b7ea8177fdd585004409a5d88da99da,/,/,    Allow CreateRecordFile to read job confs. Contributed by Bill Graham.,/,/
+052ecf7b0b4c67c9def1473502ad2f9fec88edc7,CHUKWA-479,New Feature,Support HTTP trigger actions,None,Major
+ce054e528eaf5bbba39b4876ea546396b7aa3f7e,CHUKWA-469,New Feature,Create a JMSAdaptor,None,Major
+53d99fd1de2cf2cf01dbbc75761426ff5ef74abc,CHUKWA-477,New Feature,Support post-demux triggers,Data Processors,Major
+ ,CHUKWA-478,Bug,TestSocketTee fails intermittently,Build and Test Code,Trivial
+5e0ac13759223b5f1eda05614686283ef3f036cc,CHUKWA-478,Bug,TestSocketTee fails intermittently,Build and Test Code,Trivial
+55c4da20d1e67666df1feb8f2c4acac3d4df9ec9,CHUKWA-477,New Feature,Support post-demux triggers,Data Processors,Major
+2b024d1d022f288c872c6c51568c243b31255a82,CHUKWA-472,Improvement,TsProcessor: make date format configurable,None,Major
+1d960075adf7b373a4461712f044a9289977ba6d,CHUKWA-471,Improvement,Processors need access to JobConf,Data Processors,Major
+bfa87bd024a862adb00f1131a990a3443d197dbf,CHUKWA-468,Improvement,Shutdown Chukwa creates core.[pid] files,Scripts,Major
+be00020cdd37697737a3577a7e1e2a9c5e383509,CHUKWA-465,Bug,Misconfiguration leads to NullPointerException in PostProcessorManager,Data Processors,Minor
+c7cd3125df075a4d055085f5892aec7af07ca325,CHUKWA-465,Bug,Misconfiguration leads to NullPointerException in PostProcessorManager,Data Processors,Minor
+8cf7cc363dc37c15c3a7516ef5d5be8e7f9b8468,CHUKWA-466,Bug,fix failing test cases,Data Collection,Blocker
+d8f6337b3e33829e09393640d0724127dc1270c2,CHUKWA-466,Bug,fix failing test cases,Data Collection,Blocker
+0e12f7a78d2a36d8387e551f23f8981fc326a1af,CHUKWA-468,Improvement,Shutdown Chukwa creates core.[pid] files,Scripts,Major
+ ,CHUKWA-467,Bug,HICC webserver stop working after /tmp has been cleaned up,User Interface,Major
+77204ebd2dee850325e1ef9fd0227798faf517c2,CHUKWA-468,Improvement,Shutdown Chukwa creates core.[pid] files,Scripts,Major
+1a206185ee4a66209a160172f45ea16b71437fc4,CHUKWA-467,Bug,HICC webserver stop working after /tmp has been cleaned up,User Interface,Major
+0792516406b8389411121ee4c272ec8a8ec9b0a1,CHUKWA-470,Improvement,licenses and relnotes for 0.4,Documentation,Blocker
+90a98b9b110508da9301f58fcaa42f1270b5d580,CHUKWA-456,Bug,Fix test failing test cases,Build and Test Code,Blocker
+d4090b2f0f72241499ace60673b0d87d8b4e8026,CHUKWA-456,Bug,Fix test failing test cases,Build and Test Code,Blocker
+a639406be2d1796d637e3eba97ebf5855f5b3401,CHUKWA-458,Improvement,update documentation to reflect 0.4 changes,Documentation,Blocker
+4c132ca62db05b3242cc342fb0367e1178df32ba,CHUKWA-445,New Feature,real-time buffer and display at Collector,None,Major
+eba0e28fddad91bbdb62fa7a73aafe9a0ad5ef47,CHUKWA-458,Improvement,update documentation to reflect 0.4 changes,Documentation,Blocker
+9809301df3cd4170d4baa94f8e38ccf49bb38db8,CHUKWA-460,Bug,Demux depends on conf/chukwa-collector-conf.xml,Data Processors,Major
+b8d6c293014c0208dd89120c583293c2205fb71b,CHUKWA-460,Bug,Demux depends on conf/chukwa-collector-conf.xml,Data Processors,Major
+263ce0b2a1df27f171d45f6cfcb6fe93ab68e11d,CHUKWA-466,Bug,fix failing test cases,Data Collection,Blocker
+b11ea41bbeb11a5579fb494cd732027636918360,CHUKWA-457,Bug,TestUserResource test failed,User Interface,Major
+f8aad3d8278a19cb97251a4d03476624ebfbfeb5,CHUKWA-463,Improvement,Improve pattern for getTag() method,Data Processors,Major
+d62de2dc96c713ffa3fec58f3bf32a10d1c9da85,CHUKWA-458,Improvement,update documentation to reflect 0.4 changes,Documentation,Blocker
+b1975208c62d0106e6a2c529c59125620724c788,/,/,    fix a silly typo,/,/
+819bfe1bbe73d7065e7cc3e9ffc61eb4487bf89c,CHUKWA-463,Improvement,Improve pattern for getTag() method,Data Processors,Major
+38a7d0436cb2ddb102f430ec42fcc0695a9836de,CHUKWA-463,Improvement,Improve pattern for getTag() method,Data Processors,Major
+2ea4802906565169309a54d56dda7b56b0545c82,CHUKWA-464,Bug,Small spelling mistake &quot;processClutserDirectory&quot;,Data Processors,Trivial
+cb65e137bc21349dbac77bcf4916420003bc8b73,CHUKWA-446,Improvement,Refactor tools/init.d scripts,None,Major
+7b70a81bc6b8b27d4d3d38d3ae680e451b870fd6,CHUKWA-446,Improvement,Refactor tools/init.d scripts,None,Major
+1b8d13b13dff3aa09cbf67ff36f092b098beacd9,CHUKWA-456,Bug,Fix test failing test cases,Build and Test Code,Blocker
+343e58ad824809d5bdedec6e56c707648dc3a245,CHUKWA-449,New Feature,Create utility to generate a sequence file from a log file,Data Processors,Major
+1b0cf4be62f1ef6d537aa8d96cb88972f5a1af95,CHUKWA-455,Bug,Strip out http:// prefix and port from collectors file when used with start-all.sh script,Scripts,Major
+67d6c96b5e1d4e57e6abd8512e0e9dd7f95d906c,CHUKWA-455,Bug,Strip out http:// prefix and port from collectors file when used with start-all.sh script,Scripts,Major
+2e41cd6d5f3903e4497ac21f4a231c017ac930bf,CHUKWA-453,Bug,Shell scripts should use !/bin/bash not !/bin/sh,None,Major
+00dd6c58658cf819692b72288afbcfcf2deeff5e,CHUKWA-454,New Feature,DirTailingAdaptor Add option to Filter files.,Data Collection,Minor
+520ba88bdfbb0874eb14699e8c8b0ee4a59ba8e4,CHUKWA-453,Bug,Shell scripts should use !/bin/bash not !/bin/sh,None,Major
+644a1ca87efebbbf29345426e19b5b566d561204,CHUKWA-450,Improvement,turn off sort in DumpChunks,User Interface,Major
+4aa40f484dcbc570ac143954c3904217d5913fbe,CHUKWA-451,Sub-task,slaves.sh shouldn&apos;t ssh to start process on localhost,Scripts,Major
+c32be79a0185045a7c991e53b58ad60a669e1a67,CHUKWA-452,Bug,ChukwaArchive byte[] needs to be wrapped in DataByteArray,None,Major
+6e4e6d5403ea6adafd091be1f4377a9c3b199e1a,CHUKWA-449,New Feature,Create utility to generate a sequence file from a log file,Data Processors,Major
+3a3a5be75cbd939c963f828c6f5a751802b15b12,CHUKWA-440,Bug,Custom processor classes not detected unless added to chukwa-core jar,Data Processors,Major
+258d4843d385200417610b596fc9186e59b4cddb,CHUKWA-359,Improvement,Failed adaptor creation should report detailed errors,Data Collection,Minor
+c60abb51f453d461ddf72ed9e96050388383ab2c,CHUKWA-420,Improvement,clean-up adaptor shutdown methods,Data Collection,Major
+24167015776628096dc2e2e70b8d9b4fc00cd20d,CHUKWA-448,New Feature,writeahead logging at agent,None,Major
+b9733d8ea1560ddff72ed75b7996e0daad1cc02f,CHUKWA-448,New Feature,writeahead logging at agent,None,Major
+910e54cc399b7c0ffc0cabe133dce963f90d1289,CHUKWA-420,Improvement,clean-up adaptor shutdown methods,Data Collection,Major
+1f7bfe5937d7043923f2fe99c055ad335ccf4a6a,CHUKWA-420,Improvement,clean-up adaptor shutdown methods,Data Collection,Major
+e4de5f97b2ae1df9effa200ab095303fbed060ec,CHUKWA-420,Improvement,clean-up adaptor shutdown methods,Data Collection,Major
+9e337cbb3ed51ae653b0ba557218ef51f91f12fd,CHUKWA-441,New Feature,Real time hadoop activity monitoring capabilities via Client Trace Logs,User Interface,Major
+353665b27078167f95cc74cd862997f81ada55c8,CHUKWA-433,New Feature,file-per-post writer,Data Collection,Major
+46e1066b8d0e8bb1f1a3a349aa09fee06b2d3cd4,CHUKWA-443,Bug,HDFS metrics log to the same filename from both namenode and secondary namenode,Input Tools,Major
+ca622124c1491475cbe90c45cdc4bc58a61e53c4,CHUKWA-442,Bug,Missing Apache license for HICC REST API,User Interface,Trivial
+716f288a308508e1f3f391a44e60c49dc27b333f,CHUKWA-441,New Feature,Real time hadoop activity monitoring capabilities via Client Trace Logs,User Interface,Major
+6f7a4bc87390bdf660e18983f73516762fd20c15,CHUKWA-438,Bug,HICC Column Resizing does not preserve size,User Interface,Major
+a4fd7c95c21d94f2f2a0367bf063db30ab5863f0,CHUKWA-433,New Feature,file-per-post writer,Data Collection,Major
+35590d22ac92c103695af8616e7b9002ac92dd75,/,/,    Update Change logs.,/,/
+8cd395c5ef910b0aab271c249efb5af01732109e,CHUKWA-438,Bug,HICC Column Resizing does not preserve size,User Interface,Major
+656962354f4526276d39cb7a95804900aa5aa17a,CHUKWA-439,Bug,Swimlane static widget should have a blank image to paint the background,User Interface,Major
+f80ae2a2b6e347de9084df81e68faa19ef29c977,CHUKWA-436,Bug,Time widget isn&apos;t working in HICC.,User Interface,Major
+3f52b24fae247c637c8bbc0b66915aa6f480172d,CHUKWA-437,Improvement,Improve categorization of HICC widgets,User Interface,Major
+860a9d2d849a0484a60f09324231de8019983f1b,CHUKWA-421,Improvement,new logfile rotation detection scheme,Data Collection,Major
+7969856200ab4ca3e571c338b9535c6f8e0c332f,CHUKWA-421,Improvement,new logfile rotation detection scheme,Data Collection,Major
+c455de21d2b73afa1afd356bf79175fcda4179b2,CHUKWA-432,Improvement,PipelineableWriter should be an abstract class.,Data Collection,Major
+149da135d2994278211502768e891ef763b28faa,CHUKWA-431,New Feature,UDP adaptor,Data Collection,Major
+dff2be81f0a902d95ea536a2b2c5b7146dbf94bb,CHUKWA-431,New Feature,UDP adaptor,Data Collection,Major
+e5a48a671ee2452e6401d55e696eb1ea723d6778,CHUKWA-430,Bug,Narrow down input for FSM mapreduce job,MR Data Processors,Major
+4b3fe7e5e6d2455ee139375d9dbba4e945ac88c3,CHUKWA-427,New Feature,Driver script for MDL to load FSM data directly,DB Data Processors ,Major
+dc74f226cf092455988afb7bc141059a1b97300b,CHUKWA-428,Bug,Event Viewer data source shows exception.,User Interface,Major
+f0a6f489d4aaeb2d4622d0fd737b0b12d88fec57,CHUKWA-428,Bug,Event Viewer data source shows exception.,User Interface,Major
+7e603f74cf83a4c35fe4f8f432de0c72a98da99c,CHUKWA-46,New Feature,Chukwa agent control port is open to all,Data Collection,Major
+5e7999d5de2ef37c8f92fb3d47020353a63cd283,CHUKWA-418,Improvement,revise logging for uniformity,Data Collection,Major
+0e5d2b8c7c1e678c5476d0057c8c3b4a41aa0539,CHUKWA-429,Improvement,Refine the HDFS heatmap color map to look like rainbow color map,User Interface,Trivial
+10db82b742bc36a13785ef978bb9d8b4a4e23e0b,CHUKWA-427,New Feature,Driver script for MDL to load FSM data directly,DB Data Processors ,Major
+562aadd731387aca708683e08f424d0dbefac5ca,CHUKWA-241,Bug,chukwa doesn&apos;t work after building from source,None,Critical
+edbf7bbdada2567b5f4e665193c5fdaf0a7d6c5e,CHUKWA-241,Bug,chukwa doesn&apos;t work after building from source,None,Critical
+42080a1bbf37859542651f68bcfb8753389c8edc,CHUKWA-424,Improvement,FSMBuilder driver script,MR Data Processors,Minor
+87eda65ebdb5ee703285ca9a5725aca017a25906,CHUKWA-395,Improvement,wrapping adaptors for reliability,Data Collection,Major
+bc010859e6eedd1baee1358d139c67f47c57f32b,/,/,    Document new syntax for adaptor names.,/,/
+bd75467b6591c2fedd4fbd6cf62a14736aa4da89,CHUKWA-418,Improvement,revise logging for uniformity,Data Collection,Major
+9c2b28a0076f4bf298446a8a354969d5d9170a17,CHUKWA-2,Bug,Chukwa default initial_adaptors won&apos;t work,Data Collection,Major
+8b2cb6da1b0818baad3a239e1609738573e69e7d,CHUKWA-207,Improvement,HICC workspace should store in HDFS,User Interface,Major
+1e44eb9a0af3311d2f3175536893ebbedf422fd5,CHUKWA-415,Improvement,agent.sh should load adaptors from both checkpoint file and conf/initial_adaptors,Data Collection,Major
+20324a24788f50060b87b2a0e61f9eb312fd74ac,CHUKWA-413,Bug,revise administration guide,Documentation,Major
+09980b1f14fc6aa982780898202441a5cc90c1ac,CHUKWA-414,Improvement,Better error messaging for pid file errors,None,Minor
+9b5ee68ad918beb384a2a161853f74354cad98a7,/,/,    Hosts for DataNode ClientTrace messages parsed incorrectly. Contributed by Jiaqi Tan.,/,/
+3ca24f4c761fc5b49e18a153732d32b22c7b3bd9,CHUKWA-345,Bug,Chunk.application and Chunk.streamName are redundant,Data Collection,Major
+a703b056f4a7a5937b91a732d5d50a99d7f20c7c,CHUKWA-229,Bug,ExecPlugin leaks a file descriptor,Data Collection,Major
+af10f155fec83e8526d8d39b39e9542cc8aaedce,CHUKWA-405,New Feature,Stop all adaptors on existing Chukwa Agent,Input Tools,Major
+6090d1386476315011717889dccf0e91f8d2acc0,CHUKWA-407,Bug,In socketTeeWriter PatternSyntaxException exceptions aren&apos;t sent to the client properly,Data Collection,Minor
+a08ab4a4bed5438ccbd4f5196d6aafd642bb5bc5,CHUKWA-408,New Feature,add metadata to real-time feed,Data Collection,Major
+af9580ea3b848c3476bb90ae19ef0d5649aab3ed,CHUKWA-407,Bug,In socketTeeWriter PatternSyntaxException exceptions aren&apos;t sent to the client properly,Data Collection,Minor
+7f376d63163b71160cdf0deda6be2ca236f23f34,CHUKWA-406,Bug,Yank XssFilter pending license issue resolution,None,Major
+c29545d4b3b5ccc5ccc2cdbf64329f98d5f2e345,CHUKWA-404,Task,add license headers,None,Blocker
+bfcef3bc25f5bf056e21be0da50d95169e23a8d6,CHUKWA-404,Task,add license headers,None,Blocker
+90d0fad0c9c6f3a86840c15613010e67f32cbe8c,/,/,    correct details in NOTICE,/,/
+5cde5527ddcdd2deed8d5715122b89674f36ebe7,/,/,    rename files so build process copies them correctly,/,/
+76f36ef00a73ae74619121f3ead9a14c028e066c,CHUKWA-404,Task,add license headers,None,Blocker
+75dc8d82166d4673655a81a0816d9f515d28569c,/,/,    remove empty files,/,/
+e055a848c97752db6160bc1e9bb63de70216f01a,CHUKWA-404,Task,add license headers,None,Blocker
+432c0a1968ed65c574a9463ff9d9b1b1374bb507,CHUKWA-399,Bug,ivi.xml and ivy directory are missing from chukwa-0.3.0 RC-0,None,Blocker
+5378b6e1633189433095977d45a989a4588ff9b7,/,/,    remove empty files,/,/
+2b5ed0dbdcb907aed038a21baf437f63075b3358,/,/,    remove empty files,/,/
+67dd53f8d89971d195982565d71e9a749924e588,CHUKWA-402,Bug,update release notes and notice,Documentation,Blocker
+9561d1691b990af42b0b0ea1e91d7faffddd13b2,CHUKWA-401,Bug,race condition in dir tailing adaptor test,Build and Test Code,Blocker
+b05675b59b9d29fa65e15ee77f4affcb94b6f979,CHUKWA-401,Bug,race condition in dir tailing adaptor test,Build and Test Code,Blocker
+bf82cc5dd88043d236bed2131b407acc44341196,/,/,    mark 0.3 branch in CHANGES,/,/
+fcf31b5788043680812462e40092a5331c6e3b71,CHUKWA-390,Improvement,asynchronous acks and load-balancing,Data Collection,Major
+0f06f9c395144a65d5002cc6f99536a19b48f051,CHUKWA-397,Improvement,allow &quot;all&quot; as search pattern,User Interface,Minor
+0b6e2400abb31223d33c0bf0a9e775992b311307,CHUKWA-397,Improvement,allow &quot;all&quot; as search pattern,User Interface,Minor
+f7db45fac182b5611d0d568fecd15b43171b2348,CHUKWA-398,Bug,const rate adaptor isn&apos;t as deterministic as it should be,None,Major
+a3e637de373e015f5193df23746f62a5a2123e94,CHUKWA-393,Improvement,Pig support for archived chunks,None,Major
+24e806b0b4a7727b8d16771c17a1247f4bd144f7,CHUKWA-392,Improvement,fair queuing for threads in collector,Data Collection,Major
+d85741ccf581b688a0dc11131ff4a08f08e9a467,CHUKWA-97,Improvement,FileTailingAdaptor.tailFile should be refactored and made more flexible,Data Collection,Minor
+56142fa4c34a42724e0eab0c3f5ab3a007956d35,CHUKWA-344,New Feature,State-Machine Generation for input to SALSA visualizations,Data Processors,Blocker
+4e51c8387d406703c56c1bc2c4975e4bb0f713eb,CHUKWA-388,Improvement,Clean up user interface,User Interface,Major
+353ae815bfa13e0857a05b744542e765ab957f79,CHUKWA-384,New Feature,REST API for HICC,None,Major
+cf39bc61e92f8baba382549b2447b187354be6c9,CHUKWA-369,New Feature,proposed reliability mechanism,Data Collection,Major
+a0f20ccc1577ae43d209c96e80247e0e89d64a1d,CHUKWA-387,Improvement,dumpChunks summarize mode should count bytes as well as chunks,User Interface,Minor
+bed4cb09b521de2eab11147eedbbce79effb5b54,CHUKWA-368,New Feature,proposed stress test,Build and Test Code,Major
+708a4d8f443b94bacb27a8ddff2763bb6dcd1408,CHUKWA-386,Bug,Iframe contents display in the wrong window.,User Interface,Major
+4ddb24a274da37cf9d741378c34712e0e49d8be3,CHUKWA-368,New Feature,proposed stress test,Build and Test Code,Major
+0834e1ff86416f3a3571839bb038345e5f63f656,CHUKWA-368,New Feature,proposed stress test,Build and Test Code,Major
+fcd11ec104fafbc938759eb45de36d4d08f09fb5,CHUKWA-379,Improvement,refactor sender,Data Processors,Major
+68eb76dbc9e82e01ec83a7ae17a91ac353df1270,CHUKWA-382,New Feature,Image for each HICC graph,User Interface,Major
+3a4b78ba927aacd991dfde69e09437b2c937f1a2,CHUKWA-383,New Feature,Embedding mode for HICC,None,Minor
+386af6a7b811e4e450582b400c33afc279d6b33e,CHUKWA-379,Improvement,refactor sender,Data Processors,Major
+8b9ddfafbc9528e03e767dfb9ebbfe7877b2e8b5,CHUKWA-373,Bug,backpressure could work better,Data Collection,Major
+ea23d2cad28ab2258e4b16a9331df9a190af308d,CHUKWA-377,Bug,contrib xtrace does not compile from fresh source check out,Data Processors,Major
+9487dcd6f882386c6f22de6d35f27c2ca303b9e5,/,/,    fix contrib/xtrace library pickup,/,/
+32c7978186c70d79eba1069a72a6e3b71f52e87a,/,/,    fix contrib/xtrace library pickup,/,/
+bd6a44eaaed526a735f83c85f72fe48ee8699db3,CHUKWA-380,Bug,fix bug in FTA,None,Major
+4516b9962b523e6555f7ef2c197d9ce917fc1258,/,/,    fix a silly typo in chukwa index.html,/,/
+97e80d10228abde88e0e200780e4dba25219d25d,CHUKWA-378,Bug,Test Archive fails,None,Major
+f7a750bf6c9b1910561b4be33f9b0ff4dcff4335,CHUKWA-377,Bug,contrib xtrace does not compile from fresh source check out,Data Processors,Major
+5d6a3a880c15a3dc9314ea837d46cb7bce16c114,CHUKWA-377,Bug,contrib xtrace does not compile from fresh source check out,Data Processors,Major
+e30f9df7524d956b0879da1a524157c70609fb3f,/,/,    Set svn-ignore on docs to avoid temp files from build process being checked in.,/,/
+2a08bbbe706c16cb9e187ab08733fb6bf8e698bd,/,/,    finally the right file,/,/
+7843c474dd7d27fc5af3da305e86db99432dd2e6,CHUKWA-374,Improvement,adaptor getstatus should never throw,Data Collection,Major
+5c65bdf43a55165b8cf7611b8f5adc7c53ec305f,CHUKWA-354,Improvement,corner case in archiver,Data Processors,Minor
+1591731f3f42667314b3a8f3205c6849ebf00a30,CHUKWA-373,Bug,backpressure could work better,Data Collection,Major
+3d94a764c4365721bc66bacb5e7cd77b4a964c65,CHUKWA-373,Bug,backpressure could work better,Data Collection,Major
+0427123769d42281f55dcc4eab6c70cb1826811e,CHUKWA-372,Bug,select_multiple_callback does not work in hicc,User Interface,Major
+f42c954c2c542d1a56b16acd5afa9cca31c9158a,CHUKWA-366,New Feature,Custom Tags,User Interface,Major
+8fa47070b47a2937df336dab81b6304c64fc2075,CHUKWA-370,Improvement,exec adaptor should commit immediate,Data Collection,Major
+90e4f03f5fe82272a9b78212fdfe8e0a3992644b,CHUKWA-367,Improvement,Output meta-data with dump.sh.,User Interface,Minor
+b40e4308e2393c5643b0b91dbe5cb4748008cbec,CHUKWA-366,New Feature,Custom Tags,User Interface,Major
+932c4069462acda55a5de1a72b73c568381833bd,CHUKWA-364,Improvement,design overview document,Documentation,Major
+43af7858ef97474ef089673952e20a676118c94f,CHUKWA-74,Improvement,Agent shouldn&apos;t log exceptions for down collectors,Input Tools,Minor
+977c511c849990e0e1235c6ebde138575a8d897b,CHUKWA-365,Improvement,improvements to DumpArchive,Data Processors,Major
+6abb544a011fb075f328aa9bb224142f8682badd,CHUKWA-364,Improvement,design overview document,Documentation,Major
+e6980c94f875f8c31863f1c45c9c0c0e722feb37,CHUKWA-350,Improvement,User and programmer documentation,Documentation,Major
+0f17092240f13e3b3a1be65a102f3f056ca6c64c,CHUKWA-333,Task,Release notes for 0.2,Documentation,Blocker
+f1be6294f83840e6e6fc0790ec6cd67f5ef6b993,CHUKWA-362,Improvement,archiver group-by-cluster conf name shouldn&apos;t be hardcoded,Data Processors,Trivial
+70fc5a18ec2befccec98eec79b793f160f08ae42,CHUKWA-358,New Feature,pluggable real-time monitoring at collectors,Data Collection,Major
+6caecf4f68a90537a8ddf366248920b461f65063,CHUKWA-355,Improvement,delete datacollection.protocol.*,Data Collection,Minor
+cb64662aa792bae3bb49cee70b5c9d0ca509acf9,CHUKWA-358,New Feature,pluggable real-time monitoring at collectors,Data Collection,Major
+23d204a6147bd8f5546a7d71626a8c74f4c14cc4,CHUKWA-358,New Feature,pluggable real-time monitoring at collectors,Data Collection,Major
+2ba4adc82c59228fdd2921a4d044bb75f526ed74,CHUKWA-270,Improvement,undesired ChukwaAgentController message injected to stdout of the running program,Data Collection,Major
+4e749b6d29d77b368b6d0874145e10284a071b8d,CHUKWA-356,Improvement,more powerful file extractor,Data Processors,Major
+46b3149e2d249df264cb4717904cf928a8184eab,CHUKWA-356,Improvement,more powerful file extractor,Data Processors,Major
+84df07e0d094ef23f327023c599d53983f17cb96,CHUKWA-356,Improvement,more powerful file extractor,Data Processors,Major
+3568981f43c8e890bca4a8e5dfc3696315ae237d,CHUKWA-356,Improvement,more powerful file extractor,Data Processors,Major
+e5cb1e85551aa9de0b67c1a1e7c9ba169c71142d,CHUKWA-354,Improvement,corner case in archiver,Data Processors,Minor
+890727fe7e6bdc3b282e9390255a862807b827e1,CHUKWA-350,Improvement,User and programmer documentation,Documentation,Major
+28a7396f29dfe79f6c588b3d34fa62cf2a76ce62,CHUKWA-352,New Feature,xtrace collection with Chukwa,None,Major
+b5a4c93ed7149bf8d81ada7ae3999bf7f366ce88,CHUKWA-352,New Feature,xtrace collection with Chukwa,None,Major
+1022d5b7251bbc7b1f458bbeef5c699b325ccc9e,CHUKWA-335,Improvement,Discard Meta line in the job history log file,None,Major
+c0e84963b91c72928be7e8ff661578af7265d10d,CHUKWA-346,New Feature,simplified sink archiver,Data Processors,Major
+ee3618be98468febd9cf5cc8c58ed6e10b194034,CHUKWA-343,New Feature,Static HDFS Heatmap Visualization,User Interface,Major
+60ea58d9b07d3ece72d0b294615f83d0f5ace2f5,CHUKWA-342,New Feature,Static Swimlanes Visualization Widget,User Interface,Major
+b4342889fd3ad4330fa4b1d96de4fe77c8efe526,CHUKWA-282,Improvement,Demux should output detailed per-operation ClientTrace records,Data Processors,Minor
+0fcd4c06b212b81d4039437f32fa35101595d67d,CHUKWA-341,Improvement,Make heap usage in HICC Jetty server configurable,User Interface,Minor
+cb6f2587158801d7cc01a852387153de20127c51,CHUKWA-284,Bug,division of responsibility between agent and adaptor,Data Collection,Major
+1d148d1db69dc30f14aa505b03f5f6edb2ada026,CHUKWA-25,Improvement,chukwa archiving should group by cluster name,Data Processors,Major
+09831ec37f2ef5de8f52aff04f7f596f6ab567c8,CHUKWA-25,Improvement,chukwa archiving should group by cluster name,Data Processors,Major
+9ac802ef8694a4fae26348e6d18695e11b46e6ca,CHUKWA-334,Bug,In case of HDFS exception  LocalHdfsMover will not empty his queue,None,Major
+a94e8ac4a1dbca3ffc91ff248fee80f2a78832e3,CHUKWA-335,Improvement,Discard Meta line in the job history log file,None,Major
+cbd5f9491df27a1288dc5e2a42fd4e6262bbbe5b,CHUKWA-330,Bug,controller should not create duplicates for adaptors with offsets,Input Tools,Blocker
+0aec1239742612f124fef3e158ec2355e3bfbb55,CHUKWA-330,Bug,controller should not create duplicates for adaptors with offsets,Input Tools,Blocker
+c74c834fba4dfe95b7623776bec2ec90dd1a5a26,CHUKWA-308,Improvement,Standalone web-server for visualization,None,Major
+7c8ff6114d9d4c6fcbbebf0ebac823da8eed83b9,CHUKWA-37,Bug,ChuckwaArchiveBuilder should go away,None,Blocker
+37196b09ac3fd65e480f3531dd9c1d750a171b68,CHUKWA-331,Bug,Regular expression error in MetricsDataLoader,None,Major
+78a5479d0127b9bab159fbb7a58ab8904f9dde3d,CHUKWA-323,Bug,Chukwa agent unable to stream all data source on the jobtracker node,Data Collection,Blocker
+23f3c4a7515dc22253ef68190eddaac26d1ea119,CHUKWA-323,Bug,Chukwa agent unable to stream all data source on the jobtracker node,Data Collection,Blocker
+45b55a21c149b7cb40e02f370f573e49f4611747,CHUKWA-329,Bug,user daily aggregation sql error,None,Major
+cb12d965f830413ecd1047a460b4b230a416e19b,CHUKWA-328,Bug,NPE for empty chukwarecord sequence file,None,Major
+f3cc3b4562baa79e29f0593cef1d442df6a6e5a1,CHUKWA-308,Improvement,Standalone web-server for visualization,None,Major
+7a3a6da91b731932c2913828d0bf9131044ee178,CHUKWA-308,Improvement,Standalone web-server for visualization,None,Major
+b2b7ace82789e0f946ec3e117ccbc3ac39d63006,CHUKWA-316,Bug,jobconf Error in mr_job_* table,Data Processors,Blocker
+37d78ce8baafedca429313d6071fbb2cd880c486,CHUKWA-326,Improvement,In case or error at the postProcess step then move data to an InError directory,None,Major
+b3e12cba813e1cf23d16fa7deb2dec1af4d4f681,CHUKWA-327,Bug,Demux should not writte JobData with timestamp=0,None,Major
+ffd3e667e3496b84771490ec39b959ea798321e5,CHUKWA-327,Bug,Demux should not writte JobData with timestamp=0,None,Major
+bc79bdcde3989a7d33b68983f201418c76a56ec4,CHUKWA-324,Improvement,MetricsDataLoader should handle chukwa record with 0 matched fields,Data Processors,Critical
+ef11cda55a973f138003c11743dd724161305826,CHUKWA-299,New Feature,HDFS Spatial Heatmaps,User Interface,Major
+262e4fc876669434ed6b861d6b06a91a39dff5b1,CHUKWA-299,New Feature,HDFS Spatial Heatmaps,User Interface,Major
+c446665e34cbbddd67d3d17439a519ffb58126ca,CHUKWA-320,Bug,Document how to create daily cron job for down sampling,None,Minor
+da152c460809612af37c2edf7193ddc07e7cc5a1,CHUKWA-320,Bug,Document how to create daily cron job for down sampling,None,Minor
+021dfd95eadd2dfa986af95da801211b27fa6ae2,CHUKWA-321,Improvement,Add 3 seconds sleep for test cases that involves agent.,Build and Test Code,Major
+bf54917e5e554d7c8dd01922ac3f4361197c6703,CHUKWA-318,Improvement,Stop the collector if there&apos;s less than XX% capacity,Data Collection,Major
+f7a3c6653daa91d331e36a3d430a49666c99cf99,CHUKWA-319,Bug,Pass cluster name to pig script,None,Major
+1412e8eec9d1436f57499c031a4175dd5a76559c,CHUKWA-276,Improvement,Hourly and Daily rolling should use a single reducer + fix classpath issue,Data Processors,Major
+42d0e1a4bd1ebc949890f64c47fb0695e4c57fb0,CHUKWA-316,Bug,jobconf Error in mr_job_* table,Data Processors,Blocker
+4c5e218878546c603949eac0b2c33023acb47ae6,CHUKWA-42,Improvement,should allow shorter names for adaptors,Data Collection,Minor
+d94ad5b8894a7983a9343029d0b9bf49db8fda1e,CHUKWA-194,New Feature,Backfilling tools,Data Collection,Major
+2082927241e9885a22a2769c7b06cc394cfe084e,CHUKWA-312,Bug,Invalid classpath for chukwa pig,None,Major
+be353f2c1d37fb4bceb5919c8ac5ec35878b32d1,CHUKWA-313,Improvement,Remove the 10 sec ack from SeqWriter,None,Major
+3a0d0469f3562eaa4f7597b31698da7b5cb3143f,CHUKWA-314,Bug,START_TIME=&quot;0&quot; for failed task throws SQL Exception,None,Major
+f008654887539f1a55af5d4b540b8eff066a9261,CHUKWA-314,Bug,START_TIME=&quot;0&quot; for failed task throws SQL Exception,None,Major
+e6443b4857bbfa2fa8d4399520cc4386246e16a0,CHUKWA-304,Bug,Test Aggregator does not fail correctly on failed test case,Build and Test Code,Blocker
+8d67c12924d2cbf35e96b5dcd658922e4d3747f3,CHUKWA-309,Bug,jobid is missing from mdl for record type jobconfdata.,None,Major
+211b3bf5cea72fd9697569cfdf708da03cb71a84,CHUKWA-301,Bug,TestFileExpirationPolicy: Set controler port to 0 in order to avoid race condition on agent Shutdown,None,Major
+3da923025da11c759b8122d1fe59c2114843ad9b,CHUKWA-302,Bug,Chukwa Agent unable to start up and running,Data Collection,Blocker
+058eaac5fa552a8ab3bf1198ae45f7103f67d7fe,CHUKWA-185,New Feature,ability to tail a whole directory,Data Collection,Major
+89cdac2ef7f0050bcf06c243b31ccfe136df7517,CHUKWA-298,Bug,Chukwa 0.2.0 release should contain version 0.2.0,Build and Test Code,Major
+c745b015c96d00a778f54befcf971e00f40823f2,CHUKWA-296,Bug,HICC Dashboard builder crash,User Interface,Blocker
+8b11a2edffefdab0ec17454c6db4833af252540d,CHUKWA-10,Bug,Fix TestAgentConfig ,Build and Test Code,Minor
+30b7e985618cc29e1f0d8b0b521382bdd21cc994,CHUKWA-253,New Feature,Aggregations by User,None,Major
+95f415258638419792e88090ceb8dd293f12a4d9,CHUKWA-294,Bug,Default post process data loader configuration is missing ,Data Processors,Major
+075d020db262999c4c468e842a989a2aa5fa5055,CHUKWA-95,New Feature,Provide webservice API to extract data points,User Interface,Major
+3a1aed35b6b6228edc28beb6f8230c22c7924dab,CHUKWA-291,Bug,Chukwa Agent can not post to Chukwa Collector,Data Collection,Blocker
+d29f049cae621249f38b2f50d3a02606d15c347d,CHUKWA-5,Bug,AdaptorId should be persistent even after an agent restart,Data Collection,Major
+d06db509e79ec0d446219794a22825ddb770cee1,CHUKWA-5,Bug,AdaptorId should be persistent even after an agent restart,Data Collection,Major
+1b903756ab421e93ac2844a1467565c31fd7f5e0,CHUKWA-291,Bug,Chukwa Agent can not post to Chukwa Collector,Data Collection,Blocker
+63fadf23021e9e96062cbd1fddf649a0a959ce65,CHUKWA-291,Bug,Chukwa Agent can not post to Chukwa Collector,Data Collection,Blocker
+89e56e582ae747454f7fc95fc232327cc52c6899,CHUKWA-253,New Feature,Aggregations by User,None,Major
+10d4df5c4539b10220cf2b12d436ff41fada39b7,CHUKWA-287,Bug,Collector crash on startup,Data Collection,Major
+f76db9b129a1464fcd7e150fc940468a8e0804ab,/,/,    didn't mean to overwrite chukwa-config.sh,/,/
+26cbe26adf3b99086e6fbbab2cf0092a932dac34,CHUKWA-280,Improvement,Test case for iostat overflow,Input Tools,Major
+ef9b357d89044bc7dab6a73fdf20349adc067aa7,CHUKWA-194,New Feature,Backfilling tools,Data Collection,Major
+c414bd019758d54a97a2936ddfae289da2ab06c4,CHUKWA-253,New Feature,Aggregations by User,None,Major
+746a198bd66529c97c8a91651c22a48463ae3c01,CHUKWA-278,Improvement,Improve post process manager and metric data loader to support data loading from pig aggregation,Data Processors,Major
+9e3e66d2facb5c6475d731e41b628676fc89c540,CHUKWA-95,New Feature,Provide webservice API to extract data points,User Interface,Major
+3cf31de1bdac0fd6a572128925c3494028ba1d2e,CHUKWA-281,New Feature,Create pig scripts to perform down sampling,Data Processors,Major
+44ebe64644169e55bd3e264b7f8291f391c067f5,CHUKWA-95,New Feature,Provide webservice API to extract data points,User Interface,Major
+54a4470b53838050b8a8033b96a98cc0e2d6e8db,CHUKWA-268,Improvement,Create an interface to manage all Adaptors,Data Collection,Major
+17e0481cfc02efcfdeaa9fddbacfa22c87fca0b9,CHUKWA-268,Improvement,Create an interface to manage all Adaptors,Data Collection,Major
+97060735fc94df8b8293934b8a9a48a1146c4bd5,CHUKWA-20,New Feature,Pig support for ChukwaRecords,Data Processors,Major
+8bc17cd835cc7a11b883dd7cff853dae6fa2b172,CHUKWA-20,New Feature,Pig support for ChukwaRecords,Data Processors,Major
+d65d6d151c5a3d98cabb397176d90b4c454f5659,CHUKWA-259,Improvement,more flexible CollectorStub,Data Collection,Major
+de8be00e7bcc82d2de47d01fdb94903e3bd4aa88,CHUKWA-273,Sub-task,Collector with non default port has default port number appended,Data Collection,Major
+6c3737cc0c650149105ec54a8f5d7640e575da80,CHUKWA-279,New Feature,Swimlanes visualization for Hadoop job progress,User Interface,Major
+6bda94fe012ed6bd946acd00487d5407759391f1,CHUKWA-263,Improvement,Configure Demux parameters using chukwa-config  ANT target,Data Processors,Major
+3db817c7ae6f85c6183ab815d852c603b24c3250,CHUKWA-195,Improvement,Support Hadoop 0.20 on the backend,None,Major
+3088b7f053792adad8e4404d65ac0f731c0dfce5,/,/,    Update Change Log.,/,/
+9dd81f33d07d0206f69deab59e117625f3c734ab,CHUKWA-274,Improvement,Fix time unit on hadoop metrics,User Interface,Major
+6f83b4228110417b768194a75fe9dd3140c605cf,CHUKWA-267,New Feature,Collect shuffling information from userlogs/syslog,Data Collection,Major
+91fe6a4f29855402189ffb6a32a182507f0d4777,CHUKWA-275,Improvement,Display standard deviation in the graph&apos;s summary table,User Interface,Major
+1029a23162527cdc9b3a9ddad41b677e36d47fa4,CHUKWA-216,Bug,postProcess.sh should locate hadoop-site.xml in HADOOP_CONF_DIR,Data Processors,Blocker
+fbc03f7153cbf31eb1fb62cec4a62a2c9725d70d,CHUKWA-249,Bug,Demux.java &amp; ChukwaArchiveBuilder.java are loading chukwa-demux-conf.xml not using ChukwaConfiguration,None,Major
+b58f7118394eba850b2baca5712fa363280d213a,CHUKWA-137,Improvement,Add collector Ip to the dataSink fileName ,Data Collection,Major
+c17d6bb82d96e209b290377b5329ab8b14ea5efb,CHUKWA-71,New Feature,Add status/version command to chukwa agent,Input Tools,Major
+434e30131ee7f715da40b0275e5607cebe6e9e08,CHUKWA-271,New Feature,Create Data mining interface for drawing chart and show database output,User Interface,Major
+573f281a1cc4508dd1f5b2d9de57d82669255be1,CHUKWA-261,Bug,Fix x axis label for display none time series graph,User Interface,Major
+650f5f99a556d602b0cacb1f330facd4c97d1e1f,CHUKWA-258,Improvement,Better logging of SQL errors,User Interface,Major
+5367dc471ef334731cd18b838be27ec46221fb4c,CHUKWA-82,Improvement,Display min max average of the data points at the bottom of the graphs,User Interface,Minor
+00cd8b122d2bb5c1a309e6872dd1e374ff914071,CHUKWA-261,Bug,Fix x axis label for display none time series graph,User Interface,Major
+1c5e00e8d3faf8e2a17a2c1f9ce3baac5f626135,CHUKWA-30,Improvement,Remove HDFS flush &amp; connection holding (Collector),Data Collection,Major
+193dc87bd37504ec0fab467cc804f882005895af,CHUKWA-30,Improvement,Remove HDFS flush &amp; connection holding (Collector),Data Collection,Major
+fd56d8d183726e2e6a0fe7c4f623172345c4dc6b,CHUKWA-142,Improvement,Remove &quot;public void add(Chunk chunk) throws WriterException&quot; from SeqFileWriter ,None,Trivial
+7a90e5bf615fa0ec9ca87999e1e0c8209f4fd466,/,/,    Updated Change Logs.,/,/
+b042654416abaab8e0f085f2f8f0b668afdb304d,CHUKWA-251,Bug,allow the time widget to specify custom time period,User Interface,Minor
+86affeb0a6cd603ec870cd6b73db2087a3f01128,CHUKWA-257,Bug,Same arrow image used by Date Picker and workspace caused confusion.,User Interface,Major
+d57160fd392cd6859e7ccfda2fc1c13453528415,CHUKWA-237,Bug,cruft in /tools,None,Major
+fdf8b10f48f0b7e60dc76cf7f0fc83488e204b3b,CHUKWA-255,Improvement,Startup scripts should exit after launching the jvm,Data Collection,Major
+408e22a4e327de76226ae7bbe96babfd99ad3f96,CHUKWA-239,Bug,demux settings should work correctly out-of-the-box,Data Processors,Critical
+ff363f0f58dbacc0492adac23c3e718f08a164c0,CHUKWA-238,Bug,race condition with archive manager,Data Processors,Blocker
+de87b01513fbda864768ea3ab9ec66d2d64c0e1f,CHUKWA-242,Bug,execute bits wrong on bin scripts,None,Blocker
+dce5fc8300554a38c344c37339db36eb96285ebb,CHUKWA-250,Bug,class not found exception when running agent ,Data Processors,Blocker
+40deab08b57f9ba83325058d8caed3ed6e50f164,CHUKWA-248,Task,Chukwa Admin Guide,Documentation,Minor
+3583f712a594a84210d35138840e24f42b04c152,CHUKWA-236,Bug,Database migration script for moving Chukwa 0.1.1 schema to Chukwa 0.1.2,Documentation,Major
+369df9e4655bd5cf73385b119fe8fed7bd08c3d7,CHUKWA-217,Bug,should document how to configure Hadoop to log through Chukwa,Documentation,Blocker
+467ede45da9e4ce00c8affed07d2f0c6a1cdea88,CHUKWA-211,Improvement,Create symlink in %file for RPM,Build and Test Code,Blocker
+98e4ec5bb63fe3a0a582ad91b733f5d773ab09e9,CHUKWA-245,Bug,classes file are not built into chukwa-hadoop-xxxx-client.jar file.,Input Tools,Blocker
+f5ae54fc06056ef684f74149e56e4cabf6877e24,CHUKWA-235,Bug,Chukwa Docs - Updates,None,Minor
+7b482276c9dace79a1887d22e16c9d3c29cb7b00,CHUKWA-236,Bug,Database migration script for moving Chukwa 0.1.1 schema to Chukwa 0.1.2,Documentation,Major
+136adbbeb0023b55298d392ed4d409773b8a7b4d,CHUKWA-210,New Feature,JobConf parser,Data Processors,Major
+fb153cfd7971f7257ee752670b508ddca1988ccd,CHUKWA-82,Improvement,Display min max average of the data points at the bottom of the graphs,User Interface,Minor
+f31396577d5c9f8926089bb9962f10c5b9abcec2,CHUKWA-234,Bug,Chukwa HICC charting test cases are failing,User Interface,Major
+9a4eb8c736591afb18190d68cd7ed0066d7dc865,CHUKWA-108,Improvement,Use prepared statement to prevent sql injection attacks,Data Processors,Major
+386f80b96bbcb54addb36e4c347e511b66124363,CHUKWA-232,Bug,mdl.sh script hard coded classpath to /home/eyang,Data Processors,Trivial
+102c3cc98b5dd6b6dc24df8b038c5760aff8d465,CHUKWA-215,Bug,postProcess.sh should use ${CHUKWA_CONF_DIR} instead of ${CHUKWA_HOME}/conf,Data Processors,Major
+5e6f09fc0a9a87310cd6e42e8fdd72785319be68,CHUKWA-84,Improvement,Add simple text input as a way to specify start / end time in the time widget,User Interface,Major
+b0d21c16abfe52b5d1d1cffb790ed356e1cd7b02,CHUKWA-223,Bug,Large session information prevents permalink to work.,User Interface,Major
+9aea531f2c39be51059b9cb0034c68d0507f80fa,CHUKWA-228,Bug,Provide an option to run HDFS usage plugin as a different user other that CHUKWA_USER,None,Major
+45f17594065aa3a97988e99e8195b6714559e263,/,/,    Updated Change log.,/,/
+eb1ba6deb27206caf5b6ee4332214e99298ac355,CHUKWA-228,Bug,Provide an option to run HDFS usage plugin as a different user other that CHUKWA_USER,None,Major
+dd6435074ef9e4dd151b2ddfe513b1849ce9e6ec,CHUKWA-227,Bug,Use su command in the run script for HDFS usage metrics collection,None,Major
+447fcfd3edd1a08c6cdd21ed731c70d048226a19,CHUKWA-226,Improvement,Collect HDFS usage every 60 minutes instead of 1 minute.,None,Major
+695ada4eacb67aec17e4815879dc589a1e7b5170,CHUKWA-229,Bug,ExecPlugin leaks a file descriptor,Data Collection,Major
+235136752afc0d609dd901e5b6781e6a7b5865f6,CHUKWA-82,Improvement,Display min max average of the data points at the bottom of the graphs,User Interface,Minor
+1040a0a14f200f2714b507d993dbcbd977c1b1c2,CHUKWA-212,Bug,File descriptor leak in MDL,Data Processors,Blocker
+6a9557b1bebb6abdb629d4c932b76b0f2c78f523,CHUKWA-220,Bug,single graph not display correct with ymax and ymin,User Interface,Minor
+c5cdff5505876633cc643e5b6cb195888a0582b2,CHUKWA-222,Bug,subtle sar version depdendencies,Data Processors,Critical
+1914a74d1b870a9069c90299e50c8039eb053afa,CHUKWA-219,Improvement,Improve existing host selector,User Interface,Major
+ae8d7a01dc2c5ccfa146efd4f81f7f7e44950b75,/,/,    Chukwa-205. Load ChukwaAgent's metrics to database.,/,/
+e43a63952dd6461f20daa7c00b65b36ffacdfbf0,CHUKWA-103,Bug,Create docs target to manage generation of documentation,Documentation,Major
+fd576a6bd2120f0606bb09a38523eeac45b5b42a,CHUKWA-208,Bug,test/samples doesn&apos;t exist leads to ant test failure,Build and Test Code,Major
+f5c5483412ce3aaaf621999263aab867bee3c107,CHUKWA-206,Bug,Remove hardcoded values and paths,Documentation,Major
+bda6ff73e543895cc8208a2945527cc62f5ea1ed,CHUKWA-206,Bug,Remove hardcoded values and paths,Documentation,Major
+9e84ee37f4db45bdee3f59aa586a36472246f7bf,CHUKWA-202,Task,Chukwa Admin Guide - updates,Documentation,Major
+e3c61c64d2ce0801a0e6e6cf768a66e7d19f03eb,CHUKWA-201,Bug,Remove dependency of java script code from simile.mit.ecu ,User Interface,Blocker
+c872a19602c1c0b952a17b83f369d22f133ef3e6,CHUKWA-193,Bug,Handling Meta in job log file ,None,Minor
+c63842daf573c8115d052480cd00d05994f243fe,CHUKWA-131,Improvement,Collect finished_maps  finished_reduces  failed_maps  failed_reduces in mr_job table,Data Processors,Blocker
+9e08dd0243d4ff32224265fd5781bb4115c9f452,CHUKWA-187,Bug,Set JOB_FINAL_STATUS for job log only  no final status for task log,None,Major
+02ad25931375b3c01928b1a88b5de03edd8785be,CHUKWA-186,Bug,duplicate timestamp columns in database aggregation script,Data Processors,Blocker
+f4ba9ad16447bf07637be5c473465ae956f6b926,CHUKWA-189,Bug,Missing JAVA_LIBRARY_PATH,None,Blocker
+debaaf1e2955baebe3583a984f713f3cd842fe67,CHUKWA-186,Bug,duplicate timestamp columns in database aggregation script,Data Processors,Blocker
+d46be9124375a6cea7189dbfce85826a977cc02c,CHUKWA-187,Bug,Set JOB_FINAL_STATUS for job log only  no final status for task log,None,Major
+b289ad5538c1b5d8a3923d106d7a2744109b9d20,/,/,    Update CHANGES log.,/,/
+d5486314592fe488ad8c4f11c68bd11f039ac982,CHUKWA-104,Improvement,Chukwa data collection depends on the permission of the log file,Data Collection,Blocker
+3e8fd74073d895765b6ecce4928b924b215a82e4,CHUKWA-177,Test,Adding Testing script for database to UI data path,User Interface,Blocker
+74f1adf51d329f0619204b2a6e477eec6523b201,CHUKWA-180,Task,Chukwa - default.properties and build.properties,Documentation,Minor
+22fd6a0ec62e10ad9385b6e6ca651f39579e95c4,CHUKWA-104,Improvement,Chukwa data collection depends on the permission of the log file,Data Collection,Blocker
+21e0469dc7cee60ce2f008c869289a8d3da897a4,CHUKWA-181,Bug,Checkpoint file should be written to $CHUKWA_LOG_DIR,None,Blocker
+04bd09f3d663cadb36116c83a23cabc358759e71,CHUKWA-182,Bug,Add nagios.properties.template to conf dir,Build and Test Code,Blocker
+d217e5138ab22388fc1d61c7b02a106c7047684c,CHUKWA-178,Improvement,Extend aggregation by 5 minutes for cluster,None,Major
+af2248693bdb6caf8d1356157c318d1064c53bd0,CHUKWA-172,Task,Chukwa Admin Guide - misc updates,Documentation,Minor
+e47c1919db7e66a402c7be842e18f1e2b5bd7de7,CHUKWA-176,Improvement,aggregation script parameter logic is awkward,Data Processors,Major
+565658deaf3bb9f54ad4585d19f0a73b303791ae,CHUKWA-158,Bug,Database loader unable to connect to namenode with cname address,Data Processors,Blocker
+8638cd46ce861bfba75430b5b404f80853d9624e,CHUKWA-168,Bug,Missing org/apache/hadoop/chukwa/util/WatchDog,Data Processors,Blocker
+19af0c8d445cfbc477fdc52355bf4efd450c9566,CHUKWA-131,Improvement,Collect finished_maps  finished_reduces  failed_maps  failed_reduces in mr_job table,Data Processors,Blocker
+6431f7ee6a04b50b03df3d2346f0109895555ae3,CHUKWA-174,New Feature,Automate test cases for database partitioning  database loader  database aggregator,Data Processors,Blocker
+b2113c57a4dada53e25d910423a8e4c6cb79e616,CHUKWA-174,New Feature,Automate test cases for database partitioning  database loader  database aggregator,Data Processors,Blocker
+541e729e786314bc342e87dd1ac22213f039296e,CHUKWA-131,Improvement,Collect finished_maps  finished_reduces  failed_maps  failed_reduces in mr_job table,Data Processors,Blocker
+506f7302eec7a6aa947b7cc85b2e573dd51d8ad8,CHUKWA-175,Bug,Error message during shutdown data processor,None,Major
+23479620836a5fd72c7eb9dc59539f8f64fb2fe5,CHUKWA-155,Bug,Job History status arrive out of order causing the status to update incorrectly.,Data Processors,Critical
+e13c53717f2773c6dc426fb7b9affe628c77261e,CHUKWA-164,Bug,Wrong year for SysLog ,Data Collection,Minor
+bd4f7bc9c2df697bf210296cc96814a65cc78259,CHUKWA-166,Bug,XssFilter causes exception if the parameter is missing,User Interface,Major
+73ba56785c4636c2c542568459a79b991bd58822,CHUKWA-145,Improvement,Tune Hadoop parameters for Demux,None,Blocker
+076cf0f5cc80c042e9eabab02c9ea749bb9e2b43,/,/,    Update changes file.,/,/
+1d4029d4d43556eee358f797655542abf34fe5d6,CHUKWA-91,Bug,Checkpoint contains offset != 0 even if there&apos;s no collector,Data Collection,Blocker
+72715e369e6d114c7807915f40b060eb222cf4a6,CHUKWA-145,Improvement,Tune Hadoop parameters for Demux,None,Blocker
+cfadf4136638295086f41c855e3bebda262a3537,CHUKWA-163,Bug,source code should not use DATACONF envrionment variable,User Interface,Major
+e90581c11bc9a54f8f224df9eca1d1a210a24abc,CHUKWA-112,Task,Update chuwka config files.,Build and Test Code,Minor
+a863ae87b4673bb370d88e41f3d5e2917ebe1f89,CHUKWA-112,Task,Update chuwka config files.,Build and Test Code,Minor
+d93936e5f09b4840983d8aeed280a5237e4d1ac4,CHUKWA-157,Improvement,build.xml file should have javadoc target,Build and Test Code,Blocker
+5239d74ff7e2774e78dd735eec476834ab69402f,CHUKWA-156,Bug,TestMacro test case fails when system is not in PDT timezone,User Interface,Blocker
+9a562577faf4416a5a2007d48349bfadc720289d,CHUKWA-154,Bug,NullPointerException in FileTailingAdaptor.,Data Collection,Blocker
+5547136c04ba595df98abc38b1c00b9ef39a87c0,CHUKWA-138,Task,Chukwa Admin Guide,None,Minor
+a8170b658b251abca6731dd0267c5b6d8c151b5b,CHUKWA-141,Task,Chukwa Docs Overview page for 0.1.2,None,Major
+549fcfe7a84b924895ef639f427c05858da90624,CHUKWA-140,Task,Chukwa Docs Tab for 0.1.2,None,Minor
+585738bfe2c4285b796a868eedd2a7bfca2768f3,CHUKWA-138,Task,Chukwa Admin Guide,None,Minor
+53bacf5f9aa42fe017d9ff11042619f79919737c,CHUKWA-136,Bug,Duplicated adaptors,Data Collection,Blocker
+cbaaf451ab032d4d7f249e7ef13f95923ef3b6f2,CHUKWA-139,Bug,If collector cannot connect to HDFS at init time it should bail out,Data Collection,Blocker
+c52e3ac2b9ad6884002022fab480d8694f49e672,CHUKWA-119,Bug,ChunkImpl requires ChukwaAgent class,Data Collection,Blocker
+24efb7edd1ad86c10baca765d0ed778c72d9f771,CHUKWA-128,Improvement,Tools to recompute aggregation,Data Processors,Major
+06cf354e0244eb001e3f4f846980dc53269ee973,CHUKWA-112,Task,Update chuwka config files.,Build and Test Code,Minor
+55c65564cb44a993357c18fe0d8d87d8342cc94a,CHUKWA-134,Improvement,to implement releaseaudit ,Build and Test Code,Major
+12d6fb5949d744daac683ec6f5bb6ed9614d48d0,CHUKWA-112,Task,Update chuwka config files.,Build and Test Code,Minor
+cfeaf5e5e48759b761cd92fbb9da8bd115c70b04,CHUKWA-121,Bug,Database Expiration program tries to delete table partition which is less than 0,Data Processors,Major
+8ba77f91cd2f6eca3a91e9fb07343050222b95a9,CHUKWA-121,Bug,Database Expiration program tries to delete table partition which is less than 0,Data Processors,Major
+fedf00f52a2fd0c2383dfb968331455e4605cc34,CHUKWA-132,Bug,Handle multiline output in Job History file,Data Processors,Blocker
+82e0c53eff96c010e13255d7c318f49364b28e1e,CHUKWA-129,Bug,chukwa rpm file repeat twice in trunk,Build and Test Code,Major
+e4eb5f4b310d3645451e0449418bfcd3fbcd672d,CHUKWA-124,Bug,Metrics Data Loader doesn&apos;t close connection when data loading is finished.,Data Processors,Blocker
+68484adb4299c061ff33ccc43dfbadbecb0f1e3a,CHUKWA-122,Bug,SQL Macro can not find database table,Data Processors,Blocker
+118360ee33f50984cb5046fa93be5d6af12ae652,CHUKWA-125,Bug,Job History parser is not invoked in chukwa-demux-conf.xml,Data Processors,Blocker
+3bed4feb55ac8a53691ac7a274f745f6c1333dcf,CHUKWA-80,Improvement,Extract RPM spec file from build.xml,Build and Test Code,Blocker
+71d77ff1b2a80d95f9cd9d04b1cb219ccbd45191,CHUKWA-98,Bug,PidFile issue,None,Blocker
+4da2d860241de41888b6a4cb6aa7c538ead02242,CHUKWA-98,Bug,PidFile issue,None,Blocker
+e8fb9df195fa90a887351751f6ae6764bcfea1c6,CHUKWA-120,Bug,commons-cli-2.0-SNAPSHOT.jar is missing in CHUKWA_HOME/lib/,None,Blocker
+d45e08be3cf53c8a345a6db9352161d870c14b79,CHUKWA-80,Improvement,Extract RPM spec file from build.xml,Build and Test Code,Blocker
+b97a0d5a295eb926fb6afe164e6b3e792d66b11a,CHUKWA-26,Improvement,Rewrite processSinkFiles.sh in java to have a better error handling,Data Processors,Blocker
+a1d6df1b7b899ddd13f854881c7e1b3ab67dc7fe,CHUKWA-78,New Feature,Track map reduce cluster usage through through job history and jobconf,Data Processors,Blocker
+10c56757309ca3c002b0aa5e0a2257693f41960d,CHUKWA-61,New Feature,Provide usage reporting widget(s),User Interface,Blocker
+d107750682d9a3d74e0a3fd6eb68b91e6f99d34d,CHUKWA-105,Bug,Macro computes database partition incorrectly,Data Processors,Blocker
+c4bfc6f9b101c1f8d4ff11b22288d8ba5c5f849b,CHUKWA-100,New Feature,command line tools to run database aggregation by user specified time range,Data Processors,Major
+ ,CHUKWA-103,Bug,Create docs target to manage generation of documentation,Documentation,Major
+d180cc0a01e05a7cc57c6a84e670e1ed4ef3d775,CHUKWA-101,Task,Remove trunk/docs and branches/chukwa-0.1/docs,Documentation,Blocker
+e13b44462e90793b807f29cf2b75961b5a520a2d,CHUKWA-101,Task,Remove trunk/docs and branches/chukwa-0.1/docs,Documentation,Blocker
+b40e05e37601f6ab4554642d9ea43211e66cb28a,CHUKWA-81,Bug,Calling stop on CharFileTailingAdaptorUTF8NewLineEscaped has a file descriptor leak,Data Collection,Blocker
+efc9fe716c2fe7b6eebd4375af315411ec489b18,CHUKWA-92,Bug,AbstractMetricsContext is using the wrong value,None,Blocker
+f94e2b2d3a0b3dc8286a125817e2e07d8fc63125,CHUKWA-70,Bug,Rewrite the FileAdaptor class,Data Collection,Blocker
+c62ccef000bef7c416fdee6f0ca65c645f87d368,CHUKWA-93,Bug,SeqFileWriter initialization crashes with NPE,Data Collection,Major
+2739a2be5b3fa32f9c2784f0a87162bbf327152d,/,/,    Added Change Log for:,/,/
+ ,CHUKWA-17,New Feature,Enhance process information collection ,None,Minor
+ ,CHUKWA-55,New Feature,Collect and aggregate slot-hours usage by user  and by scheduler queues.,User Interface,Blocker
+ ,CHUKWA-50,New Feature,Create parser for parsing job history log file and job conf file in demux,Data Processors,Blocker
+ ,CHUKWA-69,Task,Calculate trapezoid area for a given series of data,User Interface,Minor
+ ,CHUKWA-29,Improvement,Add clienttrace metrics to Chukwa,None,Major
+ ,CHUKWA-86,Improvement,Take JDBC driver from environmet,None,Major
+ ,CHUKWA-1,Bug,Switch lzo to other compression algorithm for Chukwa Records,None,Blocker
+ ,CHUKWA-40,Bug,NPE in ChukwaJobTrackerInstrumentation.completeJob(),None,Blocker
+ ,CHUKWA-75,Bug,iostat output overflow,Data Processors,Major
+ ,CHUKWA-47,Bug,Currently the jobComplete&apos;s method on the job instrumentation class is called only for Job that succeed. need to have similar functionnality for failed Job ,None,Blocker
+ ,CHUKWA-66,Bug,TerminatorThread is logging as FileAdaptor,Data Collection,Blocker
+ ,CHUKWA-65,Improvement,hadoop metrics log files should be managed more cleanly,Data Collection,Blocker
+ ,CHUKWA-73,Bug,Set soTimeout on the ChukwaAgentController in order to prevent dead lock on the remote application,None,Blocker
+a3e27c410e62e3f0a5709b95b30d7307fa2dba43,CHUKWA-29,Improvement,Add clienttrace metrics to Chukwa,None,Major
+62c2facc3072dac4994f340cace9c27bd7d7cd80,CHUKWA-62,New Feature,nice to have a small shellscript to start tailing,Input Tools,Minor
+4475af8fe9b92807356d479ac33f0366df1bb8a6,CHUKWA-86,Improvement,Take JDBC driver from environmet,None,Major
+669da2f27fcdb92dcc2993915dec6e7ff6b59786,CHUKWA-17,New Feature,Enhance process information collection ,None,Minor
+b52314e94424b19ac3e3cc70d0a2b04557fa347f,CHUKWA-55,New Feature,Collect and aggregate slot-hours usage by user  and by scheduler queues.,User Interface,Blocker
+645228d8607e6b7931effe3c3424cb1f7d03ed34,CHUKWA-75,Bug,iostat output overflow,Data Processors,Major
+7e78c7fe0a86cb5b19c969b2fb91bcc913e223d2,CHUKWA-1,Bug,Switch lzo to other compression algorithm for Chukwa Records,None,Blocker
+2fc6c7958dd1a00adf86fc4d795a7106c9ed5329,CHUKWA-40,Bug,NPE in ChukwaJobTrackerInstrumentation.completeJob(),None,Blocker
+7f34e32f4f44b89d3ae5a4ada69bd6c10036d284,CHUKWA-67,Bug,daemon tools has trouble watching daemon when the program print message to standard error,Input Tools,Major
+44479498e399d4e34ad0e82b66bfe4cde678e1ae,CHUKWA-75,Bug,iostat output overflow,Data Processors,Major
+2e85b3cfb0707d39d715f3d8c670cd7b6584828d,CHUKWA-50,New Feature,Create parser for parsing job history log file and job conf file in demux,Data Processors,Blocker
+7ac502d92ecb32f481dbb491d57d5a7faaa75869,CHUKWA-59,New Feature,Collect HDFS usage for users,Input Tools,Major
+3041cda4168cf91689c4a3937049152113dd5325,CHUKWA-12,New Feature,Add instrumentation Api for Chukwa components,None,Blocker
+ef3410c468b160862eca00fdc69d86b4067fed02,CHUKWA-47,Bug,Currently the jobComplete&apos;s method on the job instrumentation class is called only for Job that succeed. need to have similar functionnality for failed Job ,None,Blocker
+b36a7e282aad81da034fda16d527852402f06a1f,CHUKWA-65,Improvement,hadoop metrics log files should be managed more cleanly,Data Collection,Blocker
+ba21e6156489410381389e86d4de87c9b264befd,CHUKWA-66,Bug,TerminatorThread is logging as FileAdaptor,Data Collection,Blocker
+3e2473d5a3749be27ba8ab6f5a019011c7bffd8d,CHUKWA-59,New Feature,Collect HDFS usage for users,Input Tools,Major
+f00d882d28779ed88c72cdb9ef614c4647b2df23,CHUKWA-59,New Feature,Collect HDFS usage for users,Input Tools,Major
+0d03c272b7be26444d21a9b053034e00acd9b120,CHUKWA-73,Bug,Set soTimeout on the ChukwaAgentController in order to prevent dead lock on the remote application,None,Blocker
+5ac3df54606a6d83f37cb3a18755b1a0dc7371e7,CHUKWA-69,Task,Calculate trapezoid area for a given series of data,User Interface,Minor
+46c974fa2231b45d45184e548994746e6775782f,/,/,    Updated CHANGE log for:,/,/
+ ,CHUKWA-14,New Feature,Support permalink on Chukwa HICC GUI,User Interface,Blocker
+ ,CHUKWA-13,New Feature,Support SQL macros in Chukwa Charting,None,Blocker
+ ,CHUKWA-64,Task,Chukwa RPM release number should be a property,Build and Test Code,Trivial
+ ,CHUKWA-59,New Feature,Collect HDFS usage for users,Input Tools,Major
+ ,CHUKWA-54,Improvement,cross site scripting vulnerabilities in hicc widgets,User Interface,Blocker
+ ,CHUKWA-31,Improvement,dbAdmin.log should be more informative,Data Processors,Blocker
+ ,CHUKWA-58,Bug,Watchdog is using $CHUKWA_HOME while PidFile.java is using CHUKWA_PID_DIR,None,Blocker
+ad37dbc885b67e4ce8bcf66ff42e2ea547e6a5d6,CHUKWA-59,New Feature,Collect HDFS usage for users,Input Tools,Major
+218893ca60db834932a7f5bb890ade457eeb3315,CHUKWA-64,Task,Chukwa RPM release number should be a property,Build and Test Code,Trivial
+73a7430cbf843948d0047195f5ecac3d0d484166,CHUKWA-31,Improvement,dbAdmin.log should be more informative,Data Processors,Blocker
+8929f2ffb50919eca20da253bd5db13a03409234,CHUKWA-54,Improvement,cross site scripting vulnerabilities in hicc widgets,User Interface,Blocker
+1c6e34fa2e54fcf190c883d3243cfeb35034ce00,CHUKWA-58,Bug,Watchdog is using $CHUKWA_HOME while PidFile.java is using CHUKWA_PID_DIR,None,Blocker
+38a3f68a9194f6fa1fa8a30479b29c22f658468a,CHUKWA-14,New Feature,Support permalink on Chukwa HICC GUI,User Interface,Blocker
+f08e2836d667c0e3a13503f0bf6dd22fb71b0157,CHUKWA-13,New Feature,Support SQL macros in Chukwa Charting,None,Blocker
+0b7c264c8d5ad2bd834e052ab04204aa07d94406,CHUKWA-43,Improvement,ChukwaLog4jAppender should send the current file offset instead of sending 0,None,Blocker
+424b4e49582e69bd28ddfd5746e92b39bcca6404,CHUKWA-41,Bug,ChukwaLog4jAppender does not escape \n for exception,None,Blocker
+21209275fc93fe758799a51277b3ad22ee70bac1,CHUKWA-28,Improvement, Add late initialization to the chukwa log4j appender,None,Blocker
+b479b29d70d3b4c7c8f889dd4de212829214e40e,CHUKWA-48,Bug,clean code to fix some compiler warnings,Data Collection,Trivial
+2a88e95ac7be0d3be3d56d3dfa15e93edfff70f3,CHUKWA-9,Bug,MetricDataLoader should close JDBC connection,None,Blocker
+ad0b0dbfaabe35efde115d4dc0d9788c95bb2bd1,CHUKWA-37,Bug,ChuckwaArchiveBuilder should go away,None,Blocker
+9409c10daff8f63f4d93138969de54ad9adc0262,CHUKWA-36,Bug,chukwa build got broken,None,Blocker
+58594d626bb201aa906c9ddbe81b00131ba6f40a,CHUKWA-36,Bug,chukwa build got broken,None,Blocker
+d31e074abc9149c7d776da9c5420e9d10b8370e3,CHUKWA-36,Bug,chukwa build got broken,None,Blocker
+69d328ce7cfb86235b4d605879ebf6ba7f6e3e34,CHUKWA-45,Task,Documentation - add the &quot;docs&quot; folder structure to the trunk,None,Major
+6735116a05142e2ad24ec824424707f1736bab03,CHUKWA-33,Improvement,Adapt chukwa code to hadoop codestyle,None,Blocker
+eaefa07675c02f394277668ca6d3bd7b0b660521,CHUKWA-11,Bug,conf files with templates should be ignored  not tracked  by SVN,None,Blocker
+ ,CHUKWA-8,Bug,Remove deprecated configuration files from chukwa/conf directory,None,Major
+bec0d392ceefca0e696b37f56d8ad2d5e92ae15b,CHUKWA-8,Bug,Remove deprecated configuration files from chukwa/conf directory,None,Major
+523e121a861b836a2a74c73fc9e5bd4a5bfdaa87,CHUKWA-11,Bug,conf files with templates should be ignored  not tracked  by SVN,None,Blocker
+4d8b8455b9cf48fb4029c6e708c109daef46f887,CHUKWA-11,Bug,conf files with templates should be ignored  not tracked  by SVN,None,Blocker
+9609e5d82d98ef85f96c1c331926e9360b4be9b5,/,/,    Moving codebase,/,/
+3c8c97eb4aeeb6464b84650f65e9e8488c5d4fcf,/,/,    HADOOP-5387. Collect number of disk read/write operation for system metrics.,/,/
+b61a6a17af1570a6f0299fb435637b0354e116c7,/,/,    HADOOP-5397. Remove adaptor reference from adaptorPositions hashMap  when adaptor is removed through AgentController.,/,/
+f0a4f685320c713fc7131533f6e6d3d07637ac73,/,/,    HADOOP-5411.  Converted from String to StringBuilder for Chart class.,/,/
+dbc83100cb9fb76d10e6b91ba537dc2e6a3b2338,/,/,    HADOOP-5031. Changed DFS throughput metrics calculation.,/,/
+672db5a3accb5399e66d768a14d4ca1e427d06ce,/,/,    HADOOP-5360.  * Changed RPM packaging to build daemon tools scripts.,/,/
+1eaf8c959335e485b964fd659c5ae148152255c1,/,/,    HADOOP-5055. Updated CHANGES.txt for HADOOP-5055.,/,/
+356915e0e55813f61565e8817df270bd3796b820,/,/,    HADOOP-5055. Changed alert.conf location from $CHUKWA_HOME/conf/alert.conf to $CHUKWA_CONF_DIR/alert.conf.,/,/
+8f7c36d0dbf902188da7bde33840042983b6dfc5,/,/,    HADOOP-5409. Updated CHANGES.txt for release notes.,/,/
+c95b7be3440073809e68be2005e084d9b68a444e,/,/,    HADOOP-5409.  Updated CHANGES.txt for HADOOP-5409.,/,/
+ccfec3f1cd6d91f4fbee37d2a994138f2ab7df4b,/,/,    HADOOP-5409.  Commit this to resolve trunk test build issue.,/,/
+ab625c9ca429f5fb20499a530511a19f5d96fe3d,/,/,    HADOOP-5228.  Chukwa tests shouldn't write to /tmp.,/,/
+0db81164ed84e9a09933ef298a00d37d247b432b,/,/,    HADOOP-5401. Standardize name of agent control port option.,/,/
+b96bcabdcbe6562aa524dd579706d6202ae54466,/,/,    HADOOP-5409.  Remove opt directory.,/,/
+e29a913f37d558299041be6a196fb0d9931c71f9,/,/,    patch for HADOOP-5057,/,/
+6789031cf9b453b10c6a65cfb1429706dfffba77,/,/,    HADOOP-5373,/,/
+92bb48614e364da27e2d0345e290ac44c4bec346,/,/,    HADOOP-5370,/,/
+ceeaaa3813f1f8ec64b5b9d7315a3ab03be27b42,/,/,    Fixes HADOOP-5087,/,/
+11243807c70de997d6706b7616bad96fc2cc7779,/,/,    HADOOP-5035.,/,/
+abdf5159a9013e5377a6341b73f726bab04b7747,/,/,    HADOOP-5308.  Improved exception handling of chukwa file tailing adaptor.,/,/
+dd45777d352e3db8a9a47b2d9aaa74eff1a1413a,/,/,    HADOOP-5054.  Improved Chukwa database partitioning by date.,/,/
+31a2b6b63e1fdaf48eace9df20d79695518b8c48,/,/,    HADOOP-5087.,/,/
+6b578ec738e48055cc90543c9e59d90ac0e0c5b9,/,/,    HADOOP-5051.,/,/
+09a3e7c21423adae3978212cf5885cb9389ad469,/,/,    HADOOP-5029.  Added mdl script to manually load chukwa sequence file to database.,/,/
+204e1aa702a6a89a54359db81681c934b9be0d2a,/,/,    HADOOP-4989.  Added scatter chart capability to Chukwa Charting.,/,/
+f68cea95310122abf3ff5d42b8a89b335daf3926,/,/,    HADOOP-5309.  Added --config to demux shell scripts.  Log demux output to chukwa log file.,/,/
+40c408fd47923ed6307277b6b01cc17f5722abed,/,/,    HADOOP-4839.  Added hadoop native library path to JAVA_LIBRARY_PATH.,/,/
+8ae8aa1a3801fe8d30715fa9c517d3abc1c4d756,/,/,    HADOOP-4893.  Added graceful period for the adaptor to wait for the late data stream arrival.,/,/
+e9a0b58994ee79b5e5190d202ff460d2a61b2f14,/,/,    HADOOP-5118.  Reduced the retries to 30 minutes  and 48 retries.,/,/
+86cc94fd704f2f48e0e1c2e70f64a1243316b552,/,/,    HADOOP-5302.  Added check for record bigger than MAX_READ_SIZE.,/,/
+694b9ecaa53edfd7079f95be72f0f438f1ecfaf5,/,/,    HADOOP-5313.  Added 10 minutes limit for terminator thread to finish.,/,/
+b7f1930d28484046066e3a62443e9cff71751cc5,/,/,    HADOOP-5310. Added --config parameter to start-data-processors.sh and stop-data-processors.sh.,/,/
+a14c097f18f5d7269a7cc98501253c90b3744ff2,/,/,    HADOOP-5277.  Added new InputFormat.  Thanks Ari.,/,/
+af0fe6ed4481d53c58afee8db0e8cece61ac952e,/,/,    HADOOP-5301. Fix logging of Hadoop metrics to one log file per java process.,/,/
+8e35fc23e7a065c1346e512f546ba8472441fcc9,/,/,    Update changes file for last-two committed patches.,/,/
+ad3bbadc727d9a2a11519a10e7dfb81ff5c87a22,/,/,    HADOOP-5033  Simplify Chukwa writer API.,/,/
+ac92276960acf879f7ecce561eebf09d120e43a0,/,/,    HADOOP-5205  change to default CHUKWA_IDENT_STRING,/,/
+cc8fbad0dc62e13343a9398d3890ee5555558bf9,/,/,    HADOOP-5042. Add a cleanup stage to log rollover in Chukwa appender. Contributed by Jerome Boulon.,/,/
+aba6e0d9dc143c341cba2fd12b35402bba2dcd3f,/,/,    HADOOP-5251. Fix classpath for contrib unit tests to include clover jar. Contributed by nigel,/,/
+9b31456410cc51846d0e46456527abeaf22f2338,/,/,    HADOOP-5172. Disable misbehaving Chukwa unit test until it can be fixed. Contributed by Jerome Boulon,/,/
+c18c4261c533809f4bb23340159e2a54aa1fc1b0,/,/,    HADOOP-5226. Add license headers to html and jsp files.  (szetszwo),/,/
+b03e39820a9d3c21940c5955e344a4e49cfdc821,/,/,    HADOOP-5100. Append  rather than truncate  when creating log4j metrics in Chukwa. Contributed by Jerome Boulon,/,/
+1972440689c95f9383b019610842bf188889a086,/,/,    HADOOP-5148. Fix logic disabling watchdog timer in Chukwa daemon scripts. Contributed by Ari Rabkin,/,/
+a181b990461b64130158a453ecdd192902ec59be,/,/,    HADOOP-5147. Correct reference to agent list in Chukwa bin scripts. Contributed by Ari Rabkin,/,/
+df42c258ffdf2d1751cbd445df713e0769d162d2,/,/,    HADOOP-5095. Update Chukwa watchdog to accept config parameter. Contributed by Jerome Boulon,/,/
+4aa37daa87f261eb656100e3a9fc6495cd6bf07f,/,/,    HADOOP-5039. Fix log rolling regex to process only the relevant subdirectories.,/,/
+cae6ed1582260fac2990181e142a8a9c359092b9,/,/,    HADOOP-5038. Direct daemon trace to debug log instead of stdout. Contributed by Jerome Boulon,/,/
+efaf43f7af9e878e7aae2dc5f52052c339c4ba15,/,/,    HADOOP-5018. Add pipelined writers to Chukwa. Contributed by Ari Rabkin,/,/
+0cf1eed8174e2ba044a0f70c43f939a8e7587abb,/,/,    HADOOP-4959. Correct system metric collection from top on Redhat 5.1. Contributed by Eric Yang,/,/
+215c7a008a5fb3e83212b3bfa444b5721a720f94,/,/,    HADOOP-4859. Distinguish daily rolling output dir by adding a timestamp. Contributed by Jerome Boulon,/,/
+9c0b919c1480d4b72f82abe1860a55ec5c216086,/,/,    HADOOP-5032. Export conf dir set in config script. Contributed by Eric Yang,/,/
+5fc041b7ae7c9891bf152b44f9b6c0a345337a64,/,/,    HADOOP-4960. Use datasource time  rather than system time  during metrics,/,/
+2ad8fd9082b0187bf2d3c6998e797cde00b648ef,/,/,    HADOOP-5138. Fixing failing test cases by separating TestCharFileTailing and TestFileTailing adaptors. Contributed by Jerome Boulon.,/,/
+75f1c76b148879697264f083f3f57bb86012b943,/,/,    Starting to fix chukwa's CHANGES.txt,/,/
+0c0bd5fe7241fbe0ff20ce2008eef8bd7d3a3a89,/,/,    HADOOP-4671. Mark loop control variables shared between threads as volatile.,/,/
+8c78b17434e83f5c18d7ae4d2f34c3d3b65e9460,/,/,    HADOOP-4828. Updates documents to do with configuration (HADOOP-4631). Contributed by Sharad Agarwal.,/,/
+082f40687001474502193fba1dc770f2d9496e05,/,/,    HADOOP-4993. Fix Chukwa agent configuration and startup to make it both,/,/
+95cfd7ef1af469e194650518144764caf37f8dce,/,/,    HADOOP-5030. Build Chukwa RPM to install into configured directory. Contributed by Eric Yang,/,/
+78caadd9fc27a5ffe68b4ef193786e0eafb565ac,/,/,    HADOOP-4843. Collect job history and configuration in Chukwa. Contributed by Eric Yang,/,/
+ea7c1c19577dc051ad7a6082eaef65e8d4ee78b1,/,/,    HADOOP-5026. Make chukwa/bin scripts executable in repository. Contributed by Andy Konwinski,/,/
+9d31753090549288ee67452a0112e08f9c5e1dc9,/,/,    HADOOP-4947. Make Chukwa command parsing more forgiving of whitespace. Contributed by Ari Rabkin.,/,/
+68ca777778dd2918130d8b99d04d6be227fc6555,/,/,    HADOOP-4925. Make Chukwa sender properties configurable. Contributed by Ari Rabkin.,/,/
+7cef43f160eceebb70207784b7b1c14c8e7032e7,/,/,    HADOOP-4916. Make user/location of Chukwa installation configurable by an,/,/
+46388df9c201d4f4132342c73abed7096ba6ee1a,/,/,    HADOOP-4884. Make tool tip date format match standard HICC format. Contributed by Eric Yang.,/,/
+7167a5e88b4cec1ebeb0a34921dff9a27183874e,/,/,    HADOOP-4914. Add description fields to Chukwa init.d scripts. Contributed by Eric Yang.,/,/
+3e177b2b2df598e7b01083e032b2e2c02df8c0c4,/,/,    HADOOP-4889. Fix permissions in RPM packaging. Contributed by Eric Yang,/,/
+28a66bca1f57585503657d52c61961738b82fd9c,/,/,    HADOOP-4892. Close fds out of Chukwa ExecPlugin. Contributed by Ari Rabkin,/,/
+72180ffc8d6990fc80ef9ff6d6f556da0b2d1079,/,/,    HADOOP-4894. Correctly parse ps output in Chukwa jettyCollector.sh. Contributed by Ari Rabkin,/,/
+9bac04c90927dd02a14c77c3e671abad9a533604,/,/,    HADOOP-4827. Replace Consolidator with Aggregator macros in Chukwa. Contributed by Eric Yang,/,/
+7438b8dbfdcf96ad239a523fe8b01729fb075761,/,/,    HADOOP-4791. Fix rpm build process for Chukwa. Contributed by Eric Yang,/,/
+4be417f70d3847c8848a0a65b047187e0ff36e94,/,/,    HADOOP-4860. Split TestFileTailingAdapters into three separate tests to avoid contention. Contributed by Eric Yang.,/,/
+bda17f4c2ff7421bf99feff8fe2c70be9c37a6b0,/,/,    HADOOP-3305.  Removing some files that are no longer used.',/,/
+7e702d92b8d67312ae1fa3a6661bb4595d2d529e,/,/,    HADOOP-3305.  Use Ivy to manage dependencies.  Contributed by Giridharan Kesavan and Steve Loughran.,/,/
+9d813ea08018fd1c66c7e2804f114da24cfe6ce0,/,/,    HADOOP-4825. Use ps instead of jps for querying process status in Chukwa. Contributed by Eric Yang.,/,/
+3998ce3d66fd8d0c1d2f13cf9c0ee4d55b0d014b,/,/,    HADOOP-4837. Move HADOOP_CONF_DIR configuration to chukwa-env.sh Contributed by Jerome Boulon,/,/
+9edce2c3277c7b7cd58c44f67de63e5bb7917d1c,/,/,    HADOOP-4805. Remove black list collector from Chukwa Agent HTTP Sender. Contributed by Eric Yang.,/,/
+f9c4ff6b1e5a42564335aa667491613beff70e48,/,/,    HADOOP-4708. Add binaries missed in the initial checkin for Chukwa. Contributed by Eric Yang.,/,/
+a8c8314294c80a1667e46ac84e9f87be7695b8fa,/,/,    HADOOP-4796. Fix Chukwa test configuration  remove unused components. Contributed by Eric Yang.,/,/
+46f0ca8b38fb2f9132dd869d4fda4bc573019714,/,/,    HADOOP-4792. Add generated Chukwa configuration files to version control ignore lists.,/,/
+2edc33ac59e6018766896b84849b6d31a86fe431,/,/,    HADOOP-4709. Add several new features and bug fixes to Chukwa. Contributed by Jerome Boulon  Eric Yang  Andy Konwinski  and Ariel Rabkin.,/,/
+9883b0229fd0f0174dba8400f3999b12d4a1fc57,/,/,    HADOOP-4571. Add chukwa conf files to svn:ignore list. (Eric Yang via szetszwo),/,/
+63f0dc88396761988e8bb61efe55d290d9f3fe9f,/,/,    HADOOP-4433. Improve data loader for collecting metrics and log files.,/,/
+cb19267831d82aeb551a9708ee9e65f89b8791da,/,/,    HADOOP-4431. Add versionning/tags to Chukwa Chunk.,/,/
+6b78050692cd8a0184d4ae52e8eba784a3456e27,/,/,    HADOOP-3949. Remove duplicate jars from Chukwa. (Jerome Boulon via omalley),/,/
+fdd4c40c8fd4a0d9b4ed8acceb8e92239f2e6b0d,/,/,    HADOOP-3719. Initial checkin of Chukwa  which is a data collection and,/,/

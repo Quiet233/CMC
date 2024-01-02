@@ -1,0 +1,1134 @@
+14a74297378dc1584efbb698054f0e8bff4f90bc,GIRAPH-1253,Bug,Fix vertex value reinitialized to initialValue for weighted Pagerank,None,Major,100
+7ee6c39c8c7a6782246513b609763a1ebce4543e,GIRAPH-1252,Improvement,Bump up Jython version to 2.7.2 and use the standalone version,graph,Minor,100
+2c63aa2321a570f7dfcc659f565d18afb63a2e3c,GIRAPH-1251,New Feature,Add SSLHandler for all Netty Communication,,Critical,99.93139273
+8ba2fea912ead1b8e3a81629250bdd684d36d23c,/,/,    closes #148,/,/,100
+58871e6e253bf852b5b96c3c1a2578db37b397a4,GIRAPH-1250,Improvement,ByteArrayEdges implementation that supports arbitrarily large number of edges,,Major,99.77306364
+1acb587f807a8e7b0e50bfd19b85a246db9e2abd,GIRAPH-1249,Improvement,Add connection failed in list of errors  where the client retries job,,Major,100
+643c7aa0d03ee2a520a137db8c8438bedd7275e3,GIRAPH-1248,Task,Allow port 0 to be used in NettyServer #144,,Major,100
+993731c3d9a2f6650f83a668e5c73bb3a127c469,/,/,    closes #143,/,/,100
+b0d18a23a4445b51df767d53fda697b215d10776,GIRAPH-1187,Bug,NPE in worker GC listener ,graph,Critical,100
+0b2d51bff038e4149e3733995330f85a9a6c929e,GIRAPH-1245,Bug,Upgrade findbugs maven plugin version,,Major,100
+34843189b834a4460eabeea268e4c1e960524882,GIRAPH-1246,Task,Update website with new release information,,Minor,100
+a2094a717a739bd189805539471b1bd1e2c32d37,GIRAPH-1156,Improvement,Typo in GiraphApplicationMaster.java,,Trivial,100
+f635a2e2bc63c041bf950241cc29e6d49043fa72,/,/,    closes #138,/,/,100
+4d046496439dff1da2e517a0081f939df1aaefae,GIRAPH-1245,Bug,Upgrade findbugs maven plugin version,,Major,100
+5e4d7fbc87851bed43cb9d28c5bc7e894e1fcdc9,GIRAPH-1245,Bug,Upgrade findbugs maven plugin version,,Major,100
+8dfb29047aec68859b439974594e38161359893a,GIRAPH-1231,Bug,incorrect imports from shaded guava,,Major,100
+a3fb5a27a47432cf11b17f31f6750f1a8abf768a,GIRAPH-1244,Bug,Remove unused imports to fix checkstyle,,Major,100
+58a997c6e7846ddd7214e9bf7089f635cbe8bf2f,GIRAPH-1243,Task,Remove unused avro dependencies,,Minor,100
+548d3d522f14f74b821c8af8a9d7b7d2a225566f,GIRAPH-1242,Task,Remove unused hive dependencies,,Major,100
+2f2085c8770d3f15c2bc8aaaf71f3590d098af47,GIRAPH-1241,Task,Remove unused tinkerpop dependencies,,Major,100
+baa887fccbe989aaad6872eb1d1468088ec483d0,GIRAPH-1240,Task,Fix broken pom files,,Major,100
+2cae34a3cfd95329b21e0537ddb30afb5b750209,GIRAPH-1238,Task,Remove giraph-accumulo,,Major,99.86122125
+ce0e4f3553cf328f552ee2951112ce99e0c0f9ec,GIRAPH-1237,Task,Remove giraph-rexster,,Major,97.92075324
+271fb855b1a7d8bad926179c734223dbd1f48f69,GIRAPH-1236,Task,Remove giraph-hbase,,Major,99.86413043
+e213461033331bd2fdcb5cb6b6c51558fab6e2c0,GIRAPH-1235,Task,Remove giraph-gora,,Major,99.31730769
+f600ccf00f70049dc3ffa7e71ec25cb81d2c25a3,GIRAPH-1234,Task,Remove giraph-hcatalog,,Major,99.75264009
+55b9d3508ea913fe57f8b544384210fc471f2b24,GIRAPH-1233,Improvement,Remove unused method in GraphTaskManager,,Major,100
+f8d017e61d66ec56b17ecf796743d6851c2f0988,GIRAPH-1230,Bug,Fix Netty reconnection issues,,Major,100
+526f5619e6b115ad8db1af245fd4736125dd5c37,GIRAPH-799,Bug,Cannot add partition failure when trying to load graph,,Blocker,100
+8c6c58799a7e24f9e3c3472b2ce89dde4ae43d2c,/,/,    closes #116,/,/,100
+acc1f71af03dec6f1a1c83fb0fcce08451e140ea,GIRAPH-1228,Improvement,Upgrade Netty,,Major,100
+13da0ebb032035880adb65ef0a9bd0efc0511499,GIRAPH-1227,Improvement,Counter collection that does not rely on Hadoop,,Major,95.53084347
+19f76a33cb081b8b91afc24b78e4f265fc3e94c8,GIRAPH-1226,Improvement,Make JobProgressTrackerClient implementation configurable,,Major,98.0681692
+3ad842906611d9bcfeabb63b5a419df7207e4bc2,/,/,    closes #111,/,/,100
+009603ae2c8faeee7894941d718fd303cc823f9b,/,/,    JIRA-1224,/,/,100
+1c5a4e7790d526edfe31a03e41749c9d71f3f3fa,/,/,    JIRA-1223,/,/,100
+5edbdb28dcd8895d31b19313f9441791f6b71bc9,/,/,    JIRA-1222,/,/,99.94728519
+0f41dbb1b40ecdc2e546d1366b8973e576f59486,GIRAPH-1219,Improvement,Improve exception handling in RetryableJobProgressTrackerClient,,Major,100
+12b2d7430f51b3e0195e5a7320d27429c1b39edf,GIRAPH-1219,Improvement,Improve exception handling in RetryableJobProgressTrackerClient,,Major,100
+e827a5668a94d13800201191ebf7d34642728771,GIRAPH-1218,Improvement,Make number of retries in RetryableJobProgressTrackerClient configurable,,Major,100
+fff0d3404e53d9349184f5016d8a0848e1210957,GIRAPH-1203,Improvement,Throw better exception when edge serialisation fails because of too many edges,,Minor,100
+d3bf4a2cf5347f7cfd9d217b216c906cb7801217,GIRAPH-1216,Improvement,Upgrade to guava 21,,Minor,100
+6d861f542d0cb5b55f214819787c9ac855dd7066,GIRAPH-1217,Task,Update git repo URL in the site,,Major,100
+aa740b54bd914a0246e2a9280459e33c233de9b3,GIRAPH-1213,Bug,Fix issues with network requests retries and add more logging,,Major,100
+bb8dab546215a602108d29d8026111cf099b7609,GIRAPH-1215,Bug,Make FixedCapacityHeaps work with 0 capacity,,Minor,100
+f5dacbbebb0fd48f136abab2658711719df575eb,/,/,    JIRA-1212,/,/,100
+d41221966cece5ed8c029a7e941b5d621486ddb1,/,/,    JIRA-1211,/,/,100
+f69f77d20cc37882ff76bbe8e9e6382705755417,GIRAPH-1180,Improvement,Remove support for Hadoop 1 and older,mapreduce,Major,100
+1ba982d80ba74544730f36f3cd46cdbe894a9e6a,GIRAPH-1207,Improvement,Upgrade to Java 8,,Major,100
+583c8311df06e92afcea0f3c89d085a980e2dd9f,GIRAPH-1208,Improvement,Use the diamond operator &lt;&gt;.,,Minor,100
+36ea4c00124e0a44cc32c9c2d11ff3f77a2da541,/,/,    Fix checkstyle,/,/,100
+5e44c4e4be97e93f5d13cdc7bd52b7374635398c,GIRAPH-1205,Improvement,Separate Giraph counters for different causes of network request resends,,Minor,100
+843cd6eea60431ae527164f8fe9b0e054c7f9157,/,/,    fix-tests,/,/,100
+7f6a33d94efdfa9f1db4bd71da6ddff10aace45e,GIRAPH-1201,Bug,Master keeps waiting on barrier even though workers finished,,Major,100
+6128d66eba5b1dfc0a5e047a057c33d00abac6e7,/,/,    JIRA-1200,/,/,100
+239ea8fb3cab9e2c052d933e8f0ae25648782e95,GIRAPH-1199,Improvement,Incorrect Logging Statement on #255 in GiraphYarnClient,,Trivial,100
+f118fcf2cd1047571447d92cb7fb33da8a6e3a85,GIRAPH-1197,Improvement,Out-dated maven command in README,,Minor,100
+0c1e2ebce6e4f6e1a47d4dec5c0b8475433ef8df,GIRAPH-1195,Bug,Register serializers for ImmutableBiMap in HadoopKryo #76,,Major,99.95780591
+505c98d9a807d92640e6a2ac8fba410a700d4d58,GIRAPH-299,Improvement,Remove unused field in BspServiceMaster,graph,Trivial,100
+81d3805cae760e12ca120b2725a6c31b83da035f,GIRAPH-1194,Improvement,Improve ZK event logging in BspServiceMaster,,Major,100
+243a02487237bc5029a10e86665e51ecb20d3cb7,GIRAPH-1193,Bug,Fix site build,,Major,100
+b2d77411ae4a43ddd2386c4a1db5e0191790acf6,GIRAPH-1188,Improvement,Add kryo custom class resolver for faster serialization.,,Major,99.00010416
+345f3db49a7f4e662d117fb778bc66b49de14dae,GIRAPH-1192,Improvement,Fix typos in Javadocs and exception message,,Trivial,100
+94d60e2f800a47f06ca1e6a6fcae8c455670f10e,GIRAPH-1191,Improvement,Fix localhost IP address and en dash characters in documentation,,Trivial,100
+60752aab7f8c3ce2b1fd57e232c7305adfb6200a,GIRAPH-1185,Improvement,Adding faster serialization classes.,,Major,99.90735022
+3273f2572f79bfcfc9abe1d821a9743108c65ebb,GIRAPH-1184,Improvement,Don&apos;t access configuration on every message,,Minor,100
+5c418ff33ad704d0596c631dad9e082c4b2076ca,GIRAPH-1181,Improvement,Changes to ExtendedByteArrayDataOutput,,Major,92.8528827
+98b724f979a9305a5c92d361aa9a89a111c76701,GIRAPH-1183,Improvement,Cleanup master logs,,Trivial,100
+d16b6b8ce843e6e931cb8dbc92823f82ab10ce0d,GIRAPH-1182,Improvement,Log hostname which we disconnected from,,Minor,100
+251b167e9a17d29b3da6074933acaf92cf5dec81,/,/,    closes #64,/,/,100
+8e6ec266190d59558f369f808c53cf9186887ce5,GIRAPH-1174,New Feature,Support having GcObservers,,Minor,99.98076923
+d86d0d56e363a20ffa1ef48deea045851fc49d91,GIRAPH-1175,Bug,Avoid evaluation of Partition.getEdgeCount in log line,,Major,100
+39eb2533b8f7c6c8cb17ee30d5c2005e74873ff4,/,/,    JIRA-1171,/,/,91.69690502
+94a3ac5fbd184bde121f94895a5bdf22cf034d70,/,/,    closes #59,/,/,100
+14845725ea57e4ff110bc5fd838aabe6e6d20c25,/,/,    JIRA-1169,/,/,100
+1f959d076ed7f29c3f8a5c6e99cbfcc62c1058d9,GIRAPH-1168,New Feature,Instantiate OutEdges through Factory class,,Major,93.37915235
+f944f5cc3dd7874dac049e0c8c4d7212df781452,GIRAPH-1167,New Feature,Add Long2ByteHashMapEdges implementation,,Minor,96.9839209
+8e2df4f8cff43e2fd7f7eda1b9f73cd093008c3e,/,/,    JIRA-1166,/,/,97.00610998
+dc500a7adffbb3cf94604097efe1eb93bc43822d,GIRAPH-1164,Improvement,Set mapred.job.tracker/mapred.local.dir options in InternalVertexRunner,,Trivial,100
+2e7ce47dfc59e772a9fcc8577bbc6b14f9311bf3,GIRAPH-1163,Bug,Changes to support sending exceptions over thrift calls.,,Major,99.96560028
+83d06d95dd70db6e3340afead3bd32fa58d9a396,GIRAPH-1162,Bug,Make the VERTICES_TO_UPDATE_PROGRESS configurable.,,Major,100
+3bbac90fc37d225ff4eefaab018fe6147a5a0937,GIRAPH-1161,Improvement,implement random sampling for input splits,,Minor,100
+22e8511f2f68b536a0b1c31b2ec271fab255d5bb,/,/,    JIRA-1160,/,/,100
+b8f966acb480b84e8076a539b346a1ba6b29af69,/,/,    JIRA-1159,/,/,100
+d4db3a650fa40ee89513ff581653dbe2d44cb671,GIRAPH-1158,Task,Allow JobProgressTrackers to provide job completion estimations to fail early.,,Major,100
+448ae1c06150d4fd62939b5a31f38c03d9a33c7c,/,/,    JIRA-1157,/,/,100
+fc996e7530dadf0cb498ba1970a6de5ea6edd817,GIRAPH-1154,Improvement,Improve message printed for super-vertices,,Minor,100
+0f39df025ff43caff8a6fc0b841ad429379db242,/,/,    JIRA-1152,/,/,100
+cc489350eba8db8bc62a4fca77b7ad9aa14bcf3d,GIRAPH-1139,Bug,Resuming from checkpoint doesn&apos;t work,bsp,Major,100
+5ed0d65dd3b79a990f8f8c4974c3b20c82964e50,/,/,    JIRA-1153,/,/,100
+6903248d4ed5a383bf0fa080992c038185221a59,/,/,    JIRA-1151,/,/,100
+ea7753f06b2fe66df61b63a49558ff80ac3a09bb,/,/,    JIRA-1149,/,/,95.15106304
+e2f82b25d19faa263bbdbdf074948c6537d85e3a,/,/,    JIRA-1148,/,/,96.51233443
+02e73b917972ef69c7b901c3b5c493a4a504731c,/,/,    JIRA-1147,/,/,100
+67540b32bea000574561485e11f7f033be1dc2cd,/,/,    JIRA-1138,/,/,100
+d4596a029984865ace68fab981047bed1f1d1494,/,/,    JIRA-1146,/,/,96.56723485
+4f9c6c24a8b4b03e2836c77fe2e53e38b6519420,GIRAPH-1143,Bug, org.apache.hadoop.mapreduce.JobID.forName job id parsing fails on non legacy Hadoop clusters,,Trivial,100
+c9621e30ba79b20322f449e24a2f438918ce33fa,/,/,    JIRA-1141,/,/,99.97436555
+e354e067ea6b5d099db609aff76a199a81e92d12,/,/,    Fix #27,/,/,100
+ba8c6e130e524fc1454b279ab329b03a9877b13e,/,/,    JIRA-1138,/,/,100
+824b34cac1d05917eb2bc3dc8c62c9772d0c6e4d,/,/,    closes #28,/,/,100
+dbce6582a04e9b6281d64786c9be63d8f8d09b31,/,/,    Fix findbug issue,/,/,100
+ebb424989c23060feb869e0cf817a4d5285c853e,/,/,    closes #29,/,/,100
+2173d87cf4aa84937abe438d0f836c8fdd3ba1c1,/,/,    JIRA-1137,/,/,97.40863787
+a1d546f7a39df6ffb7d3ed9d3bcc47126ab2e579,/,/,    JIRA-1134,/,/,99.95859785
+3dbd158c7b0b1df5785d3a395a3ae058b7867381,/,/,    closes #25,/,/,100
+9c2d135bb030213819e40f73c47e7e33d35ab3c6,/,/,    JIRA-1133,/,/,100
+18c67ca3c221cf2961d59ac19a245762f4dd8f7d,GIRAPH-1132,Bug,Giraph jobs don&apos;t end if zookeeper dies before job starts,,Major,100
+f37f373a04af7de05b089a55bfb4d2d86d055fce,/,/,    closes #20,/,/,100
+8cb309da868afdc03f0dbddbdd18bbc0a6a1eb90,GIRAPH-1130,Bug,Fix RepeatUntilBlock,,Major,97.08618331
+e61cbfddbb54afce67a086811c9788eac8a66a6e,GIRAPH-1129,New Feature,SocialHash dependencies,,Major,88.72645064
+24b8c0e031669c34f6912415fbd501599a857364,GIRAPH-1129,New Feature,SocialHash dependencies,,Major,98.45969536
+ad84a99e2ba630fa81aa6823515bfdeac1f3fe8a,GIRAPH-1129,New Feature,SocialHash dependencies,,Major,99.53149401
+3b53360ab4ada66b857d3fe847df07bc9be0ce8f,GIRAPH-1128,Bug,Giraph does not build because of maven-dependency-plugin,,Major,100
+2ddabf3b84d42184d9781e02a936fa1160177866,GIRAPH-1125,Improvement,Add memory estimation mechanism to out-of-core,,Major,90.5974026
+f5b685efa09b539b1f95925405723f7ac7b1dcea,GIRAPH-1125,Improvement,Add memory estimation mechanism to out-of-core,,Major,92.56360078
+cdf37f23a24b5665123f540905bdd6570619fc89,/,/,    Fix typo,/,/,100
+eb4b5337751f72e1f32cc3c4851c98b4b66ece53,/,/,"    Correct typo in word ""initialize""",/,/,100
+8a40ce0aad03838cbc3be7bf158f81e508ecde6f,GIRAPH-1124,Wish,Create documentation on how to make Giraph release,,Major,100
+f892342140c4dd4e852eebf3279723fe6ef6519c,/,/,    Fix Checkstyle,/,/,99.85758674
+0b67d74ec884e2e202dd8af5f79468552920ed30,/,/,    Bump Apache Giraph version to 1.3.0-SNAPSHOT,/,/,100
+70c6545a6821977b22cce62e993fc14eafe994d9,GIRAPH-1122,Bug,Javadoc generation fails for Giraph 1.2.0,,Major,99.85758674
+bf4c371de97762d1cb3abd42d872c538a28b2cd8,/,/,    Fixing RAT checks for Apache Giraph release,/,/,100
+3eec67e4e0bfa38be5ab3d939bcf3550c6113a3e,GIRAPH-1118,Bug,Giraph-gora and Giraph-rexster test cases fail in release-1.2,,Major,100
+b2c982294b90f03d507e3078b0b3bf0a359a29c6,GIRAPH-1118,Bug,Giraph-gora and Giraph-rexster test cases fail in release-1.2,,Major,100
+8bf08f545d15b39e43874a2b1ac5b0586a917a4f,GIRAPH-1117,Improvement,Provide a flexible way to decide whether to create vertex when it is not present in the input,,Minor,92.55969547
+06de6c48a0126db2d0ce56693eec92d6afd9252d,GIRAPH-1094,Bug,Fix TestHBaseRootMarkerVertextFormat.testHBaseInputOutput,,Major,100
+9e97a9075da943fdaf08f3ad681c24962e272212,GIRAPH-1094,Bug,Fix TestHBaseRootMarkerVertextFormat.testHBaseInputOutput,,Major,100
+c4cb42f7d77138beb79d66c70c8b42448078d992,GIRAPH-1114,New Feature,Expose StatusReporter from workers in blocks framework,,Minor,91.68183
+833ccb78e61f01d1525f6c6af6757ad573d8a78c,GIRAPH-1115,Bug,Move UncaughtExceptionHandler setup to GraphTaskManager,,Minor,100
+984f45efed6f79e41d7e5e684ea8705172c90436,GIRAPH-1111,Improvement,FileOutputFormat#setOutputPath is not always available,,Minor,99.09571745
+2117d1dbba8f18b08da70e890c30111edb3aebe3,/,/,    faster maps,/,/,88.63405429
+2ae95bd6e65f698120eb3a7b774b4a7b252ce168,GIRAPH-1108,New Feature,Allow measuring time spent doing GC in some interval,,Minor,99.94879017
+8205f0d26abda68a740de8c962a32172d2bc7e8b,/,/,    Out-of-core is logging too aggressively,/,/,100
+a15675cae4c91d0fe0496a879de4242ffbc5f9ce,GIRAPH-1103,Bug,Another try to fix jobs getting stuck after channel failure,,Major,93.76417234
+693a71c85a9e899b8f4054778e886fdcdd4470de,GIRAPH-1107,New Feature,Allow observers to access job counters,,Minor,99.95040298
+9d7bb4b52a78301ea6256ae20279a8db63523e99,GIRAPH-1105,Improvement,Fix number of open requests in FacebookConfiguration,,Major,100
+0a8225712e4b4a4471c5efb1ca11e97e2ddbd71e,GIRAPH-1104,Bug,NegativeArraySize exception in BigDataOutput,,Major,99.95037221
+a85c41e3068bb517e4a8ddd68a7fced6452e8f84,/,/,    Fixing Giraph pom.xml to reflect new project committers,/,/,100
+d3c8c564ceef470411821b5a6c82db17782ea3b2,GIRAPH-1098,Bug,Job may get stuck if zookeeper port fixed and is in use,,Major,100
+160a0d35f64a52b9e31a725adc2672498d1f3f29,GIRAPH-1087,Bug,Retry requests after channel failure,,Major,100
+daf6bd54af7149e06961607f36e3034aec1e70ef,GIRAPH-1097,Bug,Fix TestOutOfCore.testOutOfCoreLocalDiskAccessor,,Major,100
+b7c533baf4ce8f0fd3d3e7d521cc355e71bca797,GIRAPH-1095,Bug,Performance regression after GIRAPH-1068,,Major,100
+07dfe0f23c3aabdb4dd47d2a7a26bbd75934da5f,GIRAPH-1092,Bug,TestCollections.testLargeBasicList fails with OOM,,Major,100
+8a2ec5ebd9afa8a299cfdd5d3cd359898346588a,GIRAPH-1091,Bug,Fix SimpleRangePartitionFactoryTest,,Minor,95.20737327
+72562004cfa5106472f61efc5d456788bbc256f9,GIRAPH-1086,Improvement,Use pool of byte arrays with InMemoryDataAccessor,,Major,99.81792717
+b0262f8c81c352c0cf3ac11e1e98646aa9587944,GIRAPH-1089,Improvement,In fixed out-of-core policy the definition of in-memory partition is not clear,,Major,100
+b51ecd27cccc520764c9ae53cabcb61d67d46d15,GIRAPH-1085,New Feature,Add InMemoryDataAccessor,,Major,94.19831224
+28cbe037cf9299ed6a089cc78039d0a16d0116ce,GIRAPH-1082,Improvement,Remove limit on the number of partitions,,Major,97.45255252
+819f293f4c780fc6833785da27e10f965570f44e,GIRAPH-1083,Bug,Make sure we fail after exception in ooc-io thread happens,,Major,100
+faf339206c5611651d4dfb38af0bf638caba6c74,GIRAPH-1080,New Feature,Add FacebookConfiguration,,Major,98.01274436
+23184e15023157312d7a8afe0adfe30b5d7864a8,GIRAPH-1081,Bug,Fix a bug in internal out-of-core infra: multithreaded accesses to buffers,,Major,100
+77a24a9fcd3b01961f881143e485b4be0826c139,GIRAPH-1079,New Feature,Add triangle counting example,,Minor,95.87235896
+3793c9ef69993bf4b180b6f6b15bb2a5edde5530,/,/,    Decouple out-of-core persistence infrastructure from out-of-core computation,/,/,92.26616594
+8eb1f763d0cb0f98de1f12e3d48d9c516f5ac7a8,GIRAPH-1078,Bug,createZooKeeperServerList should use task instead of port number,,Major,100
+cf6abc09a3b4077646c0ec03ec3d1046acecc57a,GIRAPH-1062,New Feature,Page rank in Blocks&amp;Pieces,,Major,97.25921138
+51f09376456ed8dadc2e801afaa495863fd7ee3b,GIRAPH-1077,Bug,Jobs getting stuck after channel failure,,Major,100
+2185f5946edfddcca8a5bcb76160212bfe2ef797,GIRAPH-1076,Bug,Race condition in FileTxnSnapLog,,Major,100
+d827c97fc244dd89ccee46e686eaf008889550ed,/,/,    Improve out-of-core metrics,/,/,100
+24664b9397a6dc153251ffd7a4d3c01515988748,GIRAPH-1075,Bug,UnsafeByteArrayOutputStream silently writes long UTFs incorrectly,,Major,100
+b5a63d8162d8756e4ae73b80ff125439a1b47613,GIRAPH-1075,Bug,UnsafeByteArrayOutputStream silently writes long UTFs incorrectly,,Major,100
+916763e747b0f2d3bf2dcda76100dbc0d5714a9c,GIRAPH-1068,Task,Make Zookeeper accept 0 as a port number and let it choose any available free port,,Major,99.90080595
+5068b6f0082a020a6124cd7e652558efe3ec5f37,GIRAPH-1070,Bug,Comparators in PartitionUtils can overflow,,Major,100
+fe87b23fbd86d8f978142dc326231ea6bd4a61f0,GIRAPH-1069,Bug,Race condition in all *ConfOption classes,,Major,99.77678571
+c94dd9c74895d419f72974fcbe5456fbae84b7a9,/,/,    Cleanup the old out-of-core message mechanism,/,/,93.90578103
+6256a761d61a5b27a05878da2449ce8537d60c99,/,/,    Integrating out-of-core mechanism with credit-based flow-control and data generation tethering,/,/,95.0508661
+4321e4483867cfc55f7fafe0a291b71a6da66824,GIRAPH-1063,New Feature,Make primitive type generated fixed capacity min heaps,,Major,96.76870748
+9b6d6f9f6f91c5d6a8a153635f7e5f3c52a1f4f2,GIRAPH-1065,Improvement,Allow extending JobProgressTrackerService,,Minor,92.93222683
+608d50697c5e19a8249dd9290cd15b652f5f01a1,/,/,    GRIAPH-1064: Reconnect JobProgressTracker,/,/,100
+7cacb1830c3385098d308979ae45e3ea42b9b16c,GIRAPH-1061,New Feature,Add Connected Components block factory,,Major,92.11868958
+1c554424859377458fe3d808692122403001304f,/,/,    Block API handle,/,/,99.86218302
+0b1962253c8cd3e2194b1b0015c4352277c1ce0a,GIRAPH-1060,Improvement,Add combiner to connected components,,Major,92.03924317
+1c7552b1a3c2bbde15f98671c7b7c1424494c128,GIRAPH-1058,Bug,Fix connection retry logic,,Major,100
+fd61fdad30c073f5b2576d1dc65452c5e4dac657,/,/,    fixing cases when there is no conf,/,/,99.59816303
+b90b59d2b5064782c501dfca5a1497f1ef513a6a,/,/,    Decoupling NettyClient from control flow policy,/,/,97.87794527
+b5284cd9b0d66523f6aa0a57576beace90c86e55,/,/,    Setting auto-read in Netty to false,/,/,100
+e5f851aacf84385da626810719e34d9767fd0c44,GIRAPH-1055,Bug,Javadoc fails build with Java 8,,Major,100
+b5b76c28408e7401dc61fc2047182d971bbc2537,GIRAPH-1054,Improvement,Separate ThriftService from JobProgressTrackerService on the client,,Major,97.46474647
+c9ab310db6c63e9151e0cbd01b83f3b2378b4676,GIRAPH-1053,New Feature,Log exceptions to command line,,Minor,99.71177184
+77ae12e00e6e0b4955949bc71e9b275bd6d70538,GIRAPH-1041,Improvement,Generate primitive type specific code,,Major,91.93348908
+bac93fadea1a696e9017e273be594b4b0981f010,GIRAPH-1052,Bug,Fix makeSymmetricUnweighted,,Major,100
+093e81995e94ee6dbfe6278f04d59a29cd54ac8b,GIRAPH-1050,New Feature,Add MapperObserver,,Minor,99.97483644
+24bed1a9bdbe3a1edd46bc3b2af83ee385e041a9,GIRAPH-1046,New Feature,Add a way to synchronize full GC calls across workers,,Major,96.68550874
+97e26e65f0ca669926c9c8ddc05f19da76180ab5,/,/,    Improve flow control on sender side (pre-requisite for credit-based flow control),/,/,99.28410447
+16dba64c31c3eb18ac916d49f1529fe4810fe754,/,/,    unsafe readers for varints,/,/,99.23479662
+cc2fa8a4b8f4508dcc05044f97acac50dd49259b,/,/,    faster varint,/,/,99.62441315
+a927450aa63fe8e21f7da22cc79de182cfcfd780,GIRAPH-1041,Improvement,Generate primitive type specific code,,Major,93.70118418
+e4aa99d3f603e70c7db3a55ae5d59470c1a37f58,/,/,    Increase info-logging while waiting for straggler workers,/,/,100
+5a04dc554ef53ddc39895a9211286b9fb2e65586,GIRAPH-1039,Bug,Fix stopping jmap histo thread,,Minor,100
+4170eeb054ba1414eceb08ec6c0fbdbdb17eb5c2,/,/,    unsafe byte readers/writers,/,/,95.60669456
+fafecee712bc9b2ce8ef081d8170cdf99c48288b,/,/,    New out-of-core infrastructure (first patch including fixed out-of-core mechanism),/,/,93.15644483
+c6af3ed8a52ddfc3c54c69dab18e36345ba5b92e,/,/,    [easy] Log aggregate times per piece at the end,/,/,99.94192799
+0f8d3377e8319cce7b8feeaa3c70528e030fab37,GIRAPH-1044,Improvement,Update book info in the User Docs / Related Literature page of the site,site,Major,100
+3c07b123c22a2fecd875e76371afdaa5a1d5b9fe,/,/,    Making threads in JobProgressService daemons,/,/,100
+24150590597c89aa7e322ed56f4c916b666b3b09,/,/,    Add PrepareGraphPieces.isSymmetricBlock to check for a symmetric graph,/,/,94.72595657
+ca36f1d499a70b1aee85ac637de53f153a9f4c92,/,/,    Use Partitions in LocalBlockRunner,/,/,92.26939203
+1e802da3a611eb2953c4ec3c650436278d76b9dc,/,/,    Implementation of DirectWritableSerializerCopyTest.copy(),/,/,99.95349378
+0adfdfd4205d24be29ab65408643b50ffa1f81d1,/,/,    Correction in interface documentation,/,/,100
+937d5038c90f382f659a292ce6249718039ab682,/,/,    Added vldb publication,/,/,100
+3d51e770c28b404ac119acd7c108ba174251a929,/,/,    Make IntSupplier extend Serializable,/,/,100
+c32f465d442c52edb8aba4e7fb78c153639d8cd7,GIRAPH-1037,Improvement,Surface worker index information to computations,graph,Major,93.85872738
+81d5badf7b76e9f1efde1cebe2150bee70e4cf58,GIRAPH-1036,Bug,Allow mappers to fail early on exceptions,,Major,99.94141769
+b735f02bde1ed684eb0d0db2ec125d26d103aced,GIRAPH-1034,Improvement,Allow IPs for Worker2Worker communication,,Major,100
+843d1863d3624eeda4f094beefdd1eaf6eb23daf,GIRAPH-1035,Improvement,Make sure we are able to use all compute threads,,Minor,100
+5b0cd0e0a2ddbf722b6140d28474295c8376e561,GIRAPH-1033,Improvement,Remove zookeeper from input splits handling,,Major,96.09559867
+47da751824e9a58cd51fe6b77acdfba566a8df79,/,/,    Merge seeded and unseeded BFS into a single BFS implementation,/,/,99.84438592
+4a188d8d13e44b397bb40ce1280279d0c9b1feb1,GIRAPH-1031,Improvement,Need a callback that will get triggered when job actually starts,,Major,99.89189189
+f183402ea3aa777fd7fe822eb794837a8e0b3478,/,/,    fixing large sets,/,/,99.95181303
+daa8f92f733c3e6f5bb80126a941a478fe3bdb6c,/,/,    Adding Blocks Framework documentation,/,/,100
+6f5a457fa93ac8b53cc77afd0eb8729f1e5665af,GIRAPH-1023,New Feature,Adding out-of-core messages to the newly added adaptive out-of-core mechanism,graph,Major,95.8611482
+4f3551dfd2465c51f834d74d70dd2f7a527f60f6,GIRAPH-1024,Bug,mvn release:prepare not committing changes to pom.xml,,Major,100
+03ade425dd5a65d3a713d5e7d85aa7605956fbd2,GIRAPH-1022,New Feature,Out-of-core mechanism for input superstep and graph data,graph,Major,94.73614949
+1ca3222078064fe4bc1f92fc94a58cafa39f2643,GIRAPH-1021,Improvement,Missing progress report for graph mutations,graph,Minor,100
+6cb6acb44a1cff4136125faf763e67525ea696b1,GIRAPH-1020,Bug,TaskInfo equality condition,graph,Major,100
+1a4756b66bbd219943dce80a95dd46f44f46cbeb,GIRAPH-1019,Improvement,Optimizing and debugging vertex mutation,graph,Major,98.41696113
+3b7c68e54a76d02ae721161b1b81c15c2e22e44a,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,97.61595145
+d7e4bde11fdbfdef13e9316702c914e749a7757f,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,97.29767968
+f9dc6b59eeb9b80f1cea47f504b6c969e5c560a3,GIRAPH-1018,Improvement,Improving PartitionStore API to better match its expected behaviour,,Trivial,97.67010855
+acd532373072b69d0d802c4456943aa35388bdca,/,/,    [GIRAPH 1013] Adding TestGraphUtils and NumericTestGraph,/,/,98.1065729
+77f8a075ccc029cb608a382f5deb7cc0b27b02e5,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,97.27805695
+add1d4f07c925b8a9044cb3aa5bb4abdeaf49fc7,GIRAPH-1017,Bug,Add support for ImmutableMap in Kryo,,Minor,99.97228381
+ffed230ba8958ba3bc27310b71b0c6df589c3e63,/,/,    [GIRAPH 1013] Apply @edunov fix for block output,/,/,100
+572ca06300c04a3b8abee4da1fdaaef7056bb9b9,GIRAPH-1015,Bug,Support vertex combiner in TestGraph,,Minor,99.97226844
+a1a236fa6f8bd2c9e3ba479e8cc1aa94a7f1f402,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,93.80062305
+27f234f1f2f7e5f30dd6dfaffaa0109a98be49ac,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,94.20408163
+b9d20edece212b3898fd61f0e6799c2ebbf99986,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,100
+6dd7d1425e2f67e6262a096120521e166fa0bb29,GIRAPH-1014,Improvement,Decrease number of nifty threads created,,Minor,100
+17355f55811be1b1392c3ca066fb9adf803846d3,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,99.45758626
+79e7f1c98575a473d12022e198679614b1fe9029,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,93.68140483
+ad27a2914d57a3ee174b34bc3a2a4de9f3aca215,GIRAPH-1012,Wish,Remove giraph-hive,,Major,90.79389313
+819d6d38d6cb7073786f4b7ed11763fff5200ded,GIRAPH-1013,New Feature,Add Blocks Framework,,Critical,92.45419131
+06a1084af99ee46a03ebbbee53e3224ca8862132,GIRAPH-1010,Improvement,Add utilities to allow Kryo to serialize objects,,Major,99.38452521
+27661ba3b79d76d962126ba10b402db861e3813d,GIRAPH-1011,Improvement,Update checkstyle to newest version,,Major,100
+905acc96008fb912b4d03b0428dde9716171fb78,GIRAPH-1006,Improvement,Do not use boxing in PointerListMessagesIterable/LongByteMappingStore ,,Minor,100
+c8078a2f3348f53d2abd276977323aff74c34f1c,/,/,    Gets rid of spammy ZooKeeper messages regarding 'lost reservation' at the end of the workers' log,/,/,100
+4b743f163616281d98af6684280e9caad7470358,GIRAPH-1008,Improvement,Create Computation per thread instead of per partition,,Minor,100
+7b4a5b7fabac83a32ff62fda2108f860f2caaac4,GIRAPH-1005,Improvement,Reorder MessageEncodeAndStoreType,,Minor,100
+f930318772845ea1f121ad3b3e593513239a3e4b,GIRAPH-1004,New Feature,Allow changing hadoop output format,,Minor,100
+92a8f1ca1b472e539e4b9831679848cd108ab29a,GIRAPH-1003,Improvement,Support Writable Basic2ObjectMap ,,Major,98.62553451
+5d0b81ac42ab0de80bb68b87c7d1c1dd710f1108,GIRAPH-1002,Improvement,Support better message config for Giraph,graph,Major,96.82642487
+6ee97e77eb1f45699d2f34fc2e28c89b6fd6c1b3,GIRAPH-998,Improvement,Close writers in parallel,,Minor,99.67186218
+43909035cc6cf860958d2ea6527433025eda0f17,/,/,    Added support for multi-mapping input formats,/,/,99.91864627
+8a952155df33e56802a6e601eef22c75c034430c,GIRAPH-997,Task,Upgrade findbugs to 3.0.0,,Minor,100
+b9f41429619590e8e1c06d47c2a8268fa3bc07db,GIRAPH-996,Task,Large requests degrade performance. Print out warnings.,,Minor,100
+0dab32741a8882c6450e2a3ae9f3b778659f4bcf,GIRAPH-990,Task,Current trunk will build for hadoop 1.2.0 not 0.20.203 as stated by documentation,documentation,Major,100
+226fa4bb47a97ac825e05274cba77914f9c96252,GIRAPH-992,Bug,Zookeeper logs have too many NodeExists exceptions,,Major,100
+63b8c412fbe731c7fc0a9d7dceb92ae955b553ae,GIRAPH-991,Improvement,Update version of swift,,Major,99.52944994
+931569d5816a520a9f67844eca296e24140bd259,GIRAPH-987,Improvement,Improve naming for ReduceOperation,,Minor,99.93531695
+d11da67793bd4729bd7db63194b57684e82e89fe,GIRAPH-986,Improvement,Add more stuff to TypeOps,,Minor,100
+a6f2a4fc929d01073058578175981b0c1c616ba0,GIRAPH-985,Improvement,Add more metrics,,Major,100
+31026d4d2a4ecc6f0af13a545d0ee633900ff2e5,GIRAPH-985,Improvement,Add more metrics,,Major,100
+bc2babcc63ba482f7f15ff4820abf51339081e5f,GIRAPH-986,Improvement,Add more stuff to TypeOps,,Minor,95.51676934
+43de1d8cddacf02e48cf6a7ac5a5888369e978cd,GIRAPH-962,Bug,TextAggregatorWriter with frequency AT_THE_END writes in every superstep,bsp,Minor,100
+9d20d69fdb0be53a5410711489173f808fbe6f4e,GIRAPH-967,Bug,GIRAPH-931 (Strongly Connected Components) bug fix,examples,Minor,100
+8af7670c3afb4924b2603712c1532925ce8b89fa,GIRAPH-980,Improvement,Way to disable checkpoints for particular job and on particular supersteps,,Major,99.76342129
+5a58a775403afb89fd24918ee4abd95046cfd7d5,GIRAPH-983,Bug,Remove checkpoint related error messages from console,,Minor,100
+c8db59b6a19e23f0665dae2d06c3d44da2895602,GIRAPH-978,Bug,Giraph-Debugger Test Graphs not working,graph,Minor,100
+705f93d15cbe6294229ad483667527eeef830a73,GIRAPH-979,Improvement,Add type of input to &apos;missing input&apos; error message,,Major,100
+dc4d9a2a7f5d2e40fc1e28c3b8da011306d7dccc,GIRAPH-975,Improvement,In-proc ZooKeeper server with Master process,,Major,99.83567647
+78931c03f36e2371bb1870d485be73e6bc2146a6,GIRAPH-977,Bug,useMessageSizeEncoding is broken,,Major,99.92676675
+5def2380c35c4b42faf4fe30b7b81910a963d919,GIRAPH-976,Improvement,More command line logging,,Major,100
+480475a51776bfb20d9515978b7803ca14b0dd05,GIRAPH-973,Bug,Edge trimming no longer works before superstep 0,,Major,100
+7f2d58445e2353a1a42fbb4282ed5cad724186b5,GIRAPH-972,Bug,Race condition in checkpointing,,Major,100
+8675c84a8eb3693efa4aa319860a2714556de02e,GIRAPH-905,New Feature,Giraph Debugger,,Major,82.90203327
+fda1bb3820ac574ed5d59cb779171e313798336d,/,/,    Improving and adding reducers,/,/,91.32082623
+bad44d4723e42dd74e0052378d32faa463842d2e,GIRAPH-966,New Feature,Add a way to ignore some thread exceptions,,Minor,100
+0afeb63605cfcf3afacbf3fd43f63e69bf996b70,GIRAPH-966,New Feature,Add a way to ignore some thread exceptions,,Minor,100
+2aa3af8d940a793cd2339e158e5bbac4fe9637d1,/,/,    Opening up 1.2.0-SNAPSHOT development now that 1.1.0 has been released,/,/,100
+a45450cc5bdac12432651611effb975fa4c5481c,GIRAPH-964,Improvement,Remove quotes from output partition specification in hive-io,,Minor,100
+acd716fd2ff9e04c47a531fc194003fc2d5a9dc1,GIRAPH-963,Bug,Aggregators may fail with IllegalArgumentException upon deserialization,,Trivial,100
+39237cf7fbf0742a8d7200db4039e5b43a58eca8,/,/,    Fix removal of MasterLoggingAggregator,/,/,100
+62b714547ea082099f673ed2e53a7aa7d47c8b5c,/,/,    Allow vertex/edge/message value to be configurable,/,/,100
+4bb1d3e17220b903b102d64a62fdb04f2bffa88a,GIRAPH-960,Bug,    Max task attempts should be 1 and not 0.,,Major,100
+d3cdd11384f51253713de47330bef3267b57cabb,GIRAPH-958,Bug,.arcconfig needs to be added to rat exclude,build,Trivial,100
+d49edb82f13f1e9c295f21d966bcb246d0bae3bd,GIRAPH-956,Bug,disable tests for a few components in hadoop_2 profile,test,Major,100
+54a1a8dedbd4af64ca8079da69878f89a69d9e5b,/,/,    Auto-restart from checkpoint doesn't pick up latest checkpoint,/,/,100
+d32c429a1d475b322b3fe44738f0cc8f30a97b48,/,/,    Fix using aggregators before aggregation,/,/,91.87080385
+7c61dcf4abaa422637a68839bf0d547a164375a3,GIRAPH-946,Improvement,Upgrade to Gora 0.5,build,Major,100
+0bcc76de532636985a020ed4f41129041bffa850,GIRAPH-947,Bug,Compilation Failure with Hadoop 2.5.x,,Trivial,100
+46d7d901e35e83e4b95f95edda3217d08fb5b690,/,/,    Update Giraph-Gora documentation and make it available from giraph.a.o,/,/,100
+f43f450093876ba8ae164681789cad0e6ea4b68e,/,/,    Reduce/broadcast API,/,/,89.46442533
+61db689128679b886753fed0b8f310b0ece9e0cf,GIRAPH-952,New Feature,Limit job runtime,,Minor,100
+da3c7b2d648fa270b997e514933dfc081ae7810b,/,/,    Fix tests,/,/,100
+414ef89ebd00594ab93e410d09ce007eaad3b202,/,/,    removing unnecessary specialization in MessageCombiners (ikabiljo via majakabiljo),/,/,100
+185205703ee4cd886598f5393395f19fc367f65f,GIRAPH-938,Improvement,Allow fast working with primitives generically,lib,Major,92.52224092
+f6845a374e39b91cb8d9292125a52048d71530a3,GIRAPH-945,Bug,Always use job Configuration to create Configuration,,Major,100
+4485e563a6582afb1c848ea80888fdad50ada516,GIRAPH-944,Improvement,Improve job tracking on command line,,Major,99.19396776
+de0efb07518082439b9a5cccd503270b09f40e84,GIRAPH-931,Improvement,Provide a Strongly Connected Components algorithm,examples,Minor,99.44311854
+5adca63deca25d84f4fdea053c35a85efc8bbb3d,GIRAPH-933,Improvement,Checkpointing improvements,,Major,90.01140251
+bc9f823e23d110d3c54d6eb0f5ccf7eff155a6b7,GIRAPH-943,Bug,Perf regression due to netty 4.0.21,,Major,100
+181ce39561c10aca2f4064047309d4a2ed66638f,GIRAPH-888,Task,Please create a DOAP file for your TLP,,Major,100
+b914fec7e2bc669c20531ae7c2fbf340f8de9a8e,GIRAPH-935,Improvement,Loosen modifiers when needed,graph,Major,99.94
+d8b443979d49517b40856009647231c1dfd17b4c,GIRAPH-937,Improvement,Upgrade Hive I/O to 0.26,,Major,100
+fc267734887dddd7c379144d6d5499fe3d541db8,GIRAPH-893,New Feature,Implement preLoad &amp; postSave on workerObservers,,Minor,100
+d455270e2a8d5ec34d63d20ccb0f99d3629efa5e,GIRAPH-934,Improvement,Allow having state in aggregators,graph,Major,100
+24309fea666a7c82b79e17395523ad1b8ee87528,GIRAPH-934,Improvement,Allow having state in aggregators,graph,Major,99.93995196
+6d4af60e729a6b2153c220046cf6a3804427f1c1,GIRAPH-936,Bug,AsyncMessageStoreWrapper threads are not daemonized,,Major,100
+ce97134d253c4e9fca48b7cede2048e60f36ff79,GIRAPH-934,Improvement,Allow having state in aggregators,graph,Major,88.21541711
+930352220d5b201007e886ad8f92f9796d828a6a,GIRAPH-932,New Feature,Add Arcanist suport to Giraph,,Major,100
+969a488183a42dedbde8dcec7ac00595a836974c,GIRAPH-927,Improvement,Decouple netty server threads from message processing,,Major,99.55116697
+02d9e6c2533a3cd108f5e6feaf40f26e95deb64c,GIRAPH-924,Improvement,Fix checkpointing,,Major,93.97098821
+0a90177161d65ff2802d3926599561adc985dc65,GIRAPH-921,Improvement,Create ByteValueVertex to store vertex values as bytes without object instance,graph,Minor,99.54275263
+25d912cd910712a7c1e7da98db657f6dce877e7e,GIRAPH-929,New Feature,setIfUnset for EnumConfOption,,Trivial,100
+f31e9a328d3b4f10906a10a8e69d2ae515e3aba0,GIRAPH-912,Improvement,support succinct representation of messages in messagestores,,Major,94.80576168
+61cb37ecd50b0d9400873624e46692c3282e4cfc,GIRAPH-903,Bug,Detect crashes of Netty threads,,Minor,99.87497395
+7f9218aeb6410929ddada81b4fabb17bf8636a4c,GIRAPH-925,Improvement,Unit tests should pass even if zookeeper port not available,,Minor,100
+4223ccc08bcd3689bddb310dddedab0485f7a6bd,GIRAPH-713,New Feature,Provide an option to do request compression,,Major,100
+666d5fdd966c5111316519a862336144223652ba,GIRAPH-923,Task,Upgrade Netty version to a latest stable one,,Minor,100
+441ec8bef03644c9d629f871993c14ff5442409a,GIRAPH-916,Bug,Wrong number of vertices stored reported to command line,,Minor,100
+9e1a5a05368a1543aaf6bea0176b9d79058e03b9,GIRAPH-919,Improvement,Add worker to worker communication,,Major,99.81222616
+b218d72cedc52467e691c6002e596e482d8583e4,/,/,    fix build error (pavanka),/,/,100
+64428a9d0f8bca0edb1ccf34d281e89747b295f7,GIRAPH-922,Bug,SimpleEdgeStore has a bug causing NPE,,Major,100
+58576c81fed9f4eccb03366151c1cf280765d237,GIRAPH-915,Bug,With BigDataIO some messages can get ignored,,Major,100
+ffdddff32e7ac6e2cbb5ae8471c1192c69ac6a94,GIRAPH-918,Bug,GIRAPH-908 has a small bug reg counting entries,,Trivial,100
+372c35ebccedf64266a38a35e365d3810642fef2,GIRAPH-842,Bug,option to dump histogram of memory usage when heap is low on memory,,Minor,99.95824635
+2e8c2c694c98c4ac7c371a7b9dc0b28abba79ffd,GIRAPH-849,Bug,generated site has a few dangling links,site,Major,100
+a00c4ecbb2e3e6d0bb200e8109962c5424be570a,GIRAPH-904,Bug,Giraph can hang when hostnames include uppercase letters,zookeeper,Major,100
+e4b8db5d8b34b33d7551d912e53fe198bb95d7e0,GIRAPH-900,Improvement,Remove timers for compute method,,Major,99.95824635
+0c345c6a7754c4db9928ad6c5775495d68261536,GIRAPH-894,New Feature,make giraphconfiguration available to workercontext,,Minor,100
+28dac9e5a790199dffe944bad2d518435474b396,GIRAPH-910,Improvement,removing unnecessary boxing in some places in giraph-core,,Minor,100
+4a133f5766c09362917e0416af503c0a00b24e87,GIRAPH-908,Sub-task,support for partitioned input in giraph,,Major,88.34737264
+535a333b7776f7a229b76c7656e928d8a21d21bc,GIRAPH-907,Improvement,refactor giraph code to support multiple implementations of vertexId data,,Major,96.80187207
+e92f2942f00a442283fa0bfabd443dc78e93adc8,GIRAPH-899,Improvement,Remove hcatalog from hadoop_facebook profile,,Trivial,100
+9cedc7d76f2bbe52b3d1cc4caf8024e730266f83,GIRAPH-873,Improvement,Specialized edge stores,,Major,98.38804797
+f0b6cddd3e255e9e31e3afe22d0f69b3c046d554,GIRAPH-898,Task,Remove giraph-accumulo from Facebook profile,build,Minor,100
+2a7ea8b8389c103b03df961f8d6a9b5571caa991,GIRAPH-896,Bug,Memory leak in SuperstepMetricsRegistry,graph,Major,100
+400b7706ab28f138923e6db5b31fda28f1458917,GIRAPH-897,Improvement,Add an option to dump only live objects to JMap,conf and scripts,Trivial,100
+61cd43b19f55bf15dfb07f8cb5c785a357660a0e,GIRAPH-895,Improvement,Trim the edges in Giraph,graph,Major,99.96075353
+2ce3efbb7e872f11c49f92a8830ff2ad2df5a22b,GIRAPH-889,Bug,Update Yourkit Profiler,,Major,100
+dd47ce6abdf01adc3584d6e7e0d41c6749d02d30,GIRAPH-891,Task, Make MessageStoreFactory configurable,bsp,Minor,96.64500263
+f732f300fa63959b5dcbc803ec157f8d6a1c22d1,GIRAPH-825,Bug,Fix DiskBackedPartitionStore to work with current trunk,,Major,100
+bd4127b76ac058b34318d848cf00f5b8bef34a6c,GIRAPH-825,Bug,Fix DiskBackedPartitionStore to work with current trunk,,Major,100
+614df7f9f064e8523b0732ae6ee951f0c9a4be1d,GIRAPH-864,Improvement,&apos;mvn clean test&apos; fails for rexster,,Major,100
+120091511f4729441541cd764414fb52a34889b2,GIRAPH-884,Bug,ByteArrayEdges.iterator() throws NPE when no edges are present,,Major,100
+01d11687dd2e89f97e0b5c557bbfd0cefb6ed625,GIRAPH-872,Bug,Minor inconsistencies with netty handler logic after netty 4 upgrade,bsp,Minor,100
+dcbb4805887fa5dc2e3fb21c8a6769aa4172c986,GIRAPH-871,Bug,Map task jvm never exits since netty 4 upgrade,bsp,Major,100
+4d227c289ad98c3ff58e49812b47bdea92976c39,GIRAPH-869,Improvement,Log Vertex/Edge Count for All Workers,,Minor,100
+6d603ec7ddbb78cfa1b0bf14e3efa22a0676f5c8,GIRAPH-868,Bug,Fix race condition with WorkerProgress,,Major,100
+17fac729227197a3577d2a1c179c6cc5368165d3,GIRAPH-867,Improvement,Fix comments in PageRankComputation,examples,Minor,99.87273306
+4968416aa0b1d1b32053c36e8a0bd649f7180b49,GIRAPH-866,Bug,Fix checkstyle error from GIRAPH-865,,Major,100
+6140c873a6b4938550a99f58b12bde4de8a6678e,GIRAPH-865,Bug,Job client shouldn&apos;t crash when JobProgressTracker gets exception,,Major,100
+dc2cd63d0e570064f41326bcc09b3d074fe3a01f,GIRAPH-856,Improvement,Log amount of free memory on the command line,,Major,99.12627761
+beca35e450c6103bf1020bdc1a13ee7b87624b5d,GIRAPH-860,Bug,Giraph jobs can hang forever if HDFS filestamps aren&apos;t created,,Major,100
+096accfd0666f1b669ad960b161bb131030bbbfe,GIRAPH-858,Bug,tests fail for hadoop_facebook because of dependency issues,,Major,100
+3032f4061be0d8b97f0ddaafd67fb694b2266b41,/,/,    fixed CHANGELOG,/,/,100
+4d9ed36cff191b223926cda95d60a308aa727d92,GIRAPH-814,Bug,Incorrect MapReduce application classpath processing,,Major,100
+c1d50bca96043c8a3e1ed1acfec98f92d03f6864,GIRAPH-850,Bug,Improve internal zookeeper launching,zookeeper,Major,100
+e004359a1702cd01d7e40edba789d9fbfe65ac53,GIRAPH-855,Bug,RecordReaderWrapper swallows exceptions,,Major,100
+9a232d185eb97a523359e2e2e73a869a4af15a85,GIRAPH-848,Improvement,Allowing plain computation with types being configurable,lib,Major,100
+94033dbbd6f20e03b64b63095a52939a654e52ac,GIRAPH-854,Task,fix for test fail due to GIRAPH-840,,Major,100
+dbb021be4e82dd4433ac17c8f6eecdf8b8b82919,GIRAPH-853,Bug,Fix concurrency issue in GiraphMetrics,,Major,100
+62f9fd3fd3c13c8387e7448c4f3ea6b8f65b8a8c,GIRAPH-840,Improvement,Upgrade to netty 4,,Major,96.11780455
+c5f2d61e8c14cbf8a96521eceeec41f953e64e14,GIRAPH-642,Improvement,Add Maven release profile for Giraph ,build,Major,99.95659722
+1cd1f347f0e3d126f6568f0a246c0dce1de20122,GIRAPH-816,Bug,ByteArrayPartition not combining vertex edges,graph,Major,100
+a3a6e9a8fff39ea32e2ceeda8bd2b85d9df660ad,GIRAPH-844,Improvement,TextInputFormat for SimpleShortestPaths,examples,Major,99.91319444
+c9a368144b2e6eaf2e7af0b5247baae047faedb0,GIRAPH-841,Bug,GIRAPH-841: fix missing munge symbols error for non-munge-using profiles,conf and scripts,Major,100
+a615507c55325f79985706d23be9571302952982,GIRAPH-794,Improvement,add support for generic hadoop1 and hadoop2 profiles,build,Major,100
+5542c8a4f819cc6cb79ffd14fbcaa4722e25fa55,GIRAPH-833,Bug,Upgrade to ZooKeeper 3.4.5 ,,Major,99.5215311
+8046f5f5787ce41ca4ade0d297b47afeb6a7e51d,GIRAPH-836,Bug,    Delay hive preparation until after the arguments are parsed (this allows functionality such as creating a table),,Major,100
+af1c05d8cfb1205fde974845d05805871ec31aa7,GIRAPH-843,Bug,remove rexter from hadoop_facebook profile,,Trivial,100
+4d520645ff53b9a354fef57074c7661f3bc46e39,GIRAPH-838,Bug,setup time &amp; total time counter also include time spent waiting for machines,,Minor,98.43266653
+9325fa9869c2604172576f89311308915ebb416d,GIRAPH-839,Bug,NettyWorkerAggregatorRequestProcessor tries to reuse request objects,,Major,100
+763621a45cd7812ee968f78961775f85f5e95cb2,GIRAPH-835,Bug,org.apache.giraph.hive.input.CheckInputTest Fails because JobProgressTracker doesn&apos;t check null ,graph,Major,100
+419445017610d1c65db1bfafa0cd09e094b7156f,GIRAPH-834,Bug,Metrcis missing superstep time,,Major,100
+585511f7c0d1cdb0d515a979dcc00641df2a026f,GIRAPH-819,Bug,Number of containers required for a job,mapreduce,Major,100
+13d84663bc4eedb2e9e4035af75622b0a3cb480e,GIRAPH-832,Bug,Test don&apos;t finish after GIRAPH-792,,Major,100
+7cc54575d867e37a43020df309a78cd65c3fbdc0,GIRAPH-792,Improvement,Print job progress to command line,,Major,99.70588235
+d1a061e1a5382a12d03407d6bb1c19801fcc7fb1,GIRAPH-831,Bug,waitUntilAllTasksDone waits forever (without debug information),,Major,94.33564961
+e6c4c4170aa675819dc17761470806eaec08bb33,GIRAPH-830,Bug,directMemory used in netty message,,Minor,100
+88a86ea70338b93f52811c8ccdf732bd55d9a8e4,GIRAPH-829,Bug,Compilation error due to wrong rexster jar file,,Blocker,100
+5d1bc2de1bc10eac795994772d17154b8c6b4e0a,GIRAPH-803,Improvement,Rexster I/O new complete API,,Major,98.59931114
+55e22de8114dbbae83ffc2ec713de798d2a05349,GIRAPH-803,Improvement,Rexster I/O new complete API,,Major,99.28389928
+26d31606bda1000638b7fec59e1914aa83e1c71a,GIRAPH-805,Bug,getZookeeperList can return null,,Major,99.97703261
+0deccf5a21953670c478b866ee1d74784fcae277,GIRAPH-823,Task,upgrade hiveio to version 0.21 from olderversion 0.20,,Major,100
+21548aa8d8a5ed1c3414dd1743432fe207d80df4,GIRAPH-724,Bug,UnsafeByteArrayOutputStream.writeUTF should call ensureSize,,Major,99.95404412
+6b54593af9156e346c40e6fafeb7668a7ac4ae6e,GIRAPH-821,Improvement, proper handling of NegativeArraySizeException for all ByteArray backed messagestores,,Minor,99.88476608
+28f4d1b09b712c02c2003a413a1118fd218030cf,GIRAPH-820,New Feature,add a configuration option to skip creating source vertices present only in edge input,graph,Minor,95.92592593
+ca442deeb5c63a8d7bcab796067b712de30e910c,GIRAPH-742,Bug,Worker task finishSuperstep status reporting the wrong superstep number,bsp,Minor,100
+20f8df00e71a0061de820f0973f7fa7b62086afb,GIRAPH-810,Improvement,Giraph should track aggregate statistics over lifetime of the computation,,Major,100
+cdb49fd5f76027a4a66930e6b266ba79266c9852,GIRAPH-785,Improvement,Improve GraphPartitionerFactory usage ,graph,Minor,92.77913974
+4ce0f6a0dcacde371625e1ea4e5b431a773f339a,GIRAPH-815,Bug,Exclude dependency and duplicate finder checks to profile we do not check,,Major,100
+37bc2c80564b45d7e4ce95db76f5411a6b8bdb3a,GIRAPH-798,Improvement,Upgrade Giraph to Java7 and fix all dependencies,,Major,100
+ac93c3b6c5bce5f22b293b29df91663ca7d7ce63,GIRAPH-798,Improvement,Upgrade Giraph to Java7 and fix all dependencies,,Major,100
+ba8ea976bec6fcfee1630acd2cb238a688e33b71,GIRAPH-797,Bug,If the vertex input data path is incorrect Giraph job hangs indefinitely until killed by JobTracker for exceeding timeout,mapreduce,Major,100
+82dad0a175b986ae9236c07ac14aa12824c6a7c1,GIRAPH-793,Sub-task,Create necessary documentation for Giraph-Gora integration,,Minor,100
+f7c302587c1191d3c68508ea6395d55e22ea1175,GIRAPH-760,Sub-task,Create EdgeOutputFormat to Apache Gora,,Major,100
+b151d7a97f8f06451a915668e01f393ad0445b36,GIRAPH-760,Sub-task,Create EdgeOutputFormat to Apache Gora,,Major,99.11778732
+e987492ee3c84e5b7d69af2ecbec2b07f6c4b6ae,GIRAPH-759,Sub-task,Create EdgeInputFormat from Apache Gora,,Major,99.67027791
+9ded6c372b3bcbceb28f6186efea7140c1f62dcd,GIRAPH-758,Sub-task,Create VertexOutputFormat to Apache Gora,,Major,89.33671119
+adc87aee5f5399b75005101f746a236be2750bb0,GIRAPH-758,Sub-task,Create VertexOutputFormat to Apache Gora,,Major,100
+357c186584ddce07853db125c5de09ccc144e5d3,GIRAPH-757,Sub-task,Create VertexInputFormat from Apache Gora,,Major,100
+52a6d3e6aa04c977310f0dc46bb18901812e272a,GIRAPH-442,Bug,FileNotFoundException: &lt;baseDirectory&gt;/_zkServer is checked before it is created,zookeeper,Major,100
+3e88476ce725aaca544b09be151fa1008a960a5b,GIRAPH-796,Bug,Site build error with maven 3.1,,Major,100
+371f554f94fc5398ef7d63fc710bd99a4ce62596,GIRAPH-782,Bug,giraph script can&apos;t find GIRAPH_ENV_DIR when called via $PATH,conf and scripts,Major,100
+5251864a2c26d8797b5833d247deda82dae672c7,GIRAPH-783,Bug,giraph bin script should pick up giraph-core jar to pass to hadoop,conf and scripts,Major,100
+f13c148df439a4e3db681c0e46b803834d80b86f,GIRAPH-781,Bug,binary tarball lacks /bin and /conf directories,conf and scripts,Major,100
+4dd605a3afec0f3c97c730a1721ba933a0b44eca,GIRAPH-749,Improvement,Update documentation according to the new EdgeOutputFormat API,,Major,100
+0be911bc430d736befce5b3a272be485e835460c,GIRAPH-749,Improvement,Update documentation according to the new EdgeOutputFormat API,,Major,100
+4a8b5c3f1bb93dccab309225164c249d1f9770f2,GIRAPH-738,Bug,Fix typos in quick start guide,site,Trivial,100
+e5a21c4bb27055cad85f1d9dd494867c0fae8c22,GIRAPH-755,Improvement,Make ZooKeeper port list available to input/output format,,Major,100
+3a20c5597c4f7ca67421eb39fd426cc8b0cbef2d,GIRAPH-737,New Feature,Giraph Application Master: move to new and stable YARN API,mapreduce,Major,100
+b8de740e20a2dc24db4a9acf5b3ae5affd28d8e9,GIRAPH-791,Bug,HiveGiraphRunner picks -D options too late,,Major,100
+f2b28e14b6a8b70c25e86e9823e7ed3f64aaf459,GIRAPH-790,New Feature,Add a way to automatically retry a job,,Minor,99.88771615
+909d4c3cc09bcc83c199000f632c798b39b24bf7,GIRAPH-789,Improvement,Upgrade hive-io to 0.20 - less metastore accesses,,Major,100
+e28bfd3236b83b584d333c115cb964f48898b27e,GIRAPH-787,Improvement,Use HiveIO 1.9,,Major,100
+fad298ebb5a35c7466aac69af57f60775ff6a87f,GIRAPH-786,Improvement,XSparseVector create a lot of objects in add/write,,Minor,100
+b3eada3c06deb0ca7137cad6ba8285be9d9df52c,GIRAPH-773,Bug,Cannot use only EdgeOutputFormat,,Major,100
+768b7917f260bc3528f30c541e8974a841fe3fbc,GIRAPH-779,Improvement,Make it easier to reuse object with hive-io input,,Major,100
+4b8fae2593e3d9b7d46542d886046444aa97a092,GIRAPH-778,Bug,TestGraph is broken ,,Major,99.9549955
+d644af86642b5efbf889731139a880d68eedd153,GIRAPH-777,Bug,Fix bug from GIRAPH-775,,Critical,100
+2c89b9702a5a4ba9747153d5d39bd7cd6ed79b1f,GIRAPH-776,New Feature,Update Giraph to use HiveIO 1.8,,Major,100
+e421d27a1361f140d41f33de2b747526b5efecd5,GIRAPH-775,New Feature,Vertex value combiner,,Major,100
+a95066cd06bdf4ed238e0bef304f28856817d9c9,/,/,    Everything compiles.,/,/,96.1214539
+e26b51e0dc416fe026734b7079441baeefc33247,/,/,    Refactored out SendCache to SendVertexIdDataCache and SendCache.,/,/,97.48132337
+c6c86aa6520cbad5ce1c19782a92dc97bd910c1e,GIRAPH-761,Bug,GiraphFileInputFormat ignores hidden file filter in folders,graph,Minor,100
+ed91e4e3f1e1741e18401836891fd3a6257a5247,GIRAPH-771,Improvement,Upgrade hive-io to 0.17,,Trivial,100
+7d4b725615916d26610afb2bc2ec71a774ed8cfb,GIRAPH-756,Improvement,Provide a way to halt running application,,Major,99.95819398
+af21be3b77c10a27e7598d358a6162550b5cb6de,GIRAPH-753,New Feature,Efficient dense matrix aggregators,,Major,97.25181082
+96968fdcadb1f87017c6e7853c4a63ba065c6611,GIRAPH-752,Bug,Better support for supernodes,,Major,95.42174109
+0959a87e638e1965ac4920181cbb249f38fb8abb,GIRAPH-727,Improvement,Support for Watts Strogatz VertexInputFormat,,Major,99.85912186
+a2e2f02132bfebabc5d33e27c23c893817a5c1cd,GIRAPH-746,Bug,Track and log versions of dependencies,,Major,100
+2ff690f110627782c4142eed744d1b7239d4bec4,GIRAPH-746,Bug,Track and log versions of dependencies,,Major,92.76090432
+b22d56cb946bf43d47ed399c3262f2dd2e088670,GIRAPH-751,Bug,Build error: convertEdgeToLine in two different classes have the same erasure  yet neither overrides the other,,Major,100
+ae01f0399cae6baab045b2ece0d71096aebe8ca3,GIRAPH-732,Bug,EdgeOutputFormat,,Major,99.48649252
+fa6b75495404b0bcccfa3bb5a822c1d82387b151,GIRAPH-512,Bug,JavaDoc warnings,,Minor,100
+7d0e006992574973bbd732373af32462393f00b5,GIRAPH-736,Bug,Bring back FindBugs,,Major,100
+738fcd2a1ea9f97f22bc1cc1c13c43fd357702a4,GIRAPH-735,Bug,DiskBackedPartitionStore throws NPE due to uninitialized OutEdges,graph,Major,100
+8af453cdab42b5276cec2e89d83ce5c87d70a137,GIRAPH-734,Bug,DiskBackedPartitionStore attempting to release a lock it doesn&apos;t own,graph,Major,100
+328cc82923a445b62090a6ba7863c35d51815b91,GIRAPH-739,Bug,Discrepancy among numeric constants corresponding to frequency of writing in TextAggregatorWriter,,Minor,100
+44ae3c38c5560f869623a6f286f5c657b6d9a37f,GIRAPH-740,Bug,ArrayListWritable object is not cleared in readFields(),,Major,100
+8a147a30ea5ed92e49a5fea81757fba310b64d90,GIRAPH-692,Improvement,Add Bracha Toueg Deadlock Detection in the examples,examples,Minor,100
+05d4f17c8f29e3ca9ba28dd62173b8256a985af5,GIRAPH-692,Improvement,Add Bracha Toueg Deadlock Detection in the examples,examples,Minor,99.57216843
+fa6e3d5a8b25616e31cf355f2cb5a7001f4c8f64,GIRAPH-728,New Feature,Efficient matrix aggregators,,Major,98.92177105
+d419f8f4f84723e1eadce96168414de9f3ce5677,GIRAPH-717,Bug,HiveJythonRunner with support for pure Jython value types.,,Major,90.48305696
+8df1027b4403f3b64ef02bd066d864371f6613f3,GIRAPH-725,Bug,AggregatorWrapper instantiates aggregator bypassing ReflectionUtils,,Major,93.19969551
+218f60236ff174852ce91384256d722d2ad48cf8,GIRAPH-722,Bug,ProgressableUtils.waitForever is not calling progress,,Major,99.58656331
+13c3aa116546ad99748de2bc7c8607958b314464,GIRAPH-549,New Feature,Tinkerpop/Blueprints/Rexter InputFormat,,Major,99.19751488
+294b73583fc0dcd548ae95a841829f9ad2ab3ed0,GIRAPH-701,New Feature,Communication improvement using one-to-all message sending,,Major,97.6744186
+d31949a11d184f337fa1287f0c2b8f769bae82fd,GIRAPH-701,New Feature,Communication improvement using one-to-all message sending,,Major,94.81500782
+345b3d965d42efeafa0b2e7dba2a505c1fa1d771,GIRAPH-721,Improvement,Don&apos;t call progress on each edge/vertex loaded,,Major,100
+482b7ccb5a9bb55fd9852fe639775cb965c32445,GIRAPH-720,Improvement,Provide a way to change job name,,Minor,100
+4caffaf2b0c9c5be90eab06a9d6df38b62e68429,GIRAPH-718,Bug,Output all per-superstep metrics per superstep,,Major,100
+6c0917ab17cd65d51e0d5315489d5d43bb9a8133,GIRAPH-716,Bug,Stop modifying Configuration since it&apos;s not thread-safe,,Major,97.11238293
+d97b396654d476fb7e9c7d15d71d3553f1c48083,GIRAPH-715,Bug,Fix MessageValueFactory performance regression,,Major,96.04815493
+f1af43d72ab628b7fcf94831ddc5c8945506e37b,GIRAPH-705,Bug,Type converters and giraph-hive cleanup,,Major,100
+039903ef208658ced9a05af6944e1199f613adab,GIRAPH-705,Bug,Type converters and giraph-hive cleanup,,Major,100
+efe6bf3d6ece4bedfd0ab0ba649bcc558d1b0c80,GIRAPH-709,Bug,More flexible Jython script loading,,Major,94.60458241
+4b01c88e4c6d72d72234a069bed856dd49737112,GIRAPH-708,Bug,Factories for creation of all IVEM types,,Major,90.32906305
+0c8700dafb01b28b5e8727d93261da0bcc080a9f,GIRAPH-710,Improvement,Define zookeeper version in a property to allow build time override,,Minor,100
+c2af20485a2acf3bff5175ba79981382236942f4,GIRAPH-705,Bug,Type converters and giraph-hive cleanup,,Major,96.01085482
+49dbdf72ee486c9f35992f7c95e2eae9a1c2efa1,GIRAPH-704,Improvement,Specialized message stores,,Major,94.04861693
+01a46f9ba7d38264a785bdafddc2b39188602c28,GIRAPH-703,Improvement,based on GIRAPH-623: create an appropriate way to generate the options.html page using maven.,,Major,100
+40a557367a49df5c73ce4e17ad047e91d1f56688,GIRAPH-703,Improvement,based on GIRAPH-623: create an appropriate way to generate the options.html page using maven.,,Major,100
+d6200bdd8327c94a1b171123ae14157bafacbd6f,GIRAPH-702,Bug,Fix multithreaded output,,Major,99.9702381
+8db290147e5d16e84ff103d3ebfa8835cf843d1e,GIRAPH-676,Task,A short tutorial on getting started with Giraph,documentation,Trivial,100
+df64dd7b8094864b3857d95309b1278c48be7322,GIRAPH-698,Bug,Expose Computation to a user,,Major,99.34543291
+110d77c5536f7d5e00c08f4df575cd8de6c75792,GIRAPH-311,Bug,Master halting in superstep 0 is ignored by workers,,Major,99.82185273
+94acaaa54d2f981a365e88e414d76449014bfe19,GIRAPH-688,Bug,Make sure Giraph builds against all compatible YARN-enabled Hadoop versions  warns if none set  works w/new 1.1.0 line,,Minor,100
+8fbade6a7801afd6065007473585d9d2a761818a,GIRAPH-693,Bug,Giraph-Hive check user code as soon as possible,,Major,91.71471927
+89445670eee21e38c0dadde4753310adae14b964,GIRAPH-697,Improvement,Clean up message stores,,Major,99.00466563
+f8a3c777e1fc1902a6a965c1d2a33e7ce3cc1643,GIRAPH-696,Improvement,Should be able to spill giraph metrics to a specified directory on HDFS,,Major,100
+7ea62d9c123c8a1865187e76b65da2aac936281c,GIRAPH-695,Bug,Add getCombiner and getComputation methods for MasterCompute,,Minor,100
+52c88d8d9850c49deed9c15f658b05b72855d488,GIRAPH-623,Improvement,Website Documentation: table of parameters,,Major,100
+d333c4099abc0280335a56a73104deeb734e6057,GIRAPH-694,Bug,Setting configuration in GiraphConfiguration causes non thread safe copies,,Major,100
+8f89bd85a03a1fec25e21e334631931f69078040,GIRAPH-683,Bug,Jython for Computation,,Major,96.40224123
+1eaddd183259047476893a014fb24e44fc549531,GIRAPH-673,New Feature,Input superstep should support aggregators like any other superstep,,Major,98.8630061
+0d358c9d5e59351a55462e860befd6b6a3dbe535,GIRAPH-686,Bug,DiskBackedPartitionStore does not saveVertex after edges are loaded,,Major,100
+7fb9b5f3a2d4fe377c014d16f54d06a626228526,GIRAPH-681,Bug,Graphviz Output Format,,Major,99.94505495
+90f3116e38f7ba54b654345ef2774aa2a99412e8,GIRAPH-468,Improvement,Make Vertex an Interface,,Major,94.70160116
+85dae7f8593d7562546a3d81ac9e77470220dc37,GIRAPH-667,New Feature,Decouple Vertex data and Computation  make Computation and Combiner classes switchable,,Major,100
+2f2d807176cdf5a4da7037f08b04161cec5a987d,/,/,    Merge branch 'trunk' of https://git-wip-us.apache.org/repos/asf/giraph into trunk,/,/,100
+ea957c226f07fc4c73bb556bfb51576ce3462ae5,GIRAPH-667,New Feature,Decouple Vertex data and Computation  make Computation and Combiner classes switchable,,Major,100
+487ec36fb2e124646a238c9aa294ad63510e6ab3,GIRAPH-682,Bug,LongNullHashSetEdges performance issue,,Minor,100
+3d4f31343c3686435696e75ce88a75c9bffb024e,GIRAPH-670,Improvement,[easy] Example Max Computation,,Major,95.34806994
+c5fe858e9cf7ccd5746aa1168414b42b79c4adc2,GIRAPH-675,Bug,Mutable edge iterator gets corrupted by calling vertex.getNumEdges() during iteration,,Major,100
+458ddd8f92d7dab8428c7bf481cd2797b05b278e,GIRAPH-512,Bug,JavaDoc warnings,,Minor,100
+f74d4c9cd5df808b5d66ec348b0a8d3c6c1934ed,GIRAPH-669,Improvement,Streamline home page,,Major,100
+bcfef4588727f253fb5d80b501314ffc1d2b6438,GIRAPH-620,Improvement,Website Documentation: How to use Hive I/O with Giraph,,Major,100
+8811165e85ae2db442e34f1021db29f4dfcc8430,GIRAPH-667,New Feature,Decouple Vertex data and Computation  make Computation and Combiner classes switchable,,Major,87.01550388
+9f7a347896248ef1136d59e9a5b1b872ea11941b,GIRAPH-608,Bug,Spelling error in Combiner.java,,Trivial,100
+7b724131fd7fd7f67119258a532a651789beec68,GIRAPH-666,Bug,Netty execs threads and metrics threads don&apos;t get cleaned up properly,,Major,100
+57821392a9dedafe3f6cc02d89ebd5624ba1a7e1,GIRAPH-665,Improvement,Reduce ZooKeeper output in tests by changing log level from INFO to ERROR,,Minor,100
+bc066fa431e520370e3cdd5ba5766c75d7060869,GIRAPH-664,Bug,Bump HiveIO dep - fixes tests with hadoop facebook,,Major,100
+5e758b849e817d846c5a39b57bb07b72eaf40f7d,GIRAPH-622,Improvement,Website Documentation: Out-of-core,,Major,100
+5922de1476454fa9e7462aabacb2f3f2dd3e162d,GIRAPH-622,Improvement,Website Documentation: Out-of-core,,Major,100
+ff02c5d6cf98c86f2aff5cf21206b1bdfabab4f9,/,/,    Merge branch 'trunk' of https://git-wip-us.apache.org/repos/asf/giraph into trunk,/,/,100
+04bf3d64448b79be9967337888cc8eec1c9ab097,GIRAPH-663,Bug,Fix HiveIO metastore host setting,,Major,100
+7f8ac565e0629337e08f189399a3e0d18163db1b,GIRAPH-659,Bug,giraph-hive tests all fail,,Major,100
+b053658abefd676b703e7567595e4b8d89b765c4,GIRAPH-622,Improvement,Website Documentation: Out-of-core,,Major,100
+190974b5175252ff4c8ae53935f764a3d7b2f686,GIRAPH-661,Bug,Munge symbols helper,,Major,100
+a9636e246b7593fd446ec89bc31259a5e373c49d,GIRAPH-662,Bug,Incubator release should point to archived,,Major,100
+fd9690a05de75707de59f5c44d56373bed500819,GIRAPH-655,Bug,Fix Hive Build on Hadoop 2.0.0,,Major,99.9405116
+a419a7bc4b3d93ce18b84ef79a77afc8fbfbbc05,GIRAPH-660,Improvement,Move the snapshot to 1.1.0 and also add a releases page for the 1.0 release,,Major,100
+afb3ecce139ab7c4037602ad143b5e6424dc48a2,GIRAPH-560,Bug,Input filtering,,Major,99.01345291
+e495238bb16f248c9a100f62f17449f8c381e3b9,GIRAPH-621,Improvement,Website Documentation: Basic Design Document,,Major,100
+56d8e89887f9037cb1849b66d99e1e01eddec106,GIRAPH-658,Bug,Remove final modifier from SimpleHiveToEdge.initializeRecords,,Major,100
+d8baf4b80b4c98073bfd82d29ccf46b11847ee4e,GIRAPH-656,Bug,Input from multiple tables doesn&apos;t work with multithreading,,Major,96.29404617
+b88292dbffea2fdc03abc68685394b64d4f34cba,GIRAPH-657,Bug,Remove unused reuseIncomingEdgeObjects option,,Minor,100
+61ef4d2bc9ecb64a1e433bc1059bfb9e730416dd,GIRAPH-592,Bug,YourKit profiling API for easy profiling of giraph,,Major,100
+d36dd50810929b5dad2d3bab2007e28802087ad6,GIRAPH-592,Bug,YourKit profiling API for easy profiling of giraph,,Major,99.84610649
+4f88fc8fcefd0f8e3cf3b951e7642a4a1cbe28e1,GIRAPH-618,Improvement,Website Documentation: Aggregators (and sharded aggregators),,Major,100
+4b0f52cc8e8841b64ac970733c1ef5dcd0ad4c18,GIRAPH-651,Bug,giraph-hive tests,,Major,95.73070608
+c5a87d16119c7e9a9f2af80a5534c4fe37605dd3,GIRAPH-639,Improvement,Add support for multiple Vertex/Edge inputs,,Major,95.82253886
+ff970f2db73018f6f48b5361ffd9e21c5154aba9,GIRAPH-653,Bug,Hadoop_non_secure broken,,Major,100
+6c05902ba16de1e70dbf80da702492aeb32b5317,GIRAPH-650,Bug,Exception in GiraphConfiguration initialization,,Major,100
+903302d12fb2af7788a8745af1bd05003ee985dd,GIRAPH-648,Improvement,Allow IO formats to add parameters to Configuration,,Major,96.20838471
+14171ad3cb5a8bf52ceb62dfd5632338bbe2d11b,GIRAPH-635,Bug,Website Documentation: Missing presentations,documentation,Major,100
+52b7e5d6e9afd6b9f129be8dcbf9ebe53e5383db,GIRAPH-647,Bug,Update HiveIO to 0.8,,Major,100
+c1b88405c96db8203641c2baae8ff30527bb2b46,GIRAPH-624,Bug,ByteArrayPartition reports 0 aggregate edges when used with DiskBackedPartitionStore ,,Major,100
+75b3112661c0900d7447d8ad56647b3e73ec0a24,GIRAPH-636,Improvement,Initialize compute OutEdges directly from input OutEdges,,Major,99.93670886
+32b7f593fd17c3ea4bae5387da96091284f5b91e,GIRAPH-645,Bug,Specify maven deploy plugin version,,Major,100
+c7a36429a25420d7a54ba6fb30caa3c4a99dc270,GIRAPH-463,Improvement,Create VertexResolver only once ,,Minor,100
+82a86c2fea754e75e10e62be7dae009f23f343b8,/,/,    Updated CHANGELOG for 1.0.0 RC3.,/,/,100
+158c0b1180fa8f01bffd119df49b982fdda22771,GIRAPH-633,Improvement,Rename VertexEdges to OutEdges,,Minor,97.64816557
+38f1f179361105f925106c5a17e9cb54a068b682,GIRAPH-634,Bug,InternalGiraphRunner with TestGraph is broken,,Major,100
+b408ed1f5ff54ac62fa073d5402515b3d892086d,GIRAPH-617,Improvement,Website Documentation: Vertex/Edge Input/Output,,Major,100
+b77acf2ef54d14b1566e2e471178f1f235130911,GIRAPH-630,Bug,Convergence detection broken in o.a.g.examples.PageRankVertex,examples,Major,99.81325864
+7e48523b520afee8e727d1e1aaab801a3bd80f06,GIRAPH-627,Bug,YARN build profile is broken,,Major,99.90657116
+a33d50b4a952b22270e9478af9e925deecddec1c,GIRAPH-628,Improvement,Can&apos;t build Giraph without git due to mavanagaiata not configured right,,Major,100
+7543752941da734e4d2b583e9ab3e86c6e18e107,/,/,    Updated CHANGELOG for Giraph-1.0 release.,/,/,100
+db077ec209ddc22946fb6060609d5a6529682356,GIRAPH-595,Bug,InternalVertexRunner.run() should take GiraphConfiguration  not GiraphClasses,,Major,96.56652361
+24c7044baca1801896927c88ac0504fc4cd4cd08,GIRAPH-364,Wish,Clean up directories created by test suite,,Minor,100
+823ff1f8cb318f942700f6e495560c2a304def94,GIRAPH-614,Bug,SplitMasterWorker=false is broken,,Major,98.93653516
+39f3591365cbe15b74c82574787d0592681d8ba5,GIRAPH-616,Improvement,Decouple vertices and edges in DiskBackedPartitionStore and avoid writing back edges when the algorithm does not change topology.,,Major,100
+228edbbd798f7718a5a7ccbcfd35c22e812be761,GIRAPH-616,Improvement,Decouple vertices and edges in DiskBackedPartitionStore and avoid writing back edges when the algorithm does not change topology.,,Major,99.86595174
+ff8d98e20a4b2475f5890ade5ee78dc8d804420c,GIRAPH-613,Improvement,Remove Writable from the interfaces implemented by Vertex,,Minor,100
+67e0f11d2bd98e0614b26d4ea6dd707e6f65a105,GIRAPH-613,Improvement,Remove Writable from the interfaces implemented by Vertex,,Minor,100
+6cf79dbe2c4397732820c435df723fe50e9f3daf,GIRAPH-613,Improvement,Remove Writable from the interfaces implemented by Vertex,,Minor,100
+96fd05385199460bb731270e8dc42a5408175ab9,GIRAPH-543,Bug,Fix PageRankBenchmark and make WeightedPageRankBenchmark,,Major,92.79731993
+621a022c0e910f38d961ec50a29e2686d7ae49a0,GIRAPH-615,Improvement,Add support for multithreaded output,,Major,94.4937833
+185b9ffc8621f4b47944d6c93b94fbdbb7c5af2e,GIRAPH-612,Improvement,Improve website for upcoming release,,Major,100
+0f5d337d484700c6efdc95457344840f40d2e237,GIRAPH-612,Improvement,Improve website for upcoming release,,Major,100
+928c1092b90084e93cd2cfe61ca3ce392a6e8c01,GIRAPH-527,Bug,readVertexInputSplit is always reporting 0 vertices and 0 edges,,Major,95.95898673
+2353e1adf1bc9a54c4448cd521bf80c39fc55c62,GIRAPH-611,Bug,Vertex/EdgeReaderWrapper should configure inner reader,,Major,99.30651872
+e1352c8e4e48444e6dc6a3bed5c99975c396dc86,GIRAPH-610,Improvement,Simplify implementation of configurable VertexEdges,,Minor,99.62108164
+81b837d36189a1d763bd1747ca0550107c155664,GIRAPH-609,Bug,More information on runtime exceptions for Callables,,Major,99.89648033
+34abd6f5b253eda011f6fc180aa8e8d854866bc8,GIRAPH-606,Improvement,Configure classes by default when possible,,Major,97.9966611
+b079e2ba8fb8961a73b1d1dc71b63de8116401c1,GIRAPH-607,Bug,bump hive IO dep,,Major,100
+84cdd9f839e1336f4ee92891a457b5d007920e4c,GIRAPH-564,Improvement,Input/output formats and readers/writers should implement ImmutableClassesGiraphConfigurable,,Major,98.07562458
+bf0d07420d50e816060fbcbc5c09f93b571a8947,GIRAPH-604,Improvement,Clean up benchmarks,,Major,92.15254859
+cd16dac76ba87780fa3195b73264fb050d079a9b,GIRAPH-605,Bug,Worker crashes if its vertices have no edges when using edge input,,Major,100
+5d3f3c113aeb17fb4332668ffb24cb5571cbc24c,GIRAPH-603,Improvement,AbstractVertexToHive doesn&apos;t need message type,,Minor,100
+c5c1c4c6131ee67265c4c322d53b689f9a52dc40,GIRAPH-589,Bug,Remove unnecessary generics from input formats,,Major,99.35015291
+ab88282d173d0ae36bff9a06485fb8be158455d4,GIRAPH-536,Bug,Clean up configuration options,,Major,100
+0bb304002b0fa6076b72004384c81061fc84d07b,GIRAPH-551,Bug,Fix log message at the end of edge input,,Minor,100
+1eca854291a34baf4e9bc1d6699784df0dd2aa7d,GIRAPH-555,Bug,Fix log message on generated input splits,,Major,100
+f4f453db34c77d96fbe2407376fb36d496be8d09,GIRAPH-602,Bug,HiveGiraphRunner should allow disabling/choosing of input formats at runtime,,Major,100
+b2dff2751d8d3d768f788b39089688c18f6c1750,GIRAPH-13,New Feature,Port Giraph to YARN,,Major,99.27007299
+67f5f747578b0e67944da2fea9e4a3d3a22c4e09,GIRAPH-600,New Feature,Create an option to do output during computation,,Major,99.41747573
+da2a68708b69d984a3f91710cc6445845cc086b2,GIRAPH-599,Bug,Hive IO dependency issues with some Hadoop profiles,,Major,100
+0e0414784b2ecd7b63dced8cf69aa0854106116d,GIRAPH-577,New Feature,Create a testing framework that doesn&apos;t require I/O formats,,Major,98.33976834
+9c47b670a1972cb64e3a1d92ad376e6f0db10b1f,GIRAPH-577,New Feature,Create a testing framework that doesn&apos;t require I/O formats,,Major,100
+a68f2badaa216125106bcc1e9397edf43623a9ec,GIRAPH-593,Improvement,Update Hive IO,,Major,99.6952381
+2a6c9d5630508439c9fc4cee175617ff63d59a7d,GIRAPH-594,Improvement,Auto-set Hive reusing objects options,,Major,99.84726995
+f4deb5ca809e8b1663301589e3c0cc94e370cd3d,GIRAPH-597,Bug,Don&apos;t reuse vertex by default in SimpleHiveToVertex,,Major,100
+95e1226766fb7df16e699cd54cf8ba0d043dc69d,GIRAPH-588,Bug,More flexible Hive input,,Major,98.49710983
+01c527e225336d68a30e447889b37b6187f6286c,GIRAPH-587,Bug,Refactor configuration options,,Major,88.40372226
+460198af9da68e0e723ae9237031cfae2cf8bfc0,GIRAPH-581,Bug,More flexible Hive output,,Major,99.83344437
+9cbbf99a339b639aabe32cd21fa8e2f9439022a4,GIRAPH-510,Bug,Remove HBase Cruft,,Minor,100
+2430ec5f231f572b780dc0cb0053f409358df155,GIRAPH-579,New Feature,Make it possible to use different out-edges data structures for input and computation,,Major,99.86608637
+56fcb519aa56550bb5fdfa666eba275e0f1b0020,GIRAPH-582,Improvement,Create a generic option for determining the number of supersteps that a job runs for,,Major,99.19327731
+95ce243fd8be15aed3155ba8bd1791a846df8a32,/,/,    VertexValueFactory,/,/,99.72982101
+a4d33303969c060e02b9bc76b90c3ba06e9ba9e3,GIRAPH-580,Bug,NPE in HiveGiraphRunner when the vertex output format is not defined.,,Major,100
+156682791504c2e433382551e1be301e1d9146cb,GIRAPH-510,Bug,Remove HBase Cruft,,Minor,100
+f4bd1996e66fbe3f4daf8aca1e7be1e9cead5dee,GIRAPH-566,Improvement,Make option for aggregators to be configurable,,Major,99.83004759
+a802fef1c25096ced056ffb67a75ffec3d2965a5,GIRAPH-575,Bug,update hive-io dependency,,Major,100
+974c30b7485b653ba37e11d43b474b458134c6ce,GIRAPH-576,Bug,BspServiceMaster.failureCleanup() shouldn&apos;t pass null in observers&apos; applicationFailed() method,bsp,Minor,100
+5bb956cad2d9c4beded036553f715f0e3156d665,GIRAPH-547,New Feature,Allow in-place modification of edges,,Major,96.11817245
+40bc599b8a7e7caaeb0a284fd2d2103926b79288,GIRAPH-537,Bug, Fix log messages produced by aggregators,,Major,98.84856943
+f31c62575453d6b4ae93ee20f8bd1d34f94a7217,GIRAPH-480,Improvement,Add convergence detection to org.apache.giraph.examples.RandomWalkVertex,examples,Major,99.04323175
+fc2026fa1ac5225a82e47c4968801d5140f6bfa4,GIRAPH-480,Improvement,Add convergence detection to org.apache.giraph.examples.RandomWalkVertex,examples,Major,98.2869379
+73d70bd8913a0fb8465138b1b3db2e2f384e7fe5,GIRAPH-565,Improvement,Make an easy way to gather some logs from workers on master,,Major,99.85683608
+e709fda6bd42b7c34a258f6db53315a0810172a1,GIRAPH-559,Bug,Giraph build breaks on trunk over Hive IO jar location issue?,,Major,100
+905d5f60b9a4d25a69007dda6d82f153487d83f6,GIRAPH-563,Bug,Fix DefaultImmutableClassesGiraphConfigurable.java line overrun (84 chars) from GIRAPH-562.,,Major,100
+a2dfd6792db0c0232f56f29510111a0e213cc46b,GIRAPH-562,Improvement,Implement getConf/setConf in AbstractHive classes,,Minor,99.85652798
+a0433d21daeec7877e6f9a1567dd974dfdb64278,GIRAPH-561,Bug,Only print vertex/edge input classes if not null,,Major,100
+1d9c7d3144d33c6248ae2cb4ec7d6f6349241e6b,GIRAPH-554,Bug,Set PartitionContext in InternalVertexRunner,,Minor,100
+ea831c80b8cfd33a233a34666537f840f2c104bf,GIRAPH-554,Bug,Set PartitionContext in InternalVertexRunner,,Minor,100
+7998240142c99311f7d51cde9bc102259c9bd937,GIRAPH-559,Bug,Giraph build breaks on trunk over Hive IO jar location issue?,,Major,100
+c51e27dd5ed131e0ac3fcc96078e135f2657b0a4,GIRAPH-550,Bug,Giraph-Hive updates,,Major,100
+0e52d19f132be6078526e8ebb3a4db8f0ef40cb1,GIRAPH-550,Bug,Giraph-Hive updates,,Major,99.17146974
+40e201df9bb32cb4d3ff0b02c7899f3e9bed2529,GIRAPH-523,Bug,MasterObserver should pass in superstep number to (pre/post)Superstep methods,,Major,100
+c14e524b6ac8829fae37eeedcbc78eaa5b9bedcc,GIRAPH-556,Bug,Race condition in EdgeStore,,Critical,100
+85e7a4907248248a9df2857dc479a5d3a9a5b7f3,/,/,    Add back type hint for getAggregatedValue() in Vertex.,/,/,100
+3f5009aea0797563304dd8ba1aa6fb06ebaab83b,GIRAPH-528,Improvement,Decouple vertex implementation from edge storage,,Major,90.22967554
+8cdcf541e095bdede5fd01bdb94f575a4d38a42f,GIRAPH-553,Bug,Cleanup HCatalogVertexOutputFormat,,Minor,100
+831e9eaada9dd5ce0a6b3e30150e707a1733110c,GIRAPH-545,Bug,Improve Facebook Hadoop dependency,,Major,100
+188f6ed7218120284e1ec9421be5f03b6582ef83,GIRAPH-542,Bug,Progress calls in aggregate,,Minor,100
+549789aafbf39d47af371c00375cd5e5ecea232a,GIRAPH-541,Bug,Log before observers,,Major,100
+c33ea10c40d0712352171b8f086dd4fcb70a43c3,GIRAPH-535,New Feature,Range-partitioning and edge locality benchmark,,Major,98.08940159
+507959dcb4af9b5c5f26a97c237cdb7b6235e7a1,GIRAPH-535,New Feature,Range-partitioning and edge locality benchmark,,Major,92.72373541
+71eab655eea02b946fb88907650168d7c2d18bef,GIRAPH-539,Improvement,When having open requests log which workers are they sent to,,Major,100
+2347627d5993f9c3ed9e26f244fac6e48f18a2a0,GIRAPH-530,Bug,GiraphInputFormat#getSplits() should be aware of multithreaded input,,Major,100
+39c9add1537c46fe79a10f2456fa5829ccda64d3,GIRAPH-532,Improvement,Give an explanation when trying to use unregistered aggregators,,Minor,100
+92517430e6c80d9de19aedf1aafc57367d5240f0,GIRAPH-453,Bug,Pure hive I/O ,,Major,97.97713281
+ea914c9c083f80184652ff1708c562d345030008,GIRAPH-526,Bug,HiveGiraphRunner - bug with setting database name,,Major,100
+fd50af275210490bfff6aad85fa895362a5bbf1b,GIRAPH-518,Bug,Set up Maven to support Hadoop-2.0.3-alpha release,,Major,100
+fc04335f61c4422a48fb4b61821cf921a29421ec,GIRAPH-525,Improvement,Add PartitionClass to the ConfigurationUtils ,,Minor,100
+c0ee023aaa3c7712c7f61c8a797460290c225d14,GIRAPH-525,Improvement,Add PartitionClass to the ConfigurationUtils ,,Minor,100
+5d005321187e632c489d3ce56dd3b6bd1c3c8652,/,/,    Merge branch 'trunk' of https://git-wip-us.apache.org/repos/asf/giraph into trunk,/,/,99.50584007
+2f55c9b711bacb536aad9296258ce35525092da2,GIRAPH-514,Improvement,DiskBackedMessageStores should take advantage of machines with multiple disks,,Minor,99.50584007
+89bba9534b092d85027c8de81bf7f174760bc24f,GIRAPH-520,Bug,ReverseEdgeDuplicator,,Major,99.7310623
+06d64a29dcea6e10d22165f80300e007eb9d000a,GIRAPH-522,Bug,JMap Dumper,,Major,99.77487618
+e5f1024d4d2d295763c96a566ef3f298fcfb3bc4,GIRAPH-517,Bug,Use stable hcatalog 0.5.0-incubating,,Major,100
+9b59a345f2100b943b188c58739d1ddff856935a,/,/,    Merge branch 'trunk' of https://git-wip-us.apache.org/repos/asf/giraph into trunk,/,/,97.26851852
+88fc6a2542c1a5676b8e39962acd5ada1a7f6d3e,/,/,    GIRAPH 514,/,/,97.26851852
+2bdc238928b93e8b96bbcbb0794a3e76254a2a33,GIRAPH-503,Improvement,Refactor platform-independent CLI argument parsing in GiraphRunner into a separate class,,Minor,99.72899729
+028b0c92fde92e131d79e0140a01c13044995f17,GIRAPH-519,Bug,EdgeFactory,,Major,99.50248756
+2123261537c3ccb041d067f5079533490db2d1ef,GIRAPH-515,Improvement,More efficient and flexible edge-based input,,Major,97.86740844
+2afa961beebf69c9024ce928b2e5ec8b9dceda32,/,/,    GIRAPH 514,/,/,100
+cbc5a26a44f410bcfc113528119f1910e252fda1,/,/,    Merge branch 'trunk' of https://git-wip-us.apache.org/repos/asf/giraph into trunk,/,/,100
+ae3d29faac48338d3af8481f449db62bdf4d6c15,GIRAPH-516,Bug,out-of-core messages dies for ArrayIndexOutOfBoundsException when running out-of-core messages in UnsafeByteArrayOutputStream,,Major,100
+5142ead2d18fef9fe179215b8eac1fbadefa1b0f,GIRAPH-514,Improvement,DiskBackedMessageStores should take advantage of machines with multiple disks,,Minor,100
+a47ca0b491489b4d28a435a5cdc3b218de0e0933,GIRAPH-514,Improvement,DiskBackedMessageStores should take advantage of machines with multiple disks,,Minor,100
+329af80d6a05d8b79bd22a6459ad86e4e07a26c1,GIRAPH-513,Improvement,OnDiskPartitionStore should take advantage of multiple disks,,Minor,100
+7fc9390d383799aee37917ac1050db19c89b8b98,/,/,    GIRAPH 513,/,/,100
+c17a6483c437600b722a3107cdd473d9d2c551e4,GIRAPH-511,New Feature,DNS interface and nameserver for multi-interface machines,,Minor,100
+ab64a4d0e4487ad7093c5be89088980c1f22019e,GIRAPH-470,Improvement,examples jar,,Major,90.53991694
+a6cb05bcb4f0fcbf7477297f15237d3536b6d658,GIRAPH-504,New Feature,Create PartitionContext,,Major,96.10220875
+86c2f657f5141f4d9f01934dddef8253b4277c21,GIRAPH-499,Bug,Giraph should not reserve minimum reduce slot memory 1024 in GiraphRunner since we never will use it. ,,Major,100
+8c86fa656d1dafeaba3fe55ac184ff3cbaa3e324,GIRAPH-508,Improvement,Increase the limit on the number of partitions,,Major,100
+a907471497be3b9bdbc2a88b9296c6fe923ae0ea,GIRAPH-509,Improvement,Factor out AggregatorUsage,,Trivial,97.31071576
+8ed06fe5f736d135ca4a7fb208a20f5844c15781,GIRAPH-505,Bug,Metrics Updates,,Major,94.07951599
+02fb21d9311d6c7625b68534937b4bc7212a73ef,GIRAPH-506,Bug,Concurrency issue - response can arrive before request is added to the outstanding map,,Major,100
+7b3b3a0997850d509da749b6ef0c8a740a19fdc7,GIRAPH-501,Improvement,WorkerObserver,,Major,100
+c1ef889142ae5e2526f8b83138d0dfee31fb7db6,GIRAPH-501,Improvement,WorkerObserver,,Major,99.77032614
+e9187517541f29f162119a2d151d9bdd98e92f49,GIRAPH-502,Improvement,In PageRankBenchmark  remove unneeded handling of -t 2,,Minor,100
+0c77d52f3c7eee138f36eeb831b4afab45216b2f,GIRAPH-500,Improvement,Refactor job launch code out of graph package and into job package,,Minor,98.71382637
+01b353334417fe9d511c239d013dedd822c8235a,GIRAPH-493,Bug,Remove EdgeWithSource,,Major,97.95918367
+f34e9b7c864b32dde6134e0ef2cfb26ab47195a5,GIRAPH-429,Bug,Number of input split threads set to 1 less than necessary,,Minor,100
+1c967b8e0b282deb9a3d49231f410ffcabd9e9de,GIRAPH-498,Bug,We should check input splits status from zookeeeper once per worker  not once per split thread,,Major,97.20568026
+b022dce9f32f2f48015a2b1489e4d72f08916bab,GIRAPH-497,Bug,Limiting number of open requests doesn&apos;t work with multithreading,,Major,100
+62c12fa0b899ee76962d6e3fa05298e2a23d5e68,GIRAPH-461,Sub-task,Convert static assignment of in-memory partitions with LRU cache,graph,Major,100
+af1c39b43a0a65821ae697e36265effb80ea8ea4,GIRAPH-494,Bug,Edge should be an interface,,Major,100
+b458bb0c707603dc8bdf28fcd999a3a21cf9b281,GIRAPH-494,Bug,Edge should be an interface,,Major,100
+10ad3c025fb501a1c79d349de115f9605c5e1e0b,GIRAPH-494,Bug,Edge should be an interface,,Major,98.64104967
+6fd9f12da217774f15d32deeaeda3a389d44ea34,GIRAPH-492,Bug,Saving vertices has no status report  making it hard to find DFS issues,,Major,100
+d3f4a4e0d4fdd78f5ba2f1bc907c67a68a6c518b,GIRAPH-312,New Feature,Giraph needs an admin script,zookeeper,Minor,99.90601504
+303386f75685e8133c20c213027d4e34ee580bc9,GIRAPH-469,Improvement,Cleanup GraphMapper,,Major,99.90583804
+f8ee22a119366d7c48cbbfd5f985d4811c0b3794,GIRAPH-491,Improvement,Observer for job launch lifecycle,,Major,99.76381672
+0e1dd32911236db6a3e379141a4a59acaac0c00d,GIRAPH-490,Bug,Constants for GiraphStats / GiraphTimers,,Major,100
+bda0f8b95539ff5f84b72857c80eeebb5037acd6,GIRAPH-488,Bug,ArrayOutOfBoundsException in org.apache.giraph.worker.InputSplitPathOrganizer,,Major,100
+4bc133632f325c3cbece4fd72035fe559be47647,GIRAPH-418,Improvement,Create maven profile for CDH 4.1.2,,Major,100
+2ad6df94b79ff0b2c52e5df250601dc99a9fbade,GIRAPH-418,Improvement,Create maven profile for CDH 4.1.2,,Major,100
+9fe961d5cc3f628f4a24fe7aca20e5a28fc9114b,GIRAPH-487,Bug,VertexInputPath in GiraphRunner refers to EdgeInputPath,,Blocker,100
+bfc647368582b512945d86a48a8d5bc3b49ef930,GIRAPH-481,Bug,mvn compile error when building jar file - Error with Accumulo,build,Blocker,100
+f630e3d4129fc39a3350c1dc2278fa9670111e8c,GIRAPH-472,Improvement,Refactor MapFunctions enum to be more general,graph,Minor,99.81060606
+2d7c84c802f9981778882a70df3ea988b9c38d61,GIRAPH-254,Improvement,Constant Variable name misspelled in HashMasterPartitioner.java,graph,Trivial,100
+8c42e3f9b6844668c029778bcd97603459ec98fc,GIRAPH-431,Improvement,Support edge and vertex value input formats in GiraphRunner,,Major,99.90503324
+e1a7f2905b7afc0d621f129a092b5c7fc14e97ab,GIRAPH-477,Bug,Fetching locality info in InputSplitPathOrganizer causes jobs to hang,,Major,100
+2b95451e16fb8e29636fc625fbcd817ec7b4adb2,GIRAPH-459,Improvement,Group Vertex Mutations by Partition ID,graph,Major,100
+a5bc5bb35a84a2c61623da9269842985e7cc9da5,GIRAPH-473,Improvement,InputSplitPathOrganizer should be aware of multiple threads,,Minor,100
+9805d231ae762862912caf73233b34e7efdc41ef,GIRAPH-478,Bug,Bring back jar-with-deps for giraph-hcatalog,,Major,100
+8b7905cd12050a31251a28ecdf835597d1cd4192,GIRAPH-474,Improvement,Add an option not to use direct byte buffers,,Major,100
+bc056d1584dc402332a3160e8c15bbe681dd8750,GIRAPH-474,Improvement,Add an option not to use direct byte buffers,,Major,98.02789803
+7a04bfd29dff23604f465299e0ef0f262b0da931,GIRAPH-476,Bug,SequenceFileVertexOutputFormat,,Major,99.56458636
+1684891ecf471cc7d52c95b187fcf290f7e1ce14,GIRAPH-409,Improvement,Refactor / cleanups,,Minor,72.47956403
+e4e6af68f3577d5923a4cb0f71321e0ecd204aae,GIRAPH-465,Improvement,Cleanup MapFunctions,,Major,99.78494624
+533d52159590f87e8e9996a853e7582e67ae8cd6,GIRAPH-464,Improvement,MasterObserver#applicationFailed callback,,Major,96.59239843
+57ea5561025aa6277cd53ce0eb2d904c56709817,GIRAPH-458,Bug,split formats module into accumulo hbase hcatalog,,Major,95.57326251
+0503b207524342c3df613b88e4d2943ffe04fd17,GIRAPH-463,Improvement,Create VertexResolver only once ,,Minor,100
+11dce4335e825b34870dbcbcc02603ad5ab3452c,GIRAPH-454,Bug,Fix typo in munge comments in TestBspBasic,test,Major,100
+4585139176e4f3051c2c345c30830b090e364e87,GIRAPH-457,Bug,Update maven module names,,Major,18.10132809
+196238b0dbec0cacac02c86849731390c3a6adf2,GIRAPH-455,Bug,Add build information to jars,,Minor,100
+f0453d05dea972aa772c0056c19fc0870f64839b,GIRAPH-456,Bug,Log where master is on every host,,Major,100
+8a8c9378c60bae24affc75e2931b2bc440aae569,GIRAPH-141,Improvement,multigraph support in giraph,graph,Major,91.69246646
+8115a94f663084bea82b003cd8f41b53f4eeca39,GIRAPH-452,Bug,Fix HCatalog Jar,,Major,100
+154c0c5e727ae2e5ca9f428aa62f9ecd30a9360a,GIRAPH-452,Bug,Fix HCatalog Jar,,Major,100
+487d016f7fbd933ac990ee5cc5cfeb7bcd423e26,GIRAPH-450,Bug,post-review not working after switch to git,,Major,100
+38d3b0ea75e32fa7269d1fdd0facda51eb146a9f,GIRAPH-450,Bug,post-review not working after switch to git,,Major,100
+ed2daeef748155bf799ade0ba47bae3b53d61a6b,GIRAPH-449,Bug,License header missing from for-each-profile.sh,,Trivial,100
+599f70e38a4f7c70736508b91a1545d1b9ba5c66,GIRAPH-447,Improvement,Cleanup Configuration related things,,Minor,90.8764736
+1c9b260295a7bd34d47f6a0c704bb76a36649f95,GIRAPH-445,Improvement,Max message request size in bytes  initialize buffers to expected size,,Major,99.89059081
+10e6796438d6bf83517f6702a8cd1bd81e4bb232,GIRAPH-444,Bug,Cleanup VertexResolver,,Minor,92.45657568
+59ae2b2c26be2b93370f955ccaeef3b9b7745f27,GIRAPH-446,Improvement,Add a proper timeout for waiting for workers to join a superstep,,Major,100
+c61fdac69e960babc0822eb6288cfbd407c3f0eb,GIRAPH-443,Improvement,Properly size netty buffers when encoding requests,,Major,100
+d2bfd395b2c19b07f1565fab43a2c3b1f78d43ab,GIRAPH-395,Improvement,No need to make HashWorkerPartitioner thread-safe.,,Major,100
+394c119465fb29f2f5934d357970b500059286c8,GIRAPH-441,Bug,Keep track of connected channels in NettyServer,,Major,99.95462795
+339bec76280dbc38f592f18bfb07d8d45a492ce5,GIRAPH-440,Bug,ProgressableUtils - TimeoutException from future.get shouldn&apos;t be rethrown,,Major,100
+a1b88972d1a4167ad9b29e7f6f81adb23fed0252,GIRAPH-438,Bug,When checkpointing is disable  fast fail,,Major,100
+a695252af91206fa34edfcf33fa4f7a325fac4b9,GIRAPH-437,Improvement,Missing progress calls when stopping Netty server,,Major,93.25301205
+b4137fa542c53e2a76c9906ed9cf9396d1afe022,GIRAPH-439,Bug,Fix naming of input superstep counter,,Trivial,100
+a922c732eab67b48f6b671de5e9a64cf24f22c2f,GIRAPH-424,Bug,Fix hashCode modulo computation,,Major,100
+b927dc60e7a0946cb6741e99f43d5f98518e78de,GIRAPH-396,Improvement,HcatalogVertexInputFormat outputs a bit too often,,Major,100
+78b4fc4c24c61f7494c672ee50bc71eec61dfdf2,GIRAPH-435,Bug,Serialize server messages for memory and less GC,,Major,97.61178862
+49e59a232d3636f8e7dc5d85f1b35666e2a09f30,GIRAPH-420,Bug,Make Giraph build on all profiles,,Major,100
+782e00279caf1f9900cc8bb2179f0322ec56e6b7,GIRAPH-420,Bug,Make Giraph build on all profiles,,Major,100
+ccbe445866abf943c2f814b22ab46400ac410ca9,GIRAPH-434,Bug,Remove unused InputSplitPathOrganizer from BspServiceWorker,,Trivial,100
+15a23a402adf4be317c1ac39704830c3fdb6e884,GIRAPH-405,New Feature,Edge-based input from HCatalog,,Major,98.98836621
+766ca06258551d3b108e4bbea70328e5b94c4707,GIRAPH-405,New Feature,Edge-based input from HCatalog,,Major,99.64592817
+a6f16e2ec3ea57ca3d060a35bff274eaffb3ec10,GIRAPH-421,Improvement,Aggregate metrics to Master,,Major,97.96334012
+dd7d960682415b6552ca70285964a11ef5fb2ead,GIRAPH-433,Bug,Vertex#initialize() shouldn&apos;t be called with null edges,,Major,100
+6d697ae13c27757270b3ffb9b312e72e4afe3db5,GIRAPH-416,Improvement,MasterObserver for user post-application customization,,Major,92.24652087
+0d63f093f819d9b362343199abe0440780c79bba,GIRAPH-427,Task,Add committer information for Nitay Joffe to pom.xml,,Minor,100
+6fc0550bcd20e979bf5a5db88b05c4ef12559152,GIRAPH-417,Improvement,Serialize the graph/message cache into byte[] for improving memory usage and compute speed,,Major,88.35790544
+d65c1e7d27b248ac33f06c2330aaec7ea2f335ea,GIRAPH-386,Bug,ClassCastException when giraph.SplitMasterWorker=false,,Major,96.50776053
+e0af9d382f61ded5fc3bb6c14057cf50445458b6,GIRAPH-423,Bug,Allow overriding addEdge,,Minor,100
+fa5d468e0210ed8ca4d1813b16d57b2a8ebaa210,GIRAPH-414,Improvement,Create BinaryCombiner ands specialized message store for it,,Major,90.46350559
+8175783992099f0fa863530917716ba870995a1d,GIRAPH-422,Bug,Setting the log level of the root logger to the same level can cause issues in Hadoop,,Major,100
+89258478e6bff13c0915ab17bc9c8a0d6c2fef98,GIRAPH-415,Improvement,Refactor / cleanup Hadoop Counters,,Major,100
+47320b2a4c2ea5a3e180c96336f1c9a1a532076d,GIRAPH-415,Improvement,Refactor / cleanup Hadoop Counters,,Major,98.8401412
+c657f8152a42d6d075bcdb8f7ce79502a39331dd,GIRAPH-413,Improvement,Make building Facebook profile easier,,Major,100
+86f4b433b8d54104e174a9c38fc4e6a3bd0f7b8e,GIRAPH-407,Improvement,Metrics Update,,Major,93.55877617
+f7b5b43302d3b18ccedc1334539feb9bdde1a8f6,GIRAPH-404,Improvement,More SendMessageCache improvements,,Major,96.93995381
+577ece5d935520f3227a8e7ecce08fe20c645f6b,GIRAPH-412,Bug,Checkstyle error from Giraph-403,,Major,100
+46dfe7cc1ff66c11968c704d153c5752ac9fbee1,GIRAPH-403,Bug,GraphMapper.notiftySentMessages need to be thread-safe,,Major,100
+4c472217a18c1a1c669e5d96142214ac9f9cc097,GIRAPH-397,Improvement,We should have copies of aggregators per thread to avoid synchronizing on aggregate(),,Minor,99.47337624
+3b07507460239a2816e325cd80b6f926207a34fd,GIRAPH-406,Improvement,Enforce partition ids in [0  n-1],,Major,100
+2055232504b6928ff758b9bd4a01002dcdd2c582,GIRAPH-402,Bug,slf4j dependency bug,,Major,100
+d92a4cad9e875ba698fd8e9b930b4197eb0fc60c,GIRAPH-401,Improvement,Metrics should be disabled by default,,Minor,100
+0be4dcf3a7c9163bcf2cbf7565a34cd0daca58b0,GIRAPH-400,Bug,Refactoring broke TestTextDoubleDoubleAdjacencyListVertexInputFormat,,Major,100
+1eaab3ff839e8eaa58a75a3ce4e2123041348007,GIRAPH-155,New Feature,Allow creation of graph by adding edges that span multiple workers,lib,Major,90.33846154
+566adfc6b2c571513039a255c4a2b170d3d6ca6b,GIRAPH-398,Bug,Missing a dependency?,,Major,100
+123a36a306d67fb088a8933fbedfee9041a74c9b,GIRAPH-394,Bug,mapreduce.job.user.classpath.first hadoop option typo,,Trivial,100
+3571d5b3ff969335d424b7759a6cf7dd211c65fa,GIRAPH-232,New Feature,Add metrics system into Giraph,,Major,90.46717172
+34108c93341bbdc9e9d82cb131797e5d1b884725,GIRAPH-393,Bug,Number of input split threads should always be &gt;= 1,,Major,100
+88720cfb0f6ce23e0e6b78e2399465b8dc6230ea,GIRAPH-388,Improvement,Improve the way we keep outgoing messages,,Major,99.50829748
+ea2198d1eaa3f85b67aeacf80c59ff6c2d6cae4b,GIRAPH-389,Bug,Multithreading should intelligently allocate the thread pools,,Major,100
+7f7e0056cf4e40fd8ab4493cb5dd783928bd8b9a,GIRAPH-273,Improvement,Aggregators shouldn&apos;t use Zookeeper,,Major,88.093689
+63faddcb4981ba306d5d3c3da3240fd9cf383ff9,GIRAPH-376,Bug,Facebook Hadoop profile broken,,Minor,100
+ed67662833fbebac9424d6e0d6135b2d5f7df221,GIRAPH-387,Improvement,GiraphRunner&apos;s better handling of configuration property arguments,,Minor,100
+bbe4256ccf994d2759f303d0ae5ab00d0e13560c,GIRAPH-385,Improvement,Script for running on all profiles,,Minor,100
+54e155b2f9035e66b0d6e2bdf25328bc2a1821e7,GIRAPH-384,Bug,Remove duplicate BspCase in giraph-formats-contrib (and fix GIRAPH-382 breaking the build),,Major,96.914446
+93c1495fc5859480501c82bffaf17faf99f8e6d6,GIRAPH-382,Improvement,ZooKeeperExt should handle ConnectionLossException by retrying,,Major,100
+4e7f662c903bbc5a6b13bea400a612a571b1e7a3,GIRAPH-381,Improvement,Ensure we get the original exception from GraphMapper#run(),,Major,100
+64446972ea442bbd15388e67cb64451e80dd2dd7,GIRAPH-379,Improvement,HiveGiraphRunner should have a skipOutput option for testing,,Major,100
+74bcafe6a7c5dbab64592fa8944e76374950f369,GIRAPH-380,Bug,Hadoop_non_secure is broken,,Major,100
+4857a8211eb36f683c6fd67b1ac65b1c09d75772,GIRAPH-372,Improvement,Write worker addresses to Zookeeper; move addresses and resolution to NettyClient,,Major,97.51420455
+aa52ecc8434b44e47f356f771b0bf784baabff39,GIRAPH-373,Bug,RandomMessageBenchmark is broken,,Minor,100
+7d573acf9db6f40d2cf6ebb8d2f32647b7698d9b,GIRAPH-374,Improvement,Multithreading in input split loading and compute,,Major,91.51472651
+828b631f8d5bda788917766dde6305308e75faed,GIRAPH-375,Improvement,Cleaner MutableVertex API,,Major,100
+7cbb47170ef3921a9b5752ceae3a24a7e19da7e6,GIRAPH-371,Improvement,Replace BspUtils in giraph-formats-contrib for speed.,,Major,100
+24d73a8c2ef6cff062e581195f1f9c840f44a38c,GIRAPH-369,Bug,bin/giraph broken,,Trivial,100
+bc641521126fb4f5c415c7b0b268203b10ca022a,GIRAPH-368,Bug,HBaseVertexInput/Output formats handle setConf() internally,,Major,99.72318339
+87f3c4d8572ee8f7244af8a92dc3312ce24260e3,GIRAPH-367,Improvement,Expose WorkerInfo to clients,,Minor,99.10958904
+d2a4b71e157a8f0f2c94622687f5a6ee064dff92,GIRAPH-370,Bug,AccumuloVertexOutputFormat public visibility for TABLE_NAME,,Major,100
+aad6916b8a1f2187194f93c6ae07990b124767ad,GIRAPH-366,Bug,TestGraphPartitioner should use getTempPath() everywhere,,Minor,100
+77f703efafaf095f555ad6eea34e625dcc7b2bf6,GIRAPH-346,Improvement,Top Level POM,,Minor,18.35853132
+f17f56e8a74f262808cd3a498174a8b0137b1b37,GIRAPH-200,Improvement,remove hadoop RPC and keep just netty,,Major,89.22155689
+dd7ffe8e621dbcd780bfb1991b9584ff522555f5,GIRAPH-363,Bug,Fix hadoop_0.23 profile broken by GIRAPH-211,,Major,100
+06736467502bb8b879aa306eb82c809dfbfdfd1e,GIRAPH-211,Improvement,Add secure authentication to Netty IPC,,Major,86.65749656
+048d4856f33b278f39ad746958f62a93a42b22db,GIRAPH-361,Bug,Hive output partition parsing is broken ,,Major,99.41908714
+751b8ff8d4a26aca1a8f183dc45af928fd0ecd8a,GIRAPH-361,Bug,Hive output partition parsing is broken ,,Major,100
+c62902469b36efa8d080dbc4ed5fb470c95d9096,/,/,    Keep track of the task id in ChannelRotater to send requests without knowing the worker id upfront (aching via ekoontz),/,/,100
+be1e3ddfe0b97359e90ea9f48870a17f58a5de04,GIRAPH-307,Improvement,InputSplit list can be long with many workers (and locality info) and should not be re-created every time a worker calls reserveInputSplit(),graph,Minor,98.24267782
+67e6ca46912204d93a375081faf2ca199f7957a6,GIRAPH-358,Improvement,Rename package format-&gt;io in giraph-formats-contrib for consistency with main package,,Trivial,95.30201342
+c4c3e70798f5bfee270b09c8cbc8b7fc63382f90,GIRAPH-350,Bug,HBaseVertex i/o formats are not being injected with Configuration via Configurable interface,,Major,99.66583124
+dd21f92a5e87853d18b304c96325858462e36329,GIRAPH-356,Improvement,Improve ZooKeeper issues,,Major,100
+e6dd7d7c03b0eb591b05cecf770400e8beda09f9,GIRAPH-342,Improvement,Recursive ZooKeeper calls should call progress  dynamic ZooKeeper can skip delete,,Major,100
+592c7527a474aa0f755cb5a6acf192923fa4f51e,GIRAPH-351,Improvement,Fail job early when there is no input,,Major,100
+dcd12941432f3db9ea7226b00b5b538f96253c9a,GIRAPH-212,Bug,Security is busted since GIRAPH-168,build,Critical,99.49706622
+1b179b20e6c2eb7dd9d5061ce7bd05990feb2a2b,GIRAPH-315,Bug,giraph-site.xml isn&apos;t read on time,,Trivial,100
+42128d12a3ec4fe171ec36a30f1c3f89627affee,GIRAPH-325,Improvement,One more progress call,,Minor,100
+9ee46a6550e1bf4bdb5870c2522fddd163a35f6a,GIRAPH-328,Improvement,Outgoing messages from current superstep should be grouped at the sender by owning worker  not by partition,graph,Minor,88.35164835
+68afd1a4107d755149e41b058f3902ceab07cdd3,GIRAPH-293,Bug,Should aggregators be checkpointed?,,Major,96.77002584
+573a3fcde6104260e0ca58c3d9841b43f0a76cc5,GIRAPH-355,Bug,Partition.readFields crashes,,Major,100
+48f70b414e691827ff8547752488fc2c36eb51ce,GIRAPH-354,Bug,Giraph Formats should use hcatalog-core,,Major,100
+aeb4a0ce04db69bb07a8f032099c3f626068a494,GIRAPH-353,Bug,Received metrics are not thread-safe,,Major,100
+a4c30e61ebc8f6692b4f0ac5e7aaeb5f2d4568d9,GIRAPH-326,Improvement,Writing input splits to ZooKeeper in parallel,,Major,95.64660691
+1545c3b0799a46819fa01926e91010a5799d0380,GIRAPH-335,Task,Add committer information for Maja Kabiljo to pom.xml,,Minor,100
+fc643c597933e3b9f9df0892a9f33874f22f60de,GIRAPH-352,Bug,Loaded vertices don&apos;t have their configuration set,,Critical,100
+c9794891b074d994fc9ae05c4838da7f78913c05,GIRAPH-341,Sub-task,Improved log messages (timing) and upgraded junit to 4.8 for better tests.,,Major,95.85652443
+fd1f6c63b8f108b59eb1b8f9353c10893d203d04,GIRAPH-343,Improvement,Use published hcatalog jars.,,Major,98.49124925
+f61ba4415235c701aedee799a6c4294f6b783ba4,GIRAPH-343,Improvement,Use published hcatalog jars.,,Major,98.55159928
+df9f4d7560d1a7cc34c5da43acaa909329f9c40a,GIRAPH-338,Improvement,More Rat Ignores,,Trivial,100
+66f25d3f4938f905256a593adea53f830abf96ba,GIRAPH-347,Bug,GiraphConfiguration broke hcatalog build,,Major,99.45880938
+3921c3330f52f14928d04f3ff1e3818caccb396c,GIRAPH-340,Sub-task,Added client/server ExecutionHandlers to Netty to avoid and added WrappedAdaptiveReceiveBufferSizePredictorFactory to debug/predict the size of the incoming messages ,,Major,100
+6b9af86e2ca2d6be06e95a1e4f27b4cbaa4d8267,GIRAPH-340,Sub-task,Added client/server ExecutionHandlers to Netty to avoid and added WrappedAdaptiveReceiveBufferSizePredictorFactory to debug/predict the size of the incoming messages ,,Major,96.40998959
+b34b8f3bb67d3c27b39219eecb2dc9bb8c442f3f,GIRAPH-274,Bug,Jobs still failing due to tasks timeout during INPUT_SUPERSTEP,,Major,100
+c15cd942833476119839600b48a962ece165bfa3,GIRAPH-339,Sub-task,Optimization to SimpleMessageStore#addPartitionMessages to avoid getting the partition map for every vertex,,Major,100
+b70b36bbfcd73f02fa27ef207b9b90d929d68822,GIRAPH-337,Sub-task,Make a specific Giraph configuration for Class caching and specific Giraph configuration,,Major,92.98874104
+e44e176322e70a894bf901b77fd83ca15f397cad,GIRAPH-334,Bug,Bugfix HCatalog Hive profile,,Major,100
+ae6bc82c39e137df78a9bfdaee2bc28e46ea5dd7,GIRAPH-93,New Feature,Hive input / output format,,Major,96.33786178
+59a3b2049135d09abc95aabbe29f410bf1a573fd,GIRAPH-93,New Feature,Hive input / output format,,Major,97.27810651
+76b83ccaad2b65fc728f2455625f7dd461a2eb33,GIRAPH-277,Improvement,Text Vertex Input/Output Format base classes overhaul,lib,Major,99.88385598
+d788d7c2d2f927acbb82050c9702e801d13d3939,GIRAPH-277,Improvement,Text Vertex Input/Output Format base classes overhaul,lib,Major,95.20884521
+aedfb1a168293077fb667691015c203227fe5bba,GIRAPH-331,Improvement,ReviewBoard post-review config,,Trivial,100
+d226157c639bd579e5e143c4643eb46765608710,GIRAPH-332,Improvement,Duplicate unnecessary info in giraph-formats-contrib compile.xml,,Trivial,100
+29f4a3be5a70d2f63f8048583823ec9834e18fa4,GIRAPH-330,Improvement,Ignores file for Git,,Trivial,100
+110afd23efc15fe382ba578ca84c93a13e13ed14,GIRAPH-327,Improvement,Timeout value in BspServiceMaster.barrierOnWorkerList,,Minor,100
+69c055a05f2c57b688b4e98786bab2662f1d629a,GIRAPH-323,Bug,Check if requests are done before calling wait,,Minor,100
+299c3b1b36ae987c94c0b30683ab4ede6ea23906,GIRAPH-298,Wish,Reduce timeout for TestAutoCheckpoint,,Minor,100
+7373fba5c0e6fa072e3f5d333b11037d3266d050,GIRAPH-324,Improvement,Add option to use combiner in benchmarks,,Minor,99.28848642
+65da98e0306c9cf6204fd4c658ce83672a601f0c,GIRAPH-191,New Feature,Random Walks on Graphs,examples,Major,94.28571429
+4bfe0bd5618496e033c1639ca5b74626fbb90660,GIRAPH-320,Improvement,Provide a runtime configuration for choosing the log level,,Major,100
+7b91fd6f5ac11194fc8c4fcb77ed64fef7a4805c,GIRAPH-321,Bug,Divide by 0 exception,,Major,100
+a2fab36175cee7e8fb345f93f46b83d4e6515cae,GIRAPH-316,Sub-task,Add test-patch.sh for precommit test using Jenkins,test,Major,100
+416ace7a7bfa726487b6b3583363379c8ba580f2,GIRAPH-319,Bug,Receiving two responses for a request causes an exception,,Major,100
+177ea65d125d14ca86c87190f3a84798c3872829,GIRAPH-291,Improvement,PredicateLock should have a constructor to take in a custom waiting time and additional testing,,Major,99.45978391
+864b3bfdf8f5e73cc4150fd5ca931e335c0511a1,GIRAPH-318,Bug,New Iterator in LocalityInfoSorter is not working,graph,Major,100
+5bfcb78f70eb607bd7e39e1202ebc8b64656f633,GIRAPH-317,Wish,Add subpackages to comm,,Trivial,88.32518337
+2f8aa86645722fee4a39eb83b7c806e214bbaf89,GIRAPH-301,Improvement,InputSplit Reservations are clumping  leaving many workers asleep while other process too many splits and get overloaded.,zookeeper,Major,100
+4072c9480c7b8d196323d4f41865db2818e79582,GIRAPH-313,Improvement,Open Netty client and server on master,,Major,92.08053691
+23edee8700fd2f5e4b5dfb83b195611e6efd5ee8,/,/,    Added committer info for ereisman to Giraph pom.xml,/,/,100
+c44a86e293d686f17e57bb0b101e90c3e9a5c3d0,GIRAPH-249,Improvement,Move part of the graph out-of-core when memory is low,,Major,94.35261708
+58fdaa444775191afbcf75fa050803495307b417,GIRAPH-306,Improvement,Netty requests should be reliable and implement exactly once semantics,,Critical,94.46974626
+6b47c3dec01632f2f152c272f2eed5003e3de35d,GIRAPH-309,Bug,Message count is wrong,,Minor,100
+7c0c7335cd729e6cd007dd5037469e72fb152237,GIRAPH-246,Improvement,Periodic worker calls to context.progress() will prevent timeout on some Hadoop clusters during barrier waits,bsp,Minor,100
+1d0f4e27c15a4d934ab20a00e63fe8bcaa9e612d,GIRAPH-295,New Feature,Additional Example Algorithm to compute Outdegree and Indegree ,examples,Minor,99.67658473
+3311f3f1d1c6d935601d88b5a857788f91e178b0,GIRAPH-305,Improvement,Adding an argument to GiraphRunner for Master Compute classes,conf and scripts,Minor,100
+31bed4312cc60099839a1a4548df6fff0c4bb79c,GIRAPH-302,Bug,Thread safety issue with sending partitions around,,Critical,100
+1a750491bb2cbe4c0403a5a8255a8e59d376aa6a,GIRAPH-303,Bug,Regression: cleanup phase happens earlier than it should,,Major,100
+866856574e9bba3afa610b414e5d9a9c20a0cbb3,GIRAPH-278,Bug,Website still tries to load incubator logo,,Minor,100
+fb6987035225208e79345c6b3f338b6190964348,GIRAPH-300,Improvement,Improve netty reliability with retrying failed connections  tracking requests  thread-safe hash partitioning,,Major,96.40644362
+f9879fbab3f57754d2158347e2b11fb92ebf109a,GIRAPH-296,Bug,TotalNumVertices and TotalNumEdges are not saved in checkpoint,,Major,100
+df3290be0847b9b8ecd86ffa858f0b27984d357c,GIRAPH-297,Bug,Checkpointing on master is done one superstep later,,Major,100
+09b0ef68243614932ed70a1e64566b4e5663e5d3,GIRAPH-275,Improvement,Restore data locality to workers reading InputSplits where possible without querying NameNode  ZooKeeper,graph,Major,99.82185273
+1b5912e9f4eca0b2aff13dae86aed0940117a625,GIRAPH-258,Bug,Check type compatibility before submitting job,,Major,99.82142857
+4a2c0c038010ac6b925204e798a07bae719455eb,GIRAPH-218,Bug,Consolidate all I/O Format classes under one roof in lib/ directory,lib,Trivial,90.55374593
+568d82fa900790aac68d39858b6c3c46d6143b4f,GIRAPH-259,Bug,TestBspBasic.testBspPageRank is broken,,Major,100
+4309753f2eddfa193ae8e8ab2dd5cc6b0b16410e,GIRAPH-259,Bug,TestBspBasic.testBspPageRank is broken,,Major,97.06325301
+0a25624ffaad21592546e3c5159d4fadba15fa8c,GIRAPH-256,Improvement,Partitioning outgoing graph data during INPUT_SUPERSTEP by # of vertices results in wide variance in RPC message sizes,graph,Major,99.76228209
+d656a10ca5f8d3f94194eb1f3c9cdd231c5ff6a9,GIRAPH-290,Task,Add committer information for Alessandro Presta to pom.xml,,Minor,100
+d759461350df4bc02a14b4136a93721b2deec39c,GIRAPH-286,Improvement,Remove DISCLAIMER from source tree,,Major,100
+364460890ccb8342ade951928510e28b619ac2b1,GIRAPH-287,Improvement,Add option to limit the number of open requests,,Major,100
+216180e613f5755977b74754a769dd4e30f8445f,GIRAPH-262,Improvement,Netty optimization to handle requests locally whenever possible,,Major,100
+18d8f811f1c1c93eaa893a25a0506ad6d1f2d40f,GIRAPH-288,New Feature,Bandwidth tracking - subset of GIRAPH-262,,Major,90.90909091
+14ace7ef646ada71740f5bc3c6f81b408f46b558,GIRAPH-289,Improvement,Add thread and channel pooling to NettyClient and NettyServer,,Major,99.87980769
+896da07fadf1bdbeb6ac42e7968d29fdffda0ba2,GIRAPH-281,Improvement,add options to control Netty&apos;s per-channel receive and send buffer sizes,,Minor,100
+1c89d3ec1bd15f095186fcdd1382c6226c275149,GIRAPH-276,Bug,Fix broken tests in pseudo-distributed mode,,Major,99.93983153
+3993d429c7489fddc86888295ce65686e71ceca9,GIRAPH-281,Improvement,add options to control Netty&apos;s per-channel receive and send buffer sizes,,Minor,100
+a44565d382c441463b26e1beb3b78b27872434c5,GIRAPH-228,Bug,SimpleTriangleClosingVertex should not use ArrayWritable for a vertex value,test,Trivial,99.93983153
+c0aa0194374639be232e9b2de2725545dd8602c0,GIRAPH-209,Bug,Include munge version in artifact name,,Critical,100
+3f2a1f79e156eb2d72c23da8ff0c22301560741a,GIRAPH-280,Improvement,add IntelliJ-generated *.iml and *.ipr files to Apache Rat&apos;s &lt;exclude&gt; list.,,Trivial,100
+f8f16bd768557b66ba459b3f5ba7ccc437d2191a,GIRAPH-45,Improvement,Improve the way to keep outgoing messages,bsp,Major,92.66435986
+a39483e19ae2096c9075bb0f61c0bb6d69497aef,GIRAPH-271,Bug,Regression in imports in CommunicationsInterface,,Critical,100
+cd49794abaf0a730c651756010e8b81f6d776742,GIRAPH-267,Bug,Jobs can get killed for not reporting status during INPUT SUPERSTEP,graph,Major,99.01719902
+9cacb42aed327bc29be7ddaf738d64eef4a9afbc,GIRAPH-266,Bug,Average aggregators don&apos;t calculate real average,,Major,98.46153846
+f80321c838c96dc5200858f9684eda3d47171890,GIRAPH-244,Improvement,Vertex API redesign,,Major,92.66666667
+042b8c7cb8ca2d63ea6c8a0a28dee69a7e15a668,GIRAPH-236,Task,Add FindBugs to maven build,build,Minor,100
+3615939f51d619ba735ddc9b4fa64b669d22b1ee,GIRAPH-224,Improvement,Netty server-side combiner,bsp,Major,100
+b5f9081408583e6294cb8f9b6f56e66bf81aa19c,GIRAPH-251,New Feature,Allow to access the distributed cache from Vertexes and WorkerContext,,Major,100
+2e8756702497ab77fda32e33f6a881ce4b2204be,GIRAPH-261,Improvement,Rename isQuiet variable,,Trivial,100
+69dce8a13234891802e353bf28465bef28790056,GIRAPH-248,Improvement,Generic IdentityVertex for IO testing,,Trivial,99.56101844
+d89d1b84c928189cf0816864ddd4f6605620093f,GIRAPH-222,Bug,giraph-formats-contrib needs a README,,Major,100
+8b35948a8342b859c977032109c2e3b6c2a4bf37,GIRAPH-257,Bug,TestBspBasic.testBspMasterCompute is broken,,Minor,99.82363316
+5346590fb3e8bea07c66095be00dfce1b582e307,GIRAPH-81,New Feature,Create annotations on provided algorithms for cli,,Major,98.76106195
+f8d65c3b5ccaa7c5dc2434f1067344b1b3e7750e,GIRAPH-81,New Feature,Create annotations on provided algorithms for cli,,Major,100
+4504b0ff32cedc68b9b9f532a98e622da20d8fd5,GIRAPH-242,Improvement,HashMapVertex stores neighbor ids twice,graph,Minor,99.91119005
+f4d17d98caff3231a6a6d13eca8d833d3a5d7fb1,GIRAPH-241,Bug,Small typos in var names in NettyWorkerClient.java,bsp,Trivial,100
+3aa167ae49f6a93cc83ae27c59d65db79e5fe16f,GIRAPH-239,Bug,IntIntNullIntVertex doesn&apos;t save halted state,graph,Major,99.82206406
+91e272ef0b00bcde8d553063eea3f31744208b6c,GIRAPH-238,Improvement,BasicVertex should have default Writable implementation,graph,Major,100
+257af8a5ab4e93c36c5b51c01d6dd52fe7ced3b2,GIRAPH-233,Bug,Small errors found by FindBugs,,Minor,100
+751ca1471b674c0662faf62202e28859451287ec,/,/,    GIRAPh-216. NullWritable as VertexData  EdgeData or MessageData should be allowed. Contributed by Jan van der Lugt.,/,/,100
+87bec0be895b7bb2784090d883b8ace152b4bbf2,GIRAPH-221,Improvement,Make iteration over edges more explicit,graph,Minor,100
+2e137a131cb9ebaa85e6357ad7cd93ee037125dd,GIRAPH-225,Improvement,Guava version in POM.XML is really old. Updated to version 12.0,build,Trivial,100
+d1a480fb4ec62906eb925a8bba94e8f2ae3f2816,GIRAPH-225,Improvement,Guava version in POM.XML is really old. Updated to version 12.0,build,Trivial,100
+b5904debb8020df71e5d5f596c72ab9ae40a36c2,GIRAPH-205,Bug,Move Giraph jar to root level of tar.gz,conf and scripts,Major,100
+14b7c4c0290434a298f0d24910068c7cf61db919,GIRAPH-213,Improvement,NettyClient.stop() could deadlock according to netty.io docs,,Trivial,100
+468732ef26f3be012efb3d819604f775cec49e85,GIRAPH-127,New Feature,Extending the API with a master.compute() function.,graph,Major,96.87220733
+bdc87b192a8fef3d01b3715313a8be9cdfa67379,GIRAPH-220,Improvement,Default implementation of BasicVertex#sendMsgToAllEdges(),graph,Trivial,100
+b5a4862d8e7bd63a9c80f92939b9cc3ee50e175e,GIRAPH-217,Bug,Add SimpleTriangleClosingVertex to Giraph examples,examples,Trivial,99.55197133
+dede2aa54fb55632ea38653722d9c46c0eb46a5b,GIRAPH-219,Bug,pom in giraph-formats-contrib should have groupId &apos;org.apache.giraph&apos;. ,,Minor,100
+eb26f966b36bfaf618bfde0d99405db2355b2099,GIRAPH-215,Improvement,Update site to use Giraph logo and remove &apos;incubator&apos; text,site,Minor,100
+5d1f4c015ee91de41e7375f12742346e8a2b2a60,GIRAPH-205,Bug,Move Giraph jar to root level of tar.gz,conf and scripts,Major,100
+b47959581356066ed0bcd66777fb5481c7193948,GIRAPH-206,Sub-task,Break out SimpleShortestPathVertex,examples,Major,99.09990999
+e9def7280d2240c411f18091234e1ac7fa8f4502,GIRAPH-208,Bug,LocalTestMode&apos;s zookeeper directory is not being cleaned up after job runs,,Minor,100
+756d32f6c90fabd219f01d1d7b2737343b24574a,GIRAPH-192,Improvement,Move aggregators to a separate sub-package,examples,Minor,92.44917715
+d8837d9f27337778459e6b83a17ff1ea09335dbc,GIRAPH-208,Bug,LocalTestMode&apos;s zookeeper directory is not being cleaned up after job runs,,Minor,100
+1350d34c13ced2b5aa81da156c07256907561f02,GIRAPH-208,Bug,LocalTestMode&apos;s zookeeper directory is not being cleaned up after job runs,,Minor,100
+009d90d16e70c5cd0728e8ef030ddd4c60e142bc,/,/,    Updated site to include Andre Kelpe and my Berlin Buzzwords presentation.,/,/,100
+e2259af5de462b3850fd335751269f47b9ba7373,GIRAPH-201,Improvement,add Hadoop 2.0.0 profile to maven,,Major,100
+60820434ddbbcc4f38c271c45bd65ac8b1f93bde,GIRAPH-194,Improvement,Fix up pom file after graduation,build,Major,100
+69eb64da565bd736d4e29692f27efb8920c10ae3,GIRAPH-153,New Feature,HBase/Accumulo Input and Output formats,bsp,Major,94.03905447
+e0636b72747a3a7fa71e7c859fc1d780273bb8ec,GIRAPH-187,Bug,SequenceFileVertexInputFormat has WritableComparable&lt;I&gt; as a bounded type for I,lib,Minor,100
+4d73db6a6e403c6254ba28ddaa35cb40184843a0,/,/,    Moving to a TLP,/,/,100
+79962a3c8c5b9a29aa346e66959ad6b5ddd79022,GIRAPH-20,Improvement,Move temporary test files from the project directory,test,Major,99.69512195
+27c3bfb325d7ca7da89aef1a11a3f4803b85f3cd,GIRAPH-37,New Feature,Implement Netty-backed IPC,,Major,100
+72bea8133531511393feb204915a217912646824,GIRAPH-37,New Feature,Implement Netty-backed IPC,,Major,94.14893617
+411be2144c438f64e4b0b8ab02d1c27f959aa9ef,/,/,    Add Eugene Koontz to site,/,/,100
+ce381c5eaf30a8b5d0c6afcf36bf5de83bf45936,GIRAPH-184,Bug,Upgrade to junit4,,Major,100
+0e78d17ac0b2717f0afbb8799b16f255231eaea9,GIRAPH-176,Improvement,BasicRPCCommunications has unnecessary cast of Vertex,,Minor,100
+6f8296d9e3f0e23fb69999f61a8161b1f5e8b13b,GIRAPH-175,Improvement,Replace manual array copy to utility method call,,Trivial,100
+6861c185196d1fda862f7eae0753f018d9cbe853,GIRAPH-181,Improvement,Add Hadoop 1.0 profile to pom.xml,build,Major,100
+4f3001a9ba2010f87596a7d418a4b03fffa9c434,GIRAPH-183,Improvement,Add Claudio&apos;s FOSDEM presentation (slides and video) to the site,site,Trivial,100
+e582c16613b7528d87f6c3a94756fd5375920833,GIRAPH-179,Improvement,BspServiceMaster&apos;s PathFilter can be simplified,,Trivial,100
+51e78870f494f08db5ae2a5448b0aeff64ed8861,GIRAPH-177,Improvement,SimplePageRankVertex has two redundant casts,,Trivial,100
+b9273dfe48dffbfa63381fdbb6895ead046a180d,GIRAPH-168,Improvement,Simplify munge directive usage with new munge flag HADOOP_SECURE (rather than HADOOP_FACEBOOK) and remove usage of HADOOP,,Major,100
+08fe6f642571e4ffd86f8b8a03aa30ff2de24fdb,GIRAPH-85,Improvement,Simplify return expression in RPCCommunications::getRPCProxy,,Major,100
+e88551eb26b4c5aedad3d21283c7ab1bb16e3fb9,GIRAPH-171,Bug,total time in MasterThread.run() is calculated incorrectly,,Major,100
+ced64e2276f92ee15c5c2026c1073842523b21a2,GIRAPH-144,Bug,GiraphJob should not extend Job  (users should not be able to call Job methods like waitForCompletion or setMapper..etc),,Major,100
+ec45adb6efc7b797c487bb88720fd1f8bf628b5d,GIRAPH-159,Bug,Case insensitive file/directory name matching will produce errors on M/R jar unpack. ,build,Major,100
+22279c37a201fbc184fdad6f535859662ccd0003,GIRAPH-166,Improvement,add &apos;*.patch&apos; to list of files that Apache Rat ignores,,Trivial,100
+0249063a03a27ed92a85e8c6a2faa1e3b1fcdae3,GIRAPH-167,Bug,mvn -Phadoop_non_secure clean verify fails,,Major,100
+1f412fe5c381de3bb19b3961dd9545b4d90272b9,GIRAPH-163,Improvement,bin/giraph script overwrites CLASSPATH if &quot;dev environment&quot; detected (this also removes USER_JAR from CLASSPATH),conf and scripts,Major,100
+8f5d1297d51347f155ae4441a8d7eb66a93dfd59,GIRAPH-164,Bug,fix 5 &quot;Line is longer than 80 characters&quot; style errors in GiraphRunner,,Trivial,100
+7ccddfd21f6e097469f626a8bd0795c5306e7794,GIRAPH-162,Bug,BspCase.setup() should catch FileNotFoundException thrown from org.apache.hadoop.fs.FileSystem.listStatus(),test,Major,100
+723f559efec395859f1036b53d4f0b2db2bc8ce2,GIRAPH-161,Bug,Handling null messages and edges when initializing IntIntNullIntVertex,graph,Major,100
+43232b80ba830f85ade6ff39376bac69ed60baa8,GIRAPH-156,Improvement,Users should be able to set simple &apos;custom arguments&apos; via org.apache.giraph.GiraphRunner,conf and scripts,Major,100
+7898b0028d3d6dfdd099bc74e0d2ae351aa9790f,GIRAPH-154,Bug,Worker ports are not synched properly with its peers,bsp,Major,99.77678571
+32cf1c6a4ea1ca4aabf0b13c8730a75877c68c4d,GIRAPH-87,Improvement,Simplify boolean expression in BspService::checkpointFrequencyMet,,Major,100
+fcdfbb2d017afeda729d85e523617b977daeac6a,GIRAPH-150,Bug,PageRankBenchmark accesses wrong conf after GiraphJob is created,,Major,100
+33572a5e2325c8b15b2ed133dca337abb7c2e94c,GIRAPH-40,New Feature,Adding checkstyle enforcement of Giraph code conventions,,Minor,95.79929988
+f415db5bfc2d652729b6b572b979d668b695db51,GIRAPH-148,Bug,giraph-site.xml needs Apache header,conf and scripts,Major,100
+14ba88a5b9033589dab0d68847eb767251e5fec5,GIRAPH-139,Improvement,Change PageRankBenchmark to be accessible via bin/giraph,,Major,98.40881273
+c04f0511019aae9153faf56144adfd48ab8756bd,GIRAPH-143,New Feature,Add support for giraph to have a conf file,conf and scripts,Major,100
+f93aef50a810c4a29cc9ce7dddbe8d2f08a4947a,GIRAPH-142,Improvement,_hadoopBsp should be prefixable via configuration,,Major,99.63054187
+8733950c1e0e0a8474219d60472f115375278e35,GIRAPH-145,Improvement,Change partition request log level to debug rather than info,bsp,Major,100
+f0aafa835f6ca9e642c62042209db2264cefc2ba,/,/,    Updated web site with News and Release sections  both of which have items releating to 0.1 release.,/,/,100
+f3e4ae4e0a3c30fe486a3794b272eb9ca2efecca,/,/,    Forgot to update pom.xml to 0.2-SNAPSHOT.,/,/,100
+29d426e85e5cc860309f55d603417e852d6dd566,GIRAPH-130,Bug,Fix Javadoc warnings,,Minor,100
+f1270e72ae19a75d912276a7d4d32ef582299f0b,GIRAPH-137,Improvement,De-duplicate pagerank implementation in PageRankBenchmark,,Minor,99.87654321
+90c48cc779ced393082a227a15efe7302c3f101f,GIRAPH-133,Improvement,Typo in JavaDoc in BspCase::remove,,Trivial,100
+31c069a2f2736a657ac5844e1d59816472168090,GIRAPH-136,Improvement,Error message for bin/giraph could be improved,,Major,100
+3c42ffd6f0207ba4cfadb715bffc36d192496a21,GIRAPH-120,Task,Add Sebastian Schelter to site,,Major,100
+25dd7bdb16783adad1a8c101c574b81672fdce29,GIRAPH-120,Task,Add Sebastian Schelter to site,,Major,100
+e1f3e226e8b83cada968c9038532a8a09935818a,GIRAPH-117,Improvement,DefaultWorkerContext should preserve the method signatures of WorkerContext,,Trivial,100
+bd4fd423b52d446ac1f014760edd19e5d21ca3f9,GIRAPH-117,Improvement,DefaultWorkerContext should preserve the method signatures of WorkerContext,,Trivial,100
+d08d50c69bf11d0e8fcefe23f02a5d551769105d,/,/,    Turning on executable property on bin/giraph,/,/,100
+a7e2c4eda4e46f755e448f23861d27d2b1d924b3,GIRAPH-135,Improvement,Need DISCLAIMER for incubator,,Major,100
+782ce1ce8539d6f888b2bf129705fd8655086767,GIRAPH-134,Improvement,Fix NOTICE file for release,documentation,Major,100
+5e8567590610ebc074423acc01ae17ead3ef60f6,GIRAPH-128,Improvement,RPC port from BasicRPCCommunications should be only a starting port  and retried,,Major,99.75247525
+26443ace2800fe9414b41000bda309221e57a75f,GIRAPH-131,Improvement,enable creation of test-jars to simplify testing in downstream projects,,Minor,100
+abf8c09b0a75e59033e9b2515898256aeef8d369,GIRAPH-129,Improvement,enable creation of javadoc and sources jars,build,Minor,100
+17c1d5004cd37c6f9832853538a8d0fd71504fcb,GIRAPH-124,Improvement,Combiner should return Iterable&lt;M&gt; instead of M or null.,graph,Major,97.59615385
+1b2b416e0a85b7e04605f38a3e4b0826ceddba63,GIRAPH-124,Improvement,Combiner should return Iterable&lt;M&gt; instead of M or null.,graph,Major,100
+eb4c6dad6ca47dd43bf127f63870df8031fdfe72,GIRAPH-125,Bug,Bug in LongDoubleFloatDoubleVertex.sendMsgToAllEdges(),graph,Major,100
+ae26556d57519a204a3994dcb27e8de73cc7fd64,GIRAPH-122,Improvement,Roll version back to 0.1,,Major,100
+435369964f72d8ac46d5ecb4c5005b8bedc00975,GIRAPH-118,Improvement,Clarify messages behavior in BasicVertex,graph,Minor,100
+89c6c46d6bad15a15248984ca97f0ecde26194f2,GIRAPH-119,Improvement,VertexCombiner should work on Iterable&lt;M&gt; instead of List&lt;M&gt;,graph,Major,100
+f42169304bc3d96441c47edab8ad48fe3db572f3,GIRAPH-116,Improvement,Make EdgeListVertex the default vertex implementation  fix bugs related to EdgeListVertex.,,Major,99.76744186
+6bccbeeabd8fda0b9a0e97181c9deafbf254322b,GIRAPH-116,Improvement,Make EdgeListVertex the default vertex implementation  fix bugs related to EdgeListVertex.,,Major,99.18699187
+9bdb6a1d6ec46be56f977e42de95fdfd161476b8,GIRAPH-115,New Feature,Port of the HCC algorithm for identifying all connected components of a graph,,Major,93.42105263
+2d2978e9372c4e82cf340a91a30cd1acafa4901e,GIRAPH-112,Bug,Use elements() properly in LongDoubleFloatDoubleVertex,graph,Major,100
+0d86f680efc8ac1495fa32e97994b6428cca6f48,GIRAPH-114,Bug,Inconsistent message map handling in BasicRPCCommunications.LargeMessageFlushExecutor,,Critical,100
+e70cc4c292bf843c7de200890c1c6de268ccdd88,GIRAPH-109,Improvement,GiraphRunner should provide support for combiners,,Major,100
+1fad2e73ec10e8786bbef1808652ebabb759b5e2,GIRAPH-113,Bug,Change cast to Vertex used in prepareSuperstep() to BasicVertex,,Minor,100
+19751e620885811bb74b0d216c498da20a20c9a6,GIRAPH-110,Improvement,Add guide to setup the enviroment for running the unit tests in a pseudo-distributed hadoop instance,,Minor,100
+691ec3a822ae755663987f9f8025d9ab8db25607,GIRAPH-73,Improvement,A little refactoring,,Minor,100
+eef4edad2dbb0c81c9e18c05c7f52c8445ea63ea,GIRAPH-106,Improvement,Refactor prepareSuperstep() to make setMessages(Iterable&lt;M&gt; messages) package-private,,Major,100
+ed6fa69f870c7ba9180a31c64df1becff2d81e81,GIRAPH-105,Bug,BspServiceMaster.checkWorkers() should return empty lists instead of null,,Minor,100
+8d58aea002eed7d19bb182c18936e2ebf108116a,GIRAPH-80,Improvement,Don&apos;t expose the list holding the messages in BasicVertex,,Major,99.23664122
+3864a3fda7b8bebe540de02f8ced15f84fb3841e,GIRAPH-103,Improvement,Added properties for commonly used package version to pom.xml,build,Trivial,100
+55362a0288a233827dfae813df5df7151057c3f9,GIRAPH-57,Improvement,Add new RPC call (putVertexIdMessagesList) to batch putMsgList RPCs together,,Major,100
+23155f73edba89045ac3fa118657fbe06429aab3,GIRAPH-57,Improvement,Add new RPC call (putVertexIdMessagesList) to batch putMsgList RPCs together,,Major,99.22600619
+f0641eba1caa1eff71b00f7ebf2872c52b67ccc6,GIRAPH-104,Improvement,Save half of maximum memory used from messaging,,Critical,99.21875
+46fcc38f3ef21506abb0ed92e1dc8f45b9667db4,GIRAPH-10,New Feature,Aggregators are not exported,,Minor,98.41269841
+a6ad0ca16a02b8cc82c5aeb53137f6a90a6cf3d3,GIRAPH-100,New Feature,Data input sampling and testing improvements,graph,Major,91.91489362
+517b8d4ddf9b8439dd853294509bcd7afa75bb0a,GIRAPH-51,Improvement,Provide unit testing tool for Giraph algorithms,,Major,96.58952497
+9d3d7e8fc94f45449a27f303406ca93d56e79bf6,GIRAPH-84,Improvement,Simplify boolean expressions in BspRecordReader,,Major,100
+fe9d9dd7ca90ab7cebb8cbceea05695a135061f5,GIRAPH-98,Task,Add Claudio Martella to site,,Major,100
+d6bfcc48eeeb6012f935601eb427e14c4673bf50,GIRAPH-99,Wish,Make AdjacencyListVertexReader and its constructor public,lib,Minor,100
+48d72c7fa9b6912afd71299ba8e49bf03f43ce8e,GIRAPH-98,Task,Add Claudio Martella to site,,Major,100
+4351491c6c7d1e00492cc36438824b6340cbdc66,GIRAPH-97,Bug,TestIdWithValueTextOutputFormat.java and IdWithValueTextOutputFormat.java missing license header,,Trivial,100
+2915a7e50a27b816c1570b6422a841cd818255c9,GIRAPH-92,New Feature,Need outputformat for just vertex ID and value,lib,Major,95.81699346
+aace0a237e41200b755c7411381491ef2caa6d1b,GIRAPH-86,Improvement,Simplify boolean expressions in ZooKeeperExt::createExt,,Major,100
+539f2b864205eb52374844fbee1a019f4c276dab,GIRAPH-91,Improvement,Large-memory improvements (Memory reduced vertex implementation  fast failure  added settings) ,,Major,99.10581222
+16a377981ce6c98deb436fde13dff77cb04b2256,GIRAPH-89,Bug,Remove debugging system.out from LongDoubleFloatDoubleVertex,,Minor,100
+3e65823def5d984b4199d6e16eb1c556d1f180b7,GIRAPH-88,Bug,Message count not updated properly after GIRAPH-11,,Major,100
+9b047d403b799b6187ebcaf1aa635b67c64fbc8c,GIRAPH-70,Bug,Misspellings in PseudoRandomVertexInputFormat configuration parameters,,Minor,100
+0b4223997328a7a12ac809a4c0509126ec8d0a8d,GIRAPH-58,Task,Update site with Arun Suresh&apos;s updated Id and Email,,Minor,100
+db028f58017bdeb1f2e9f7c2a441195db0056767,GIRAPH-11,Improvement,Improve the graph distribution of Giraph,,Major,84.81228669
+3c869cc934ae7ee079aaaa89d8b1aacbe7171561,GIRAPH-64,New Feature,Create VertexRunner to make it easier to run users&apos; computations,,Major,99.6031746
+c6e1efc80ca7d2b02e60f2c86476013f93cbd7ae,GIRAPH-79,Task,Change the menu layout of the site,site,Major,100
+096a16d387f87ced029d13a628794a935633d0cf,GIRAPH-75,Improvement,Create sections on how to get involved and how to generate patches on website,,Major,100
+d9c9522c20b68a9d7e4171dbf4ffb82abfb79e40,GIRAPH-63,Bug,Typo in PageRankBenchmark,,Trivial,100
+5acfb92b96614e93b00a62dcfb82bd6ef0e3b3ce,/,/,    Changing jake.mannix to jmannix (apache login),/,/,100
+975c3e1c81475ca506b2174ef396b22670a1268c,GIRAPH-47,Improvement,Export Worker&apos;s Context/State to vertices through pre/post/Application/Superstep,graph,Major,96.66011788
+3900b2fe9cf35846e6a996177e89cacc462a4781,GIRAPH-71,Bug,SequenceFileVertexInputFormat missing license header; rat fails,lib,Major,100
+261d29d95d51eb9acbccff1df579208966c418f1,GIRAPH-36,Improvement,Ensure that subclassing BasicVertex is possible by user apps,graph,Blocker,95.08196721
+c63e2078ff7acd09bc35a6f639b431327b35c0c7,GIRAPH-50,Bug,Require Maven 3 in order to work with munging plugin,,Minor,100
+9e30d2abae57fdaaaf21b710b77d9b52e587a88b,GIRAPH-67,New Feature,Provide AdjacencyList InputFormat for Ids of Strings and double values,lib,Major,99.12280702
+873a00cc383ef9a99c6e28bf4735db1c75f40473,GIRAPH-56,Improvement,Create a CSV TextOutputFormat,,Major,98.88143177
+33bd9c0ffbca05f40cdafe5f299b06bf94807c86,GIRAPH-56,Improvement,Create a CSV TextOutputFormat,,Major,100
+9ca2d29f11aa98e6795f329b702f0f284bfd0e6e,GIRAPH-66,Improvement,Add presentations section to website,,Major,100
+5573a00919fe0a900a42492c0bd9f5c8d807e25b,GIRAPH-62,New Feature,Provide input format for reading graphs stored as adjacency lists,lib,Major,98.62385321
+7226aba42f158a422ad77f38212ccfbda70a62c6,GIRAPH-59,Bug,test is debug enabled before LOG.debug()  so as for LOG.info(),,Minor,100
+c69d5447806e9442fb7caa5fd8d652b652e84239,GIRAPH-48,Bug,All tests failing under non-secure build,,Critical,100
+1449d77c412289e555666967f368bb1e75930cf2,GIRAPH-44,Improvement,Add documentation about counter limits in Hadoop 0.203+,documentation,Minor,100
+cdd6422c6c252e7fbb2cd28128f2f1d9c4e57664,GIRAPH-12,Improvement,Investigate communication improvements,bsp,Minor,100
+70a811203df88e5afbe189aac2b0390449cf3341,GIRAPH-46,Bug,Race condition on superstep 1 with RPC servers not started by the time that requests are sent,,Minor,100
+491c8e53e1a2b8f00085b502582f4e0694175fa6,GIRAPH-21,Improvement,Revise CODE_CONVENTIONS,,Minor,100
+7bde967c89efe4b57b4409257b59938dccae8767,GIRAPH-39,Bug,mvn rat doesn&apos;t like .git or .idea,,Major,100
+ef4d6d4c86ada606ab3ac209762156b7fa148863,GIRAPH-32,Task,Implement benchmarks to evaluate the performance of message passing ,benchmark,Major,98.1981982
+2ebee1e253707cecb80407a52fbf1125dab14fa4,GIRAPH-38,Improvement,Change of website in team-list.html,site,Trivial,100
+9dd9af5294cca4ef0e4a19ec4829294b2a5d850f,GIRAPH-34,Bug,Failure of Vertex reflection for putVertexList from GIRAPH-27 ,,Major,100
+7c637182d973e21d7feb136326a97b88f27c3827,GIRAPH-35,Task,Modifying the site to indicated that Jake Mannix and Dmitriy Ryaboy are now Giraph committers,,Major,100
+34dcec58612d4c189815e41aef87b50058491ed4,GIRAPH-33,Task,Missing license header of GraphState.java,graph,Trivial,100
+183a812d509b0133f32941337e09ae3fa3d68cec,GIRAPH-31,Improvement,Hide the SortedMap&lt;I  Edge&lt;I E&gt;&gt; in Vertex from client visibility (impl. detail)  replace with appropriate accessor methods,graph,Major,97.00854701
+ea0c721e8dbdcf88e5e36103f7da7f69ab4a8da0,GIRAPH-30,Bug,NPE in ZooKeeperManager if base directory cannot be created,,Minor,100
+d0bb2a9a377bd78990736f858d57504befc95421,GIRAPH-27,Improvement,Mutable static global state in Vertex.java should be refactored,graph,Major,100
+ab9a2c89c5f39ac2cc5d3ca51714fccb10dbc00c,GIRAPH-27,Improvement,Mutable static global state in Vertex.java should be refactored,graph,Major,94.16195857
+dfc210bf549d618124d4b9195bf7de37c4533c78,GIRAPH-25,Bug,NPE in BspServiceMaster when failing a job,,Minor,99.14236707
+96c0e3db0037c492d738a10b85db5bb894476ebe,GIRAPH-19,Improvement,Create a CHANGES.txt file,documentation,Major,100
+95b491e43ad9bf459f281158d9c152cc3b291dcb,GIRAPH-24,Bug,Job-level statistics reports one superstep greater than workers,,Major,100
+c1363f6d23839a65179e310e1415a368d65bdc59,GIRAPH-18,Improvement,Refactor BspServiceWorker::loadVertices(),,Major,100
+91e6d264d71d5d5567f41c16a5410a6adf21131f,/,/,    Add a blank line between changes.,/,/,100
+5560a6d07b636828a013b22b5949946dc8712883,GIRAPH-14,New Feature,Support for the Facebook Hadoop branch,,Major,100
+012448179e513f641bec96bb9b9f8e60a4873072,GIRAPH-16,Improvement,Add Apache RAT to maven build,build,Major,100
+158fd55769c86a5b238b8b0a95febed5b4175787,GIRAPH-17,Bug,Giraph doesn&apos;t give up properly after the maximum connect attempts to ZooKeeper,,Minor,100
+5f7be716fe2a49b168a936774f1f0db02874d4c6,GIRAPH-2,Task,make the project homepage,,Major,100
+7400aa989d6faf83782eaad4cefb6e00d859a5f0,GIRAPH-9,Task,Change Yahoo License Header to Apache License Header,,Major,100
+71d2a937dada4a1032a5ae848dd5d73b20ab349c,GIRAPH-6,Bug,Remove Yahoo-specific code from pom.xml,,Blocker,100
+fe5485ca454c1b157d89d55430374dac64eec72d,GIRAPH-5,Task,Remove Yahoo directories,,Minor,100
+c3603e817d59ae2f3f05371bd03ea78e167d9fc5,GIRAPH-3,Bug,Vertex:sentMsgToAllEdges should be sendMsg,,Major,100
+759c1532dc7d4180fc136678f68a5953c89d04ed,/,/,    [Bug 4752102] Help with debugging by displaying the master partition,/,/,100
+231c5a3c24c37ba90935a66c194643afc94e3ac8,/,/,    [Bug 4730055] Backwards compatibility with Hadoop 0.20.x.  Use Base64,/,/,99.48275862
+13e034ddc9180974eb96e9c312afbaee7a24c6eb,/,/,    [Bug 4729928] - VertexCombiner should allow for no messsages to be,/,/,100
+6f434710c5efe26b94da5915fbcbb699c150bd76,/,/,"    Reorganized the order of ""input/output format"" / then ""reader / writer"".",/,/,100
+b46a71ae5c6fa016a2cef9cb72bc0b13607e6f9e,/,/,    Failed to run Giraph test on standalone Hadoop and Zookeeper (reported,/,/,100
+d3a3745435c0157f6dc4ea5f49b3300d2829dacd,/,/,    [Bug 4726010] - Add full single source shortest path example for,/,/,98.02867384
+70905bc0e29d99a11312c7f2c628f8998fa0427a,/,/,    Add capacity scheduler-specific conf values that must be set for each,/,/,100
+2b711d06e8960d3313d9efca87f02771e98ee40b,/,/,    Provide more detailed status messages in mapper initialization ,/,/,100
+8cf047c71ebbf2bd72c324b2733f3ec8e7e77d9c,/,/,    [Bug 4697659] Better checkpoint frequency checking and some code,/,/,100
+7fc6783ee689472a614df5b354b9494559a93a36,/,/,    [Bug 4697659] First user superstep now starts at 0 instead of 1 (bad).,/,/,99.24528302
+bdf0ca1e0b7aa48234dcd0241ba95036030a5d0c,/,/,    [Bug 4697625] Downgrade non-essential messages for large-scale,/,/,100
+568b160360d303ceba0366df415079ad304ff2d1,/,/,    Increased the number of connect attempts to 10 for ZooKeeper local connection.,/,/,100
+5041f04409079e8823313eb885139edfcdae21ae,/,/,    [Bug 4678093] Change behavior of graphs to wait until all vertices are,/,/,97.46376812
+2b4801a84254db61f76511b1f58acd622277db91,/,/,    Added warning for when trying to create a vertex that already exists.,/,/,100
+f18ae3f9b70cc9ef17487b3aed196383728d5ffc,/,/,    5 tries of 500 msecs is too little.  Increasing to 10 tries for slower,/,/,100
+9112ab1c1c8a1fa4a5896e341b6a9a119383d5c2,/,/,    [Bug 4690823] - Added JSONBaseVertex(Input|Output)Format. Test for,/,/,93.79844961
+54f4654a8298aae874044c94ecb1db5e800720e9,/,/,    [Bug 4660931] Fixed PseudoRandomVertexInputFormat to not generate,/,/,100
+9341781624ac9adda74d5bb9a6d2a4ddf58a2730,/,/,    [Bug 4672986] VertexIndex is now base64encoded for use in JSON ,/,/,98.87640449
+0085f978d15b2cce81a1bc95ac8b8977375d9239,/,/,    Fixed an issue with clover (illegal start of expression).  This is a,/,/,100
+828c61581c9f63529664ae4648948d786e52c79a,/,/,    [Bug 4671181] Implicitly determine and check type arguments  fix page,/,/,89.58837772
+4c3842bc6a4f383683f792e9b1148f42bb7fc41d,/,/,    [Bug 4657733] New predicate unittest.,/,/,98.2278481
+d25497a3612c07ac0b355d30f0f663535dde2a96,/,/,    [Bug 4657733] Removed source encoding mvn warning  added,/,/,100
+0990ee01b83a71cf07232d704d8d7bb9f29f1a73,/,/,    [Bug 4657733] Fix pom.xml warning  address many findbugs errors  fix,/,/,100
+692341d8ae8142302acd0c7315794ace4a659e08,/,/,    [Bug 4657519] - Add Apache headers  make convenience methods for,/,/,94.47368421
+2b3ed7f36ec79aa70637737cb84edb0ceb21710a,/,/,    [Bug 4646677] - Implement proper VertexOutputFormat.,/,/,89.48948949
+14d06fc1bb85eab4ac080fe04dc10e2682557c8c,/,/,    Initial README file.,/,/,100
+959be9fa510a390e177442f647f80c83d82e6ada,/,/,    [Bug 4644859] Cleanup of m_* member variable names.,/,/,100
+092fba02e06639507e420af7481ffd0ba92a5d7d,/,/,    [Bug 4644859] Organize the code into bsp  comm  examples  graph  and,/,/,33.01587302
+22f425e04e579f94fa96b5b822676756150a2f52,/,/,    [Bug 4644859] - Remove com.*.,/,/,100
+40169f816c5671850cac535d71b0c8e849d5d2c9,/,/,    [Bug 4644859] - Change to org.apache.giraph.,/,/,11.21495327
+60c1fe480fd8549668d55d8f57ba1f972fff3d8c,/,/,    Remove extra line.,/,/,100
+594798dc176216f10fc08aa21b324e08027bd56f,/,/,    [Bug 4644859] Initial fix for many of the find bugs issues in Giraph.,/,/,98.13084112
+135aaa6fdf968827e72e95ddaaf47e128b2ccba4,/,/,    [Bug 4620266] Follow up on strange compilation error.  Static methods,/,/,96.50145773
+767ef9c1d9c4c3e3806674ea24e1cfa92e9a02cf,/,/,    [Bug 4620266] Forgot VertexResolver interface.,/,/,97.07602339
+3023be9d79b40f0e1cd1c59bab5128f989f49c6a,/,/,    [Bug 4620266] Make graph mutable and add Edge class.,/,/,88.53503185
+d2e6f8b61fd410227e50f8ba98d7633e780b943b,/,/,    [Bug 4620055] - Improve HadoopVertex accessibility (safer for users).,/,/,100
+52ffec9114f264da2f9a04e20a948cfe59577f0a,/,/,    [Bug 350346] Automatic worker failure restart.,/,/,95.27027027
+298302e63283c77a99803de0971a50fd6286ddf7,/,/,    Fix indentation and removed extra last line.,/,/,100
+64d1772115943514281c3a1460c329b0ae03b37e,/,/,"    [Bug 4412904] Changed ""bsp.vertexInputFormatClass"" to",/,/,100
+cfe104b77430640cea5eadd0f5561ee4fdc80fe5,/,/,    [Bug 4412904] Checkpoint directory should be cleaned up when jobs,/,/,100
+0b2ae8ac61188435d68defd2df2e85f15b87e12a,/,/,    [Bug 4546914] As part of the hadoop RPC import from Christian  I,/,/,99.28571429
+02712b5c5313b244d633b245a86db86396a20921,/,/,    [Bug 4546914] As part of the hadoop RPC import from Christian  I also,/,/,98.18181818
+cf8218adfd75ec77f3c503a89a723c5e1b8060e2,/,/,    [Bug 4546914] As part of the hadoop RPC import from Christian forgot this file.,/,/,98.55072464
+d87286c20aed61d8153fbbe9446cc337f9a48b63,/,/,    [Bug 4292976] Determine Java code conventions to use.,/,/,100
+7a9158c416ede7ee7fe8fe0ae1feeb9203f16204,/,/,    [Bug 4546914] Integrate Christian's security changes into the trunk to,/,/,100
+5292c383572442f772705ccb47a40f9c1e132061,/,/,    [Bug 4556624] Split master gets null pointer exception  RPC port,/,/,100
+7029c40c451c0a44ac25375c1027f3517555baef,/,/,    [Bug 4550887] Fixes terminatation when there are no input vertices,/,/,100
+3645af5c33ee74588ba395c0de76a0633d7505c4,/,/,    [Bug 4546928] Removed BSP_INPUT_SPLIT_CLASS and uses the correct,/,/,100
+443ffd7308eee17b44d5afa04647c22e881490f9,/,/,    [Bug 4503032] Added LICENSE.txt and NOTICE files as per apache.,/,/,100
+fb921be550516573b79da5c57d559d08800d354f,/,/,    [Bug 4537681] - Fixed communication bug  added a Tool implementation,/,/,98.93238434
+9587d63012a9ca63dc0cf35b042bceb09e73eaaa,/,/,    Updating pom.xml for export/target (secure hadoop) and also moved configuration of mapreduce.job.credentials.binary to BspMapper [ckunz],/,/,100
+ef7865d50d28487172e4357531dee1b8ef9641f6,/,/,    [Bug 4429298] Add support for automatic balancing of number of vertices/edges [ckunz],/,/,94.94584838
+ae04021c1c7c173e85e009e425556b63023290d4,/,/,    [Bug 4409648] BSP_ZOOKEEPER_DIR  BSP_ZOOKEEPER_MANAGER_DIRECTORY  and BSP_CHECKPOINT_DIRECTORY should not have defaults in /tmp [ckunz],/,/,100
+083662a120778820dca5d6f7c30a514c080b3dd1,/,/,    [Bug 4409648] BSP_ZOOKEEPER_DIR  BSP_ZOOKEEPER_MANAGER_DIRECTORY  and BSP_CHECKPOINT_DIRECTORY should not have defaults in /tmp [ckunz],/,/,100
+969a81b999ee5c46f2753d2fa10403bfdb1d8176,/,/,    Excluded RPCCommunications.class explicitly from export to secure hadoop [ckunz],/,/,100
+a3c275fc6d299f7f03b4615877ac1b43a1e0b6ce,/,/,    [Bug 4395666] In hadoop_bsp  ZooKeeper cannot handle more than 500 clients [ckunz],/,/,100
+de2bfb187d00668d4d35c23dba5f09aed2e2669d,/,/,    Updated a comment [ckunz],/,/,100
+467358e8f191748521c6c4057874c06d2253fdd0,/,/,    [Bug 4395665] Ensure that synchronization objects are stable [ckunz],/,/,100
+ad73a48489037f3f5d7049487b6693215e4e94fc,/,/,    Fix target file location.,/,/,100
+64127a100e51f75864d1fcb1251aab805dd14544,/,/,    Be sure we exit with 0-status on success,/,/,100
+0358c02788cf16c78dc20f7a63fcc5ab1e8b8cfd,/,/,    Add <reporting> section for build reports.,/,/,100
+04e2336d92881aaa5aba3d2985fc1e0a2f75e8b2,/,/,    Add svn:ignore for generated .java files.,/,/,100
+38fc0178e57a1f92939e764f308d7473f949fa45,/,/,    Added YICF and long description template,/,/,100
+999fb470fd47299f401347125e859dc5f7fc10ff,/,/,    Add CI infrastructure.,/,/,100
+a467f8b58519de0d7c422f3a366066c8fd6b47a2,/,/,    Add ci tools directory.,/,/,100
+73614f3091fad6fa7a90ed3d81d2116b18207a63,/,/,    [Bug 4350337] Allow workers and masters to run on seperate tasks,/,/,98.51851852
+b101155a23c9abd1c69e063aa81d5f09024726d1,/,/,    Reverted back unnecessary changes [ckunz],/,/,100
+277d8be7087ee7c889c562d832eeb6e82ed479f3,/,/,    [Bug 4348997] prepareInSuperstep needs to be done between the 2 barriers [ckunz],/,/,100
+78b69b7284d01b158ba115d17ac619349e662eee,/,/,    [Bug 4336519] - TestVertexReader bug  mvn package broken  naming,/,/,68.99224806
+bf5d00836e1926eac6b052cc785455e6612ba9ac,/,/,    Fixed unreadable character [ckunz],/,/,100
+599eb6e7924947bf4a51e30b74d339ae4cf6bf4d,/,/,    [Bug 4334354] Vertex instances not always created with configuration [ckunz],/,/,100
+459ffcf1c47792734b8a632658cc974afb4fffcd,/,/,    [Bug 4280604] Forget a couple of backports to CommuniationsInterface.java.in.,/,/,100
+c1337f2fac308ac34e2cd9bf9f776b927a10db71,/,/,    [Bug 4280604] - Vertex ranges can be dynamically moved from worker to,/,/,86.50793651
+6046590933f7484ebc79be98ebfb4f0a5243f14d,/,/,    [Bug 4312018] Sometimes the wrong jar is used [ckunz],/,/,100
+33ebdedd889667cbbeec6bcab8072f1babd3b53d,/,/,    [Bug 4311996] Add superstep counter for display in JobTracker [ckunz],/,/,100
+7aa3db4f2c0faf87acac71b984ece2bfcce85cc8,/,/,    [Bug 4295982] - Unittests fail when running on local Hadoop and 3,/,/,100
+fb284bb86acac6b467a0094a55c88e248980d0e3,/,/,    [Bug 4292781 - User can chooose/implement vertex range assignment,/,/,91.56626506
+b1c245e36b797d6d3d515a46fdc5101e8ef806dd,/,/,    [Bug 4290430] Improve failure detection [ckunz],/,/,98.32635983
+7a287df9212439f896cafc8cf48e5692ab1ec191,/,/,    [Bug 4286473] General purpose ArrayList Writable class [ckunz],/,/,93.80530973
+2ee8562cda6ecf832424075444ef375ebee9c8e1,/,/,    [Bug 4286246] - Zookeeper clients should start connecting after leader election [ckunz],/,/,100
+2a378903d878eaa0d7b1253f285decd9aacde071,/,/,    [Bug 4284295] Clean up pre/post application/superstep vertex calls to,/,/,93.01310044
+e0e3bd77e65f653d6392b682a622d05a3a9f1b4f,/,/,    [Bug 4280289] Add vertex interfaces to be called prior/after,/,/,97.08333333
+7f19e47843d43aabd192683269b1d066784e907b,/,/,    [Bug 4278025] Use JSON jar from maven and remove source files [aching].,/,/,85.01628664
+66b98781a2bf48ec6c71cf9e880531698fb4e540,/,/,    [Bug 4204446] Implement manual checkpointing [aching].,/,/,95.84487535
+3659e9ab52b7f6470830d07c535a025837e0e7ac,/,/,    [Bug 4267090] BSP with more than 1 ZooKeeper Server does not work [ckunz],/,/,100
+53526155e5995dfc023cc791935071af3c112a6f,/,/,    [Bug 4229286]   Implement Aggregators [ckunz],/,/,93.56913183
+c51001b0afd2764a9d08638f1f801f3ac7553bf9,/,/,    [Bug 4228524] Add check for multiple partitions in test case  made,/,/,100
+afd12098e921f4f6c0834e47c88b9efc2182ed9b,/,/,    Changed index to WritableComparable [ckunz],/,/,100
+e08b8f97d3776f8c80ed3efdd8062b09fc50b5f2,/,/,    Fixed the partition dependency of rpc clients [ckunz],/,/,100
+5b03ce3abefe99f7e2d8533fc4fa5134080ef1e7,/,/,    [Bug 4229403] - Implemented ContextLock to handle issues of,/,/,99.27007299
+7c162fff0837d77c9f981be0f10c8e15551e5dbd,/,/,    [Bug 4228524] - Implemented splitting of inputsplits into smaller,/,/,96.26865672
+daabf948530d048ac5d200fbcb99a0b9a82fcf4d,/,/,    Disabled export temporarily [ckunz],/,/,100
+5ed96f4fd93398ff74363e12004b1f6e5a29dc15,/,/,    Got rid of some annoying and redundant exceptions from closing down RPC clients [ckunz],/,/,100
+a8c64fe62b8e4ae1f9393c9f66789eac6ea8ab56,/,/,    [Bug 4225634] - Create support to export a library of hadoop_bsp without RPCCommunications [ckunz],/,/,91.51943463
+4675575bedae0b9df282c83bd9ed57eebd0615e2,/,/,    Temporarily reverting because WOOSR is not in ymaven repositroy yet [ckunz],/,/,100
+f1226b7d8d0cd6f55151493be5fa90a06c64b43c,/,/,    Automatically created from CommunicationsInterface.java.in [ckunz],/,/,98.7012987
+2932af3b95acfee04e04befbf137983af22344a5,/,/,    [Bug 4204441] Implement combiners   RPC improvements  and some miscellaneous changes [ckunz],/,/,92.30769231
+9249661c91077205bdc2dc7808df9ea10b97b889,/,/,    [Bug 4207431] - Improve next() inteface for VertexReader to make,/,/,96.1414791
+a784ca5a1fada89fbdaead2ff3461354bcf722b1,/,/,    Scaling improvements  also added library support for VIS including RDF format and CCM [ckunz],/,/,93.79084967
+f965d0207414d856cc6700475888cd9a8f068a21,/,/,    Adjusted package names [ckunz],/,/,100
+b01812e7af9932e839e36e3c870653ca8357ec64,/,/,    Moved VISVertexReader.java VISVertexInputFormat.java VISVertexWriter.java  from examples to lib in src/main/java/com/yahoo/hadoop_bsp [ckunz],/,/,95.62043796
+51499677db577eadf772dfcbe994913a19096105,/,/,    [Bug 4196328] Zookeeper startup improvements for java and jar files [aching].,/,/,100
+07048640b08c4655cb3d3e94a246fc770a9f8440,/,/,    Fixed some indentations [ckunz],/,/,100
+ea0a8d9165630f99fa1b8cea066c39a19f21b1ff,/,/,    Delete the files commited by mistake from eclipse [ckunz],/,/,100
+40d7371a16969b9b4b2de13671e1be32a0416d2b,/,/,    Indentation cleanup,/,/,100
+29b4f4d5d4173ab0288e42b6dd5a06a2392d486e,/,/,    [Bug 4171388] Create interface VertexOutputFormat and at least one default  [ckunz],/,/,92.4
+ef1f504ac1d53746f8abaf1ce7b3e53b022e9863,/,/,    [Bug 4188630] Moved the ZooKeeper coordination directory from /tmp to,/,/,100
+6a88ba8bcf988f4ed3b26eece530bf24ce82e751,/,/,    [Bug 4183700],/,/,98.2300885
+b391321fbb36f60b37fb4821d9548d23d2cedcd0,/,/,    [Bug 4180448] Suspects that the ZooKeeper fails to continue when the logs can't be,/,/,100
+6383eaf79b511997acdc1ba69119b9c90156a7db,/,/,    [Bug 4180317] ZooKeeper will shutdown when the job fails. [aching],/,/,100
+80395c05fc5f830687d52d96bfb12730bdca179c,/,/,    Implemented the TestPageRankVertex (from Pregel paper).  Implemented getTotalVertices()  size() from OutEdgeIterator as convenience,/,/,98.66071429
+8c8cb8b0132c2416279a52da47b0015120496a09,/,/,    Changed edges to have both an edgeValue and a destination vertex (new).  Added new Interface OutEdgeIterator to iterate,/,/,98.17351598
+4f92d5e097ae75da60b7e96695fb92438d4c0717,/,/,    Main change is integrated the messaging support and tested it in TestMsgVertex.  Renamed TestSuperStepOnlyVertex ->,/,/,95.30516432
+1f19e8c99625f5326197032444dcbbcfd394d758,/,/,    Fixed a bug in the childrenList being used when it was null.,/,/,100
+9de7ce118f3ac0de74799018f23ee69aaa1422f7,/,/,    Start the communication service in BspJob after the initial (-1),/,/,100
+f01c4c502c3396f50ee4efe23650b94f6e62ed77,/,/,    If prop.zookeeper.list is not set  no ZooKeeperExt tests will be run.  In the future  ZooKeeper can be started on the fly to do these tests.,/,/,100
+d93b5525c4769595f4a2bf5fb4e0fde02908c04b,/,/,    Choose a zk list from a system property,/,/,100
+565e84d7f51058da6dbcc5c9aecccf8047c43d94,/,/,    Added features to build a jar with dependencies.  Set the jar location in maven.,/,/,100
+97d87dfb664c691de2ff9833f9021e899558cd5a,/,/,    Biggest feature is full implemented of a ZooKeeper startup/shutdown policy on the fly.  The servers are chosen on the fly and everyone is made aware of them.  Cleanup is automatic as well upon job success.  Features were added to allow the junit tests to be submitted to a real Hadoop configuration by setting VM system parameters.  Moved the TestSuperStepOnlyVertex class to examples.  Added new master cleanup (to get rid of znodes and files).  Changed from mapred.task.id to mapred.task.partition since its cleaner.,/,/,97.6076555
+d1e8d87ca379679720fa03595dfb92149c30f916,/,/,    Couple of beautifications [ckunz],/,/,100
+c2e211bc66d4055a55e6b3c637c7c9bf17fd7f22,/,/,    Adding local RPC service to test case  with improvements [ckunz],/,/,100
+913ea4d0b914fa87edd5e4719eeb9d4a11de4320,/,/,    Added Communication Service [ckunz],/,/,97.53694581
+c2b577b7fdb8c0b4afb6b8392eb79fde605a2511,/,/,    Got rid of a bunch of warnings with suppression.  Added initial support for starting/stopping zk on the fly.  Added new CentralizedServiceMaster interface that the master will use (safer then using BspService directly).   Added new TestVertexInputFormat and TestVertexReader implementations as example.   BspInputSplit knows its inputsplit id and total count.,/,/,88.82681564
+edec3a8a77bc39d1d364a22eb45e0c21e952a5fe,/,/,    Initial Partition support is added (everyone computes their maximum index and saves it to ZK).  Parameterized CentralizedService to allow any index type.  Added missing sendMsg() interface.  Fixed VertexReader to take in a set of edges  rather than a single edge.,/,/,96.22641509
+638e38557b424c4860955b89321f18173b347e36,/,/,    Cleaned up some warnings.,/,/,100
+e723f662b8e65da90e2274ff9f2ea2fe31d6de48,/,/,    Can run superstep computation that doesn't do any messaging.,/,/,94.19354839
+ce688fa32d12c794d66d62bd052d1c5d677b6f1c,/,/,    Test cleans up itself. Virtual ids are assigned.  BspService can run to completion.,/,/,100
+e74ad53c3ce15ba7788601ca909d8d9439a0dfbc,/,/,    Added new ZooKeeperExt test.,/,/,97.31543624
+be7460d372f5831081dc7b908c4d69b395699f8c,/,/,    New stuff (added zk functionality  master functionality etc.),/,/,97.91666667
+b17c6eb89da8932d7bf389d512f3a91cf0e8dcf0,/,/,    Adding JSON helper classes for storing data in Zookeeper.,/,/,63.46153846
+28014fc270784cd2c4955a5d8971475da5eb7d4f,/,/,    Updates to add initial ZK functionality.,/,/,71.15384615
+9bf4077fc5dd301587f23a0f84b92ac1d2f4bece,/,/,    Make modifications to allocate as many map tasks as desired.,/,/,77.41935484
+fc0585a7163d6bec473b2acc5d1c352fb8272fbc,/,/,    Overrides Job.,/,/,80.95238095
+699287bbd92d3d832254916b2f358b34d88c372b,/,/,    Embedded the TestBSP in the test.,/,/,80.95238095
+790761a8a9660d2097028b14472db66569218e1d,/,/,    Removed all test files.,/,/,79.31034483
+20e3f4f2e1302fb517ec6fd28c936d702b9c018a,/,/,    Added the zookeeper and hadoop dependencies.,/,/,100
+b82f832098344d3c38241ba9d5848b94c678bc55,/,/,    Updates.,/,/,74.07407407
+6b653c71f2fc8e408edeca4e9081df3fb7463329,/,/,    Fixed package,/,/,31.22923588
+3802e1db9e8ad7aa12facb0643840a1c722c19f8,/,/,    Test svn access commit [aching].,/,/,100

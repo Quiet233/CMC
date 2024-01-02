@@ -1,0 +1,618 @@
+41f1a91b0febd163e134948c5cb5f290a3d7198e,DATAFU-168,Improvement,Support Spark 2.4.6 and up - fix collectLimitedList compilation,None,Major
+6ec53f2a499b0f19f6fb56de338d6ecde046e763,/,/,    Merge pull request #40 from sebbASF/main,/,/
+c8923ccf3be3fa7760c62b870efa7354b606441a,/,/,    Fix DOAP following graduation,/,/
+460ac2a3f2be8964d04cb8cded15bf7af119526c,/,/,    Fix maven badge in README,/,/
+6f383e0a88d8940b24bfe9e82e174b67fe9fc970,/,/,    1.8.0 release of datafu-spark,/,/
+06160824d0aea8e3f6e6f2df3103210aff77a82e,/,/,    Update changes.md for 1.8.0 release,/,/
+25aebbd6a48f616e7bd8b571cecb24ef6dc1d9f1,DATAFU-167,Bug,Fix Scala Python Bridge support in Spark 2 minor version updates ,None,Major
+2719ed7f072de002524c59b5c9e95318ce3fabff,/,/,    Post release cleanup in site and build,/,/
+992e126eada0829cd2c75b6cac8da582e8194067,/,/,    Bump nokogiri from 1.13.6 to 1.13.9 in /site,/,/
+98d7508aa5e62483745375735186173d79c309bb,/,/,    Update site for 1.7.0 release,/,/
+e4f3359f4463b1f5b42aa62c9e7aff6cd641fcf1,/,/,    Preparations for 1.7.0 release,/,/
+649955e1eab9ddf51e77017a648e1b75c9b909e6,DATAFU-171,Improvement,dedupWithCombiner to support Cols list in the order / group by params,None,Minor
+0b4d1327bcedee9da12c4c74412de2595f69ec27,DATAFU-170,Improvement,Improve broadcastJoinSkewed function,None,Major
+96b83a8eaaf026fea20f64c8c7e04851fa0c4ce5,/,/,    Minor fixes after master branch rename to main,/,/
+32257d8333a79390a0db9ee52d87bc1d1c94da05,/,/,    Update testing script and testing library versions,/,/
+a304691ea16cb47711546658663bdc7833de5635,/,/,    Merge pull request #31 from arpitbhardwaj/log4j-upgrade,/,/
+ ,DATAFU-162,Improvement,Upgrade Log4j version,None,Major
+e0e9e6c20444ac17dc15ff513abf1805db14de57,/,/,    Log4j2 Upgrade,/,/
+d1798cae64f108d178589409a1ef74feeb55a32f,DATAFU-163,Bug,explodeArray method not exposed in Python,None,Minor
+4e3661481c2f37a96a5c30285d1d0b1a5d10e3d0,/,/,    Add badges to README.md,/,/
+3bc8f60fb3c57ef95501b466431238658505518b,DATAFU-165,New Feature,Add collectLimitedList and dedupRandomN methods,None,Major
+705fda39156b1a3c48754d7115be207339544790,DATAFU-166,New Feature,Drop support for Spark 2.1.x,None,Major
+b564cd59c05dc8f27b523ee05867ddfd71d3f63f,/,/,    Merge pull request #27 from uzadude/broadcastJoinSkewed,/,/
+d20ed8c7ff0b2096f21f697cf9c58e1517029576,/,/,    Merge pull request #28 from apache/dependabot/bundler/site/tzinfo-1.2.10,/,/
+608dd46b134336a6acfe614cf917a59da414d323,/,/,    Bump tzinfo from 1.2.5 to 1.2.10 in /site,/,/
+d018dadda8ce154b505a198e04b7563afab6da1d,/,/,    fixed test,/,/
+670feb3bdad2c39d3243e12f6d3ca83669101046,/,/,     Added count filtering option to broadcastJoinSkewed,/,/
+b01d2cf739d5d9d854321f6e1f7d850afac5152f,/,/,    test pull requests on GitHub automatically,/,/
+e33b15a0fde1578a5e51407b78fb71ea410696e9,/,/,    Merge pull request #23 from apache/dependabot/bundler/site/nokogiri-1.13.6,/,/
+274e9d9957fd81a12883c97f0f5efa3379395e98,/,/,    Explain how to develop DataFu with Intellij,/,/
+4d663b1f47e21b0535f07370e97424fb2cabce12,/,/,    Bump nokogiri from 1.13.5 to 1.13.6 in /site,/,/
+1a7b710a1e672ea246491ddab1c469073cece9c0,/,/,    Merge pull request #22 from apache/dependabot/bundler/site/nokogiri-1.13.5,/,/
+8289c627fad10516b9cc3560ae279b607936bed3,/,/,    Bump nokogiri from 1.13.4 to 1.13.5 in /site,/,/
+56b3caccd25be65b618219eac7693af515859689,/,/,    Merge pull request #20 from apache/dependabot/bundler/site/nokogiri-1.13.4,/,/
+42687bb7c2d8ed7d525adfd0bf8f83a2c3d2f0b7,/,/,    Bump nokogiri from 1.13.2 to 1.13.4 in /site,/,/
+5a275cd91e5dbd4361c7f1a7b261470f38965769,/,/,    Merge pull request #19 from apache/dependabot/bundler/site/nokogiri-1.13.2,/,/
+a7b722efdd6eea06d7461518e53cc512ff0c2547,/,/,    Bump nokogiri from 1.12.5 to 1.13.2 in /site,/,/
+70ed409d03e61e799ff82d1be72177857e931b77,/,/,    Introducing datafu-spark blog post,/,/
+5d25625a0d777e686d520c982680f3c57cf64e10,/,/,    Merge pull request #18 from eyala/codeql,/,/
+021061a2cc11fd95b7b1ac693d4b742c83ebe345,/,/,    Update instructions for preparing releases,/,/
+fc00a01485e7028b17fdfcc7cdd8235ab133177d,/,/,    Fix java compilation in codeql workflow and update some dependencies,/,/
+4cd8f5dd4299dd29423254e3dc7da68aa6adbb56,/,/,    Post release site/scaladoc update,/,/
+c7a7e7fc184ccfe6bf1b5062411d3ea665f684e5,/,/,    Create codeql-analysis.yml,/,/
+09a68527f5921e026c04e8e9940ef0466b41a7c0,/,/,    Update website for 1.6.1 release,/,/
+4a49fb59abae388e205fbf652ed39907f3c25e62,/,/,    Prepare for 1.6.1 release,/,/
+c886053fcee10d9a1dd98c028c6313a63edacdd0,/,/,    Add eyal's gpg key for signing releases,/,/
+af79454721bab3c0b45a163ccceadc5579161d2a,DATAFU-158,Improvement,Document Spark explodeArray function behavior,None,Trivial
+d1f198e065e5a1c326334d448dcfb7afc6c7c8ae,DATAFU-157,Improvement,Add support for newer versions of Gradle,None,Minor
+f79f300ee7b1a9dd5872410961fefdf2174134db,DATAFU-154,New Feature,Spark Explode Array method,None,Major
+a8cfb367502dff0fbac293bd8486b01ab5b1f51e,/,/,    Remove DISCLAIMER and update copyright dates,/,/
+75509a1ddeb02b4fb532b9ad9146844c358db2d6,/,/,    Update website instructions and update for 1.6.0 release,/,/
+55b6d19e1f47aa455e9e92a6fc3543d62abc55d3,/,/,    Prepare for website update,/,/
+8b517984e3af31387af53e0414379ea1798e1d10,DATAFU-153,Bug,datafu-spark tests fail with Python 3,None,Major
+a697117793df3f5462500a0d2e229b8726d4ea18,DATAFU-136,Improvement,Evaluate gradle.properties release flag updating for releases,None,Minor
+19dd986cf784dafd088a35aaecd5c66b86e0d49a,/,/,    Update changes for 1.6.0,/,/
+90f42640f55e744c65706f7d995d36912ae0288c,/,/,    Enable logging in Pig tests,/,/
+bddee303d9e233d050728327b0835c4769c39b01,DATAFU-151,Task,datafu-spark release preparation,None,Major
+40e25e469eb40419a367d032b6f8adcbc829bfdf,/,/,    Bump version to 1.6.0,/,/
+c95685fd079d9152e108a6417039f9b426d69abf,/,/,    Fix small typo in spark guide,/,/
+a05782f96dde826a1e950cd8a935ec6aac9dde6b,DATAFU-128,Improvement,Add documentation for macros,None,Major
+cd9ca3f15e5b0f8888a9daf5f59e42aa6745bdd5,/,/,    datafu-spark subproject,/,/
+466b9fe1ce749e64fedafe11bfc2d6f5e6bbb926,/,/,    Update Ruby gems for static site generation,/,/
+1d9c58e2185e9752e9236777de17ba35814b071a,/,/,    Make http dependencies https,/,/
+3e52d11f75956ac3e6d2384816affeba565ab61d,/,/,    Blog post - a look at PayPal's contributions to DataFu,/,/
+183e434401063799dfe986d65628fb3166d4396a,/,/,    Website update for 1.5.0 release,/,/
+0d0842719c1ecc8b9569d076f7fc1656cc3f36a8,DATAFU-130,New Feature,Add left outer join macro described in the DataFu guide,None,Major
+e81ea8666467fb89ceba37465e5905b9674633f9,DATAFU-130,New Feature,Add left outer join macro described in the DataFu guide,None,Major
+f7ec4c7adef5e3b80117333cfbda416eea710e9e,/,/,    Update exclusions when building source release,/,/
+c4b5cc8ff55a0d63f6874401d47f8138ea0734fc,/,/,    Bump version to 1.5.0,/,/
+8bccf5b0967e0c780355513b17cfe66fb0e3efbf,/,/,    Update changes.md,/,/
+857cf164c30883d739c4895c9a9c758880526435,DATAFU-129,New Feature,New macro - dedup,None,Major
+1e69bf12d2448512af243e9cb438fec928bf36b4,DATAFU-100,Improvement,Document recommendations on using HyperLogLogPlus,None,Minor
+17f034a076835e956a4efab7fbc3c7bf4102033f,/,/,    Enable test.single by disabling tests for buildSrc,/,/
+a0d1366d5c3a0beecf07f551d7eaf682b7adfdf1,DATAFU-127,New Feature,New macro - samply by keys,None,Major
+8dae166c0f755a07a65cfa371f3da2d32993de65,DATAFU-146,Bug,Upgrade to Gradle v4.8.1,None,Major
+73989cfa6cced0a57bb5bda436976a0e9bfbbda6,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/datafu,/,/
+c406e6115dfd7162e15ee6f88f73310ab8878ccc,DATAFU-147,Task,Update Ruby gem for site generation,None,Minor
+d624e0737cd6378d6d0fee583f64efa60cc976db,DATAFU-132,Improvement,Make DataFu compile with Java 8,None,Major
+d090b4b011e06aff35ea851c3c7a87167b837f6c,/,/,    Update website for 1.4.0 release.  Remove more incubator and incubating references.,/,/
+e73a7242573aea337ef1efa1b3b20916ee001ab9,/,/,    Merge branch '1.4.0',/,/
+7c252eae97dd3c0883f1ac0944b318f300b325a1,DATAFU-145,Sub-task,Update release documentation RELEASE.md,None,Major
+0c5826cb827039946ccf3f190359dd8b0a2a1260,/,/,    Update changes.md,/,/
+93e9fa50a053d4f0e09fbbd16584c15d375355b0,DATAFU-143,Sub-task,Update build to produce non-incubating artifacts,None,Major
+16451421b0113b902a42e7b53124c333dd31bac6,/,/,    Bump next version to 1.4.0,/,/
+ee5d8c177693ef87d73cb51b8017a8bace0dbec9,DATAFU-140,Task,Remove MD5 hash from release task,None,Major
+1304bdff0b3da5e584e07ea6193df07c6e4407d3,DATAFU-139,Sub-task,Update Apache DataFu website for TLP,None,Major
+105fa711a1c4f921850cc61ce934705c04212a0a,/,/,    Update README.md with new website URL,/,/
+d4afac6d5fc5e79bbbe3747b294a3e054c214f11,DATAFU-137,Bug,KEYS sigs and hashes must be linked from the download page,None,Major
+678a26082754d77d7aff8d1eada6afb6f88a41e9,/,/,    Update Gemfile source to https,/,/
+4ee7f466dd4f96a4f3fad4477b612b3181b64c25,/,/,    Update nokogiri to 1.8.2,/,/
+e0e5065e7a3314fa40342becb935c92707422159,/,/,    Minor text fix in 1.3.3 blog post,/,/
+9bbf2a2bba6d7bec208391a0df8ee1bd2ca240f7,/,/,    Merge branch '1.3.3',/,/
+fa5c15a205979bf51b137d5a3215a582d8d4e584,/,/,    Update website for 1.3.3 release.,/,/
+ ,DATAFU-131,Bug,Update DataFu site to meet graduation requirements,None,Major
+a73f884c10deefb4ba546ed84c3a138faaef81ac,DATAFU-135,Improvement,Remove website from source release,None,Minor
+df4b39fcdeb3b896361ad4831b139f22ef2a8cda,/,/,    Update changes.md for more 1.3.3 changes,/,/
+7d4fb64b1b1379020b340d2e045315ed5a8bac23,DATAFU-133,Improvement,Remove json dependency,None,Major
+b52b1fe782f30dac917042a08f677c87003c731d,/,/,    Fix minor indentation issues,/,/
+42378d031f886c97e12093041cc213efcf1e7fc5,DATAFU-99,Bug,Can&apos;t build on Windows,None,Major
+3e79e10cb38fa187f7434bd26dafe14842438901,DATAFU-134,Improvement,Add bootstrap to LICENSE file,None,Minor
+1d50a8e0ce5a0d6be5c525ed0b004fb0aeb07de9,/,/,    Update changes.md for 1.3.3 release,/,/
+ca459d73d63985846dfdff8045a0770471a24e09,/,/,    Set proper file extension for MD5 and SHA-512 checksum files.,/,/
+c39313da6d9aa49808c0c93004eb6455c0808dff,/,/,    Fix typo in docs,/,/
+5262f075159215aff7ab3d1be89d27779f5dbf30,DATAFU-47,Improvement,UDF for Murmur3 (and other) Hash functions,None,Major
+b2b3beb233bee81f1604f3dea514eb6fe96d8b1d,DATAFU-50,Improvement,ContextualEvalFunc should have good lifecycle hooks,None,Major
+5edb36a33240663ba1e62b86261559857071fbe2,DATAFU-119,New Feature,New UDF - TupleDiff,None,Major
+4a3e83cb963978425b975a4ff7e6895b748c0e20,DATAFU-118,Improvement,Automatically run rat task when running assemble,None,Minor
+be116404b8bd4bb0314c72182b50e3e5951d17dc,DATAFU-125,Task,Upgrade Gradle to v4 or later,None,Major
+ccde3f8c93a450268aff8fe8fb9d422b08a772ef,/,/,    Float feather to left  adjust footer text,/,/
+900c45b6a23973e265ef7e3c97fd9d06da80b524,DATAFU-131,Bug,Update DataFu site to meet graduation requirements,None,Major
+3612902e84352b34b2af9485b9a34ca0659ecfed,DATAFU-48,Improvement,Upgrade Guava to 20.0,None,Minor
+4f8c4e85bfd2c415a335a97c1b495ee596512061,DATAFU-61,New Feature,Add TF-IDF Macro to DataFu,None,Major
+d92e8439506a7d8740c049587dd45220474f01a1,DATAFU-126,Improvement,There is a typo in document,None,Minor
+5b648e2fbb6f1305e6252805d3a1b5421e0a806d,DATAFU-123,Improvement,Allow DataFu to include macros ,None,Major
+c93acb64d11a40c666c9c12669fdb95a10c6f179,/,/,    Bump next version to 1.3.3 since 1.3.2 was already released,/,/
+a831aa37953ad930415e4f7cb31cd3be4db3f101,/,/,    Update website,/,/
+19837e6c2e1542b09343b6e33a89f7e84ef0b9bb,DATAFU-124,Bug,sessionize() ought to support millisecond periods,None,Major
+c53c1b97168cef6f19b24f1b7655e1642b12b6d5,/,/,    Update changes.md and CONTRIBUTORS,/,/
+2240db9c46796d30d54da351ec4d918d4eb32d20,DATAFU-121,Bug,Binary artifacts should include LICENSE and NOTICE,None,Major
+278e3587b8ec48408dea27f457426f5f7d6e9e4d,/,/,    Minor refactoring of user.dir usage for test file output location,/,/
+fa28ee6915c7076ca9684bb3c721da2d51ba3ba9,DATAFU-106,Improvement,Test files should be created in a subfolder of projects,None,Minor
+0b4b2e1784d2a965c18de56c7978e39109cd1fc0,DATAFU-25,Improvement,AliasableEvalFunc should use getInputSchema,None,Major
+e89c780bfe827b3d9e82d18fb8f421a4c44d63c4,DATAFU-122,Bug,Documentation error/typo on tips and tricks involving Coalesce,None,Trivial
+8155b474262e6d24e7034c4e226b5b2a390a51b9,/,/,    Blog post update,/,/
+68190ca2c212dd71fb315b49233cc366b71dbcb7,/,/,    Update website source given 1.3.1 release,/,/
+39d75393843f92b79ff98604977b3bcf6ed31119,/,/,    Merge branch '1.3.1',/,/
+6d18cc424e336a498707e2750620dbc045c9934d,/,/,    Update site footer year range,/,/
+b0e9cc9b6f910dfa006048fa582d427766965dbe,/,/,    Update NOTICE year,/,/
+4f0b95e107cc4ad2b90f523f72f87590d5856093,/,/,    Update contributors,/,/
+797c61f238a0f6837291419a090cab5b650c13d7,/,/,    Update estimation page,/,/
+17098d707d1ef2905dd1039a66b03b61ca232654,/,/,    Update changes.md for 1.3.1 release,/,/
+3e0cb8dd7627279d0c5a1411b07bd255a9fcd5c8,/,/,    Update RELEASE.md with corrected command to upload release artifacts,/,/
+60a5a4f1874b4ba4d00631e8dea1e10a0a702292,DATAFU-109,Improvement,Update release docs based on 1.3.0 feedback,None,Minor
+9eab8e5bb897681921500d0479ea1d419686cc3a,DATAFU-109,Improvement,Update release docs based on 1.3.0 feedback,None,Minor
+6812d08ecf47e4776260b9dac652abdc9dc142cb,DATAFU-109,Improvement,Update release docs based on 1.3.0 feedback,None,Minor
+53251bbe70802022afa41a91b1a8d66d4a32bbd0,DATAFU-108,Improvement,Add ASF-associated email to code signing keys,None,Minor
+4519690c65ab5243f63e8ccfd557b861b7dc65ef,DATAFU-117,New Feature,New UDF - CountDistinctUpTo,None,Major
+27c1af40375a0c45fff984e5d37e609875bab218,DATAFU-115,Improvement,Make TupleFromBag implement Accumulator,None,Minor
+af31db6a3431a99932bd1f899c0514b3bf546281,DATAFU-95,Improvement,Improve wrong JDK error message,None,Minor
+19261c68e25b93d6fdddfbc98ac62548b0c23c81,/,/,    Add instructions on loading Eclipse projects,/,/
+6a7739538133c63612856246999a9d5b7b444f6f,DATAFU-95,Improvement,Improve wrong JDK error message,None,Minor
+a15a15c58164cc39c62235c0da6a7b1d8d7db9e2,DATAFU-114,Improvement,Make FirstTupleFromBag implement Accumulator,None,Minor
+f7c9b232fe1f7a9a2c445f7c25bb73a3c6a099c1,DATAFU-114,Improvement,Make FirstTupleFromBag implement Accumulator,None,Minor
+92a56e49f96fb3a1e3cfbfaade55e7a7e1748b07,DATAFU-113,Improvement,Add Twitter and Open Graph tags for the blog posts,None,Major
+0456797ef1a820b4163a3d7d8ea2e256b0ec977b,/,/,    Fix blog post typos,/,/
+f8d31403af90be67df2cdc98326c273f746aea12,DATAFU-112,Improvement,Update website instructions to document maven download,None,Major
+13bae36617a6265c3043dfff387e0793ab14124c,DATAFU-111,Improvement,Add maven publishing instructions to RELEASE.md,None,Major
+be4a95f7a8381e258f0301279620b44bd618dceb,/,/,    Add (incubating) to website first mention,/,/
+158f999121c3296deed3982421f0eeabbb250656,DATAFU-110,Improvement,Update website for 1.3.0 release,None,Major
+ef94e55d1592acdd1d9340ab77f6b02cbdc2d60f,DATAFU-103,Improvement,Add IntelliJ Idea support to build file,None,Minor
+f03e9ba6c87a345db364bb1461bd6eb653c327f5,/,/,    Very minor doc fix for TokenizeSimple,/,/
+282a42f643aa5e2a1635e07d41bf615c8dbbdf6b,DATAFU-102,Bug,SentenceDetect fails to load input bin file,None,Major
+a7687d34ec399511929d918ed0140107a73ce5c3,/,/,    Update RELEASE.md with more instructions/tips,/,/
+9e5fd3a58b65122ce2178f1eb32c0984c82e9da1,/,/,    Add DISCLAIMER file,/,/
+87f55b425035201036e5823bdcd081b6ec7c962f,/,/,    Update documentation and fix various issues,/,/
+643543706e6ad63c9c997f94bfdc979c63506339,/,/,    Address minor review feedback for HyperLogLogPlusPlus,/,/
+7ed3902e7c0c081d91dd2f31e8c5a891ca375130,DATAFU-91,Bug,pig version of HyperLogLog estimator should be Algebraic and use combiners,None,Minor
+b921ca57a06f6e7d6435ee53692aa1be42a16422,/,/,    Update changes.md with summary of changes since last release (1.2.0),/,/
+433994c470fb3cf9b907ce8b5ce14c5ac8d47e4b,/,/,    Minor doc fixes for TupleFromBag to fix build,/,/
+49928a8411aa2e75ced803408a4dfc5625253df4,DATAFU-92,New Feature,Create UDF to extract tuple out of bag in a specified index,None,Major
+d33b5a1654528cc9990826778e9d1ad7b89797b4,/,/,    Update year in NOTICE file,/,/
+394ab0b909c93896319f54bb1aadae4f17c1ba3a,DATAFU-72,Sub-task,Update releasing.md for Apache,None,Major
+1f658687711ebc753ec66caff946cd978cf93d02,/,/,    Add missing license to find_dupes.rb,/,/
+cd12eb426fe87584d3a4c9318d5c6fd9280544e1,DATAFU-84,Sub-task,Add rat exclusion for build-plugin files,None,Major
+163fc26ad9abe30f3a9c0be4622c6e4e187e8505,DATAFU-58,Improvement,Unit tests against Hadoop 2,None,Major
+745a230f2ab5bdd3d6f2017a0b89edf30aebcce3,DATAFU-78,Bug,gradlew assemble build fails,None,Major
+aaac12fd7a61a37e331283c2f5ecd51a42f70d02,DATAFU-75,Sub-task,Add ASF header to various files,None,Major
+3eda18951b08b002aa5dade393415c9f92578fdb,DATAFU-73,Sub-task,Use Apache RAT to verify correct file headers,None,Major
+ad4766482e21638e3d62977d05db711d72e453e5,DATAFU-76,Sub-task,Resolve issues with build-plugin directory,None,Major
+1563535f20cba433497664262717d861775c5f9b,DATAFU-79,Improvement,Add ZipBags UDF,None,Minor
+13469643924d477c8e38e7eac43fcf5342486d46,DATAFU-78,Bug,gradlew assemble build fails,None,Major
+e7835c11fef9753d477dd40fead57a5a328ac06f,/,/,    Fix a few docstrings that weren't closed,/,/
+966da2f3821dc7459eb8455293031cfa367c8ba3,DATAFU-74,Sub-task,Remove @author tags,None,Major
+ ,DATAFU-7,Sub-task,Change packages from datafu. to org.apache.datafu.,None,Major
+ecb03180b734f39ab63cc01b1ac8b0d7e2c100ac,DATAFU-77,Bug,test.sh fails on different versions of gradle,None,Major
+fe9b86eaf0a5f8c23c21de10068885dda4fc538e,/,/,    Minor improvements to BagJoin constructors  add an inner join test for BagJoin,/,/
+89fe0bec6717e1f68e5cce5f065620d5cb5a8a3c,/,/,    Update BagJoin for JRE 1.6 compatibility,/,/
+598fd9247c042e273930c0c2d3c732d6b1173d74,DATAFU-70,New Feature,Add BagFullOuterJoin,None,Major
+83e1f5411af0043ba249e9bda5493952c8c44757,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-datafu,/,/
+2fef6eab201ef574d9c7ba8a54efac0b4c977c4d,DATAFU-68,Bug,SampleByKey can throw NullPointerException,None,Major
+3b6554aa24634c7dd635900321f3f85db663db3e,/,/,    Create SelectFieldByName UDF,/,/
+ ,DATAFU-69,Bug,Create SelectFieldByName UDF - which  given a field who&apos;s value contains a field name  and *  returns the value of the field referenced by the field name,None,Major
+639268a6880a0a33c6a2426f069015ac9658f8f1,DATAFU-68,Bug,SampleByKey can throw NullPointerException,None,Major
+b7bef9c888397763b736cc0147f1b8a469a0cd62,DATAFU-62,New Feature,URL Info,None,Major
+0f9b853be2efd7176091c433bc08180aa81bc453,DATAFU-57,Sub-task,Source release build tasks,None,Major
+db3838ad67089e91a5fb70208d120656026c1421,DATAFU-36,Task,Create DataFu doap file,None,Major
+40e6423f191acf28a16c7e904796692f40057101,DATAFU-66,Improvement,Gradle upgrade,None,Major
+8af19806a403418dbb2f84868902b046be66952f,DATAFU-52,New Feature,Add Base64Encode and Base64Decode to DataFu,None,Major
+8b1d5b6c3501db722f445814393be6a5b25cda6e,DATAFU-52,New Feature,Add Base64Encode and Base64Decode to DataFu,None,Major
+384783d776fdeb77bc04064ffa6a03012fa5a3f4,DATAFU-56,Sub-task,Resolve eclipse jar issue,None,Major
+e59348fc687a3492e9e0d75f22e1f6ee1d92fa06,DATAFU-55,Sub-task,Remove legacy checked in jars,None,Major
+412b14bc9169a8f4f7433f02551cbbf698846f20,DATAFU-10,Improvement,Update Pig to Pig 0.12.1,None,Major
+faab884c278a3ab5197ec3cd8931f84a664f4904,DATAFU-50,Improvement,ContextualEvalFunc should have good lifecycle hooks,None,Major
+c4149151e608a27d1e02dadd2f571a034be4f34f,/,/,    Correct doc string in ContextualEvalFunc,/,/
+a36cab397505837113a5193de52e6439bd12c831,DATAFU-50,Improvement,ContextualEvalFunc should have good lifecycle hooks,None,Major
+5d4ccfd769b2655a9226cdc09320af6fc307a4be,DATAFU-48,Improvement,Upgrade Guava to 20.0,None,Minor
+6d3acbb36cd8ad650dd3cb402da5efa71d3c863a,/,/,    Update README files for examples,/,/
+f75f9c4fdf9b94944b3d51cf6dab256e077899e7,DATAFU-49,Bug,Scripts in Examples Directory work again,None,Minor
+3cfcea78d5dfed961625f8dfce0f75579ac0b0ff,/,/,    DATAFU 46 Hash UDFs return zero-padded strings of uniform length even when leading bits are zero.,/,/
+ ,DATAFU-46,Bug,Hash UDFs should return zero-padded strings of uniform length even when leading bits are zero,None,Major
+e6715a42accf4e6bd25e89ca7f99477dcf85c878,DATAFU-44,Task,Migrate Hourglass to Gradle,None,Major
+75162f64ddb60cc879b1ed67fd03bada5b9b5ae4,DATAFU-42,Improvement,Simplify BagGroup output,None,Major
+544e5af08c81671e8f14832fc3657de696cd313b,DATAFU-37,New Feature,Add Locality Sensitive Hashing UDFs,None,Major
+e15390f10c2b1ff73ca9316ac4be73084cffe546,/,/,    Update website with trademarks,/,/
+4d02d119e19a588cab3b5f1e380290fd3444662d,/,/,    Update blog post link,/,/
+fe2440505235404af01eb6b9cf731e231f6e7dca,/,/,    Fix blog post link,/,/
+9708a83234c37cf9d2a896915391df2eb90cd001,/,/,    Fix links in blog post,/,/
+45746ac235fe9bd50fe692098e661470cdef26c2,DATAFU-43,Task,Cleanup old Ant build files,None,Major
+8f52118e1c7bb2b6a8c1c58483b48de1544ff24f,/,/,    Update blog post with video,/,/
+e2100de5368b0132adcd776a088269d4898f5fd6,/,/,    Website: Add link to presentation,/,/
+e26e0a9f26588c8bdc1e8e6ac74cd47a0c1089d6,/,/,    Website: Add link to ApacheCon slides and a corresponding blog post,/,/
+ac57a45820336724c6e4b055590223cfe277998b,/,/,    Merge branch 'master' of git://git.apache.org/incubator-datafu,/,/
+e160f80538997c6421d7dcb3248ee141e1c13a92,DATAFU-35,Bug,Hourglass does not honor &quot;fail on missing&quot; in all cases,None,Major
+4b629c352157da06502f3241a3f763cf24cd9a5f,DATAFU-35,Bug,Hourglass does not honor &quot;fail on missing&quot; in all cases,None,Major
+83a1dec05d662d97baf1eb3c06639e251711bcf5,DATAFU-38,Bug,BagGroup merges rows,None,Major
+1cbe8c2997a19af5a780007908a1857de3a78eed,/,/,    Update website README with details on how to update the website,/,/
+270b5366acbb4187cd439b9a1f6d631576702161,DATAFU-35,Bug,Hourglass does not honor &quot;fail on missing&quot; in all cases,None,Major
+00a0442d997529ef7b097f39efa85b6238cb4e8e,/,/,    Update site with links to wiki on contributing,/,/
+9c6475a994901d6bc6340b3c880e25b3b7c55c58,/,/,    Fix website README command,/,/
+787260863b9a9641857567341bb3baee26f89609,/,/,    Add mailing lists page  move apache incubator logo,/,/
+b516cb87279dd4a4b8eb357e432a2b71939997c9,/,/,    Update website with updated gradle documentation,/,/
+778bef1eb64173891565a4c9ea15501619388aa6,DATAFU-27,Improvement,Migrate build system to Gradle,None,Major
+4aa2ef2a425dab3e3d5f5bdacf095af0b18fb993,DATAFU-26,Task,Resolve entropy UDF naming conventions,None,Major
+b2134e66063b06ab1fd7813368faa30ecf945f78,DATAFU-33,Bug,Can&apos;t instantiate AliasableEvalFunc for unit-testing,None,Major
+d4a5c5d434c33c6b614ae08ee4179661fda0d358,DATAFU-31,Bug,bags.DistinctBy works incorrectly on string containing minuses,None,Major
+16a82e8b42c302d95bafcd6b2a92e1f1fa8a4399,DATAFU-29,Bug,StreamingQuantile PDF link is broken,None,Minor
+7b1aeb198b197af245b92bfc582fb194d83261ce,/,/,    Check scm setup,/,/
+d8cec6a5c84d9c0cf545c410eb8a0cf1bc427a22,/,/,    Merge with master,/,/
+0fda7e952f0c06e3166b1aa0059f8e80c2e035a2,/,/,    Merge with master,/,/
+9a4264504f14b7ee19e3692b2c9826e9dad2aab3,/,/,    testing scm setup,/,/
+90c754e08c997f12f0c794fc67cfa3f354793a2b,DATAFU-18,Improvement,Create datafu.util.RandomUUID UDF ,None,Major
+99e46e2cd80be6d7cecf56308b17a707d61d6660,DATAFU-8,New Feature,Port Open NLP functionality to datafu.text.opennlp,None,Major
+41a0c2ccfc5e980b715d5d11d54eb673462de1a7,/,/,    Merge with master,/,/
+424e3b4857c0f2db13fcfd65812b08962b8e004a,DATAFU-20,Task,Website content,None,Major
+a4b17da901968a4bb704e4d04aa9a6e53baddf29,DATAFU-5,Improvement,Update SimpleRandomSample (SRS) to be consistent with SimpleRandomSampleWithReplacement (SRSWR),None,Major
+38a670eef54278e0a305ff32e198b007c7984988,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-datafu,/,/
+d2f8cf2da19a4b498ad086c9b3bff28d1106ca6e,/,/,     check,/,/
+650c85adbcf59a91ca0053971a65e271609555b9,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-datafu,/,/
+4a598c2592ddad10a2739d283d2c8269c0494f83,/,/,    Checking connectivity.,/,/
+c95f0f79a95fe043ecd0d7413fab0b5dbe37a15e,/,/,    Test commit to check account,/,/
+614c1f16cf7e26677cefc8fedad12f7f921e442b,/,/,    Test commit to verify account.,/,/
+4414e8cac8d9126173cef0ff0e98347e800e653c,DATAFU-11,Bug,ReservoirSample does not behave as expected when grouping by a key other than ALL,None,Major
+862a7fb3abb1df6b8488af708548e182b9f92ae9,/,/,    Clean up README file,/,/
+e8084146843bd546f9af51bffa32f29fbf7633db,DATAFU-2,Task,UDFs for entropy and weighted sampling algorithms,None,Major
+9d7dffd65c9de040c9dc9bc91ba85687b199e987,DATAFU-4,Sub-task,Update source files with standard Apache boilerplate,None,Major
+c50d6d35229f55e947eceda35dc388b858268947,/,/,    Merge pull request #82 from matthayes/master,/,/
+73cacba4090b81f5d131944a3a9d480bb99b2b1d,/,/,    Add missing license headers,/,/
+404f280a742d74d230b7a797c8de9bbe820456bb,/,/,    Merge pull request #81 from matthayes/master,/,/
+5f04eee87ec3bd85425a696980abfae911226755,/,/,    Parallelize travis build,/,/
+7db4db3695ad63df7e13516876112dddccfccc81,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+dbce0a6f7ddf57c3276c2af502a99876d1a1e5b3,/,/,    Update NOTICE,/,/
+8b18f0ada7d4a08df1408889eb0fc7c80aab304a,/,/,    Hourglass: GenerateIds should allow optional id range,/,/
+acb9367b6ae02313be5c77c3134e3abe0e8949b6,/,/,    Move release notes to separate file,/,/
+ab4a99b17d3488f42b0b25a1374aba574cda7d5e,/,/,    Update NOTICE for Hourglass,/,/
+d8475e2d4aaef62492c9a7c58f056a82766ad32a,/,/,    Update NOTICE,/,/
+5252f9d54e671a2c68723e027ab20be1bbfd5dbd,/,/,    Update NOTICE,/,/
+372a318a3aa2110a115f2326111d6ffdce0e8efe,/,/,    Update NOTICE with dependencies used by or shipped with DataFu,/,/
+d75ffff7dcd7ff2d9c7886e1bbaaff32a2b47ee1,/,/,    Released 1.2.0 of datafu  hence bumping version,/,/
+72b5e245982c869de67819c2650854797ffefacd,/,/,    Fix deploy dependency,/,/
+72cbf2bcacc83119651a5fccaae7a50492bb6805,/,/,    Update changes for version 1.2.0,/,/
+93ae2d4640806f63ba7662c779d556f0b5807d19,/,/,    Update hourglass changes,/,/
+d75db20bf25f145b25585bcb051b32a0f1e66224,/,/,    Released hourglass 0.1.3  hence bumping version,/,/
+367249322e0f7ce2081b2ad4c96d2775a1c2307d,/,/,    Implicitly use end of range as path in tests,/,/
+ecba0bc59334a3e3288e666e1df8f77362370c32,/,/,    Improve logging in collapsing execution planner,/,/
+7934a1eca7a18377e3fe668726c74a630a31367c,/,/,    Add execution planner test case,/,/
+76413325d7715120c0f974b92fce46d5791b5301,/,/,    Fix issue with collapsing job reusing output,/,/
+72edff9ee9d13c750abf1e2bc90fc05fbc742c34,/,/,    Rename files,/,/
+3903277bb725130f888c5bdd67b55f61bc8d808e,/,/,    Bumping datafu version to 1.2.0,/,/
+c93694183b3058fcc805ba98943f7d10b9495934,/,/,    Merge pull request #74 from mengxr/master,/,/
+38c298701ccfe44d1a6c12ed6bf4b330071ac290,/,/,    Merge pull request #75 from matthayes/master,/,/
+b5e28c4cc87b12ba8539d7c4afcaeb6979841b7b,/,/,    more javadoc,/,/
+42fdccf7f55173618beec98113cc4977e5fa8968,/,/,    update javadoc,/,/
+23184f28fe485314663686e2f36965ed4a816c20,/,/,    Add another SetIntersect unit test,/,/
+60cbbef2e5d37464f80c7e489a5991b67ca9e061,/,/,    switch back to RandomDataImpl from commons-math-2.2,/,/
+af1f28263ad368b40354b7acc994f1c2e141d837,/,/,    merge datafu,/,/
+64eaa781b0a0fb218ef832d49b5648079c6e4777,/,/,    Package small subset of google's guava in DataFu,/,/
+d1a288398c62f2a879c6d7f003cccd5494615ecc,/,/,    Merge pull request #73 from matthayes/master,/,/
+2408df415cd65086059369d5de71e67c11a83155,/,/,    Fix eclipse .classpath,/,/
+8cbbca45746e3ffa383a7c5e39ca9a516c227c8a,/,/,    Autojar commons-math and stream into datafu so not required as dependencies,/,/
+e1d373d94fbb5c98e6917de2c730ce3cdb2fcc67,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+43a972de1be62dcbebf6c79976c76cf7f07a3016,/,/,    add copyright headers,/,/
+6955f7b1ef27ee0a02c4fe82d50f22f517a7c540,/,/,    Clean up test classpaths,/,/
+07ea143f9f9425cd0cd1b3b7a690935f4a47ff88,/,/,    Clean up ivy.xml,/,/
+84525822f48b6a4faae30bfef957acd879152fe8,/,/,    Update file headers,/,/
+5994fbc9852873f3b6613b42c8082b24bf843fe6,/,/,    merge datafu,/,/
+ae291045f44b96cabf111189827a81b2e4f14846,/,/,    add a UDF pair for simple random sampling with replacement (SRSWR),/,/
+3fe90ddc81ec9e8e63bdc308edbbd6f8ac266db7,/,/,    Add HyperLogLogPlusPlus UDF,/,/
+2c106f34424e57c00382c6b1fc5538c5f7206b78,/,/,    Add SetDifference UDF,/,/
+6dfe46c8f71c4c5c9c58cadeee57f2cac0287e0e,/,/,    Released datafu 1.1.0  hence bumping version,/,/
+e198a6ba221b3c454b8cb043ac9881bcf903a391,/,/,    Add javadoc fixes,/,/
+2635856e24e123fd5991d28ac0236620cd28c3a9,/,/,    Prepare for 1.1.0 release,/,/
+c213088152014d6fabd4c0a947e30342e56a3ade,/,/,    Update README,/,/
+d369351ac4790c65086b724d219fd25b31abd3ab,/,/,    Update javadocs,/,/
+ecc9b7a0cac2818d00c572093148e48e5b3283fb,/,/,    Merge pull request #69 from jarcec/master,/,/
+4005a0ff7ff96c93e4f1b915afcbbbca1dfe5895,/,/,    Merge pull request #71 from navteniev/master,/,/
+1bbb7c39330563397409234ae59c7e3f0c2d9108,/,/,    Merge pull request #72 from markgrover/gitignore_v2,/,/
+00db29745dc46ffe16170df05e9192ac708dbb6e,/,/,    Updating other directories in gitignore file to start with a slash,/,/
+a6a9e5036ea926c996ac965481fe7302dcfa8f64,/,/,    adding license header,/,/
+f8af203fabd380cf7c5e77701d1ec2186807e84a,/,/,    Merge branch 'master' of github.com:navteniev/datafu,/,/
+83ab33f489707c22f823b12c4eff58bd45ad8e41,/,/,    I needed to generate a sha256 digest for a hack day project maybe others will find it useful,/,/
+f0afe1cad1494a99aaf7946af764d5c9e63645f7,/,/,    Merge pull request #70 from markgrover/gitignore,/,/
+4e01f9a664abe3f443b368b07cceb2c85ae4a38b,/,/,    The gitignore file has "lib/".,/,/
+530ae1cd2190a923afbfdd2ec8523fbdbaa67f52,/,/,    Add Jarcec to contributors,/,/
+0032be7ef88dfffa570a35332a96cbf00d6c0398,/,/,    Add support for Pig 0.12.0 to the README file,/,/
+0121faefafe914d4ca59f70f2d7145cd6bb96386,/,/,    Rename In to InUDF.,/,/
+856597603792d9a8dc3905385937f6b727dcbf7e,/,/,    Rename Assert to AssertUDF.,/,/
+bd41c391541c3c907b6a7c4aec063630afd3d9b7,/,/,    Merge pull request #68 from jarcec/master,/,/
+07c8ea3e9e1751609a80b576f98ace94277bbf56,/,/,    StreamingQuantileTests are failing when running against Pig 0.12.0,/,/
+c125fa0ba32a7364f08661d64ffdc527716dbfe8,/,/,    WilsonBinConfTests are failing when running against Pig 0.12.0,/,/
+5683f07c4cf140b0c464c6ce19720ef030272f85,/,/,    QuantileTests are failing when running against Pig 0.12.0,/,/
+8837eeb30ec7356016f7583e750faf743208a974,/,/,    Add ability to run one single test using methods attribute of testng,/,/
+ba51251d7209870018feba1d9943bfaa0f95c43a,/,/,    Moving all dependency versions to a property file.,/,/
+46582e38d9de3557fbbec9501f578387eacae514,/,/,    Allow overriding java source and target version via properties,/,/
+39429c7a13e45c7eda9938a99a6c06b301176c18,/,/,    Released hourglass 0.1.2  bumping version,/,/
+1af30932bf0d000d14e98b10d7a4bbc2e3022bff,/,/,    Fix to correctly load schema for input paths,/,/
+e1f6850d263a9681247cf7f21e44738accd9c739,/,/,    Released 0.1.1  bumping version,/,/
+383138c6e221c6c148bee17b3e67306ec5a89ab7,/,/,    Version 0.1.0 was released  bumping version,/,/
+6b1f49621b4cd75c7307c92a4023916ffbb9a4d6,/,/,    Make partition-collapsing job support joins on inconsistent schemas,/,/
+bbbd24b69f7e0ed900b68ec2459ab89b7c75abe9,/,/,    Make partition-preserving job support joins on inconsistent schemas,/,/
+07da2ec02caa4fac9c7edec14d6f432a952b19a6,/,/,    Set up deployment of hourglass to sonatype,/,/
+30a5b80d35e458fff468ec55b399bbc7493880e3,/,/,    Add pom template for hourglass,/,/
+2d0245cfb416c126d1cfda143ce1dc39babeb9cc,/,/,    Clean up hourglass build classpaths,/,/
+f695fdfa4c2e30acdecdd71865fc27f1efb8e563,/,/,    README updates,/,/
+0a70d175f07ee60bd33df6010635dc5bc9503ece,/,/,    Initial commit of hourglass,/,/
+397e3e531c63d9c7254d80930fb7df19bdc53c4e,/,/,    Update pom,/,/
+c2cfc5bf2d0aec55d1162e63667e35e131f77f03,/,/,    Update README,/,/
+0594fbfbbc398f3cde8f22c90ae2a127eee432df,/,/,    Update README,/,/
+302ba53466f5d7ac222cf8c84d79d26d5d94bc85,/,/,    Update README,/,/
+350b863b294504f6098acae430ca5e78eee5cffc,/,/,    Update contributors,/,/
+afbd6825efa21a7392884e906821712b2b5a6b57,/,/,    Update documentation,/,/
+9bde4e5474e2e4c2f86fadde85fd51bdfb8b9fb7,/,/,    Merge pull request #66 from mengxr/master,/,/
+3aeca75c7d24c8713f6d780d76801a7fc49607f1,/,/,    add SimpleRandomSample to sampling  which implements a scalable simple random sampling algorithm,/,/
+c6700237b5cd48146e2a944e6d66995169b634b6,/,/,    Update contributors,/,/
+17b6139b2a5b30b3354b9006a4a57d6ee3cb12cb,/,/,    README update,/,/
+dfa38748afecd136a2667d17044434c61a8f702a,/,/,    Released 1.0.0  therefore bumping version,/,/
+5298fff223421269c8a278ef2723cd9a787261ce,/,/,    Add note on compatibility,/,/
+03d6a62ebce1ab7f3df5e22ccc4d3e3674f0d4a4,/,/,    Bump version to 1.0.0,/,/
+d37de744ba123a51a8fcb77050fb15ed8f1b7d4d,/,/,    Doc update,/,/
+d0453432558eaeaeead41937807cefe747e30023,/,/,    Merge pull request #65 from evionkim/master,/,/
+d0196265d9c557ce088dd8a4d20cb696e0d4aebd,/,/,     Updating doc for SampleByKey,/,/
+be1c334cd07756a7c8e28a9359fff74198a5b746,/,/,    Update README,/,/
+bb62c567c0412e3d2d4a2c73d899eb33ee702a32,/,/,    Update README,/,/
+72ac9bc7e357b4b9bd84543b783093f1a6c2840a,/,/,    Merge pull request #64 from samshah/master,/,/
+f3737bfc91823574c5763226a78b6e98893b03d2,/,/,    updated bug URL in readme,/,/
+44440cf0fe1703276d497fcb3d5c2837759327d8,/,/,    SampleByKey no longer requires a salt for randomization,/,/
+735855c91f2c81f469709820394830a0e8af8101,/,/,    Updates to what's new,/,/
+11be8e9778d9c9381320781794b8dff8f8f0db56,/,/,    Merge pull request #62 from matthayes/master,/,/
+c66c7c174965a3f0d786a002a4c2ecbfe263ce96,/,/,    Merge pull request #63 from william-g-vaughan/master,/,/
+c5fad98647b6d9f3affef88258c165b07efca62e,/,/,    Add BagGroup UDF and tests,/,/
+d1757e8cfb49f094d5bcf5923e5b2a19e94902a1,/,/,    Add DataFuException  add debugging to Coalesce,/,/
+dcfaaad3a6c7371c92afe4fc37bce168df80cec0,/,/,    Move some useful methods from AliasableEvalFunc to a new base class,/,/
+2d82057ab04c5caf8a956be6e02e15b631a85334,/,/,    Add EmptyBagToNullFields,/,/
+f385ec70233401563d2aacc0c53de1b85c080523,/,/,    Merge pull request #61 from matthayes/master,/,/
+0c5cab1c5e8277e8dccafe3c85e2ea4fc338dd6a,/,/,    Fix coalesce date tests,/,/
+d42364b2dd1e8c7e8083d8a15505e9abc1218cc8,/,/,    Add strict and lazy options for Coalesce,/,/
+03ce35c077b7c48912ed8dbf000f82caa084faed,/,/,    Add EmptyBagToNull,/,/
+3fde8742d0a3ee524c2c3809cd4a940f46272159,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+5a9674a84603a66aa56c94ac85d9f0e3119ffc14,/,/,    Coalesce should cast types where possible,/,/
+1dc64c1467777460ad5cb87124fad9f0d2924dd6,/,/,    Fix BagLeftOuterJoin log spam,/,/
+82c8a6e1b62b66b3682e163d4db21eea18a8e2ff,/,/,    Update changes.md,/,/
+65e8ac3ac6a0bea3fa99ee706054e9251f0088b7,/,/,    Merge pull request #60 from matthayes/master,/,/
+728fe2ccb36165041fc43f7d96a13d002b818c9d,/,/,    Add changes.md,/,/
+ab2c467f280e2043635b9788222aa162d4be0cd3,/,/,    Merge pull request #59 from william-g-vaughan/master,/,/
+5fc778d9f2028786d0ca887022b5fbeccf1c6d28,/,/,    add In filterfunc and tests; update .gitignore to remove eclipse-related generated files,/,/
+21ce117007633b0f83d102655f1a6f3f2c9f66c5,/,/,    Merge pull request #58 from matthayes/master,/,/
+fa74166ebe1944b6f9309036800fa2fe286b5605,/,/,    Add Nondeterministic annotation where appropriate,/,/
+94610c793598aeb53d415eca68f8edf0811e2b8c,/,/,    Merge pull request #57 from njwhite/randint,/,/
+790c107514126ad563d0ffd007884463ca5c3be4,/,/,    random functions are non-deterministic,/,/
+67571313a81bbf2576f791c054386b970b594bac,/,/,    Merge pull request #56 from william-g-vaughan/master,/,/
+56927aac4af11b74e9d6804771537da61cdd36df,/,/,    add back in licensing information,/,/
+7df43152543d2e21a0a15988152b1698009446b2,/,/,    combine behaviors of BagConcat and BagUnion,/,/
+dffbe71a38c0fa314c70921b4bd15d554a2f1e73,/,/,    Merge pull request #54 from matthayes/master,/,/
+c6bda8068cccd33dff3c478a247631e049906442,/,/,    Bags documentation cleanup [ci skip],/,/
+70f1c738c165a22a22e6ce58b18db7649e996201,/,/,    Make DistinctBy implement Accumulator interface  add tests,/,/
+bf05b1d278ab03a895abdab050d5ff483e93b9dd,/,/,    Merge pull request #53 from matthayes/master,/,/
+992f4a6624c2a80812ec402dfd444e71b582c659,/,/,    Validate assumption in VAR initial algebraic method  and add algebraic test cases,/,/
+36b6dac89be8733c612e1c1a65ca4d2420d5e7da,/,/,    Add exec and accumulate VAR tests,/,/
+51be9c05e82b93ab817a49ca8483627675476c24,/,/,    Merge pull request #52 from matthayes/master,/,/
+b8ed6558e0f77ec2fcbfe5823993f8e6690b4417,/,/,    Add exec and accumulate tests for StreamingQuantile,/,/
+81facd025941689eaa6bab747113d0071df96b5c,/,/,    Merge MD5 and MD5Base64 into single implementation,/,/
+73b411f5d42535dcbdc2c69e641bba12c11b712d,/,/,    Add reservoirSampleAlgebraicTest,/,/
+21d8214f898b5133ea13848178c08d08123ca7c7,/,/,    Add sampleByKeyExecTest,/,/
+3154c5c35ea211ae75710235d1ed492e65339929,/,/,    Add weightedSampleLimitExecTest,/,/
+93fa407f1219210f4c9f5c1d90c4e552043fd7a2,/,/,    Fix accumulate for ReservoirSample,/,/
+87836ec12e720261c53f440ffb1d8f8e8e58ed91,/,/,    Use AccumulatorEvalFunc instead of interface so no need to implement exec,/,/
+ac31ab8cf4c7adf17296912a9090acfd579a09f0,/,/,    Merge pull request #51 from matthayes/master,/,/
+18b6389d74c55ab95bbf31521c849525899424f6,/,/,    Doc change [ci skip],/,/
+0025f4ea5ccd40cbeb8be0e182c3afac41ada23d,/,/,    Doc change [ci skip],/,/
+4f7db6f452d11e01c34d3e35f4bf6caa6cf67839,/,/,    Minor doc fixes [ci skip],/,/
+53808988aab91c611ab463f3c9c971d6a4f5ee53,/,/,    Sampling documentation cleanup,/,/
+a73863bf223361f2af65815414ff33cb9e092619,/,/,    Don't expose certain classes in javadocs to make them cleaner,/,/
+9e2f9461c0b8848093804e6c789f86d48ee71579,/,/,    Make SessionCount also implement Accumulator interface,/,/
+101d0a5d4a6863020422deb6c90eeeab3f5c95a1,/,/,    Add exec and accumulate tests for Sessionize,/,/
+7bda3fa0c338b3f361a340cb6626975831be279a,/,/,    Rename Transpose to TransposeTupleToBag,/,/
+0d7daa165d6b0e328338bef8f832063a387cb9b8,/,/,    Merge pull request #50 from william-g-vaughan/master,/,/
+b5a8a446ed995674e81705371d5f07de036ccb79,/,/,    fix exception class to frontend,/,/
+1e3af359bd3bcd60864c77dd284691304d568249,/,/,    create a transpose udf and add tests,/,/
+b1c82bf9b8ff0415190bd4eff7e4bbfb444622a9,/,/,    Merge pull request #49 from matthayes/master,/,/
+48dd37ac0796d8eee4737dc64dab66d9180aac6a,/,/,    Add set operation tests,/,/
+1770b990f6a28193dfb884dd42ca7320472663bb,/,/,    Merge pull request #48 from matthayes/master,/,/
+b47b7ebce773a525110c310d85115a8b8bf18d18,/,/,    Make sure necessary fastutil classes are packaged,/,/
+4e4093c03f01f847cf830b4e0cd1eb508dd13656,/,/,    Merge pull request #47 from matthayes/master,/,/
+64f084357c385cef226c044ce8b0552a81897205,/,/,    Cleaning up documentation of util,/,/
+a770fd70890ce7d94c10b5cde87d33db385de1c6,/,/,    Fully document the PageRank UDF,/,/
+7a0d89c44e3f26664cb59464d4aa135962a95de0,/,/,    Add additional verification to assert,/,/
+61b1c7a6e098984086cf1b8cdb58eabf61fc6c8f,/,/,    Add package descriptions,/,/
+a5eb97af0be7cb5e4d58cf9813890b4893f04b17,/,/,    Merge pull request #46 from matthayes/master,/,/
+0c4ce41d8702df2beedc2df6a98af15dccd8f985,/,/,    Clean up bag tests,/,/
+58390919ba866b8e0151dc9a7284118383507651,/,/,    Merge pull request #45 from evionkim/master,/,/
+93419183bef67e9e9716884c6fe54436cc1b2588,/,/,     Changed so that it does not use Tuple's iterator,/,/
+7951ac1462c4f2d1a9bbe718663a7252865ef1d8,/,/,    Add in BagUnion  and cleanup Assert Coalesce AliasableEvalFunc,/,/
+02670b7db4187ca508dc64d64ffb3f1e788a0294,/,/,    Add missing docs,/,/
+8775946c9e6dbc4f92695f120b1a5d0f4da69b68,/,/,    Merge pull request #44 from matthayes/master,/,/
+d1fec7815725d3ed531fef62140fda2e41b2f36e,/,/,    Rename test,/,/
+fe571933faad13bc6322b5e141af7bf7fbe249a1,/,/,    Add SessionCount unit test,/,/
+6133485669d18ede7f934e23a7afdce8a03e0f79,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+2f57ff54e5f3935203b6d674d6050dd770cb5f8b,/,/,    Rename TimeCount to SessionCount  move to sessions package,/,/
+f3a9aa27c6820d7aa76be24f029a90aac241979b,/,/,    Remove AliasBagFields,/,/
+4cb1ea85c37e1efccba292aef39527c56ccbecb0,/,/,    Renamed datafu.pig.bags.sets to datafu.pig.sets,/,/
+db8f5193d3f4da8777b698c9181fef8d6d78b1ff,/,/,    Consolidate tests,/,/
+ba93c32c76769f016666161613577e74e42bba89,/,/,    Exclude IntVAR  DoubleVAR  etc. from javadoc,/,/
+af34cdbea869a6e5b98d25406bb34d364b443be2,/,/,    Add version to javadoc title,/,/
+cab1187ad600bccce8a01ec0ce65f79a8c439bad,/,/,    README update,/,/
+bf69db8b6b3112e73782ee4fd7124670121c8933,/,/,    Merge pull request #42 from matthayes/master,/,/
+c72471079f25e5df533ff1ce3668da7ccad319ae,/,/,    Improve output schemas for Quantile and StreamingQuantile,/,/
+e3af540a390ca4ec1e5cb396ced4fac2f81af915,/,/,    Merge pull request #41 from matthayes/master,/,/
+f73e26e142c27a47bbaa4d79242ab07065d670ba,/,/,    Cleanup tests,/,/
+f7ee99d3778fdb0d4c082a8ce9d1324cc1ce8c33,/,/,    Rename datafu.pig.numbers to datafu.pig.random,/,/
+2bbd43627534055e564704026914afbd53d280c5,/,/,    More test cleanup,/,/
+5891af60230b9b7e7d09db59f3af44e9b157bc17,/,/,    Cleanup tests,/,/
+65956bb75761fcd27bbb909b0fdf9410d84e946e,/,/,    Merge pull request #39 from matthayes/master,/,/
+8069d44c00cd301a89c83e423712ce9d6c390988,/,/,    Add source of multiline java code,/,/
+b9712f97099702f766e648ce1a8153fb1980c1fa,/,/,    Remove comments in pig script,/,/
+6ce949f5051189fcce1d93837d66f0b16ed63ebd,/,/,    Merge pull request #35 from evionkim/master,/,/
+c6ba27510aa08556b64a338683beff34b2a447b6,/,/,     Changed random double generate algorithm/ Added reservoir sample,/,/
+d529d50de7a049b1d4f27c957ca6ab664efa31c7,/,/,    Merge branch 'master' of https://github.com/linkedin/datafu,/,/
+b76e054506899e1076c2e2354147be47979554bd,/,/,    Sessionize should allow long for time as well,/,/
+a2e03ac32f2e50320466642593c43794cd97a39b,/,/,    Add classes to tools resolver for mac os,/,/
+9f1733e329cdcc689d8b530a4de39c94892063e1,/,/,    Fix testng path,/,/
+47af62730405fe4ef940388b9fccb822cb704024,/,/,    Fix resolution of tools jar,/,/
+155f3576b13a8643e0607a9df80420070946a3e4,/,/,    Add tools dependency,/,/
+1cb8e7c0dd33188429537730fc691b24e9695090,/,/,    Merge with linkedin master,/,/
+b8da295ceea5d1054ed8726558b0be891f06d096,/,/,    Use pig 0.11.1 for testing  use pigunit from maven,/,/
+3c311e6409eccaae6ab5b514b8696c956910e470,/,/,    Rename test variables,/,/
+cd3f9bf939e98683918be0d969b63b81d76945cc,/,/,    Support for embedding Pig scripts in Java test files,/,/
+f0ad8d22cef3ee1bca1ca87b634a0f7395d366f1,/,/,    Merge pull request #37 from matthayes/master,/,/
+c622215f072d47966dbc3273866260b54d75aea2,/,/,    For COALESCE  return null for empty or null input,/,/
+4a4c8987edc19209b0ef660652c9372272051682,/,/,    Add coalesceLongTest.pig,/,/
+3d14d30c6c078ea03d8d43f3c0909509827972e6,/,/,    Add coalesceLongTest,/,/
+bfc42c39c9ce82904fc3d533e10abd014240527a,/,/,    Add COALESCE,/,/
+737a808f8caf15efa6b7f3db1537176fc97c3579,/,/,    Merge with master,/,/
+f5ad41c4152a67bd8e68556d23b1daebb8cf4602,/,/,     Removed redundant test,/,/
+2e288ea53f03d6feb681b1860cf9a4bbee8f0380,/,/,    Merge branch 'master' of https://github.com/linkedin/datafu,/,/
+c9b4f76181c1ee892442969cc9d28537b6eba65e,/,/,     created sampling Package / Added SampleByKey UDF,/,/
+98e7ae283280738a0097eaa74786af83b7d3b1d9,/,/,    Released 0.0.10  bumping version,/,/
+b7fc061f6759fae79c09e32de811fb040297b01e,/,/,    fix error in AliasableEvalFunc documentation,/,/
+657af7cbca4b23c03e2319d72cce8e379206a9c4,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+d063733891ab48169a5f5419e427e8eda2409372,/,/,    Introduce AliasableEvalFunc and BagLeftOuterJoin,/,/
+6aa8fba660b881a9934f91d6e85930057be0e021,/,/,    Make CountEach implement Accumulator,/,/
+e6fa1db0ebd5e20da2dff6da3fc8fab12970b5d6,/,/,    Doc fix,/,/
+3b830d24ee9f008b6df18c54b83ce7856a2dadbf,/,/,    Null pointer fix in outputSchema for StreamingQuantile,/,/
+2341fd52d58d66b62461eb4c6261884b0e9c0b32,/,/,    fixed bug in StreamQuantile.outputSchema that was generating schema fields for intermediary quantiles,/,/
+1fd48810b6d8d05a9057e71392d32160b9b96bf4,/,/,    Merge pull request #34 from evionkim/master,/,/
+91c8c751941b7060f6d5b66caef1e5897914e937,/,/,     Fixing typo in README.me,/,/
+d0c1bb5e3bf63ebd28ad8e254a06a6a1daf4c104,/,/,    Fix ASSERT documentation,/,/
+e21cb1458baf8abc2c17ad055b7fe96ba29f8a08,/,/,    Add travis status image,/,/
+44b04835651db07b9b0b7bf6546f3bbe294a029c,/,/,    Revert "Break test on purpose to test travis status image",/,/
+c95a03451002413e6dbbfe00ed1841a4e6528668,/,/,    Break test on purpose to test travis status image,/,/
+eaa18e9594f8a15af0d375d251ece7323c68a5bd,/,/,    Add test status image,/,/
+165565441c157570fcc89e4eeccb15f74ab089a5,/,/,    Return non-zero when tests fail,/,/
+cb073e3b881aaaa2951e9bdb15f9a952466e7807,/,/,    Update README,/,/
+23bf98b1b00223213ede5076f14e6b64bb816e81,/,/,    Released 0.0.9  bumping version,/,/
+bce41b901d19b3c2b62f259a6f8822b6524d0a56,/,/,    Enumerate should call cleanup in constructor,/,/
+b17612ed42b66ce76a3e9529902439d18f4600fd,/,/,    Merge pull request #29 from cw11oyd/master,/,/
+0aaf90211862f8a72b6a1bee4fd3f1c91964f8a3,/,/,    Fixed Enumerate's Accumulator implementation and added test coverage,/,/
+198fad06d631b543ccc2ff4a5273fef997beb794,/,/,    Remove build image since buggy,/,/
+88d5b3fed18508764c353dd17e9973656247cbed,/,/,    README update,/,/
+3fa0932eb99b6767bacc1151f41aac6c7a531205,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+3f7f08255b15e96773e2d095fa65551ab64687e8,/,/,    Add build status to README,/,/
+061e006d6f50b044f0cbe6d4f06476f0674044a0,/,/,    Merge pull request #28 from matthayes/master,/,/
+02fcf40bb51908af3bac075d47309328d71cd7ae,/,/,    Removes macros,/,/
+5267560b90ae463aa8c8c70c70c19ef789b1b032,/,/,    Remove macros code,/,/
+582dbbf4552d7c90a8503329d60dda4c238a0d51,/,/,    Update .travis.yml,/,/
+ceb8779bc3deaad6ae971a33c30024830a62ec55,/,/,    Update .travis.yml,/,/
+8cc1997f7e3004d294add3c7f8ab446807e10001,/,/,    Update .travis.yml,/,/
+b2c4538dccb50bc614f35621b0ab30ff0a695946,/,/,    Update .travis.yml,/,/
+f49eafd012bb80e7a08ab4a69da83e3370986352,/,/,    Remove appenders for root logger to reduce log spam,/,/
+2ddace090c8fa1c0ea584bb1eb511c3043ce6341,/,/,    Turn off JvmMetrics log garbage,/,/
+1f48f56b4d7f3feb2fd977fb6e6b842061806a8f,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+b1a0f8ec236ab98ff455bc7e398f8edc80defc23,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+e2311f959b1505e73a66361f4e0df355ab810a39,/,/,    Add .travis.yml,/,/
+6d516bf5ac4c6a6495b5907519fbe9b42703ee0a,/,/,    Readme update,/,/
+973a7f6d6d9069f9f35b00a3d53b3f6854f082f8,/,/,    Test against pig 0.11,/,/
+e3a84da3221273ef7843cb0a2573130a49262d21,/,/,    Merge branch 'master' of github.com:matthayes/datafu,/,/
+75a1c069a052d899482d789b80b2f4f49f1682c0,/,/,    Add examples,/,/
+1cce20f4ac8c01037a4c5d262f3ca9a6c5a0de8b,/,/,    Merge pull request #26 from william-g-vaughan/master,/,/
+716c183959f7b49f2491364ff392a501e0bf39a5,/,/,    change parameters based on matt's recommendations; change seed param in weighted sample,/,/
+89bbc3f8f8d00899383f157d62d4c30169f5f112,/,/,    Merge branch 'master' of github.com:william-g-vaughan/datafu,/,/
+3d23580ef2447e44cbe03825f7b5ea8f159c389a,/,/,    Update README  add settings.xml template,/,/
+f0112a819594ad89725f209a8a9b182c3f3c5b30,/,/,    Release 0.0.8  bumping version,/,/
+dd16fce7c3c6b76a845f30db10e9c036ad1a5ebb,/,/,    add WeightedSample udf and tests; add CountEach udf and tests,/,/
+833a553fcaf3a760205fa26a7db51ce287dad333,/,/,    Merge pull request #25 from evionkim/master,/,/
+3abab0b1d45fed1ad066b224e94ec44054c30092,/,/,    Change in BagTests,/,/
+8c3566c16887e203484828dca2199e25c40a3777,/,/,    Merge branch 'master' of github.com:evionkim/datafu,/,/
+88a240d7d12b401c2120477fb223339ec7920fa0,/,/,    Fixed the bug in Enumerate,/,/
+3762d57fd0e73875ee22f52ff4df5a08e92e1d1b,/,/,    Fix the bug in Enumerate,/,/
+5a7d69af9fd905da92ed0666a9f52a43de31ec6a,/,/,    Add notes on how to release,/,/
+e7215753f993e8399936d80807b8caeba1bd1ff6,/,/,    Released 0.0.7  bumping version,/,/
+2322b5df5a9e5560fe13b0448ee1e942c4c15491,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+fb76eccaf1aaf84ef4ff03186c713e6e3d104069,/,/,    Update eclipse files,/,/
+a459cc7c4360b727e254015b66603ebdc933b787,/,/,    Merge pull request #24 from rmelick/master,/,/
+48516733d1ec9a70223a73d551d099c6a732881a,/,/,    Small fix to SimpleEvalFunc javadoc,/,/
+e20dac78e4127e262ed02b72266fcf41ae56cbaf,/,/,    Fix the log message for type mismatches in SimpleEvalFunc.,/,/
+5dcd1a771c8cd79485af86c60bd0acba81c7ea94,/,/,    Add inputSchema checking to SimpleEvalFunc so the schema is checked at pig compile time  instead of run time.,/,/
+0dffc6f121c552d0146e2366b783077ca899be6e,/,/,    Merge pull request #23 from talevy/patch-1,/,/
+784977d4216e306c346ed3a2bd8956814e5c5de4,/,/,    correct misspelling or retrieve in build.xml,/,/
+4957df689048a9d9e44628e2b12c0c7771346810,/,/,    Merge pull request #22 from njwhite/master,/,/
+50e827665090fc08d5764322c4d665a4e895ad94,/,/,    SetIntersect shouldn't throw if either of the input bags are empty,/,/
+df85e7196f0629abeea4a82dbfc5f9bb7729956b,/,/,    Merge pull request #21 from samshah/master,/,/
+39f7674ee9b56315cfc00f0a8c7c82b2e0dc8af2,/,/,    Update SetUnion() to use distinct bags for scalability,/,/
+dc33e0b70be7bfe17056faeec016b2e8d70d74af,/,/,    Add links in README,/,/
+08301f4ff5b6b1c716e8d92ef2be3f7631aa4acd,/,/,    Update README and fix pom url so points to data.linkedin.com,/,/
+f26e47c8239427845d9997ae815344fd5c86229a,/,/,    Removed release target,/,/
+ae3330d92b44959333f6fe9dead6537de2266cf2,/,/,    Fix VAR javadoc,/,/
+d9bd10cf8dde070661ab2d07c06d30198a753578,/,/,    Released 0.0.6  bumping version,/,/
+2e6dc57d9a34f9e26f4b707840cbbff5fbb000dc,/,/,    Download maven-ant-tasks using ivy,/,/
+4ebc93ca45438db92982a9bfa19e73948cfab4ce,/,/,    Remove pig and hadoop from pom,/,/
+dd63ca0683eacab9798cdb8fe984a603528ac1cd,/,/,    Updated README.,/,/
+02d8b2e549a1c01e7e9fd2bea9e8249c7b4e7e69,/,/,    Updated README to show variance and use streaming quantile.,/,/
+65e5512c609f7c81c97303c1fa875cf66de24fbd,/,/,    Updated documentation for Enumerate() and ReverseEnumerate() around use of accumulator.,/,/
+517356e7f3e2ef30e7ab42a5af12eed8a91a9adc,/,/,    Merge pull request #19 from evionkim/master,/,/
+cf1e3d7dccabc0955bbc2c33520b0aa680dbaf83,/,/,     Made Enumerator as Accumulator class / Seperate ReverseEnumerator which is not accumulatorable,/,/
+550b582c5605245696ae7aabb850be5bec4dae08,/,/,    Remove countByParallel.pig,/,/
+a1f69ecc57c038fa21ce0f74d23ce4dac982186f,/,/,    Add some macros,/,/
+31803724cd0d0e9e1c7647cde39a33e7e13c9dfc,/,/,    Really fix the documentation for FirstTupleFromBag.,/,/
+756788b8ac1ff47e010fbcb420c9854527601116,/,/,    Significantly cleaned up FirstTupleFromBag().,/,/
+1b92a66a8512d0692d3b48510971895ec259c51d,/,/,    Fixed Sessonize() documentation.,/,/
+b1eff33e1d7af2d19226e8e84e8b4587c55731be,/,/,    Merge pull request #17 from samshah/master,/,/
+f60cf6b5dee6b5cf4cd34ea177e99137d5616c81,/,/,    Clean up build.xml  fix "coverage" target.,/,/
+3e96d0cd52a5ed8ac2c3dd8da87c6ce16cc22cac,/,/,    Add missing license headers,/,/
+0d99577f3da8f9f4114292c317eede66aceb3a89,/,/,    Added Evion Kim as a contributor for his Variance UDF.,/,/
+e4f4a3bb1cb129d065e7947e0c81837f64ce318a,/,/,    Merge pull request #16 from evionkim/master,/,/
+5e4706bbacae8bd88c53617c7481b8f8ee7d1af8,/,/,     Properly handle null entries / Added tests for null entries,/,/
+422d53cf2926b8e9b9d024b8bf1d4dc939b627fa,/,/,     Added example on VAR.jar / added tests for corner cases,/,/
+a617a14589da166591b6b90d7ba13d4945f6f9d9,/,/,     Fix link to Wikipedia page on VAR.java,/,/
+0c53ba762dd3e10a6ac31c2430b126720bb7e5fe,/,/,     Adding VAR(variance) and relevant tests,/,/
+5a6fb815e21455c05a848f4c22b187c6ecb63f90,DATAFU-6,Bug,MonitoredUDF annotation does not work with AliasableEvalFunc,None,Major
+eaa03e94e58016a5bf1e8fcc7b1c41d1635c7d09,/,/,    Update README,/,/
+1bed9a5edec65ebe46dfc54d0c0aa30640c78f75,/,/,    Update README,/,/
+7399e12b1e98ccd89ee16beeab0da748e22e61d3,/,/,    Merge branch '0.0.5',/,/
+33fdc32352879fe577c06381e70bfe98370ef23a,/,/,    Fix groupId in pom,/,/
+7af1c284400a0465210b1e1be4dfd0deae56ee7f,/,/,    Bump version,/,/
+6cc6f2fae471f3542de98ffd2aa4a9505eb17de7,/,/,    Fix classpath for tests,/,/
+53ec13942a8abdce338e6a07f62769b736fee147,/,/,    Fix issue with QuantileUtil.getQuantilesFromParams,/,/
+f913a3442808f47bc6b6e536cb18cccfcc555db2,/,/,    Use pig 0.10.0,/,/
+6fcb8f869d5bef2cdbe924c32e845765253234bf,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+635106ce7f3ea22a6f4b1c06931736dca20bae4a,/,/,    Fix bug in error messages for PageRank,/,/
+1da8dbbb58b21d188310d9bbf5d3df5fc3ae391c,/,/,    Enumerate fix for large bags,/,/
+8906856b163115c650fd993ed13d2f0f3e29dbe1,/,/,    ApplyQuantile should take a tuple as first param  where the first element is the value to convert.  Otherwise there is no identifying info that can be attached to it.,/,/
+e7dd686f6637bc890b99aaee2e1cf495b7a2e2b0,/,/,    Merge pull request #10 from matthayes/master,/,/
+ac7f823e214b255297b625cae47f9aefde9d6ff0,/,/,    Improve ApplyQuantile,/,/
+850ba2d40fd45d8d0811bd42051977defed10acf,/,/,    ApplyQuantile UDF,/,/
+b8dc70888611d5850b1cce5fa7e28cf76f92cfdb,/,/,    Topic sensitive page rank via node biasing,/,/
+f3e8af44de6bb1268b17e3acbdb22dfb68f9f39c,/,/,    README change,/,/
+8af67576c9221d4adaf6b316bc5a30816470600f,/,/,    Update javadoc link,/,/
+d063937519f6365958e26a1750dfdd30686613ff,/,/,    Add info on where to get datafu,/,/
+f48b5d399f5f1d604b430a59bc1b2143141e8ce9,/,/,    Update pom.xml version based on version in build.xml,/,/
+96680bd981dd79acf75a97b942dc97a1783d9e86,/,/,    Also bump version in pom.xml,/,/
+184930d2f26c4c1e38d970b0902d1130b485cbd1,/,/,    Bump version,/,/
+9cb66fa2b626c100c3f583bbf30458a2cb794835,/,/,    Deploy to maven,/,/
+70ce599d031f5f899137a07dc019e2500568f492,/,/,    use final.name for jar,/,/
+2699e4a0406339ccca0abd55abc868cd174470b4,/,/,    don't build coverage war,/,/
+1609d33e3de0d9d97a82eb9285ff47743bd0bbe6,/,/,    minor cleanup,/,/
+44fae61fc018c58bfab41ee9061ca8ab1e3aec3a,/,/,    Checkpoint of build.xml cleanup,/,/
+85f22d87f66d068ae7a59b30eafc15c3584d8d11,/,/,    Fix README typos,/,/
+a78f37e8828574ec4c4a475ec6c2a9b355421d13,/,/,    Bump version,/,/
+c9d07de47c307bdc9e448787aa1c86c03ca6f8fb,/,/,    Doc updates,/,/
+0b14bdfde1b8702177025014aa1bbaa3fd500b37,/,/,    Add more quantile tests and documentation,/,/
+98edc8ad24a164161c20c325478f81cef4a6e04c,/,/,    Alternative interface for StreamingQuantile so consistent with Quantile  add StreamingMedian,/,/
+c02e2afff16c53157a0b14e087a7932a2fa66b85,/,/,    Update Quantile to support StreamingQuantile interface,/,/
+96d96dfbb04329b92e71d9c70ee55a7b68bcc29a,/,/,    Bump version,/,/
+08072e6057b8146143b47ab0c4443ae81563611c,/,/,    Revert "Quantile UDF should implement Accumulate",/,/
+944521956fc99f9ae1872ca692fdc85e02c28f47,/,/,    README update,/,/
+c95f5362a537098a617bb7f2e9a2af799df52a14,/,/,    Create testclasses.pattern property,/,/
+518454fb90696a1664623d12e6ba6448b55202cb,/,/,    Merge test-unit and test-pig targets into test,/,/
+be7730dda2a00d33970465b1ee4c4f2f619b6bd1,/,/,    Bump version,/,/
+25f750a1b5ab06cecc605618ef4a44173639db41,/,/,    Remove main methods,/,/
+dc73d92d6e1e2a1a3e62285f31f905f0552f177f,/,/,    Quantile UDF should implement Accumulate,/,/
+abffeeb65147865b5bc7c7754e075a7945f9ffd8,/,/,    Sessionize should implement Accumulator,/,/
+04d7eb13b3f5f9da3a20e9338c836c45f5e37239,/,/,    PageRank UDF should implement Accumulator,/,/
+0b2901a28d09bdcea7cc31d8fec837562585877e,/,/,    StreamingQuantile call method should take DataBag,/,/
+7c9389bdfbfea6084d09558f463e2862de279bec,/,/,    Merge pull request #7 from jwills/master,/,/
+81f8e0eb32151e7082400826ca2e29330641689e,/,/,    Delegate the call() impl to accumulate so we're sure to test it properly. :),/,/
+61f6d111c802345affdc2acf40624383773f79e3,/,/,    Merge branch 'master' of github.com:linkedin/datafu,/,/
+6d101c64adab2a1539c07320c6bb9be07060ee9e,/,/,    Add CONTRIBUTORS,/,/
+a7d4a33f4e85f992708750ee990540480b42bdf1,/,/,    Merge pull request #6 from jwills/master,/,/
+0e534bc08dca50126de012657cc22820edb17f69,/,/,    Have StreamingQuantile implement the Accumulator interface.,/,/
+0b26cb7f41441f91055ca37382bdb472131244d0,/,/,    Merge pull request #5 from jwills/master,/,/
+d9ec0137f4e1567f9eb01f2a88b4238c8d59aceb,/,/,    Merge pull request #1 from mitultiwari/master,/,/
+966bd53ad6f315e5d76aace5ad4cd4c211d75478,/,/,    Merge pull request #4 from william-g-vaughan/master,/,/
+f6c3b02a655574a0fae306a321fe986d01ee3d9b,/,/,    Add javadoc for streaming quantile,/,/
+713cd8b4e893cb2094f7063ff6eff6e246185147,/,/,    Add unit test for streaming quantiles,/,/
+a4f11962ecf50bd58fa1e1b86ae0c489663ed49d,/,/,    added distinctby udf,/,/
+01b86fdda0af558d0841b88842f78bab3ace83d7,/,/,    fixed some documentation errors,/,/
+0e4e55afa463ce88cf59c5b49c17e48aeb87e69d,/,/,    Initial commit of the streaming quantile impl,/,/
+6981b7c0785bd868cf725a024161c6f6553a9802,/,/,    Merge pull request #3 from william-g-vaughan/master,/,/
+ef1660677e64884d76d270ed54844434d4429f90,/,/,    Added a reverse parameter to Enumberate; Created AliasBagFields; created tests for new features,/,/
+1b2d28be9f5f594806ecf72a9b3d02027c6003db,/,/,    Doc fixes,/,/
+2eaf6bb3de9f2fce0af5fe0cb85db8876d74de77,/,/,    Update README,/,/
+a9985f11a77da18f4673fe75ad765f19fd78ff16,/,/,    Fix bug in UnorderedPairs schema definition,/,/
+8205ad6174ba8d95f31e4a6cf15eb1119bf65852,/,/,    Merge branch 'master' of https://github.com/linkedin/datafu,/,/
+605573324a328cf52b46483ea21a41b9a871c5d5,/,/,    added a udf to extract the first tuple from a bag,/,/
+c501a0d34cf738893cb3777b643a79183f1868c9,/,/,    Fix README link,/,/
+c367700f6410beb05e900d5f8f2502ad683b431a,/,/,    Update all target,/,/
+6bd6284ce1f7e551f72246249b125a89a02c9c1c,/,/,    Add .gitignore,/,/
+a105a481165b5dee1f8ac04479d2df69010272ca,/,/,    Add .classpath and .project,/,/
+e3c93472c070613a5406e43de00258fd0f2d63d6,/,/,    README update,/,/
+cccf2f4ac3a45efa8469c1e19b03526a55bfeff5,/,/,    Initial commit,/,/

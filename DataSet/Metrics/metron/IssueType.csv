@@ -1,0 +1,1452 @@
+1252573eab087e87fb2938f8651c5b0b393aca9e,METRON-2358,Wish,Fix typos in descriptions in metron analytics module,None,Trivial,100
+8fa25664fdff439ba28492bf43e26788691ec84b,METRON-2348,Bug,prepare-commit broken by github api change,,Major,100
+dbacbc3cae9173466de14bbc49f7e49bf45b11e0,METRON-2341,Task,[dependabot] Bump nimbus-jose-jwt from 4.41.2 to 7.9 in /metron-interface/metron-rest,,Major,100
+e57a795dc0f4781a9807bb08570b2b3948b79a97,METRON-2292,Bug,[UI] Manual query can&apos;t be saved on the Alerts UI,,Minor,100
+0da31ba17a522b5afb5186d819e70999c4702e77,METRON-2276,Bug,[UI] Performance: Switching back from manual filtering fires a &quot;full query&quot;,,Minor,100
+b71ddceeefb4efc677f800c66ca65fae46f4a45a,METRON-2307,Task,Migrate to JUnit5,,Minor,94.0312976
+83effe49b5b996af16f68b67c6e998010a51513f,METRON-2324,Bug,verify_licenses.sh and list_dependencies.sh don&apos;t properly handle maven failures,,Major,100
+b8ea1e22aebdd4e228f4c278c3171c18af664de4,METRON-2322,Improvement,Add Ambari connection check to upgrade_helper script,,Major,100
+19dd9b173b5fbe3c4dc1e08a5d0498a1c441c6bc,METRON-2332,Improvement,Enable Tuning of the Profiler&apos;s Parallelism from Ambari,,Major,100
+9b4979d69319436af5a65fd52bc555f794aa5029,METRON-2323,Improvement,Increase unit test coverage for Alerts List,,Major,100
+ebed1db10644d769f23ef7266d8365adca7c13cb,METRON-2208,Improvement,[UI] Increase unit test coverage for Alert Details,,Major,100
+1ece1ed0d2ac85d3d8114c45b555a657e2521be8,METRON-2316,Improvement,[UI] Drag drop sorting for the selected fields in the Alerts UI,,Minor,100
+657028bc7f69fb7b4d54fae22b3c3fcb5d88b61b,METRON-2326,Bug,Unable to Call ENRICHMENT_GET from Threat Triage Rule Reason Field,,Major,97.68912987
+101d4275ce09b819b2312407e427469370f69ef8,METRON-2285,Bug,Batch Profiler Cannot Persist Data Sketches,,Major,98.1498137
+fc4bf498dc39a00715ec772a3ad4f9368b532101,METRON-2321,Bug,Remove Legacy AWS Deployment Path,,Major,100
+20688203662663571ac02e6d5c80394ed0c0e206,METRON-2317,Sub-task,[UI] Delete confirmation dialogue looks visually broken,,Major,100
+650c6cb39ae089c9bd8d8b039cd6a67140dbf085,METRON-2304,Improvement,Update node and npm version to LTS releases,,Major,100
+97d7e46f53376303e18540075b0aa53198b0a1cb,METRON-2311,Bug,Remove JUnit from all our uber jars,,Major,100
+fca9ebf0dc945bea485be334e4fcfcbe7ed179cf,METRON-2239,Improvement,Metron Automated backup and restore,,Blocker,100
+12e16df4c340be169ff0d0190c732948fdcd2e44,METRON-2308,Bug,Fix &apos;Degrees&apos; Example Profile,,Major,100
+604a106f74ba0d2151e805b261f04b91a14fa2f6,METRON-2310,Bug,Remove metron-integration-test from compile dependencies,,Major,100
+8686f5265e68a5fb861f944b4b3b086c807618f2,METRON-2284,Bug,Metron Profiler for Spark doesn&apos;t work as expected,,Major,100
+fb3986e3ec6c39838fec2cf96020d84dd2ff86bc,METRON-2290,Bug,[UI] Delaying first auto polling request on app start,,Major,100
+6c064b76e2252776cde64280b9ee15091339cf5a,METRON-2293,Bug,Fix some inaccuracies in the MaaS README example,,Major,100
+eb1dda62eccc5f6e9ae402d743b11564b4506ba5,METRON-2302,Bug,[UI] Change the default polling interval for Alerts UI to longer time,,Major,100
+df6e18154c508cd803095d31f8ff9cf96e05406b,METRON-2295,Improvement,[UI] Displaying &quot;No Data&quot; message in the Alerts UI screen,,Minor,100
+581a43f870de3940cadd9cf8170d43a598f89640,METRON-2294,Improvement,[UI] Fixing Stale mode issue in Alert UI Manual Query Mode,,Minor,100
+d0d64d4ad227711b3cf842bca2965087ed191f59,METRON-2291,Bug,[UI] Fixing and rephrasing warning messages on Alerts UI,,Minor,100
+37a8e2e8211dd2c8a56c8e75b516e3029c421099,METRON-2303,Bug,Change Default HDFS Port for Batch Profiler,,Major,100
+e645ffe34a98617b91261738477358c760bb60cf,METRON-2300,Task,Fix Brad Kolarov&apos;s Apache ID,,Major,100
+67b4d0b2c84f7f370890c1caf639459a4c40b37a,METRON-2280,Bug,PCAP queries no longer work,,Major,100
+bb9a244d81feb54bc93456310f57a92d63cea38f,METRON-2259,Bug,[UI] Hide Resolved and Hide Dismissed toggles not works when filtering is in manual mode,,Major,100
+50b5c50d93db92ff0d13de7d640187b614fd5de6,METRON-2278,Improvement,&quot;Metron on CentOS 6&quot; Documentation is outdated,,Minor,100
+895fe493f38fd85abd3e0f14df507293b977ccfe,METRON-2274,Bug,Flatfile loader and summarizer mapreduce mode broken,,Major,100
+03e0977ffa0815f129fcb5a1340f6a2b2f0212c6,METRON-2272,Bug,[UI] Performance: Switching manual filtering on and off multiple times leads slow typing,,Major,100
+d693e282342afb8e67a57744ee3505262295dd35,METRON-2190,Bug,[UI] Alerts UI: Indicating loading and preventing parallel requests,,Major,100
+080e074e9d3861f102e74a46a30f6b90ac2da1c9,METRON-2271,Improvement,Reorganize Travis Build,,Major,100
+eaee9f84f27c9fcf35cf2b0492352016b5b88b76,METRON-2266,Improvement,REST debug instructions,,Major,100
+3a666d5d8d6489882bcc32ded5f53bb5225c3ab1,METRON-2235,Bug,Full dev deployment server startup timeout,,Minor,100
+92220ced649b14d90fd7bc27b66a3d2eca651475,METRON-2257,Bug,Metron-Alerts GUI testing failing on MacOS builds,,Minor,100
+0e2eadf7dc7aa9db3e77f97b43c5846625162059,METRON-2247,Improvement,rpm-docker: Provide an option to bypass running rpmlint,,Minor,100
+b1536d73fd33707357f0b0274443d63f9487454c,METRON-2254,Bug,Intermittent Test Failure in RestFunctionsIntegrationTest,,Major,100
+722eb66a6a6a1208185e238f29864d95c673f404,METRON-2211,Improvement,[UI] Alerts UI should optionally render timestamp in local time,,Major,100
+c402e6442d8d699eef5aa5464cd91347160b082c,METRON-2217,Improvement,Migrate current HBase client from HTableInterface to Table,,Major,99.78509066
+3b96474ee3b82e9d254b466d5997321b90a6f8c5,METRON-2201,Bug,The description for the IS_IP method default behavior needs to corrected as per implementation ,,Minor,100
+67fa5a403b01d0f7c8607c06e63f9d06f8b8cbc1,METRON-2227,Bug,Kafka test harness has a hardcoded 5 second timeout,,Minor,100
+5eed6663f2689e160be0a525c8e423961cd2269f,METRON-2221,Bug,Notebook import fails through Zeppelin REST API,,Major,100
+edc449ffa6be51749f6a3b100bf6a0a33755e50c,METRON-2243,Improvement,[UI] Update npm dependencies to resolve audit warnings,,Major,100
+888c4bc8f353ea0424f28919ab33b5f4ad861d25,METRON-2199,Improvement,[UI] Add ability to turn off query building in Alerts UI search input,,Major,100
+1a6d77fd74e37950ced4ae1620d9ee9d80cdc4b1,METRON-2238,Bug,Streaming enrichments regression,,Major,100
+e6ca3c71d8120516afcf816be2cda81093088b72,METRON-2149,Bug,Shaded jar classifier is not consistent,,Major,100
+4ab1fdba2f93cfb90dea55d315fb7f45c63d2fa6,METRON-2179,Bug,[UI] Make navigation in both UIs consistent,,Major,100
+7219606fd56258c3037c73e5709f2144702fe37a,METRON-2212,Improvement,Add debugging developer docs to hbase-server README,,Major,100
+5e93677d38889fdd34d4f6a93ab0e8099bf01c7b,METRON-2076,Bug,Stellar timezone test failure,,Minor,100
+88f4d2cefe4bbb389732da3b4f5cbcf02b7b949a,METRON-614,Bug,Eliminate use of the default Charset,,Minor,99.72903401
+f6054a46d6ba56396e61f26eeeb08ec47a40a498,METRON-614,Bug,Eliminate use of the default Charset,,Minor,100
+3bea6adfd44ac7d4b04f42c38ccd46ab5796dab1,METRON-2205,Bug,Cease querying on filter or time-range change,,Major,100
+771d66b5a806f9c0f1c53c1782977e00fa26917a,METRON-2195,Improvement,Add defensive log level checks when constructing logs is expensive,,Critical,99.4259158
+0239432b967bc176d20d6965544be582f54ae0e9,METRON-2202,Bug,Add parameter validation for the stellar field validation functions,,Major,100
+8c4b53dae73067e05cfcdac42ceb9c562bf4c2fd,METRON-2197,Improvement,Add debugging info output for Solr queries,,Major,100
+340827f2569767056698ac38cf4517dc866c4e06,METRON-2189,Task,Optimize imports in mpack python scripts,,Major,100
+855de4a21ceb33bb608d7eb8100397eae294d81a,METRON-2194,Improvement,Update Ambari tooltip to specify single quotes for parser names with hyphens,,Major,100
+8a5e7e7d348922477faf1717b8556d81e950b762,METRON-2192,Bug,[UI] &quot;All time&quot; time range is broken on Alerts UI,,Major,100
+625653513849e4e848b96582d920fb193a4c961f,METRON-2191,Bug,[UI] Checkbox selector on Alerts UI is broken,,Major,100
+6306c935d71150456c2adbd0702001ae6b88fe38,METRON-2130,Bug,[UI] Numeric steppers on the Management UI seems broken,,Minor,100
+65681a0a0888576725663347e52deafe8ca94a1a,METRON-2129,Bug,[UI] Clearing the search bar resets alert filter range to &apos;All Time&apos;,,Minor,100
+5e1e3bd2e2876a6774b9c50d72115332f0bc15ee,METRON-2140,Bug,[UI] Implement logic behind show/hide RESOLVE and DISMISS items in Alerts UI,,Major,100
+ed63eac260e442f8c6f17dd93f6d87fc946cae0d,METRON-2172,Bug,Solr Updates Not Tested in Integration Test,,Major,99.59178119
+43f74fc91a24ea2b24f5a41038cdf46d3d883fa1,METRON-2185,Bug,Update Simple-Syslog dependency to fix error in Structured Data,,Major,100
+7e39143caf841fdb576caa417ce33110ba123270,METRON-2079,Bug,Fix documentation for installing Ansible for fulldev Centos 6,,Major,100
+753e8ea6693abfe762fc5f7d186bde8d71609fc4,METRON-2174,Bug,[UI] Grouped alerts total can differ from search alerts total,,Major,100
+b516a75417a01b080462acdcf61b7101f8e67d0d,METRON-2161,Bug,[UI] CSS positioning bugs in Alerts and MGMT UI,,Major,100
+5425f8f97a7d3620d7dd2e0a9d26f692b58963fb,METRON-2183,Improvement,Update to Angular v7,,Major,100
+f36bba7c0ed6a2cff3f30de73d7e2650e03681a6,/,/,    Metron-2180 IS_DATE stellar function is lenient while parsing date/time (MohanDV) closes apache/metron#1461,/,/,100
+42ce5add9ae5b20bb3667e81e8aaa148f48a4d42,METRON-2148,New Feature,Stellar REST POST function,,Major,99.97298757
+891ebd5ce4391bcf3260cff3db20f08d27ea21fa,METRON-2150,Bug,[UI] User not able to filter by multiple values of the same field on Alerts UI,,Major,100
+bf673a2e9c00a59716e70feea55d581af91145f1,METRON-2168,Bug,Elasticsearch Updates Not Tested in Integration Test,,Major,98.59310345
+c8f2c9affd8e3b2ed9b99cf7eb9ac7b61e4d37a2,METRON-2084,Improvement,Add documentation notice for MacOS Mojave users for new security permissions,,Major,100
+87928824509c5f6ab314375be720dd64d8361cf4,METRON-2061,Bug,Solr documents with date fields cannot be updated with Dao classes,,Major,99.85891648
+02f88a313068a876e20227a2347cedafb4cec0ae,METRON-2164,Bug,Remove the Split-Join Enrichment Topology,,Major,97.92775939
+c9604c255aa596202c6fb348fca3aa9816c0b297,METRON-2166,Bug,FileFilterUtilTest.test_getPaths_leftEdge:116 expected:&lt;1&gt; but was:&lt;2&gt;,,Major,100
+f2f3bb4877b02ce40e9712a9bd0c91f6e4d40d75,METRON-2155,Bug,Cache Maven in Travis CI Builds,,Major,100
+a2a46e6567c78e5066c0d3360d7838d1a5851fa7,METRON-2156,Improvement,Remove Storm dependency from metron-hbase,,Major,98.64964039
+09bbdf30e1ecef88b67755d12d407a39ce44536c,METRON-2142,Bug,Install solar schema as metron user,,Major,100
+ee1b2c34d329a4fffbb6e900fe06112eda7bc8cd,METRON-1253,Bug,Manual pasting of timestamps into the timestamp picker,,Major,100
+38b8a7824a3ceed829215c8ce4ecad963ebf449e,METRON-2073,Improvement,Create in-memory use case for enrichment with map type and flatfile summarizer,,Major,99.76435935
+9621ec7dbd740e0fe37d12f283b4e7a7e0f0178f,METRON-2092,Bug,[UI] Config UI does not require you to set a grok timestamp field by default,,Minor,100
+3c1317360243398eef8097edcea5f7c1a0bb2f59,METRON-2141,Improvement,Cache REST API status update calls to the Storm UI,,Major,99.83749446
+5bd7e010c2f389c2c14476337df982f2e781af8d,METRON-2102,Sub-task,[UI] Adding click-through navigation to Alerts table,,Major,100
+a1487ec104c0ebb7e3383499b445726dbe5de142,METRON-2153,Bug,ParserIntegrationTest should print failed messages,,Major,100
+e16ff316ae1a05f88a1f515ba2040d6cddab1d3f,METRON-2127,Task,Update Maven repositories to https,,Major,100
+dbf8bf9dd0f7140092ba789ff048c2f6beeb79c6,METRON-2145,Task,Clarify RPM build documentation,,Major,100
+a8f2d3a2814315da950f24ec74bacc3b8f44b1f2,METRON-2083,Bug,Fix broken links in root metron README,,Major,100
+2dd753e4b69fe1b85b7604a8d0e20af8ecea0ae8,METRON-2152,Improvement,Add debug logging for when sensor batchTimeout exceeds the calculated maximum,,Major,100
+3754ff33f6cd149ffca57474d744e0298d4c172a,METRON-2112,Bug,Normalize parser original_string handling,,Major,100
+b9a130ca96774add38865d3934ed61ca19599b87,METRON-2087,Improvement,Remove Storm dependency from metron-indexing,,Major,92.50991335
+bfe662d6e7b07f8340067d7aaeb976068617b6b1,METRON-2128,Bug,LEEF config file is missing in RPM spec file,,Major,100
+ccb5bec1dd101850c18faee128bbca77af815880,METRON-2143,Bug,Travis Build Fails to Download Maven,,Major,100
+9b70adf1d7f716c4a301af10c6726c40ecb1f3dc,METRON-2123,Improvement,Expand Stellar JOIN to work on all Iterables,,Major,100
+373ac513b0779c9399fce299094560a0261a6590,METRON-2109,Improvement,Add option to use Metron GUID as the id in Elasticsearch,,Major,99.97081144
+a6281d30ae82216dfe2c37576884a67b72e74ab7,METRON-2113,Task,Update version to 0.7.2,,Major,100
+3b0446006c327b7dea494b3a0bcbb9de4f662d5a,METRON-1788,Improvement,Fetch Profile Definitions from Zk for Batch Profiler,,Major,99.91235758
+22cc622d6f08cfa77c06dea2df7f4c56edc1862e,METRON-2118,Bug,Parser for LEEF data,,Major,99.94150336
+506c18cb5abe3a8ec1d660af9350382e085c6e15,METRON-2085,Bug,[UI] Alerts UI Details Pane: naming meta alerts is broken,,Minor,100
+2653157862740fc05ce8b3a8dcf4745a9f996c23,METRON-2058,Bug,UI: Actions -&gt; Add to Alert can still be selected from dropdown when no alerts are selected.,,Major,100
+b8df052fabe4e00a1a30e20f958f6e07c4fb4fef,METRON-2107,Task,Add architecture diagram item to PR checklist,,Major,100
+fcd681d10256c3cc44722cff694d08649ea27673,METRON-1997,Improvement,Replace Threat Triage Score Field Slider with Text Box,,Minor,100
+5a3fd55683fe7d6d35c1d7e293c9853a057a384b,METRON-2111,Task,Update public web site to point at 0.7.1 new release,,Major,100
+adf477d90cf23bc757641b3e74bdb2ed9b242f04,METRON-2089,Bug,[UI] Adding loading state to Alerts details view,,Major,100
+fb80e32e04f5e02ba1b10bd1a915047e42480819,METRON-1989,Bug,Tooltip for ES mpack path_data is incorrect,,Major,100
+d92e0a2102306ce6d6b6b2a8c986590b030d4a88,METRON-2075,Bug,site-book generation broken on MacOS with GNU sed installed,,Minor,100
+57bbab2c899877ddb114082bff111444b3089b00,METRON-2106,Bug,Escalation topic setting in Ambari has no effect,,Major,100
+e1d1901395d7b135deb48c3c4af5a94ed35fbaa4,METRON-2100,Task,Update developer documentation for full dev management UI parser aggregation feature gap,,Major,100
+f3f5c9743f515d8902b4580c765ad9d2b64aa63b,METRON-2018,Bug,Update prepare-commit to add Bro plugin tests,,Minor,100
+4390e38c2460624734ead7ab6f9fff3738471c4e,METRON-2093,Bug,Metron RC check script is outdated,,Major,100
+024aa201bc4cbe00af71c57b9e0fe27b51305030,METRON-2094,Sub-task,Create CentOS 7 Development Environment,,Major,100
+f99cc54d367c1f36433f7a41e1c89e7bf75786fb,METRON-2090,Bug,Full dev is failing with missing org.mortbay.jetty:jetty-util:jar:6.1.26.hwx dependency,,Major,100
+fd6bbcc4ab9862ce0891bd7570a7654dcd68ea46,METRON-2091,Bug,SimpleHBaseEnrichmentWriterTest should be included in tests,,Major,99.94146912
+51d1c812c1e45f57da8c27fe37fd13797707884e,METRON-2078,Improvement,Remove Storm dependency from metron-writer,,Major,97.83537034
+c453b1edf27a4a2883e4c055246d939218908ebb,METRON-2065,Bug,Setting Parser Output Topic in Sensor Config is broken,,Major,99.7761194
+7f6ad42e534eeaf9423f33c3a6ea1d3d131049f5,METRON-2067,Bug,Maven pom file duplicate dependency fixes,,Major,100
+b6d8cade6aec7fe6290d4fd5660ff205de06bd64,METRON-2074,Improvement,Script to handle TGT renewal with Storm and Kerberos enabled,,Major,100
+c58062a263927a4c41edd0315d58077e0a91446a,METRON-2082,Bug,Update the read me document steps to run Batch profiler ,,Major,100
+d6763a8fad94e7b25bdf03e7b896eb435852c8e5,METRON-2006,Bug,Reenable JacoCo code coverage,,Major,100
+dc273a5be628c458ad0b25380d55536cd37b7a4f,METRON-2071,Improvement,Add MAP_PUT and MAP_MERGE to Stellar,,Major,100
+3a61933ed4fb6ec00286f4c13a22c372adf8d0dc,METRON-2014,Improvement,Add architectural documentation for metron-writer,,Major,100
+2f2c80244b34e8182f72e6f4dc98a2940194eaa0,METRON-2026,Improvement,Remove Storm dependency from metron-common,,Major,96.48241206
+80ae71f5ebeb3c6761951a70871fee208448f3e1,METRON-2062,Bug,Metron Alerts: Accidentally commited `fdescribe` in unit tests,,Critical,100
+57095488f28a017e290e021fea65412e7240e8da,METRON-2050,Improvement,Automatically populate a list of enrichments from HBase,,Major,98.71634314
+46e8625865100b35ee69fe6499e8bda56197fbcd,METRON-2060,Improvement,Improving Alerts table config pane,,Major,100
+8d7ce165050619abf3d8be600ba4c8655b6ad0ed,METRON-2064,Bug,Metron REST API overwriting global.json values,,Major,100
+54aa46ee44a329504559f417790324c175f5af6a,METRON-2066,Bug,Documentation and logging corrections,,Major,100
+64b079044f6840fc0bcb1bf9cb665790f37900f4,METRON-1654,Bug,findOne request after an alert patch returns with the original state of the alert item,,Major,100
+14efe83e3a8d9ba7c2bef35061fc9829ee0e61f8,METRON-2053,Improvement,Refactor metron-enrichment to decouple Storm dependencies,,Major,90.79665917
+a1c257c6a583ba705d5e551fb5e7f5c9862097ac,METRON-2022,Bug,Metron rest creates large number of connections to ZK which causes subsequent connection to zk fail,,Major,99.90248659
+cf7fcaeb3cb22755cf732505a2d6fc62783d7af9,METRON-2056,Bug,Support LDAP Bind Authentication,,Major,100
+cad679a5948ce0ee9866e61bbf75b1f5f255682c,METRON-2023,Improvement,[UI] Covering Grok Parser Creation with Cypress tests,,Major,100
+4da899043ffdb222f8a928cd30bc0f47b99c632a,METRON-2039,Bug,Time range queries do not work with Solr,,Major,100
+88d3ca8a51f7b1ee059df4f1458dbceefd090e15,METRON-2052,Improvement,[UI] Changing default query time range to 15 minutes,,Major,100
+8bb7a27cd97a4d6e513f073463b9e62e96387f3d,METRON-2051,Improvement,Improve stellar-zeppelin documentation,,Major,100
+2f1af5cc50ba0e5e940885a1eaf5096c40a49072,METRON-2023,Improvement,[UI] Covering Grok Parser Creation with Cypress tests,,Major,100
+af28bba3a651f7a92642acd66db9b6d3a27d45d6,METRON-2046,Bug,IS_EMPTY stellar functions fails on empty map,,Major,100
+17b31b48f59627a9e768a5cbe0be7ac55b5b04f8,METRON-2029,Improvement,Configure Table should have filter,,Major,100
+ab9241d3df5edcd4d6ae84a72f552b0773d50954,METRON-2032,Task,Create summary table having list of stellar functions in README,,Major,100
+e63faf84f1b227c44b2d6b224b89c74449bcf0cc,METRON-2038,Bug,Enrichment Loader Fails When Run as MR Job,,Major,100
+ef1ce3c3d82758452fb63ca9d5cee31d266031ee,METRON-2035,Improvement,Allow User to Configure Role Names for Access Control,,Major,99.90232785
+0c774ab921ff4271611bdf9d3bb7ad3978d3f7b0,METRON-2041,Bug,RegularExpressionsParser in wrong source folder,,Major,99.93483219
+9c69ffc8559830096a6138a5ef8fb3c31ea5bca3,METRON-2036,Bug,Maven builds fail locally in HDFSWriterTest,,Major,100
+91368e1ee3565a91a46ad8d2d3639fecce320e84,METRON-2030,Bug,SensorParserGroupControllerIntegrationTest intermittent errors,,Major,100
+143901b018fff7008415e08351f32a63095b357e,METRON-2031,Bug,[UI] Turning off initial search request and polling by default on Alerts UI,,Critical,100
+1ae45a97dc73ee468f6d45052fbfa63c3bca19b8,METRON-2012,Bug,Unable to Execute Stellar Functions Against HBase in the REPL,,Major,100
+e781237284698812f6ce4ac5847684e7a65135b8,METRON-1971,Bug,Short timeout value in Cypress may cause build failures,,Major,100
+15119cb16b30862e6fbba3662407ca4db4c59a3a,METRON-1940,Bug,Check if not and install Elastic search templates / Solr collections when indexing server is restarted,,Major,100
+34a1fd513c8f27b130b6ba8edbb3d4a1ed463993,METRON-2019,Improvement,Improve Metron REST Logging,,Major,99.90215264
+6d41526c3eff511e5fe11368c6f3f0a837507ba1,METRON-2016,Improvement,Parser aggregate groups should be persisted and available through REST,,Major,99.70525626
+42ce88e05c60e3e2a7005e9804b2e74332951d0a,METRON-1987,Bug,Upgrade Alert UI to stable Bootstrap 4,,Major,100
+2d2cec749c52659f4cf5b9177047b018222a13cd,METRON-1968,Bug,Messages are lost when a parser produces multiple messages and batch size is greater than 1,,Major,98.3757178
+fec36c7ed0b2d29f4dc48574adf02c7fcb13e5fb,METRON-1778,Bug,Out-of-order timestamps may delay flush in Storm Profiler,,Major,100
+cc30c0e21656fa95b488adb47a3c9fcec94af67a,METRON-1996,Bug,Solr search throws NPE for group search if the group parameter is null or empty,,Major,100
+792e7962f32b8154cd501edb65fa3fb5819758dc,METRON-1944,Bug,Unable to Delete a Comment in Alerts UI,,Major,100
+2fb8524ab46047aaf408691ac1d3143836371ab4,METRON-2010,Bug,Unable to Build Metron Due to Inaccessible Repository,,Major,100
+d275a958cb5b7bbab533d273dff80bc1e3e65fd0,METRON-1998,Bug,Only one sensor is flushed by tick tuple,,Major,100
+14dfdc69317f71388e63cd58e2064dc41f6934e5,METRON-2009,Improvement,Address Javadoc checkstyle issues in metron-common,,Minor,97.94995964
+5e9cf705ef5feb1d723f584c1b6134bcc1eda9cf,METRON-2005,Bug,Batch Writer writes 0-byte files to HDFS on rotation,,Major,99.9522749
+36946ff09aadd54bebb503e89121d996f9242cc9,METRON-2007,Bug,Management UI not loading grok statements correctly,,Major,100
+22834879017355fa456f42a6e71a3ed44d0b43fe,METRON-1986,Bug,Batch Profiler Fails to Resolve Stats Stellar Functions,,Major,100
+4d420f4d1704b2da4e725de3fda4c08d97691611,METRON-1993,Bug,Stellar REST_GET should handle responses when content length is less than zero,,Major,100
+b89f066663b651d11abdf302da034d863559ce4e,METRON-1999,Improvement,Adding validation against special characters to parser name field,,Major,100
+9641aec6284102d16db2fbfd1dc5960d6767008a,METRON-1985,Improvement,Improve Error Handling When Cannot Connect to HBase,,Major,99.9363564
+0cf78d223f24eaf7112bfb7fb52d8778f8a1a2fa,METRON-1974,Bug,Batch Profiler Should Handle Errant Profiles Better,,Major,99.93633615
+1b6ef88c79d60022542cda7e9abbea7e720773cc,METRON-1970,Improvement,Add Metadata to Error Messages Generated During Parsing,,Major,100
+8e111e8ae09516e3c13138586e9c26fabe9fc981,METRON-1995,Bug,Arrow icon in date range selector moved to a wrong position,,Minor,100
+16e353b0d8c710eb64bad1188d8329d6872380e4,METRON-1973,Improvement,Upgrade Alert UI&apos;s webpack-dev-server to 3.1.14,,Major,100
+01d66880d99f5f46770b0f02755f4e9d86980cf5,METRON-1948,Bug,Dropped messages from REGEX_SELECT parser field transformation are not acked in Storm,,Major,100
+575d6ef09a13950377d6b0b7ba8419ab2ee7a6f9,METRON-1969,Improvement,Adding Cypress documentation to Alert UI&apos;s README.md,,Major,100
+65910d9e7a720ac47a8584510ab75f59c0c9f362,METRON-1933,Bug,Improve build-utils helper scripts,,Major,100
+46b4c15a0c91569cc02ed71fa5bb91f3b6e2a572,METRON-1962,Bug,Make entering JDBC details in REST config to be optional,,Major,100
+f43035c02ef01f07ff382bbf136eb1bada727fbb,METRON-1929,Task,Build GET_ASN Stellar function,,Major,98.47658756
+d4498e6c512aac37e734fb9e970a3f466632c95c,METRON-1956,Bug,prepare-commit does not run all the tests it should,,Major,100
+2c99257c970a5e8b29157a5fe52e74769ecd3444,METRON-1965,Bug,Knox should work on a multi-node installation,,Major,100
+aa85ffab39b50eeff46b47c68bc670c5e7c6a1d0,METRON-1939,Task,Update version to 0.7.1,,Major,100
+39fa0f134fbf4d16da2001792971135d9f24cf4c,METRON-685,Improvement,Scores in Threat Triage should be a Stellar Statement,,Major,97.73011897
+862244721fef7ba7389000cc2f3d0756bb07d69d,METRON-1963,Bug,Remove left over integration test from before refactoring,,Major,99.8630137
+309ce65f863d2532ca29a1c779bda02c1d42ee4d,METRON-1945,New Feature,Metron MPack support for Knox SSO setup,,Major,100
+ef69acd0d911ddde2dec17544eb1a844b7b79bee,METRON-1878,New Feature,Add Metron as a Knox service,,Major,99.77081742
+74658e97a55aeac612a70689850d352d907adf96,METRON-1958,Bug,Optimize Cypress to use best practices,,Major,100
+9e717a525ddca986130f4208fb6c558eaaa56eab,METRON-1957,Bug,5424 and 3164 parser configurations are packaged in wrong place,,Major,100
+7089086cfc8c070a48d80b3884ad396ebb025238,METRON-1955,Bug,Update metron SPEC file to include syslog 3164 parser,,Major,100
+0dc9fc8fe862c6a43f25bf9c61bbd38a36d3bbc8,METRON-1893,Sub-task,Create a syslog 3164 parser,,Major,99.61732741
+8c1171fa5bcc1c4a015d9160b626f452c1533330,METRON-1954,Bug,Commit Script Fails to Extract Usernames with Numerals,,Minor,100
+d1b534f31afc2f241d5ea656eeab5268cc39b84b,METRON-1953,Bug,Stellar REPL Fails on Start,,Major,100
+adbe94530e0783aeee976e765e3e57c0907c2854,METRON-1941,Bug,Alert Escalation Not Consistent in Alerts UI,,Minor,100
+7f073b863c5ab5a420b34f83f27297a7674640bf,METRON-1951,Improvement,Add site-book generation to Travis build,,Major,100
+74ec7fedd48135123092b2a638ed1f2e2f57530c,METRON-1934,Improvement,Stellar should built without error prone messages,,Major,100
+9e026e3e902769dae364b4c4acf64e00839d24f5,METRON-1950,Bug,Site-book generation broken in master,,Major,100
+d8bd35d192e1a141ea2773dae40c58b3b60a7802,METRON-1936,Bug,Cypress fails when trying to parse double quotes,,Major,100
+d7d4fd9afb19e2bd2e66babb7e1514a19eae07d0,METRON-1815,Improvement,Separate metron-parsers into metron-parsers-common and metron-parsers-storm,,Major,91.17464264
+e4d793a55a56a01fa101c8da77d92f99325ba539,METRON-1932,Improvement,Update ES and Kibana to 5.6.14,,Major,100
+ec118557cb6a9bfe91528702c7bf093977fa80d7,METRON-1938,Improvement,Add Parser Debugger to READMEs,,Minor,100
+2e6caa908c0b7708281d76b6744d63706fe610b2,METRON-1925,Improvement,Provide Verbose View of Profile Results in REPL,,Major,99.10630292
+b8e426c755a5969e24dba50f5d8fa81d1ccb472d,METRON-1795,New Feature,General Purpose Regex Parser,,Minor,99.92200905
+90582b30902b9506d16547c0cdac16e8a7e3a66e,METRON-1892,Improvement,Parser Debugger Should Load Config From Zookeeper,,Major,99.96877927
+693dab5e547d9513b6ed661aa62143c2d1e0bd1a,METRON-1937,Task,Update public web site to point at 0.7.0 new release,,Major,100
+eb2aee1820cae811c6491d68aed32ccc055922e4,METRON-1879,Sub-task,Allow Elasticsearch to Auto-Generate the Document ID,,Major,99.31666408
+c4f5c55e2914b6d29811942fd0f331184141f30f,METRON-1930,Bug,Update webpack-dev-server in Alerts UI,,Major,100
+ec3b98f762ce3726ed9a33abdb446957d1865dca,METRON-1849,Improvement,Elasticsearch Index Write Functionality Should be Shared,,Major,98.4729292
+2263983761e77b7eec52f70f5e8f8001bac83125,METRON-1928,Task,Bump Metron version to 0.7.0 for release.,,Major,100
+f8776f559c7fa9dcbf857ce29636a45b3a38791b,METRON-1931,Task,Update dev utilities to support new repo location,,Major,100
+30fafe5df16386a99274b871a291a708963eaae9,METRON-1922,Bug,Escaping incorrectly handled in current aesh version,,Major,100
+285ba5eb604f2e286f72641308a1424234739402,METRON-1867,Bug,Remove `/api/v1/update/replace` endpoint,,Major,98.71616396
+d749961daaa77624e1cb6878548479d86c8fe668,METRON-1810,Bug,Storm Profiler Intermittent Test Failure,,Major,100
+e81a5c102375d3b7f9692a561760ff8f8526a6ec,METRON-1909,Improvement,Remove http filter from release utils changelog generation,,Major,100
+877b510146456f2eed6eb12c35b1124c35b00aa5,METRON-1869,Bug,Unable to Sort an Escalated Meta Alert,,Major,99.9844624
+4ef65e09ea4a1eac8abf89521e5a999faeca1f37,METRON-1889,Improvement,Add any missing timestamp fields to unified enrichment topology,,Major,96.33145615
+b4d76f98ee96727762acf875e3d74843c98b581a,METRON-1913,Bug,metron-alert UI - Build broken by missing transitive dependency,,Blocker,100
+89a2beda4f07911c8b3cd7dee8a2c3426838d161,METRON-1845,Sub-task,Correct Test Data Load in Elasticsearch Integration Tests,,Major,94.47986577
+42fc699ce1df04fd065d131293a8322a095c1e9c,METRON-1888,Bug,Default Topology Settings in MPack Cause Profiler to Stall,,Major,100
+e1a957be3b44986799fb9672536bce43705bd6fa,METRON-1887,Improvement,Add logging to the ClasspathFunctionResolver,,Major,100
+e0f9b48e0675637baa7366efd755b228bbd925a6,METRON-1873,Bug,Update Bootstrap version in Management UI,,Major,100
+952b707dfba7d584dfe10cb650c3e5ddf6c4789d,METRON-1825,Task,Upgrade bro to 2.5.5,,Trivial,100
+12e3ae548af6bd408a31fde0d1d8cf23cefdf325,METRON-1890,Bug,Metron Vagrant should disable audio,,Major,100
+d599efb08021a85317680ef52ad2e50405621647,METRON-1874,New Feature,Create a Parser Debugger,,Major,99.74632166
+575ba03b9d91d96bf5c2bd1dbee95681ae3131d0,METRON-1880,Improvement,Use Caffeine for Profiler Caching,,Major,100
+05d309f916c0eb45a287a105f44e16e93e3c378e,METRON-1877,Improvement,Nested IF ELSE statements can cause parse errors in Stellar,,Major,100
+bfa7491f160abc3e01bb1c6f1c3927eb5cec7021,METRON-1872,Improvement,Move rat plugin away from snapshot version,,Major,100
+3c4c069b6f29824122dd93ac6f234ef1d0363e9d,METRON-1875,Improvement,Expose configurable global settings in the Alerts UI,,Major,100
+fcd644ca77394d48d460c460b672a23d6594f49b,METRON-1834,Improvement,Migrate Elasticsearch from TransportClient to new Java REST API,,Major,100
+8bf3b6ec9c6871daadcaa2341d01082d2584e341,METRON-1834,Improvement,Migrate Elasticsearch from TransportClient to new Java REST API,,Major,92.58706468
+e7e19fbb6491fa47d3794aebdac0280164afeb29,METRON-1834,Improvement,Migrate Elasticsearch from TransportClient to new Java REST API,,Major,94.69115192
+0c4c622b927d1ba3161779dc2e745d5b74ae06b6,METRON-1749,Improvement,Update Angular to latest release in Management UI,,Major,100
+0e2a4348465406ad3aca7614bc38a71571b63b83,METRON-1870,Bug,Intermittent Stellar REST test failures,,Major,100
+0303d240573a96d0bc007f3c753bc8f8fca5b308,METRON-1868,Task,metron-committer-common incorrectly checking REPO_NAME,,Minor,100
+61b1ede0bdfd28b04a3783371deb935d293df998,METRON-1740,Improvement,Improve Palo Alto parser to handle CONFIG and SYSTEM syslog messages,,Major,100
+42068d95192e7346bf0179399193a6afe01d9925,METRON-1847,Improvement,Create reusable script with functions from prepare-commit,,Major,100
+3e73391ed518e6d4e2f87a37745a34581782236b,METRON-1850,New Feature,Stellar REST function,,Major,96.65055824
+b5712af5b78ff8c6e5e3d3f3c68552204fa7d877,METRON-1858,Improvement,BasicFireEyeParser check style cleanup and optimization,,Major,100
+c6b1b3ccd7f937342c5723ca0a952a4900efc5cf,METRON-1864,Bug,Stellar date format test fails after daylight saving,,Major,100
+7bba8be0cb77136459c25af697163d76fcf45100,METRON-1861,Bug,REST fails to start when LDAP enabled and &apos;Active Spring profiles&apos; config is empty,,Major,100
+85cd21aa0f5045184c168248dc2b81c1cfd41ddd,METRON-1853,Improvement,Add shutdown hook to Stellar BaseFunctionResolver,,Major,99.95145631
+b9461e76506988ad51d6fc0f3a442909945048f2,METRON-1857,Bug,Fix Metaalert Nested Alert Field Name in Index Template,,Major,100
+bf6b07f7cbea3d210878554c7ce7a1bc091b59ee,METRON-1855,Improvement,Make unified enrichment topology the default and deprecate split-join,,Major,100
+fdfca3b2675d0dfcdf7960c5db789a8c9386b5db,METRON-1790,Improvement,Unsubscribe from every observable in the pcap panel UI component,,Minor,100
+9b6260fd4b9ecf355864b77c8889d27539623381,METRON-1803,Improvement,Integrate Cypress with Travis,,Major,100
+fefbb376fad0526116ed91035408bfeb72059d9c,METRON-1844,New Feature,Allow for LDAP to be used for authentication and roles,,Major,100
+d0411f63bb2e08f1cca81a25117fd640689bb413,METRON-1844,New Feature,Allow for LDAP to be used for authentication and roles,,Major,100
+eee99630270e08412e589b99afafbb2246f88af5,METRON-1830,Bug,Re-implement Alerts dialog box without jQuery,,Minor,100
+0e037edad913955d3b6754ca9cf42b329cd84160,METRON-1801,Sub-task,Allow Customization of Elasticsearch Document ID,,Major,98.46002621
+0ba18026222f004316b96633780509c71934121e,METRON-1826,Task,Update librdkafka and devtoolset,,Minor,100
+739782ab71f6e571ff459d1844a77b533abbdbea,METRON-1839,Bug,Install Elasticsearch MPack Step in Ansible Not Idempotent,,Major,100
+0c0602c75d9660717920a547bcb9e76d58b6571e,METRON-1833,Bug,Management UI incorrectly displaying sensor topology latency units as seconds instead of millis,,Major,100
+d44a392567e35022bfb35a787b55aff3447ac60e,METRON-1829,Bug,Large Error Message Causes Slow Search Performance,,Major,100
+2531c3e19e6c2887a2242da830d7178e6973b8ab,METRON-1831,Bug,Project Version Substitution Not Working,,Major,100
+bf32fef6a4a02c5b21ec1f6d97fbd83de78a996e,METRON-1816,Improvement,Date format Stellar function,,Major,100
+28542ad64cf63f17b728b4b1c0e995a8973767f7,METRON-1681,Improvement,Decouple the ParserBolt from the Parse execution logic,,Major,96.81145274
+08f3de0fe31fefa828952cbe76456580a4697630,METRON-1820,Sub-task,Update to new Simple-Syslog-5424 version to support error handling,,Major,99.95206136
+621415067dc727838da8e14925c15120b0e479de,METRON-1805,Improvement,Provide a default value for the Storm topology.max.spout.pending setting,,Major,100
+647896604f938ca195bf25885651f9be3e897c71,METRON-1821,Task,Align prepare-release-candidate with documentation,,Major,100
+90c5e1d2896b8a95bd6c928e3dab96f1fd85167c,METRON-1801,Sub-task,Allow Customization of Elasticsearch Document ID,,Major,99.75949976
+9b6710053894d8a39880cb8157a0e603ed542cb7,METRON-1799,Bug,Remove outdated bylaws from site.,,Major,100
+f153375fad65e75a10ce490b4a5f29f7e82f70dd,METRON-1769,Improvement,Script creation of a release candidate,,Major,100
+3d923cde8711dcc463c2d27cb2b67275b9172112,METRON-1761,Improvement,Allow a grok statement to be applied to each line in a file.,,Minor,99.83904716
+060d17e992a73bc5b65bb9a52d044a3f672ba2c1,METRON-1813,Bug,Stellar REPL Not Initialized with Client JAAS,,Major,100
+1f1b9cdd3cef7557ff68b7ab33693161b142ef1d,METRON-1812,Bug,Fix dependencies_with_url.csv,,Major,100
+747220f000188557bfa860b48f6eb4bc49758d4a,METRON-1811,Bug,Alert Search Fails When Sorting by Alert Status,,Major,100
+3467ffdb13aad22ab1e4065a0b6715b99371aa23,METRON-1809,Bug,Support Column Oriented Input with Batch Profiler,,Major,99.69235751
+e482366726b07173fbc9ff9b084b851596e13005,METRON-1806,Improvement,Upgrade Maven Shade Plugin version,,Major,100
+5bfc08c57f1129b7d185ac7257197775ed3bdb5e,METRON-1792,Improvement,Simplify Profile Definitions in Integration Tests,,Major,100
+269b91d015c67b0ae49a78e5c457408e1b431c25,METRON-1807,Bug,Auto populate the recommended values to some of the metron config parameters ,,Major,100
+891bf4952ab8eceabcb44659e7498d62005b6aa2,METRON-1808,Improvement,Add Ansible created pyc to gitignore,,Major,100
+feb9153a610e7cc384055c5d07b5c1dcf8b81923,METRON-1695,Bug,Expose pcap properties through Ambari,,Major,100
+de533063c26c8a2462dbfff33228a949c4a96c97,METRON-1771,Improvement,Update REST endpoints to support eventually consistent UI updates,,Major,99.23626909
+7e222fa47aedc4ab3bafec54590ec0bc73b5f75c,METRON-1791,Bug,Add GUID to Messages Produced by Profiler,,Major,99.93517018
+b872fdcd0a54f41165e93d0e3635635a09e61ef8,METRON-1804,Task,Update version to 0.6.1,,Major,100
+ebdaf5f905829d8ff59814bb3555666217f85abb,METRON-1798,Task,Add mpack support for parser aggregation,,Major,100
+ff1f9cf52b31ae866eb3de1cf8993af97af1790f,METRON-1750,Sub-task,Create Parser for Syslog RFC 5424 Messages,,Major,99.88660295
+c0fb26258f9a78d375a50dd5d746404130dfe06b,METRON-1794,Improvement,Include User Details When Escalating Alerts,,Major,99.9351176
+9c9e29547837e648723920329c3b7fea6211f0db,METRON-1782,Improvement,Add Kafka Partition and Offset to Profiler Debug Logs,,Major,100
+1723a0eae57adcfc4a2efe2422f52fbed4c237e7,METRON-1758,Improvement,Add support for Ansible 2.6 in dev,,Major,100
+fbabfcad49581b531a7b7eb755a561a030a2bc06,METRON-1699,Improvement,Create Batch Profiler,,Major,95.29467681
+4f0b608d77ebed3025ba0accedec440b3270cb18,METRON-1784,Improvement,Re-allow remote ssh and scp in Centos full dev,,Major,95.29467681
+fa3be8d32ccadcd11edad046cbd063cec3a20624,METRON-1787,Sub-task,Input Time Constraints for Batch Profiler,,Major,95.29467681
+08fe1cff1430c71205d62e375cbacd6906e4fc4e,METRON-1508,Bug,In Ubuntu14 Dev Indexing Fails to Write to Elasticsearch,,Minor,100
+0d34e77cdb0c9104c848808800158492620c7d9b,METRON-1786,Bug,Pcap Topology Status Incorrect,,Major,100
+15194c3b4e7d9d9d161b0ddfa556395b34cfef7c,METRON-1709,Bug,Add controls to start / stop the PCAP topology from Ambari.,,Major,100
+3372aa360315b537ee675ecb7d79fcd6885ba13c,METRON-1759,Improvement,PCAP UI: Removing wrong Input annotations from pcap panel component,,Major,95.44444444
+1545978e169a01e4a06735b8713c8fa65373a394,METRON-1772,Sub-task,Support alternative input formats in the Batch Profiler,,Major,100
+f83f0ac06622e091a09d9f256f817e7235c63e53,METRON-1770,Sub-task,Add Docs for Running the Profiler with Spark on YARN,,Major,95.44444444
+b84c8740db5fbd05f3876aee3cb5532622a6b9dd,METRON-1774,Improvement,Allow user to configure JAAS client in Ambari,,Major,100
+91c410fd2016d8776aba650b41239c971b706d01,METRON-1760,Improvement,Kill PCAP job should prompt for confirmation,,Major,100
+8b2f297fb58df1c2f01fa34a9d2ed5ccd183a7ce,METRON-1777,Bug,Fix Elasticsearch X-Pack sample pom in documentation,,Major,95.44444444
+cad2f4086a29f25a5ae2aeaf70d0933776df3681,METRON-1699,Improvement,Create Batch Profiler,,Major,99.91852697
+fb623f6c7fcd6f36e5e4f394779e5c36dc78e2c4,METRON-1781,Sub-task,Fix RPM Spec File,,Major,95.41051294
+02a12806b098c5a09a0bc89e925527ae9bdfae1d,METRON-1780,Bug,Fix broken website images,,Major,100
+33792c2411099d530998ee827c2cd5dc7ba5e4a0,METRON-1476,Improvement,Update to Angular 6.1.3,,Major,100
+a97e575f3bf6285d9893c2bc63d70a05784e22ea,METRON-1776,Improvement,Update public web site to point at 0.6.0 new release,,Major,100
+2720e537e698fdb278757c1e0fb968d5887c9d90,METRON-1775,Improvement,Transient exception could prevent expired profiles from being flushed,,Minor,95.41051294
+3d84ea4290b9439b97b549a8e8158b6fe4bfa8f2,METRON-1717,Sub-task,Relocate Storm Profiler Code,,Major,95.41051294
+f5f765cafcd985a323b5774ff86fe6d43f6186d2,METRON-1748,Bug,Improve Storm Profiler Integration Test,,Major,96.72037644
+62310743a0c1d4a27db47a89cf79496d594c8bcf,METRON-1764,Improvement,Update version to 0.6.0,,Major,95.69426383
+9455c4ee3f6962c47140522dc4c0f2a243695e8d,METRON-1741,Sub-task,Move REPL Port of Profiler to Separate Project,,Major,97.54518072
+f5eaef3c24e939ef14757eb2db4b758e71d33fca,/,/,    Merge remote-tracking branch 'apache/master' into metron-1699-create-batch-profiler,/,/,97.44680851
+d32bd50d43aae87af9ec12d2daea83b2f4eca342,METRON-1751,Bug,Storm Profiler dies when consuming null message,,Major,100
+661e23e274d2bf88370d8feb5e5dbf1b82f15124,METRON-1757,Bug,Storm Profiler Serialization Exception,,Major,98.36395333
+29cbdcc43c66080e1464e4c9c365c63a3f9035b1,METRON-1743,Sub-task,CEF testPaloAltoCEF test using a confusing variable name,,Trivial,95.40830743
+113ac0d3a3377969705578069f2a371e1d8ad453,METRON-1715,Sub-task,Create DEB Packaging for Batch Profiler,,Major,100
+3cb088c06e3b5749cf32c37dada395aff9ea41d2,METRON-1736,Sub-task,Enhance Batch Profiler Integration Test,,Major,100
+c7a3dc230a8fdfbbefcbe3a04c9c5cc05bc74853,METRON-1714,Sub-task,Create RPM Packaging for the Batch Profiler,,Major,95.40830743
+09826da85eddb014a4b718233d53480220b1f5dd,METRON-1752,Bug,Prevent package.lock from changing during build,,Minor,95.40830743
+c6d0721b8f02752cea9f91acb29042ca9ddf0bc9,METRON-1708,Sub-task,Run the Batch Profiler in Spark,,Major,95.40830743
+e66cfc80e6a6fa53110c3f2fa8ee0d31ea997bf6,METRON-1724,Bug,Date/time validation missing in PCAP query,,Major,95.4744732
+3bfbf018a9c3e1c74dc934901446b5111a0ada03,METRON-1707,Sub-task,Port Profiler to Spark,,Major,97.56624424
+6fb50a18d75c3694c75596ab45bcc7531711eec7,METRON-1705,Sub-task,Create ProfilePeriod Using Period ID,,Major,100
+401bd7a180dad4ff805fd6e5840ab826ee4e94b7,METRON-1706,Sub-task,HbaseClient.mutate should return the number of mutations,,Major,97.56266445
+9fdccba371c1f1e0dcb79e00a7207a934b79b64c,METRON-1554,New Feature,Pcap Query Panel,,Major,100
+14e80b3c229ea2e5a8d615c87d822d4b44d8ec98,METRON-1739,Sub-task,UDP packets are not handled,,Major,97.56266445
+5eff97fbe4a99b4d9fdec1010cfa3358cf182ddd,METRON-1704,Sub-task,Message Timestamp Logic Should be Shared,,Major,99.84541877
+308c2b27b9b234c0c84c343dfc45b3617b027e64,METRON-1727,Bug,Alerts are not populated on the alerts UI after enabling X-pack for Elastic search,,Major,97.72193842
+076a6a197df629d3b04e0757320e7681ea2fb3d9,METRON-1738,Sub-task,Pcap directories should have correct permissions,,Major,100
+6b70571d6de3951c98269bbf5b38e8b69deddfab,METRON-1737,Sub-task,Document Job cleanup,,Major,100
+d9e1f381cc1ae9edfbffc7216abffdbd8f942c09,METRON-1732,Sub-task,Fix job status liveness bug and parallelize finalizer file writing,,Major,97.72193842
+4fb9201670acf9960087f004f8858e99c0a87981,METRON-1703,Sub-task,Make Core Profiler Components Serializable,,Minor,97.91550862
+8a926dd5a4501df8c7ef51b526ad5e4d752a5e19,METRON-1735,Sub-task,Empty print status option causes NPE,,Major,100
+bce9b903fbd3436ea0c41eb8d75da279e16ce922,METRON-1733,Sub-task,PCAP UI - PCAP queries don&apos;t work on Safari,,Major,100
+ba0a6092c97d23c118c2b5780c2559c2f849a220,METRON-1734,Sub-task,Src and Dst port filters are incorrect after changing to empty,,Major,100
+7a8c246748a2c9e8c5b9230800b075dd99a7f3a4,METRON-1725,Sub-task,Add ability to specify YARN queue for pcap jobs,,Major,100
+73dc63e671b55d22d251f4be1c217259f4f5dc71,METRON-1731,Sub-task,PCAP - Escape colons in output dir names,,Major,99.76567884
+05316a4d989d7546058e73b3a75eef435f2608a0,METRON-1702,Sub-task,Reload a running job in the UI,,Major,100
+b29833cc5db4efca2a6e9025042baf705fb347c6,METRON-1722,Sub-task,PcapCLI should print progress to stdout,,Major,100
+d8a5922b4cc5b20be7cb08f333a861241c365fd5,METRON-1554,New Feature,Pcap Query Panel,,Major,100
+9064cca0317881176471c51abd16e99bf2ad7b10,METRON-1728,Sub-task,Handle null values in config in Pcap backend more gracefully,,Major,98.09642907
+2b0060b0663ba3fa34047afdfe2fa856fe9007e8,METRON-1730,Improvement,Update steps to run pycapa on Centos 6,,Major,98.16462736
+14dcb2d90581835d8206c65918c24e8cb04bfd06,METRON-1713,Sub-task,PCAP UI - Add a way to kill a pcap job,,Major,100
+5b3e2c337b3772bcd7d18cedac75877bbe6f7735,METRON-1723,Sub-task,PCAP UI - Unable to select/copy from packets details in PCAP query panel,,Major,100
+52de126fc746181d6aac8ce002d6b814fd1e6cb5,METRON-1712,Sub-task,PCAP UI - Input validation,,Major,100
+afb9607dfbbaf89f06a30823bf668523bb7b6f9a,METRON-1720,Sub-task,Better error messages when there are no results or wireshark is not installed,,Major,100
+7967f358c6c4b8437935c43e54179126e48e248f,METRON-1726,Sub-task,Refactor PcapTopologyIntegrationTest,,Major,100
+3e7785920e8f0c5aadf36e05dbcfa69252cc5574,METRON-1683,Sub-task,PCAP UI - Fix the download progress bar,,Major,100
+037b50b9a829d7292db1148fc628d9231da499e1,METRON-1675,Sub-task,PCAP UI - Introduce the paging capability,,Major,100
+756ceedc3d3567f3508478eaa5ed29f12c22688a,METRON-1721,Sub-task,New default input path is wrong in pcap CLI,,Major,100
+897266598b7984884d6cf8a6a699fe902e792483,METRON-1554,New Feature,Pcap Query Panel,,Major,100
+09a7f18994dc8254ca158139c44258cb7f1107ec,METRON-1676,Sub-task,PCAP UI - Add data range selector to the filter bar,,Major,100
+b445bfe242123e544c1fef41e2ab5bdc07dbc56e,METRON-1662,Sub-task,PCAP UI - Downloading PCAP page files,,Major,100
+2b6959b46db79256d12b8522385212559cabada2,METRON-1700,Sub-task,Create REST endpoint to get job configuration,,Major,99.46443285
+d5eb56a967ac7b925d0a843c027a2b0dde66de06,METRON-1671,Sub-task,Create PCAP UI,,Major,98.07692308
+1b2bdff53106694a9223ecc97f7ce9d0a78b4b09,METRON-1701,Bug,Update General notes on the installation of Pycapa on Kerberized cluster,,Minor,100
+a1e25a4bf618e544b2062bf7f7f25bec0029956a,METRON-1650,Improvement,Packaging docker containers are too large,,Minor,100
+4e1dd5d8bb38eec54be3dba6c9de2b95fba60448,METRON-1604,Bug,Add power pc to OS family for the HCP management pack repo info ,,Minor,98.07692308
+7dff4def23a7c839ea599a120ab6d4cf5b9bbbef,METRON-1554,New Feature,Pcap Query Panel,,Major,98.07692308
+ccdbeff5076553382091d4b9423ed48ccdba10ee,METRON-1687,Bug,Upgrade the rat plugin to 0.13-SNAPSHOT,,Major,100
+44a6f6f11d8d750f176f53d6032e46c90f88d9e4,METRON-1694,Bug,Clean up API docs,,Trivial,98.00664452
+6c90724d8d4f06c453128f860eff51037f1870d8,METRON-1691,Sub-task,REST should limit the number of Pcap jobs a user can submit,,Major,100
+f1f5dda4c643394c12ab9f4501c5b806adb21129,METRON-1693,Sub-task,Fix Pcap CLI local FS finalizer,,Major,100
+9d4842f3d6f355d449d51f3c6ac02f2c904c295d,METRON-1690,Sub-task,Add more context to PcapJob JobStatus,,Major,99.94527295
+d0e87576944b6370eb1d9a0c98d0450f2c51f052,METRON-1661,Sub-task,Create Pcap Query Filter endpoint,,Major,99.80871704
+e78bc530260aa622e8263cda2b94be99194dffb5,METRON-1560,Sub-task,Update MPack to support Pcap panel,,Major,98.10616533
+6bac842d7ad2819c56412837d8befb603ef15f35,METRON-1606,Improvement,Add a &apos;wrap&apos; to incoming messages in the metron json parser,,Minor,98.10616533
+8763fba2ff579b37b6af82822fc4b2c4390665a8,METRON-1562,Sub-task,Enable Kerberos in REST for YARN and MR jobs,,Major,100
+b580a69f1d9d3346171d749dcd6f791a9bc6d894,METRON-1554,New Feature,Pcap Query Panel,,Major,97.63869132
+a5a51399d2eafd2535d79bb13ee0d4d8eb2e2d23,METRON-1685,Sub-task,Retrieve Pcap results in raw binary format,,Major,99.98514116
+3e5ef41d9b8639fb1155686e615c02a59b735397,METRON-1638,Sub-task,Retrieve Pcap results in pdml format,,Major,99.70104634
+f316d15f082415f44d22bb124818ec116985ba1f,METRON-1686,Sub-task,Create stop job endpoint for Pcap queries,,Major,99.63915201
+39ae9f4642073d3d4f0fa423339dd97f85974588,METRON-1674,Sub-task,Create REST endpoint for job status abstraction,,Major,95.93672907
+aceca469a83d17c033ea7a47ff82c61962319b3a,METRON-1672,Bug,Add metron-alerts&apos;s UI unit tests to travis build process,,Major,96.36949202
+dbbf624367f8a3fb5d78352be0d9a2dec0533923,METRON-1614,Sub-task,Create job status abstraction,,Major,96.36949202
+52bd310fcce68dad15eead57f1113092a30d9791,METRON-1684,Improvement,Fix Markdown problems in 3rdPartyParser.md,,Major,100
+f43453830469b7fad14b59c95ad8122f320a4b05,METRON-1657,Bug,Parser aggregation in storm,,Major,97.58418741
+3a2675e5f5fee0d461d75fde128b482e7e2a920a,METRON-1651,Bug,Fixing failing protractor e2e test,,Major,100
+2a1cbbbf2029faec0b265e83f270a31e75ef9d9a,METRON-1673,Bug,Fix Javadoc errors,,Major,100
+0c20fd1a3a809a8ad2e8cc280a2a5382f3d5a7e8,METRON-1620,Bug,Fixes for forensic clustering use case example,,Major,100
+a4bec95b9fc0b5b82c4462ff13636071b11ab1f8,METRON-1659,Improvement,The platform-info.sh should check for the vagrant hostmanager plugin,,Trivial,100
+ae915a02ce90fb9b4c03166e7b57f8aa2a5d7890,METRON-1658,Improvement,Upgrade bro to 2.5.4,,Minor,100
+75d6a72a3867d1f89dbec8dc059870482ac81e94,METRON-1236,Improvement,Add mpack support for ambari-agent running as non-root user,,Minor,100
+4544da7010114af4332ff236949b12a96c457f39,METRON-1670,Bug,Stellar WEEK_OF_YEAR test is locale sensitive,,Trivial,100
+28f4b570493eda0a23317f520b89cb370e606ca0,METRON-1660,Bug,On Solr  sorting by threat score fails,,Major,100
+7af11b626e2d30aaaf7c01c364295b0b407fae49,METRON-1656,Improvement,Create KAKFA_SEEK function,,Major,99.28386409
+f30e9cc1fb9b6985e7ad7582c764d035b5cb0e1e,/,/,    Resolve merge conflicts with master.,/,/,92.54019293
+9cee51eb2c428eb7bf3aa791f5ec1293ed36c43a,METRON-1641,Sub-task,Enable Pcap jobs to be submitted asynchronously,,Major,91.91853887
+cbdaee174dc81280efb0f2aaa8e0028f0c930281,METRON-1644,Improvement,Support parser chaining,,Major,95.58538163
+b2a22b81a3d763be81be0746b608fecf2e09c04e,METRON-1655,Improvement,Make REGEXP_MATCH take multiple regexs in the 2nd arg,,Major,100
+f183d987ab1c9856c585c45b0f9f549aadccb65f,METRON-1643,Improvement,Create a REGEX_ROUTING field transformation,,Major,99.91429551
+4eb9a8ebca733bbae96e7e19e9064c5e71666884,METRON-1652,Improvement,Document X-Pack Common Problem,,Minor,100
+d90f7cfdedd3435bfc4c081600e4dbca052aef21,METRON-1649,Bug,Intermittent Test Failure ProfileBuilderBoltTest#testFlushExpiredProfiles,,Major,100
+93276f87b7dfb41b6fd1e6aa6d42895e422fe912,METRON-1635,Bug,Alerts UI status update doesn&apos;t immediately show up,,Major,100
+097ce95030e31bf9bd2af74aa56dc03348f7fef7,METRON-1642,Improvement,KafkaWriter should be able choose the topic from a field in addition to topology construction time,,Major,100
+fc9ff85368c2a974d30ad6ccdb73a4cc26fd025c,METRON-1636,Bug,Fix broken unit test setup in metron-alerts,,Major,100
+be9a9219875f8c6a2b0c07aa7b2d62484983d932,METRON-1631,Bug,Alerts UI: Dash score does not show if only filtering by one group,,Major,100
+55d46b0ec630fc926a6deeafaa079ae3841a3677,METRON-1647,Bug,Change Runner Logging level error to info,,Minor,100
+4519f72104b294c2f0eb8135181a3fa68eee9088,METRON-1621,Bug,Add sorting by triage score to the end to end tests for the UI,,Major,100
+c4c790dbe4c481c8f19293ef9d6134539674d253,METRON-1619,Improvement,Stellar empty collections should be considered false in boolean expressions,,Major,100
+81282de288d94b1fa8c57917ff6a34079eca77e1,METRON-1646,Improvement,Sensor Stubs should work when kerberized,,Major,100
+3a6fb38e55c1b8b9c1fa9ec74ed233c68a18d076,METRON-1645,Bug,All the Metron Service stop/start fail after Kerberizing the cluster due to missing config parameters,,Major,100
+e0fc47582e65e9daf1a0c85dc1b1657166ff14f5,METRON-1416,Bug,Upgrade Solr,,Major,93.64231564
+622d50a168ef7056377d3a3143bc47d2d57ad67f,METRON-1634,Bug,Alerts UI add comment doesn&apos;t immediately show up.,,Major,99.56903982
+4e586ac553daed1eb8322b2bbc4d83fcbdfb89d8,METRON-1554,New Feature,Pcap Query Panel,,Major,99.86273164
+165c0e716342d743460123a9de6303178ed32830,METRON-1555,Sub-task,Update REST to run YARN and MR jobs,,Major,99.43152455
+436cec43737bf0e38659c598cc8098509763fedf,METRON-1489,Improvement,Retrofit UI tests to run reliably during nightly QE runs,,Major,100
+2ee6cc7e0b448d8d27f56f873e2c15a603c53917,METRON-1637,Bug,Wrong path to escalate alert REST endpoint,,Major,100
+b06bb5f4860c656023b9c357dfa83c2f0244b9ef,METRON-1624,Improvement,Set Profiler and Enrichment batch parameters in Ambari,,Major,93.64231564
+1767727a70c05c9e611fa9b0474e6900ad9594cd,METRON-1416,Bug,Upgrade Solr,,Major,100
+975923e8d98ccd410c065ec5514f59f5ef89b260,METRON-1416,Bug,Upgrade Solr,,Major,99.98284734
+6159c6f997851fabe1b3c21cc0e06bf49c49d9f7,METRON-1629,Sub-task,Update Solr documentation,,Major,93.62508615
+b575da15c0ed6802c4e789e930e65059b9703355,METRON-1633,Bug,Incorrect instructions when merging PR into feature branch,,Minor,100
+6a325cb5b5971fb7e2e3ab8d4407cccab0c784ec,METRON-1630,Bug,Add threat.triage.score.field to READMEs,,Major,93.62508615
+ed4dfb93641c9c9a84b61b5daddbebd962b3b20c,METRON-1609,Sub-task,Elasticsearch settings in Ambari should not be required if Solr is the indexer,,Major,93.62508615
+e7efd48d1402b1619c4ab5fc36ce4a7c5b0a058d,METRON-1627,Bug,Alerts UI: Metaalert details missing in details panel when trying to add alert to existing metaalert,,Major,93.62508615
+2bf6650327359ded34d1f96540f13051b8e5c471,METRON-1625,Sub-task,Merge master into Solr feature branch,,Major,93.62508615
+e30f77a023983235a0cb835d977f146ee02d8045,METRON-1626,Bug,Alerts UI: An empty result is returned when searching for a single alert contained in a metaalert,,Major,100
+29d6e900c23b9808cb486a153313125cf8d290e4,METRON-1611,Task,Increment master version number to 0.5.1 for on-going development,,Major,100
+53d074f895e658efca10f046866c33e153010640,METRON-1622,Improvement,Allow user to define global property &apos;threat.triage.score.field&apos; in Ambari ,,Major,100
+742734885a215a4a9a363b8e5a88c37fd8e3010d,METRON-1599,Improvement,Allow user to define global property &apos;source.type.field&apos; in Ambari ,,Major,100
+36b20297b7f385202387b22087a5e85d92e55bc7,METRON-1616,Bug,Changing alert status fails if no metaalerts have been created yet,,Major,100
+0bb358009f1823fd19682ddb18d00aefa1441bf6,METRON-1573,Improvement,Enhance KAFKA_* functions to return partition and offset details,,Major,93.52839931
+a89a72c3b2ceb5066fd7a310636507ce274c66ad,METRON-1416,Bug,Upgrade Solr,,Major,93.63823934
+b081e80c07819fdaad0e5014790ddf02b2909c80,METRON-1617,Bug,Make threat triage scores work for fields with colons as well as dots in the UI,,Major,93.63823934
+10271c41b1df2815041317a36f7b65def5dab831,METRON-1613,Bug,Metaalerts status update broken in Alerts UI,,Major,100
+0e4842799f8a3afa15074cb121bdbd205e50fb58,METRON-1416,Bug,Upgrade Solr,,Major,93.63823934
+828ab71346b458b73cb14d42d68e7471ead7fa4e,METRON-1588,Improvement,Migrate storm-kafka-client to 1.2.1,,Critical,93.60165119
+4c4452e59c93306a049e6879f7b6fed2ee86c74e,METRON-1416,Bug,Upgrade Solr,,Major,100
+4768561921b01eb11c14149ed9f8a07a7b0149f0,METRON-1416,Bug,Upgrade Solr,,Major,100
+e7233b0f82f372e6b1339de56a115fa7e4581f07,METRON-1416,Bug,Upgrade Solr,,Major,100
+0717cfc25acc80b80121b424bed93db7014a1376,METRON-1416,Bug,Upgrade Solr,,Major,95.69048382
+41708876336d009b3a2ff2c533bdf0294af1477b,METRON-1416,Bug,Upgrade Solr,,Major,93.33011116
+f241f87f87523f2c6f2203b3f316cff0fd3f20b4,METRON-1587,Sub-task,Make collection utility work for HDP search,,Major,90.47948762
+77570464b4db205c3a3b95fcc3a0e8f7f6a1c540,METRON-1612,Task,Fix website download links,,Major,100
+32d132b3f8ac7d915180882934d38504263d86ae,METRON-1608,Bug,Add configuration for threat.triage.field name,,Major,90.47948762
+aed4ffcb24cf9a95c1347cccd5dd79fce7c77a6b,METRON-1585,Sub-task,SolrRetrieveLatestDao does not use the collection lookup,,Major,90.49679765
+8202cd2425b699afb5c6fb11cbb59b0fcbf4f82d,METRON-1533,Improvement,Create KAFKA_FIND Stellar Function,,Minor,99.03047091
+edec7b18bc40e40f35916489ba2fde2ca4916dc5,METRON-1601,Improvement,Rename metaalert &quot;alert&quot; nested field to &quot;metron_alert&quot; to avoid collision,,Major,100
+40796c06ad96ae45dd853925fbae8c26509f6c2f,METRON-1572,Improvement,Enhance KAFKA_PUT function,,Major,100
+ae1d3eb9adfa678553c59c8abdc3fe90aaf1a5ae,METRON-1607,Task,update public web site to point at 0.5.0 new release,,Major,100
+1b9828e6a68fd39fd308ebb80f1d79cd490ceaec,METRON-1568,Improvement,Stellar should have a _ special variable which returns the message in map form,,Major,99.80916031
+523c38cf6399e2e3974a51a2cd0fe47e096b0bdf,METRON-1594,Bug,KafkaWriter is asynchronous and may lose data on node failure,,Major,91.44968332
+95e65284980bbe5ce07cd2decb6ce66023c5c84f,METRON-1603,Bug,Fix multivalue field errors in Bro Solr schema ,,Major,96.8568314
+b6808f76134260e8a3c24c7641d6e4a235ef48e1,METRON-1584,Bug,Indexing Topology Crashes with Invalid Message,,Major,96.8568314
+a68d031b01fe677d84abb0d25aca4f2ceaf90c53,METRON-1547,Sub-task,Solr Comment Fields,,Major,96.8568314
+45e3ed87ca4aceda7c8387389fc3a286ee5264d9,METRON-1553,Bug,Validate JIRA Script Error,,Major,100
+dbcc52cd658a07a923b656c07c16a5c15f697ec6,METRON-1592,Bug,Unable to use third party parser with Storm versions &gt;= 1.1.0,,Major,100
+939eb73bce9cd7f7af58d95e9201fc08d2f9b92e,METRON-1598,Bug,NoClassDefFoundError when running with Elasticsearch X-Pack,,Major,96.66727042
+9348c608175afd311177b82fe31737f2f984c175,METRON-1589,Sub-task,&apos;/api/v1/search/search&apos; fails when &apos;Solr Zookeeper Urls&apos; has comma separated multiple zookeeper urls,,Major,96.66727042
+0eeb3a3794b471b029aee2f6fb936206168c0486,METRON-1593,Bug,Setting Metron rest additional classpath removes HBase and Hadoop configs from classpath,,Major,100
+39e22fa1b343b08fe2dcb0debdb78df5e3909a0a,METRON-1571,Improvement,Correct KAFKA_TAIL Seek to End Logic,,Major,99.96297668
+acab9436d028cf047e21948f604f5dab1507a983,METRON-1579,Improvement,Stellar should return the expression that failed in the exception,,Major,99.87037037
+63cd4143345002e152b731e533a689eb6d308f5d,METRON-1586,Bug,Defaulting for the source type field in alerts UI does not work,,Major,100
+3a3bba47c2c96f10d781b03e1573ce63acbcf3cd,METRON-1569,Improvement,Allow user to change field name conversion when indexing to Elasticsearch,,Major,99.59221501
+c14c7869228132ad6e6cae8b9914f669ac6b489d,METRON-1544,Bug,Flaky test: org.apache.metron.stellar.common.CachingStellarProcessorTest#testCaching,,Major,99.96289425
+5303c5ead73a4f07a4f5f56ce61c7385dbc74d24,METRON-1580,Improvement,Release candidate check script requires Bro Plugin,,Major,100
+7be65162a7e80111a7fed9d95a6fad3b8e93b7d9,METRON-1532,Improvement,Getting started documentation improvements,,Trivial,97.2796518
+7a071f6d64794267f40a0ef1810bd7deaf044eeb,METRON-1577,Sub-task,Solr searches don&apos;t include the index of the result,,Major,97.2796518
+7dad389eeb68bbded4a52843ff3ccf56fd1606a5,METRON-1576,Bug,bundle.css RAT failure for metron-interface/metron-alerts,,Major,100
+bc06f71d8ca43532c32da8b3273956198658b197,METRON-1575,Bug,Add leet gpg public key to the KEYS file,,Major,100
+1304582ed5aac68fa679e16b7df41dc064f7f93d,METRON-1574,Bug,Update version to 0.5.0,,Major,95.13839603
+49f851e0b8c2ffa1cdd7c8f169bed3dfa07cf35c,METRON-1421,Sub-task,Create a SolrMetaAlertDao,,Major,95.13839603
+e25031905a3c85aeadd2063486abaa38c94a1eb4,METRON-1566,Bug,Alert updates are not propagated to metaalert child alerts,,Major,100
+4116b99070849ffefd3b9b00ed7f4df2078594e7,METRON-1565,Bug,Metaalerts fix denormalization after moving to active status,,Major,98.84041966
+eb3366656de643e7436f7cf280561b94f3921c65,METRON-1416,Bug,Upgrade Solr,,Major,98.84041966
+71a015fabc47b23ea0c5400fa239fee9f5c0d194,METRON-1548,Improvement,Alerts UI: Remove hardcoded source:type and other fields that may vary,,Major,99.8515219
+a99cadb018b96cf96955df4b6e4acade28530a41,METRON-1548,Improvement,Alerts UI: Remove hardcoded source:type and other fields that may vary,,Major,92.21056376
+bc16e68252de98846bba58aafb2d7d445caac9c1,METRON-1567,Sub-task,Large error message can&apos;t be written in Solr,,Major,92.21056376
+4458085f2a0302084f44cbbf785c0629ad21919f,METRON-1564,Bug,Full dev kafka has offsets.topic.replication.factor set to 3 instead of 1,,Major,100
+20eaed239b2552d0823d34f571b63d941c352bc9,METRON-1552,Improvement,Add gzip file validation check to the geo loader,,Major,99.81416094
+9ce4ba5a9c8febc3a3ed6992f73f99396d7248a9,METRON-1551,Bug,Profiler Should Not Use Java Serialization,,Major,94.08082976
+b9453aabd781c7c67258d9506af176fbcab85be1,METRON-1549,Test,Add empty object test to WriterBoltIntegrationTest implementation,,Major,99.86197378
+a17c1adfd4cca63a49ef542c21cef90b18c74be0,METRON-1541,Bug,Mvn clean results in git status having deleted files.,,Minor,100
+d7edce974341a6fca0e8e87b11baed5ad0d5d0c1,METRON-1461,Bug,MIN MAX stellar function should take a stats or list object and return min/max,,Minor,99.01281607
+ca4644ba5e94c579fed6a7c7d1e8bea05fe9ba9c,METRON-1184,Improvement,EC2 Deployment - Updating control_path to accommodate for Linux,,Minor,100
+1b1a45b7e9c2b8c451f970028b4fe310ef9b7894,METRON-1530,Bug,Default proxy config settings in metron-contrib need to be updated,,Minor,100
+ac05638160288b32535b986adbeb8f14e594e740,METRON-1545,Improvement,Upgrade Spring and Spring Boot,,Major,100
+3bb926df5d253a907bbf8dab4b76b78dd32993ea,METRON-1543,Bug,Unable to Set Parser Output Topic in Sensor Config,,Major,98.76118376
+832296f0d4615bf95aed1c0742362c6127bd733a,METRON-1540,Sub-task,Solr Integration tests should use actual schemas,,Major,100
+d0a4e4c0f15d6b05371e97be19177729b1b33243,METRON-1416,Bug,Upgrade Solr,,Major,91.98173516
+f8d7843e93e410147257cca40d83b2c2d4963f1b,METRON-1526,Bug,Location field types cause DocValuesField appear more than once error,,Major,90.77178118
+2b4f0b84062d65f9400421d66ec3b7d6d093bebf,METRON-1539,New Feature,Specialized RENAME field transformer,,Major,99.75584234
+1c5435ccbe96c03e59c6a18d681da43561769dba,METRON-1520,Improvement,Add caching for stellar field transformations,,Major,99.32114883
+37e3fd32c256ddc129eb7c1363d78e9095a39748,METRON-1529,Bug,CONFIG_GET Fails to Retrieve Latest Config When Run in Zeppelin REPL,,Minor,99.28683249
+b5bf9a98725f866a7fee6470a8e763d17cc69ffd,METRON-1511,Bug,Unable to Serialize Profiler Configuration,,Major,100
+a41611b1ae2bb17fa9333ef6f965749652e95538,METRON-1528,Bug,Fix missing file in metron.spec,,Major,100
+e0949142dd682a84e59fea09066de8024f106f13,METRON-1445,Improvement,Update performance tuning guide with more explicit parameter instructions,,Major,100
+daf543b10423c2cfc2b740e39647ef4eb3863872,METRON-1502,Improvement,Upgrade Doxia plugin to 1.8,,Minor,100
+08252f59b2df1f4ef149b899c944f6a8a0aa049e,METRON-1527,Task,Remove dead test file sitting in source folder,,Major,100
+82212ba818a0ef3b92505e8d144487c69a8d4a44,METRON-1499,Improvement,Enable Configuration of Unified Enrichment Topology via Ambari,,Major,98.99168583
+3fcbf8b4e4e38f9c50842b8af857092b091c7c40,METRON-1515,Bug,Errors loading stellar functions currently bomb the entire topology  they should be recoverable,,Major,100
+1d3e7fcd7db64e7cb6d986802240fcbae174ae91,METRON-1522,Bug,Fix the typo errors at profile debugger readme ,,Trivial,100
+f8b7c5852310a088bd15ca5d21ba4f98b51521be,METRON-1519,Bug,Indexing Error Topic Property Not Displayed in MPack,,Critical,100
+bfe90ef1e579be53a14d9fd0e4dc19fc6a81baf0,METRON-1347,Bug,Indexing Topology should fail tuples without a source.type,,Major,100
+53124d97d09baafcf6d84eb291f6a3828289ec7c,/,/,    Add support for Vagrant Cachier plugin if present (simonellistonball via mmiklavc) closes apache/metron#993,/,/,92.21433906
+7ef4b7703e75538f96764cb3efafe8db5afba126,METRON-1503,Bug,Alerts are not getting populated in alerts UI when search engine is Solr,,Major,92.21433906
+eb5b2d42b83901c05c15e00b9c3c5bce5dd72ab9,METRON-1521,Bug,JSONMapParser is no longer serializable,,Major,100
+ea6992fd943c552c41565c7a320804cb58b733bd,METRON-1516,New Feature,Support for Ansible 2.5.0,,Major,100
+62d1a1bf7e8b9b3ee2f260c358719ea5080c9045,METRON-1494,Bug,Profiler Emits Messages to Kafka When Not Needed,,Major,99.8925309
+438893b78c852e34d7edb965840500a78503d299,METRON-1510,Bug,Update Metron website to include info about github update subscription,,Major,100
+ed50d48bb47cf3f301884f6e18fe4efc8c1b91f1,METRON-1518,Bug,Build Failure When Using Profile HDP-2.5.0.0,,Major,100
+a8b555dcc9f548d7b91789a46d9435b4d8b17581,METRON-1465,Bug,X-pack support for Elasticsearch,,Major,99.96408046
+3ba9ae25126bc393e3b9307f4ffe63ac66a909f4,METRON-1504,Bug,Enriching missing values does not match the semantics between the new enrichment topology and old,,Major,100
+46bc63dbcfe9f0ddabfd4821958962a2dac9378e,METRON-1505,Bug,Intermittent Profiler Integration Test Failure,,Major,99.94611101
+ab4f8e65e13aaea3a10491290a7411b3b6dc955e,METRON-1449,Improvement,Set Zookeeper URL for Stellar Running in Zeppelin Notebook,,Major,99.76639712
+0ab39a32b61104812a6a9e69e999e7053e3e7e90,METRON-1462,Sub-task,Separate ES and Kibana from Metron Mpack,,Major,100
+0d847cf5f91dc0d3b3b6838eb4b4de4aa2cf2fec,METRON-1501,Bug,Parser messages that fail to validate are dropped silently,,Major,100
+19b237de27eed37ee87eca6d8e2198083fdb88d7,METRON-1497,Bug,Rest endpoint &apos;/api/v1/search/search&apos; needs to handle null when elastic search response return null for getAggregations   ,,Major,100
+9e95d4b61410c8033f0a4ea51e831566d5d933d3,METRON-1500,Improvement,Enhance &apos;prepare-commit&apos; to Support Feature Branches,,Minor,92.67833616
+f715d6dbaf7ab4272c2e51430f4da13c8f688916,METRON-1424,Sub-task,Kerberos: Solr,,Major,92.67833616
+5ed9631a2936ec60d0ea6557ca4396cffdadc688,METRON-1491,Bug,The indexing topology restart logic is wrong,,Major,100
+3083b471fe912bc74d27017834e6c80ff177680e,METRON-590,Improvement,Enable Use of Event Time in Profiler,,Major,95.49963262
+46ad9d93b4385da0f8668f2ba84212d54d00ba4b,METRON-1483,New Feature,Create a tool to monitor performance of the topologies,,Major,98.7077157
+e3eeec38a66e1f10c296c110d47bc8bc3e995629,METRON-1487,Improvement,Define Performance Benchmarks for Enrichment Topology,,Major,100
+52dd9fb852bef5998dac83109ac6e122860be489,METRON-1493,Improvement,Unhelpful Error Message When Assignment Expressions Fail,,Major,100
+9c5d9d76644fc07bae36644906f52e0422f33d0e,METRON-1397,New Feature,JSONMap parser should support JSON Path expressions to split input into multiple messages,,Major,99.86520316
+85d12475cf363f0b9d6bdd973ec9860550f73980,METRON-1299,Bug,MetronError tests fail if hostname isn&apos;t set,,Major,100
+e69ce213aaad84fd49d972c329a4bf4bf7d4b2ad,METRON-1485,Improvement,Upgrade vagrant for dev environments,,Major,100
+26c5d3065bd7a635699083e8131d4a7629bf3b4d,METRON-1488,Improvement,user_settings hbase table does not have acls set up for kerberos,,Major,100
+37662d3bd8a4162bef4474be7ab60a2fabbe3e2f,METRON-1490,Improvement,Better error message when user specifies an enrichment type that doesn&apos;t exist,,Major,97.37140696
+03a4aa3846773065d51086167a28fb4c37d7b2a9,METRON-1468,Improvement,Add support for apache/metron-bro-plugin-kafka to prepare-commit,,Minor,100
+8bc7732e4c904085e4f78469abded84635971632,METRON-1471,Improvement,Migrate shuffle connections to local or shuffle,,Major,94.68044393
+cdbe7ac1f291c8d5be505973aaf01aa1d8a91920,METRON-1482,Sub-task,Update REST to work with Solr,,Major,99.88149319
+a7a41a55aa79b7fa3f64c51a4d968f011e8b11d1,METRON-1464,Sub-task,Convert schemas to be compatible with Solr 5.5.2,,Major,94.79425837
+abb152b83631001ad067849dfaefd2d4e3b0cdb4,METRON-1467,Improvement,Replace guava caches in places where the keyspace might be large,,Major,100
+9fb0d06e644597032da58c5df020a841b93d19c0,METRON-1463,Improvement,Adjust the groupings and shuffles in enrichment to be more efficient,,Major,100
+1d95b8316a18097747be116a0276c56b894fb79c,METRON-1460,New Feature,Create a complementary non-split-join enrichment topology,,Major,96.4622188
+486be49e71f3db4d9934dfa1af3e222078df09dd,METRON-1470,Bug,Update jquery to version 3+,,Major,100
+7b68f188185b0eb6b3b0b70f98ce6b36bb22c46f,METRON-1450,Bug,Add REST endpoint docs for index topology split,,Major,100
+e22479e62fab2ae64de1ab803e0f9f0a5fab98b3,METRON-1337,Bug,List of facets should not be hardcoded,,Major,98.97959184
+9b4b40278086b881803a8c82e7eebb47d83847f7,METRON-1452,Improvement,Rebase Dev Environment on Latest CentOS 6,,Major,99.02429311
+84cac7e85f6b8421063f329d647be9bc82ea5f4c,METRON-1423,Sub-task,Ambari work to handle Solr configuration,,Major,100
+1006d9d6e473d56d5ada2e7ff3011b98f047ec7c,METRON-1416,Bug,Upgrade Solr,,Major,99.02429311
+b48ab93c65f04a7e25f1c0de20c260582fed30bc,METRON-1457,Bug,Move ASF links to main page in the Metron website,,Major,100
+e265b369192613335335514bc842f6aebe016d3e,METRON-1394,Bug,Create Rest endpoint to add the ACL for current user to kafka topics ,,Major,99.9397953
+5f08ba0b1dbe6ba19e8525055f639ecdb85291fc,METRON-941,Bug,native PaloAlto parser corrupts message when having a comma in the payload,,Minor,100
+fa5cff2c3534c5d30f265b0118faffe971e5063b,METRON-1386,Bug,Fix Metron Website Required Links,,Major,100
+e59059bd9707a6ca46c4137d796b8f2943f06b43,METRON-1455,Bug,Patch and Replace methods in the REST UpdateController return 400 ,,Major,100
+15b98dea48d9cab327f00a3a6a3e2117c0bbd214,METRON-1318,Bug,Cannot deploy into EC2,,Major,99.02468153
+8cc8aab8b7c5fb103c4375f47d47754492547bb1,METRON-1448,Improvement,Update SolrWriter to conform to new collection strategy,,Major,99.86160538
+9b25084c83e484b8119caf134a473fcb6306fa6a,METRON-1416,Bug,Upgrade Solr,,Major,99.14308489
+fa86663ecdb166f889c9c0c4c34373aec68dbd30,METRON-1451,Bug,On Centos full dev  Metron Indexing shows up as stopped,,Major,100
+48d9d25696a71ff07791b86348dc978db7a56a9d,METRON-1444,Bug,Add Ubuntu Repositories for Elasticsearch to the Mpack,,Major,100
+e5f24f7bdce6a119adb8be543752d458f721d48d,METRON-1273,Improvement,Website documentation link should point to the current site-book,,Trivial,100
+31f3aa8cb0f4c3821c264e375aa14eda207adcb0,METRON-1447,Bug,Heap Size Not Set Correctly by MPack for ES 5.x,,Major,99.14308489
+67d6c0edd731f528af759ca11de875cbf77f6b2c,METRON-1416,Bug,Upgrade Solr,,Major,99.76251732
+f525dcfd75056554c96ad759559ebff628e2fb5f,METRON-1441,Sub-task,Create complementary Solr schemas for the main sensors,,Major,98.90416418
+38b7d5e339320e71cd4d35d31b8d118a3e6d0be7,METRON-1446,Bug,Fix openjdk issue with Ubuntu,,Major,100
+fcff0596c7d2b2546d89283fb90fbc8c10b31f1f,METRON-1442,Bug,Rest endpoints for operations on Indexing topology is broken after splitting the indexing topology,,Major,99.95987159
+06305052a186ff911d204c755804e7225d05bf28,METRON-1443,Bug,Missing Critical MPack Install Instruction for Ubuntu,,Major,99.08183633
+c5b6a6f27c36856a07597f512115baa975b5ad74,METRON-1436,Sub-task,Manually Install Solr Cloud in Full Dev,,Major,99.08183633
+c26abbbaeaeea3551e218cb9aa8ba97b32655958,METRON-1438,Sub-task,STELLAR: Move shell functions to common from metron-management,,Major,99.79939819
+3d3c43c716b0a6d58b57d6d5ba83109bc49661e4,METRON-1435,Bug,Management UI cannot save json objects in advanced config,,Major,99.28158052
+23113a6337a3fc4d0bfbb708303b30bf8122f23f,METRON-1419,Sub-task,Create a SolrDao,,Major,99.28158052
+567d106b1fbe86e828f3c4068024df42b2f4ddc0,METRON-1439,Improvement,Turn off git pager in platform-info script,,Trivial,100
+124becd1a35d00e620d4eaed5d5d84c0abbe8ba9,METRON-1091,New Feature,STELLAR Shell: Stand Alone installation,,Major,100
+644e951c8b2c33b5e52602a814d91012c3b325b1,METRON-1427,Improvement,Add support for storm 1.1 and hdp 2.6,,Major,100
+08745719120fd8d42e36c728a405966ad64f20b7,METRON-1391,Improvement,Typos in Documentation/Examples within metron-management/README.md,,Trivial,100
+1c9437c41c4eb626bd44193ec6545f9356f3f7b2,METRON-1389,Bug,Zeppelin notebook import does not work with Ambari 2.6,,Major,100
+a285b83ee0153cecf24132b4aed70250040a83b0,METRON-1432,Bug,JDK Install Fails on Ubuntu Development Environment ,,Major,100
+9be0d858452ebc836e812d665c55a5481fa6fea2,METRON-1431,Improvement,Add REGEXP_REPLACE function to Stellar,,Minor,100
+0c6aad8c7c7affd6c898e1dd7663833a71ba63de,METRON-1410,Bug,Some more upgrade fallout... Can&apos;t restart Metron Indexing.,,Major,100
+6f2679919a9e6c9f3a146d52b10c6dbe2ce55180,METRON-1370,Improvement,Create Full Dev Equivalent for Ubuntu,,Major,100
+878003a3caf55380bd9e5898a9abe848586a278b,METRON-1430,Improvement,Isolate jackson from being used as arguments or returns from JSONUtils,,Major,100
+92c2e22e6cd50c122c9da1e8f6190a812eb01efb,METRON-1398,Bug,Exclude the basic-error-controller from being added to the swagger description,,Minor,100
+a421df228b66d2100c29c2adee4248f35a70cafb,METRON-1392,Bug,Fix a test case to expect an Exception when replication factor more than number of brokers while creating topic,,Minor,100
+24822dddc68c264f59723f5e17d423cd497f6807,METRON-1413,Improvement,Add Metron Commit Tool,,Major,100
+35d81cb9d1e7cac9d13b64bc3baaf6f6b3354d82,METRON-1429,Bug,SearchIntegrationTest refactor,,Major,100
+acb8b9287e8b6a2a0ced60855f0e5d6e6c343062,METRON-1426,Bug,SensorIndexingConfigControllerIntegrationTest fails intermittently,,Major,100
+40411d4bdbb729d0e38e69a15a06970738a4b969,METRON-1417,Task,Disable pcap-service by default in Monit,,Major,100
+9d582eacd670908ef076da0cef4bd9f566c892c8,METRON-1400,Bug,Elasticsearch service check fails in Ambari,,Major,100
+173ce5084dba9fbead2f690075c58c5daaf29e7f,METRON-1428,Bug,Travis build failing from metron-config,,Major,100
+01b8e7ab2c55a925240f1465c938db8600eeb944,METRON-1302,Improvement,Split up Indexing Topology into batch and random access sections,,Major,99.91974318
+4bb6d836a6e2dc0f7ab751ca1093aa95905723f6,METRON-1395,Bug,Documentation missing for Produce a message to a Kafka topic Rest API endpoint,,Minor,100
+0cd4a8300dc56e97bfa1adb6c68a7e1585c7ccea,METRON-1411,Bug,Fix sed command in Upgrading.md,,Minor,100
+0df6678c87b550fa2dcec81d0fef1af5a1c20a37,METRON-1326,Bug,Metron deploy with Kerberos fails on Ambari 2.5 during ES service stop,,Major,100
+7aa08aef118de330e610cd45d3ac66ed7327439d,METRON-1380,New Feature,Create a typosquatting use-case,,Major,100
+a262f87f0c31637d76a77a538976673c87188eeb,METRON-1230,Improvement,As a stopgap prior to METRON-777  add more simplistic sideloading of custom Parsers,,Major,99.81913183
+5d3e73ab95adf0c8f49c3f821975740e365df91a,METRON-1378,Improvement,Create a summarizer,,Major,95.75733545
+6afd95fabf870424177384538ce4685e77fa585c,METRON-1231,Bug,Separate Sensor name and topic in the Management UI,,Major,100
+2dd01b17782af7756776b8e07afe3661ac19bb0a,METRON-1382,Improvement,Run Stellar in a Zeppelin Notebook,,Major,88.48589522
+55a737921348514ad7a7d9fab86d169c3b6c3304,METRON-1396,Bug,Fix .gitignore files to not ignore themselves,,Trivial,100
+e127797e63ecd3af2d9aa8fc062e36e28015aac6,METRON-1366,Improvement,Add an entropy stellar function,,Major,99.86784973
+43243758cedee803ef610b74b4f42b4ec1d7a1c6,METRON-1390,Bug,Swagger UI for &quot;Web Security Config&quot; Controller needs request method,,Minor,100
+6f869ae55addc884e6734bef72c854db478b6ee4,METRON-1393,Bug,Fix bro Elasticsearch template,,Major,100
+c559ed7e1838ec71344eae3d9e37771db2641635,METRON-1379,New Feature,Add an OBJECT_GET stellar function,,Major,99.88647114
+e821391895f0f3523b4e05ae5d639c13b0113855,METRON-939,Improvement,Upgrade ElasticSearch and Kibana,,Major,99.48873319
+0996b7348eca14fea1b1b3c4dd57861b3a30bdeb,METRON-1377,Improvement,Stellar function to generate typosquatted domains (similar to dnstwist),,Major,99.39047619
+9108072756b6ffeedade985d3cd52ef7338cd61a,METRON-1385,Bug,Missing &quot;properties&quot; in index template causes ElasticsearchColumnMetadataDao.getColumnMetadata to fail,,Major,100
+3381b853dca1c08a7a083593045dec2c7d4d92db,METRON-1388,Bug,update public web site to point at 0.4.2 new release,,Major,100
+01c26a77b1041204b0bbbc544cc0a5d02e9339a8,METRON-1362,Improvement,Improve Metron Deployment README,,Major,100
+8a61b96b6b01b247a8ff8d800730378b8da23471,METRON-1384,Bug,Increment master version number to 0.4.3 for on-going development,,Major,100
+2d9d7a5f6302267edafba772268145e76751795c,METRON-1381,Task,Add Apache license to MD files and remove the Rat exclusion,,Major,100
+3b10f84cc49993a1c5917f54be6ca313c8d780c4,METRON-1071,Improvement,Create CONTRIBUTING.md,,Major,100
+0518408513ed54df8dbe234027b353bed2e61943,METRON-1373,Bug,RAT failure for metron-interface/metron-alerts,,Major,100
+fc8723e461d655e315d0b51acd1a31f82b4efd1f,METRON-1351,Improvement,Create Installable Packages for Ubuntu Trusty,,Major,100
+3612a89216bd57c40a1bc3e27853c6146b471e1e,METRON-1376,Improvement,RC Check Script should have named parameters,,Major,100
+76bed5d754fcf358809f0be7a034758b9b20fc5e,METRON-1365,Improvement,Allow PROFILE_GET to return a default value for a profile and entity that does not have a value written.,,Major,100
+196da12c43337d019a52b99bf6178fbda45f886d,METRON-1348,Bug,Metron Service Checks Use Wrong Hostname,,Major,100
+3f0b1b7b4a002d3f364bd2aee7b5921c0435c4a4,METRON-1350,Improvement,Add reservoir sampling functions to Stellar,,Major,99.69207082
+adb024070d5d098909fb3800875d0042aeb27c92,METRON-1374,Improvement,Script the RC checking process,,Major,100
+d446da8e707b1069576b049452484e088a3eeede,METRON-1372,Improvement,Validate JIRA for Releases,,Minor,100
+c4cee6af64eda4db4da3eff86abab7d4ae4ec56a,METRON-1345,Improvement,Update EC2 README for custom Ansible tags,,Major,100
+d9ed1bad1f5b2e2471fbea11353f2947f7f52e13,METRON-1349,Bug,Full Dev Builds Metron Twice,,Major,100
+6ca08b9f598b649d60c6b6468164a374b7f6f555,METRON-1343,Bug,Swagger UI for User Controller needs request method,,Minor,100
+37587689e9feadeb54465aa7319f114a4e11255b,METRON-1306,Bug,When index template install fails  we should fail the install,,Major,100
+610540ef034b7bd2555acb347f5c9be20a485954,METRON-1341,Improvement,Projection FieldTransformation,,Major,97.76133561
+2e78df67c12a6fcad726551128e9753ad36d5ee9,METRON-1313,Improvement,Update metron-deployment to use bro-pkg to install the kafka plugin,,Major,100
+43bbab8f5a5afc4c76d655fc8930d7d458fc818a,METRON-1346,Task,Add new PMC members to web site,,Major,100
+b43b3cc3cd78fcd35351650d895655488c230554,METRON-1336,Bug,Patching Can Result in Bad Configuration,,Major,99.73836666
+0caa9cd2be4d8223019c0721dfb745e3d211c9b8,METRON-1335,Bug,Install metron-maas-service RPM as a part of the full-dev deployment,,Major,100
+25214225923e16b21d9fdf4ae7f522738aee2649,METRON-1308,Bug,Fix Metron Documentation,,Major,100
+e9729269d7511134ff40ccee1312f1df3632a2cb,METRON-1338,Bug,Rat Check Should Ignore Vagrant Retry Files,,Trivial,100
+548617185d58224dd74a2345be03d3f9af35b2a1,METRON-1286,Improvement,Add MAX &amp; MIN Stellar functions ,,Minor,99.9249531
+05cb59b4fcacf558df1653fca82aad4fc9a42437,METRON-1334,Sub-task,Add C++11 Compliance Check to &apos;platform-info.sh&apos;,,Major,100
+c749b51730f7fd24a900da31c3fe2072a54086bc,METRON-1277,New Feature,STELLAR Add Match functionality to language,,Major,99.96243426
+f08440481bb95e135e59deadc6f6fd35775c66a2,METRON-1239,Bug,Drop extra dev environments,,Major,99.92488263
+5a1bb67849054708db880bec72d6dc813d642859,METRON-1328,Improvement,Enhance platform-info.sh script to check if docker daemon is running ,,Major,100
+0f8a323ddabf93617da514ccba66ea8a408893bd,METRON-1333,Bug,Ansible-Docker can no longer build metron,,Critical,100
+d07833a25470bafafdeee5e9e4054cb4a013bedb,METRON-1252,New Feature,Build ui for grouping alerts into meta alerts,,Major,100
+a1408d787f740f6abc78842898bc1ab819def7d7,METRON-1316,Bug,Fastcapa Fails to Compile in Test Environment,,Critical,100
+59fe1b453279bf5c7df627ea656c762b3a98e777,METRON-1088,Improvement,Upgrade bro to 2.5.2,,Major,100
+8022f2c8c4e9018a15a4f04d0a66f8bc0ea653c3,METRON-1319,Bug,Column Metadata REST service should use default indices on empty input,,Major,100
+995b20170f460df4fc121fec0f3946857d748426,METRON-1321,Bug,Metaalert Threat Score Type Does Not Match Sensor Indices,,Major,96.94488818
+4a089900ad477b8e261ab2a2a7d4cafeaec21eca,METRON-1301,Bug,Alerts UI - Sorting on Triage Score Unexpectedly Filters Some Records,,Major,96.58682635
+768a6fada36bdb03be63052024d59ad3754d616d,METRON-1294,Bug,IP addresses are not formatted correctly in facet and group results,,Major,100
+fd4a6d16407476366afe339342c2ed0d6d88faf9,METRON-1291,Bug,Kafka produce REST endpoint does not work in a Kerberized cluster,,Major,99.92493901
+a6b5eddd10e970c20cd815f6b73aec870aa95be7,METRON-1290,Bug,Only first 10 alerts are update when a MetaAlert status is changed to inactive,,Trivial,100
+2d5209ebf7b7876a7da8a3908cb7808f0ad22615,METRON-1311,Bug,Service Check Should Check Elasticsearch Index Templates,,Major,100
+fd896fbebe9d5e77eb11d1ce953ab2b55cc84387,METRON-1289,Bug,Alert fields are lost when a MetaAlert is created,,Major,96.64469742
+c4c930f7c5ca16972a9edf6c072c67d7b5ac2316,METRON-1309,Sub-task,Change metron-deployment to pull the plugin from apache/metron-bro-plugin-kafka,,Major,100
+d5b9a96b11355246a2d93ee56a3ead205741545d,METRON-1310,Bug,&quot;Template Delete&quot; Action Deletes Search Indices,,Major,100
+c225fc49b3e97b488a3b11770266b7ed5a19e984,METRON-1275,Bug,Fix Metron Documentation,,Major,100
+f7b0a1602f78b862912117a7c99a115a9db0203c,METRON-1295,Bug,Unable to Configure Logging for REST API,,Major,100
+001fb13347c612de6feeaab7de21819ebefef2b6,METRON-1307,Bug,Force install of java8 since java9 does not appear to work with the scripts,,Blocker,100
+17d1ac348138fe029e4a341c54201fc6b4b50448,METRON-1296,Bug,Full Dev Fails to Deploy Index Templates,,Major,100
+358e40bd17d5de2a380a91115eaee9ebd3a453f6,METRON-1281,Bug,Remove hard-coded indices from the Alerts UI,,Major,99.59410382
+383d798c7827e916068f89ff362a6ecccb550241,METRON-1287,Bug,Full Dev Fails When Installing EPEL Repository,,Major,100
+e5b0d7c1495c69932261c034e5339eb87c83faad,METRON-1267,Bug,Alerts UI returns a 404 when refreshing the alerts-list page,,Major,100
+2488842bdfc8bf394558be93bc9bb6017759fa57,METRON-1283,Bug,Install Elasticsearch template as a part of the mpack startup scripts,,Major,100
+191d5d84ae5ff9f7c464555c6a1285d9c5a702bf,METRON-1254,Bug,Conditionals as map keys do not function in Stellar,,Major,100
+5c41bf7f39064c31fa12766adbb8b66edfe3bcae,METRON-1261,Bug,Apply bro security patch,,Major,100
+62de8bd8f1dff43a319ae9b58c69876cd23211e7,METRON-1284,Bug,Remove extraneous dead query in ElasticsearchDao,,Minor,100
+cf404f77d16daca5692f6197575bcc56c58fc2a9,METRON-1270,Bug,fix for warnings missing @return tag argument in metron-analytics/metron-profiler-common and metron-profiler-client,,Trivial,100
+131a15ef73a4c9d2b6568887135dbbed5ba5ebfc,METRON-1272,Improvement,Hide child alerts from searches and grouping if they belong to meta alerts,,Major,99.1416309
+5243366c48ef8d485af678e7c48b5f34170007b2,METRON-1224,New Feature,Add time range selection to search control,,Major,100
+128d4e7a823ae63800c1828908ed33757ca0857d,METRON-1280,Bug,0.4.1 -&gt; 0.4.2 missed a couple of projects,,Major,100
+1c12e22df03b53981ca8cef426ab26f263f289c0,METRON-1243,Improvement,Add a REST endpoint which allows us to get a list of all indices,,Major,100
+a25de0fc1423a4ba4b931e50c65322ce1511ba08,METRON-1196,Bug,Increment master version number to 0.4.2 for on-going development,,Major,100
+cf6058938cb0c16ec5bc10e0301f3e92cd802af5,METRON-1278,Bug,Strip &quot;Build Status&quot; widget from root README.md in site-book build,,Major,100
+1cd819a6b6cc4e2c1bb30f4cb9c632f1f2cdac51,METRON-1274,Improvement,Master has failure in StormControllerIntegrationTest,,Major,100
+892aec3573d300b3531be6b5d05ef50b7d4ed710,METRON-1266,Bug,Profiler - SASL Authentication Failed,,Major,100
+b4aa0859a2a8f7b53d52c7332e5975d443a77ca2,METRON-1260,Bug,Include Alerts UI in Ambari Service Check,,Major,100
+ad9851afff3f4b351d26571df651c06b811db1da,METRON-1251,Bug,Typo and formatting fixes for metron-rest README,,Major,100
+cc111ec984a78db43c4df222851f59280ff5eff9,METRON-1241,Improvement,Enable the REST API to use a cache for the zookeeper config similar to the Bolts,,Major,98.8263421
+aee018476ab11c1728c69703c545bae56b5a9827,METRON-1267,Bug,Alerts UI returns a 404 when refreshing the alerts-list page,,Major,100
+32a0a9da89f7480fdc6a15a93eebf8df05fb0ecf,METRON-1262,Bug,Unable to add comment for a alert in a meta-alert,,Major,99.54108392
+243ff1f720a5d128e116e6ac8813f503ea2784f8,METRON-1263,Bug,Start Alerts UI service after Metron REST,,Major,100
+73623ec74232765849f40480add9117da67c11d5,METRON-1255,Bug,MetaAlert search is not filtering on status,,Major,100
+fef8833c153fabef597084f4aace8303d9f7116e,METRON-1249,Improvement,Improve Metron MPack Service Checks,,Major,100
+4c908b95b86068bb412daa82f458fc1626d99050,METRON-1237,Bug,address javadoc warnings in metron-maas-common,,Minor,100
+4f7081aa7b572b31ea66a42ba9ce96c8f8ca5c09,METRON-1240,Bug,address javadoc warnings in metron-platform and metron-analytics,,Minor,100
+67cba8130af3a804e1aa5ccf6ea64c9e9e1a07bf,METRON-1226,Bug,Searching Can Errantly Query the Wrong Indices,,Major,100
+4ee55702e2cab2d20c05c7f4a6a23d225d8799ad,METRON-1081,Bug,Fix Alerts and Ops UI Notices file,,Major,100
+942aaaf2219d58af4d08744b49a90e7cf34b751c,METRON-1123,New Feature,Add group by option using faceted search capabilities of metron-rest-api,,Major,100
+39bb856762739ecd2103e3b67eed76d4fb655eaa,METRON-1223,New Feature,Add support to add comments for alerts,,Major,100
+bbfe29a9792813f5aedfaa6b6f1d2437f6961333,METRON-1083,Task,Add filters using faceted search capabilities of metron-rest-api,,Major,100
+d5afb7284d65a8583fbc5f3f627a6460f4ac8284,METRON-1232,Bug,Alert status changes are not reflected in list view,,Major,100
+7f3eb2a4c102aac1566ea969c4c1cde4e8942bdc,METRON-1247,Bug,REST search and findOne endpoints return unexpected or incorrect results for guids,,Major,100
+b47c9a57260faa006173980a765cd565af7f12dd,METRON-1235,Improvement,Document the properties pulled from the global configuration,,Major,100
+830e5ccf4f68e54d49618ab6a7e881d580d7042e,METRON-1234,Bug,fix for WARNING &apos;dependencies.dependency.(groupId:artifactId:type:classifier)&apos; must be unique: org.apache.hadoop:hadoop-yarn-api:jar,,Minor,100
+b5f4fcd457e2a5fdf8a663bbf4a771ba29ecf43c,METRON-1222,Bug,fix warning for The expression ${parent.version} is deprecated. Please use ${project.parent.version} instead.,,Trivial,100
+eddbda88e4872479f1a78c3000cc6cf56f3567a6,METRON-1220,Improvement,Create documentation around alert nested field,,Major,100
+3fc8c84b95ce724179bec50e015c892c829e7c5f,METRON-1229,Bug,Management UI type is part of the declarations of 2 modules,,Major,100
+15d5b7d3ea6b1be3bb5281146810076756cb7daf,METRON-1228,Bug,Configuration Management PUSH immediately does DUMP after,,Major,100
+a8fd8ea0c37ffe0fdd87a54e9be9808fba16acfb,METRON-1218,Bug,Metron REST should return better error messages,,Major,99.95646495
+d69101a8d10620b04e90ef7f9c1885847bf0111e,METRON-1161,New Feature,Add ability to edit parser command line options in the management UI,,Major,100
+6ffff0299e75664dc36bbd014668a019cd1d00f2,METRON-1209,Improvement,Make stellar repl take logging properties  like other CLI apps in metron,,Major,95.63802083
+0cc0e2ee0748cb88637b26810b016fcae1e594a3,METRON-1059,Bug,address checkstyle warning AvoidStarImport in metron-stellar,,Trivial,100
+2fbb98e7da670b0f9170648cf0b8bfe259e7e65f,METRON-1204,Bug,UI does not time out after being idle  but stops functioning,,Major,100
+7b6a3da6d6612e61b3bde33ccf50f0638b6072fa,METRON-1052,Improvement,Add forensic similarity hash functions to Stellar,,Major,99.71794315
+353bc8b3be70c5b3da10ae98445521c31ae16568,METRON-632,Bug,HBase enrichment writer should have better validation in configure,,Major,100
+ac0e05f0168d8431b9e0a45c0be93f8179ee9e45,METRON-1194,Improvement,Add Profiler Debug Functions to Profiler README,,Major,100
+0b5a2e7a819c8505658cfe671150cdec053125eb,METRON-1055,Improvement,Metron 0.4.0 manual installation guide for CentOS 6 updates,,Minor,100
+cc84b6a50620447959c2ded4957a88ab329ba18c,METRON-1079,Bug,STELLAR NaN should be a keyword,,Major,100
+e5d876371e523294598bfdb80a9332fa8917a08f,METRON-1085,New Feature,Add REST endpoint to save a user profile for the Alerts UI,,Major,99.04389396
+e2de1caa4d800fa62e34786b788cf9b9c1df9709,METRON-1208,New Feature,MPack for Alerts UI,,Major,100
+696a454a6c0da0ff68712af56c254cfcd7a94bda,METRON-1207,New Feature,Make RPMs for Alerts UI,,Major,100
+a46be91ae68739cc9fbd6af200cad2915b7192d3,METRON-1215,Bug,Fix link to RPMs chapter,,Trivial,100
+eaae515076ee51be9709753855df35bf204808c1,METRON-1206,Bug,Make alerts UI conform to ops UI for install,,Major,100
+b005563fe6c7f4555a2dd07d20766976ada0ebf9,METRON-1195,Bug,Meta alerts improperly handle updates to non-alert fields,,Major,100
+cd7257e126752dcb5aff1c75d89948565d9dd838,METRON-1189,New Feature,Add alert escalation to the Alerts UI,,Major,100
+e3900c4dbd2dea183d6b7048ffda421d79d5daa9,METRON-1156,New Feature,Simulate Triage Rules in the Stellar REPL,,Major,99.91325092
+4a074beccb17eadd6c1ef0c3101f040442358643,METRON-1198,Improvement,Pycapa - No such configuration property: &quot;sasl.kerberos.principal&quot;,,Major,100
+64490b60f5e270bf10fb07d86f726ec63806a259,METRON-1202,Bug,ElasticsearchDao Has extraneous sleep call,,Major,100
+5f13e14be57e3a4375ae6fe63c8debf3803d6e44,METRON-938,Bug,&quot;service metron-rest start &lt;password&gt;&quot; does not work on CentOS 7.,,Minor,100
+529ea6cc41051bb7bd0b94ad471dc124d0e00e61,METRON-1182,Improvement,Refactor Code in alert list to accommodate new view types,,Major,100
+c18faaa94cd9b99bd88612899b5baed897a7681c,METRON-1188,Bug,Ambari global configuration management broken,,Major,99.82657706
+87ff7b73b95f1aa1ac3d710ddab7ca67d800562c,METRON-1191,Bug,update public web site to point at 0.4.1 new release,,Major,100
+695e90401cf371993c7d08e6ab073a928d08cecb,METRON-1063,Bug,address javadoc warnings in metron-stellar,,Trivial,100
+f9710ebeedbc9fb703a0d466fd1fef5261ab6c31,METRON-1190,Bug,Fix Meta Alert Type handling in calculation of scores,,Major,100
+c642a9558f806b3a49c6cca1aefc4b32799a9a4d,METRON-1187,Bug,Indexing/Profiler Kafka ACL Groups Not Setup Correctly,,Major,100
+9b7bf7cd75197bff009520df77d91bc4d258fcb0,METRON-1185,Improvement,Stellar REPL does not work on a kerberized cluster when calling functions interacting with HBase,,Major,100
+f03c1c36ed1bce84cf5e1f8746e1cd6799f516c4,METRON-1186,Bug,Profiler Functions use classutils from shaded storm,,Major,100
+2ae1f5adf8428832550f99bcc4cc76645597851a,METRON-1173,Bug,Fix pointers to old stellar docs,,Trivial,100
+2c56a13e53065954a853cc33a19b569b686cb70d,METRON-1179,Improvement,Make STATS_ADD to take a list,,Major,100
+6017c5974a868f94ef86b9493ee0d244ffd2df65,METRON-1180,Improvement,Make Stellar Shell accept zookeeper quorum as a CSV list and not require a port,,Major,100
+76947ad528d79fc0c6b924b8337948ed916f3e12,METRON-1183,Improvement,Improve KDC Setup Instructions,,Major,100
+ba9532de39bc7fb455050fea977bd4c543dc8c82,METRON-1177,Bug,Stale running topologies seen post-kerberization and cause exceptions,,Major,100
+40c93527e2a693ec6580dc0d09356dfa3b525aa4,METRON-1158,New Feature,Build backend for grouping alerts into meta alerts,,Major,98.81915592
+309d3757df50a2dda0ac4396750e292e76926c5d,METRON-1146,Bug,Add ability to parse JSON string into JSONObject for stellar,,Major,99.97793469
+95db8b40e76d07aa4344d7b05f0f0c14ed24f59f,METRON-1176,Improvement,REST: HDFS Service should support setting permissions on files when writing,,Major,100
+545f358a11c91c40807855024d0169d59561c83d,METRON-1114,New Feature,Add group by capabilities to search REST endpoint,,Major,99.3315508
+2afe9d7f5d277e52928946e7b53267aa5115ae0a,METRON-1167,Improvement,Define Session Specific Global Configuration Values in the REPL,,Major,100
+3828160625c6617db99d9a640fdb6b84d4f91f4f,METRON-1171,Improvement,Better validation for the SUBSTRING stellar function,,Major,100
+269d42e923c23835871c9bbc23c4ab0c6007abc4,METRON-1169,Bug,dependency checker has not been running in travis,,Major,100
+b0c6e68ce5a3e9caa12711cf76aed1776d3745db,METRON-1153,Bug,HDFS HdfsWriter never recovers from exceptions,,Major,99.97749775
+ccb5a0bdd4cb7d04c0d1f23359215ffb643774b5,METRON-1163,Bug,RAT failures for metron-interface/metron-alerts,,Major,100
+7768ff673cb4a7a62180d16fdb92dc0f4123f4f1,METRON-1168,New Feature,Add SUBSTRING method to stellar,,Major,100
+ea65a37c04c2e0d8fad1f1ea024af39ae56049ca,METRON-1077,Improvement,Use column meta data end point in alerts ui,,Major,100
+6ff39ae380d82fb5805f4092806b846332c3c8b8,METRON-1162,Improvement,Apply Live Messages to the Profile Debugger,,Major,100
+f0ae85fb71bf1d102d9b72f6b413a89abe8b4bd4,METRON-1166,Bug,Stellar short circuiting fails when a complex condition using a boolean op is followed by the opposite boolean op,,Major,100
+224d3d5e2b8c17ca4414ad7d7846dafee0b06d3b,METRON-1150,Bug,REST parseMessage endpoint fails with Unable to load &lt;grok file&gt; from either classpath or HDFS,,Major,99.61806336
+f79214be9bcabca3b8b9411e17915c2de5236ea8,METRON-1151,Bug,Grok patterns in HDFS should be owned by metron,,Major,100
+dd7118197ea09550192d82161cda4e0614a62b35,METRON-1142,Bug,Add Geo Hashing functions to stellar,,Major,99.75264223
+0bbc51d6858c67015ec7dde3105069f4a678d518,METRON-1160,Bug,Blueprint configuration validation failed: Missing required properties,,Major,100
+7a3de6737b964abbdcdc876695b50f29bf5d531e,METRON-1127,New Feature,Add ability to escalate alerts for external consumption,,Major,99.25017042
+37e8ca7e22f0a16c9bbccd9d9896942f230a11b8,METRON-1129,Improvement,Management UI - Package Node Dependencies in RPM,,Major,100
+91a017b6dcefc250bfd67cecf9803cb59015d213,METRON-1148,Improvement,Add SET and MULTISET data structures to stellar,,Major,99.90829895
+31d99f122e89d81590df84f66c2dc9fb336a03b8,METRON-1145,Bug,Profiler mpack does not create kafka acl and hbase acls correctly in kerberized cluster,,Major,100
+38eebd59ce2884ead7f3797ff98f7308409e05dd,METRON-1134,Improvement,Allow parser command line options to be specified in the zookeeper parser config.,,Major,99.79329352
+8ef18d31ab927acad7798c6c32252ca27c8e8b46,METRON-1138,Improvement,Improve Error Message with Bad Profile Expression,,Major,100
+c73c7af1dc3cb6502517bc7ac1d37c631ec3dbe5,METRON-1132,Improvement,Enhance Profiler Debug Functions,,Major,98.93395133
+1a4f19c86ed94742c08e8e264a7bb45ff9ad27a6,METRON-1117,Improvement,Filter Functions Returned by `%functions`,,Major,100
+cd14cbeefec6afc7aee9efcc288c9482d67d9657,METRON-1137,Improvement,Build RPM for Metron MaaS as a part of rpm-docker packaging,,Major,100
+8ee9eb8007ce3c0bbca553e8c4b5d861300d1a00,METRON-1139,Bug,MPack for the profiler breaks stack advisor,,Major,100
+8560d2dfc96dd0215ca50acc3148300e7ef2ad75,METRON-1122,Improvement,Add support for the profiler in the management pack,,Major,100
+7f9f86c005eb5d9d966d33df95cd060e2f8784bb,METRON-1128,Bug,MAAS_GET_ENDPOINT - Unable to resolve function error seen for squid example,,Major,99.83641038
+a9079f546345d449647daf4f681d5d259d0829cd,METRON-1135,Bug,Make Stellar field transformations handle nulls properly,,Major,100
+9bc9e0c524ab41c2d4df1f45f20fc58f4799103d,METRON-1068,New Feature,Use Elastic end point in alerts ui,,Major,100
+c8e84fa3be89901013168d15df38b8a58265148a,/,/,    fix dependencies csv for zjsonpatch pre-commit,/,/,100
+d5dbfc20cb42708c27e9a02c5f7eacac98604745,METRON-1061,Improvement,Add Fuzzy String Scoring to Stellar,,Major,96.63438257
+a2bae0bce4d0739c5b1b7e5d803ee1c44ea529ca,METRON-539,Improvement,Add stellar keywords for hashing,,Minor,96.4268352
+174964832eafba927ae4e7aa407d2a1100a8b776,METRON-1131,Bug,The Stellar REPL rejects valid hostnames for zookeeper in its CLI options,,Major,100
+f34affdb25422f19f8e70a91b7a796a15a7745a5,METRON-1073,New Feature,Add option to limit fields returned from search query,,Major,100
+8059c9fd49cbe174abd2ab92c1efff8842e0b3b0,METRON-1119,Bug,Bad Out-of-Order Logic for SaltyRowKeyBuilder,,Major,100
+ebfbe9d5edfc07109bdeaf8ccf88f4ca44221aae,METRON-1120,Bug,Profile&apos;s &apos;groupBy&apos; Expression Has No Reference to Time,,Major,96.70892248
+38d41fe67dee15728b50d930f20d8b19ad935009,METRON-1121,Bug,Ignore Profile with Bad &apos;init&apos;  &apos;update&apos; or &apos;groupBy&apos;,,Major,100
+1d89c3183720ec1ad295b56a7d5ef52aca19dc17,METRON-1118,Bug,Ignore Profile with Bad &apos;onlyif&apos; or &apos;foreach&apos; Expressions,,Major,100
+d64afbc3f38e81d462d45f99efb21deec49e6b55,METRON-1115,Bug,Jackson is not properly serializing readMetadata and mergeMetadata SensorParserConfig properties ,,Major,100
+22268576039babc1dd9ee65a5a6a11ade49a7258,METRON-1047,Bug,REST should use core-site.xml for Hadoop configuration,,Major,100
+ae1dc3a4aa31cfd6b4af7558dbb2fc0314f80a29,METRON-1111,Bug,Mislabeled Configuration Property in Ambari,,Major,100
+f2a5e5695c3a90b1406a0ee37fdc2fb7944177ca,METRON-1113,Bug,UpdateControllerIntegrationTest fails with 500 error,,Major,99.42167463
+73dc16e7a40edb38de6657074c22860647441148,METRON-711,Bug,StellarShell assigns variables even if an exception was thrown in the statement.,,Minor,100
+5a6370a630fb51a69cd5313e74ab694d68ade187,METRON-1110,Bug,REST jvm flags property is being overwritten when Kerberos is enabled,,Major,100
+073d6b50def2ebd21e0f9c87b4d039e6dabf7616,METRON-739,Improvement,Create Local Profile Runner,,Major,92.10032818
+1f9a7916407f7ee12f0168f2f244bda04b345b27,METRON-1109,Bug,Indexing topology fails to start after Kerberos is enabled,,Major,100
+02bc58782963379c7367db1d7f0254dba7c0df36,METRON-1108,Bug,Metron configuration tabs are not showing up in Ambari,,Major,100
+adb378f35cc76c1e7172b2d60cb225a8c59b88b9,METRON-1078,Bug,Metron Indexing fails to stop during &quot;Stop All Services&quot;,,Major,100
+86b0f137e29a78a5ec849a8dbf0cb8a2e5bb3dbe,METRON-1104,Bug,Build Failure - Due to Bootstrap version change,,Major,100
+82bf89ba4ada583ac68dbb44e7fd658ad45e8337,METRON-1094,Bug,MaaS will not start due to classpath error relating to Yarn,,Major,99.97795414
+3d95fdf906993c8d65b76a7e1311c7fb295e19b1,METRON-1102,Bug,Add support for ingesting cybox URI observables from taxii feeds,,Major,99.88964908
+b3148a18280a4fa50020f4a757dc526c404e0df5,METRON-838,Bug,Incorrect set of ts in FireEye parser,,Minor,100
+f072ed231f9acdf0957f0244b6402b2ecd9403a0,METRON-322,Improvement,Global Batching and Flushing,,Major,99.75652944
+7d554444e7701eb4e8787d3c395f65b94db762c4,METRON-988,New Feature,UI for viewing alerts generated by Metron ,,Major,100
+de154b0c84e13801a0117b8eed5db5898fce5739,METRON-1084,Bug,Management UI web server license should be Apache,,Major,100
+3f0e17cf98d31b1143ee4d365c87f0e850df252a,METRON-1026,Bug,threatintel_taxii_load.sh throws exception,,Major,98.01595859
+813adf2dac1b4c07c0e4ae134366c61388ff5b67,METRON-1051,Improvement,Enable the ability to update indexed messages,,Major,94.92957746
+3d4751315ff3e4b12531d7e51158f67bfa0f178b,METRON-1069,Improvement,Ambari MPack documentation around development strategies,,Major,100
+c7d8b7344ac0bd08d2183c340caeb4c074c3b0bc,METRON-1069,Improvement,Ambari MPack documentation around development strategies,,Major,100
+ed689cc617045ebd1c81bf45095642789392c5e9,METRON-1069,Improvement,Ambari MPack documentation around development strategies,,Major,100
+df25d81c41b7ad5381ac8ff9f42c320ba72f43dd,METRON-1076,Bug,Management UI status check always reports the service as running,,Major,100
+42fff741109bf8c7d919f3028368c94bec8ce66e,METRON-1075,New Feature,Add faceted search capabilities,,Major,100
+c08cd07f36cd9bf2608a586a209bf809130a069a,METRON-379,Bug,Stellar - No Error When Adding Variables That Do Not Exist,,Major,94.92884346
+b2375a1f1c66b19dc6a82cbcc8242741cdf65451,METRON-1038,Improvement,Stellar should have a better collection of basic math operations,,Major,99.83302025
+27ab28923107b18b90bbe1c0c360aa3f1e338666,METRON-1072,Task,Cleanup Maven build warnings,,Major,100
+19096fe62c4728d326bfc87b2aa831c6aec3d5b2,METRON-1056,Improvement,Get field types from Elasticsearch,,Major,99.83267099
+14bcc0389431879b1d97ae53f8a8a6e7079bed46,METRON-1011,Bug,Stellar ENRICHMENT functions should enforce submission of 4 parameters,,Major,100
+ec959d20efa72e9868d87a02d9407bbaad34c4c8,METRON-975,Improvement,Normalize logging and switch to common idiom with SLF4J,,Major,100
+7b9f20c937c471632faae789520f15f63b3617e1,METRON-681,Improvement,CSVConverter should trim values,,Minor,100
+c99df8ff1f5488f432084aa2a1f9d9001b8a1a31,METRON-746,Improvement,Build Custom Checkstyle and IDE formatting settings,,Minor,100
+7e0375390baba6a3a4c115a71bb7a3d473ccbdf7,METRON-1060,Improvement,Add performance timing logging to enrichment topology,,Major,99.66435914
+ba46fa734d868c78b3e75c86210d947ed7621f0e,METRON-982,Improvement,REST STORM Support for supervisor summary,,Major,99.83154348
+ae50723a5e890f23ef5d5029bcdb5c8c9b327a82,METRON-1064,Bug,Make init script OS-agnostic,,Major,100
+e206f2508ef7e7d798510df76ccfeb38b9530e89,METRON-984,Improvement,Create STELLAR Decoding Functions,,Major,99.76793249
+9355a04650af443bb67b94c7055ca82c07c7cf5d,METRON-1067,Improvement,Minor typo in documentation,,Trivial,100
+badc6cf9739a31800abee1cfccbcf9930b130fa7,METRON-1018,Bug,Integration tests should reference flux yaml and property files deployed by Ambari,,Major,99.9155227
+5c0ac32d19e3805ec4b7ac587ed196e0431f8b35,METRON-1050,Bug,Improve Docs of `profiler.period.duration` ,,Major,100
+577ff80e3bdd5c690cfee3783f73003eb7470aab,METRON-1043,Bug,Profiler Should be Less Dramatic When Missing Configuration,,Major,100
+ba9ddda6d742a0df96e24a1573f44482020c25fb,METRON-1053,Bug,Relocate Metron Docker,,Minor,100
+28a974037e016b21902a176cb0e0e36b65ddb24a,METRON-1058,Bug,address checkstyle warnings for UnusedImports in metron-stellar,,Minor,100
+240b69f8c303a8e5103c9d5d0a22b0d061e043fe,METRON-1035,Bug,Documentation for rules triage aggregation does not include SUM,,Trivial,100
+50abfa44101642fc5413014f5cdc144e8bd618a5,METRON-1039,Improvement,Add ZIP function to Stellar,,Major,100
+309d8097a91cc40e46f187f672d651b00cdd90fa,METRON-1054,Bug,Ambari Mpack Attempts to Kill Topologies That Are Not Running,,Major,100
+a0e756bf9a0f8dc4401a0dbac81b23ba87c16616,METRON-992,Task,Create performance tuning guide,,Major,100
+3d6b049b8799235b580a275024c18f6092fc8942,METRON-1044,Bug,Disabled writers are not acking messages,,Major,100
+cf7043c59b1091c59b06cb14ca9d332a727fc3ea,METRON-1022,New Feature,Elasticsearch REST endpoint,,Major,98.5375159
+0d1923f83aee6630f1112cd7f9d20514726272f0,METRON-1048,Bug,Intermittent Test Failure for SimpleHBaseEnrichmentWriterLoggingTest,,Major,99.07582441
+a8bcbf0b4e30cb5803d5bb99a30dd988d8375b32,METRON-1029,Bug,Topology worker opts are not being set when Kerberos is enabled,,Major,100
+57d2764c318c8ec7d37d8a3f11e4609e35078285,METRON-1031,Bug,Management UI Cannot Start Topologies in Kerberized Environment,,Major,100
+954b5ea13fc04cb8c9ae277d57a75cfb16956772,METRON-1008,Bug,Migrate Travis build to use Trusty,,Major,100
+afe6fd56ee727092dbc66b065df4ff6c7b467bb0,METRON-633,Bug,Create better logging for HbaseEnrichmentWriter,,Major,99.07582441
+b9125c8307b5e8f5b77eeb6f4b96004cf52dc4f9,METRON-1003,Bug,ParserUtil parses dates incorrect,,Minor,99.95742869
+eaa52f6231faf9445fdb49031d308609aa4db14c,METRON-1040,Improvement,Create Installation Instructions for the Profiler,,Major,100
+29aad8b4abc9993915616bfac3f18c739c2c7103,METRON-833,Improvement,Update MaaS documentation to explain how it interacts with kerberos,,Major,100
+886ed7a00501c7ccb98ed8296cab9ded3e0a62fd,METRON-1033,Bug,Profiler example uses incorrect units for expires,,Trivial,100
+dcf768297cdc62be1400cf5dbc5db28820900a43,METRON-1019,Improvement,Metron 0.4.0 manual installation guide for CentOS 6 ,,Major,100
+bfc4786df55d522597d87c01872982bc9ec7923f,METRON-1013,Bug,StellarShell does not validate parameters,,Major,99.85090522
+a9b01d1e373091662f4dff3ac3acf7cec181e103,METRON-1017,Bug,Ambari components should be separate,,Major,100
+cf165ff306764641a2c7991ff93cf48228d7910d,METRON-933,New Feature,STELLAR support for setting fields to regex match captures,,Major,99.85065074
+dcec5a7cfb7f8b6544af8ab137dab3f75de9c49a,METRON-1001,Improvement,Allow metron to ingest parser metadata along with data,,Major,100
+7cd39316a4e7587c84efbfa2d8da503d1a6640a7,METRON-1027,Bug,Errant Log Message When No GeoIP Hit on Valid  External IPv4 Address,,Major,100
+fc6614b18c73d339293bb76e682569523feb041a,METRON-1025,Bug,Metron github pr template should not reference incubator,,Major,100
+a8f35363ffdd1e20bc7a64b7107d270f9667be3b,METRON-1021,Task,increment metron version number to 0.4.1 in poms etc,,Major,100
+50e521b0077d098fdc89562d7aa9b95398ce7bb6,METRON-986,Improvement,Enhance Fastcapa to Support Intel X520,,Major,100
+f7a94f2e631227f035c63ad258c124c0cd582189,METRON-1012,Task,Update Metron public web site for 0.4.0 release,,Major,100
+df270feeab5ca435ad32438351dfe56a310700c5,METRON-1014,Bug,StellarShell class name typo,,Major,100
+87f652215cbe9e611029f5269f6c2b30aaa8f229,METRON-990,Improvement,Clean up and organize flux properties,,Major,100
+cc7bbc94870f0e0d5026c14ac710ca8882d0589b,METRON-508,Sub-task,Expand Elasticsearch templates to support the standard bro logs,,Minor,100
+ab87bdf673e151da4b6352da6b0f4a6957f4777b,METRON-1007,Improvement,Ship the metron-management jar as part of the mpack install,,Major,100
+a5b13777a92418155da61864e98fc24cde866501,METRON-877,Sub-task,Extract core implementation and UDF support  create metron-stellar module,,Major,87.34887737
+df94ed40523db375b0bac4601a7efffa5a1fede5,METRON-1004,Bug,Travis CI - Job Exceeded Maximum Time Limit,,Major,99.10067997
+095be23dce0f818a98a1fc587053d133ca542856,METRON-999,Improvement,Add virtualization support checks to platform-info.sh,,Major,100
+d52f574f8294e453ecad3871526858a0c3c2033d,METRON-1006,Bug,Remove Incubator DISCLAIMER file and fix Release Process doc,,Major,100
+b76bcd5f2405db122c2bf9d19128f9efb20b8458,METRON-996,Improvement,ASA Parser Performance improvement,,Major,100
+de2c871abf3e259311281743952eb465362cf90c,METRON-995,Bug,Temporary variables in stellar enrichments which are maps do not function as expected,,Major,100
+f523c179585bea3a61f99c694d2752fc6ceb7a3b,METRON-906,Bug,Rest service storm configuration does not allow for proper URLs,,Major,100
+30d0e2a6faa1c1205522758e5fd15f35ebc9fcbb,METRON-980,Improvement,Short circuit operations for Stellar,,Major,99.93377483
+7d6121bfd3bd622940e9f411ac87b56d29755596,METRON-987,Improvement,Allow stellar enrichments to be specified by a list as well as a map,,Major,99.66799469
+61cbab46e3e262e006e59c28eaa9192d0f7aaaab,METRON-976,Bug,KafkaUtils doesn&apos;t handle SASL_PLAINTEXT,,Major,99.9113082
+5b72da7be0521fc16e887dd4a1c958ceaeaa6510,METRON-962,Task,Configuration Based Unit Tests and Add integration tests,,Minor,99.24242424
+605a3cc6d29d0ac1377270b1455819645f4a95bc,METRON-979,Bug,markdown errors in site-book,,Major,100
+d0e1ba5089eb08187fd36c55fbe40539ef1f7890,METRON-569,Bug,Enrichment topology duplicates messages,,Major,99.91043439
+43e529fe003b84c585555be9f25a4ff49d769132,METRON-978,Bug,Management UI init script uses hard-coded METRON_HOME,,Major,100
+d5abcf429dad3c284a5f2469c0fb99713844be02,METRON-979,Bug,markdown errors in site-book,,Major,100
+1e9acc72e3642c372cb84cab52fee91e96276e22,METRON-977,Bug,metron-statistics enrichment example uses old indexing syntax,,Major,100
+e31ed2f7d2420fc9f68b0dbf5b6a9a5b53ac6453,METRON-979,Bug,markdown errors in site-book,,Major,100
+85872bd68698149692c97a48dfe41a78435dcc99,METRON-858,Bug,bro-plugin-kafka is throwing segfaults,,Major,100
+8779eb3fe6d2767d6b79d665adec735380cf2d61,METRON-937,Improvement,Pycapa - Consume Messages from Begin  End  or Stored Offsets,,Major,100
+74bc236d56a9d6c96105bb2bd2b5f719c5bb3bff,METRON-974,Improvement,Document How to Run Stellar REPL From Source Code,,Major,100
+9dc8c3a707bbdd4ac2070d5e29a558abde63f360,METRON-819,Improvement,Document kafka console producer parameter for sensors with kerberos,,Major,100
+f127c6dcfd8c2a2d19314b98eb3840da90d2ab44,METRON-964,Bug,Add logging in JoinBolt for unexpected cache evictions,,Major,100
+61105c71520909674985e90acc0c33a54bcc559e,METRON-844,New Feature,Install Metron Management UI with Ambari MPack,,Major,100
+1a0e8f252a7a59fc6328b6fa008bc1f45387ac5e,METRON-949,Bug,Change from error to warning message for Metron REST in Ambari service_advisor,,Minor,100
+ae05f38d8728bcc8737b0a4261ab7df35710b97f,METRON-953,Task,Complete migration away from incubator-metron to metron for links and docs,,Minor,100
+08f95dc8f5588dc9d50e204410ca3d09f84f3c8b,METRON-959,Improvement,Trivial documentation formatting bugs,,Trivial,100
+7ef929ae4b998468beb3ef08fe57e37ff04fad4e,METRON-811,Improvement,Enforce Maven Version in Top Level POM,,Major,100
+e2197316df5754aba601134ecce19b12092b6f37,METRON-958,Bug,PCAP Query job throws exception when no files returned by time range query,,Major,99.77558348
+356881ad22edc7c08d8a8f3812192333210f3c8e,METRON-966,Bug,Pcap topology does not commit offsets,,Major,100
+64473d4e8399e71d0ac1a81b6e78e72b982e42f8,METRON-965,Bug,In the case where we specify the syncpolicy in the HDFS Writer  we do not properly clone and end up syncing for every record,,Major,99.88741274
+fee758b3fb2277067421a95054c3e328730decda,METRON-961,Bug,Spooky intermittent exceptions in pcap during sync should be handled and explained,,Major,100
+ce381f3e0391c15d0ec36b2e383dea270e7d613f,METRON-948,Bug,License field in npm package.json files is incorrect,,Blocker,100
+5e0cce220dca80c996d173b16b9721fccb373821,METRON-963,Bug,Update document for Kerberos manual setup,,Minor,100
+47e2b735ea682e7d647e3eaafac89a192a783e86,METRON-891,Bug,KafkaConsumer should not be shared among threads,,Major,100
+c0b0825235ce5c26649282c43f3c57f092864f94,METRON-936,Bug,Fixes to pcap for performance and testing,,Major,99.932341
+be03076599544f2baedb1b3010ad50625b2f32ae,METRON-955,Improvement,Make the default sync policy for HDFS Writer be based on the batch size,,Major,99.95485327
+c1c212117d6123f2897a606fedbb2583fb3bb9c3,METRON-954,Bug,Create ability to change output topic of parsers from the CLI,,Major,100
+6c836d13635fcf1639ea7b8adbaf1ba4051c4f1c,METRON-950,Improvement,Migrate storm-kafka-client to 1.1,,Major,99.88695456
+1277b6c3229ee4b7cb066902ac56e03145c18157,METRON-934,Bug,Component and task id are missing in the indexing topology Hdfs file names,,Major,100
+4b3ccac3649d9ed384774fe0573aa1812b87e5a8,METRON-952,Bug,Travis CI Link in README Pointing to Old Repo,,Trivial,100
+345eba8d5940f2789e5a860eb51e8fa9f003c676,METRON-932,Improvement,Change HLLP Stellar functions to accept empty lists,,Major,100
+9a5e1ba73ddf1d7154fff6f41fa9b9e41fed3328,METRON-902,Bug,ES improperly indexes Bro logs,,Major,100
+53990090e554aff0873ef8ddf1a492fcb05604c9,METRON-912,Improvement,Metron vagrant setup steps no longer work,,Major,100
+b3e7222f1c4fb527ff3b18e8bb47383528d2eb57,METRON-943,Improvement,Create traffic connections report in zeppelin,,Major,100
+e375936a17ee0ce743d5d9f4446ea21dee474450,METRON-886,Bug,ansible-docker issues on centos6 with docker-io,,Major,100
+64b66f28a5410b095c2a64e7e66b9ee9776c4949,METRON-946,Bug,Full/Quick dev should default network_host to  [ _local_  _site_ ],,Major,100
+8532e2848c4767405f4bfe6501c251b1aab54f01,METRON-945,Bug,Resolve merge conflict in metron.spec,,Major,100
+0d5fdf419fdb2ad863eb531fa101f0f4ecae3497,METRON-931,Bug,Stellar REDUCE incorrectly returns null for fewer than 3 items in list,,Major,100
+4662c775c033fec3e23b8df138ca489b5a96fea3,METRON-944,Improvement,markdown table causes infinite hanging in site-book&apos;s doxia-module-markdown,,Major,100
+21b79dc8eb0ffd7f0a3ea87744cef3d792456af7,METRON-905,Sub-task,Fix square-bracket behavior and default network interface bindings for ES,,Major,100
+876a5fc1379e0027d82941d956bd85660bc2c2ac,METRON-935,Bug,EC2 Deployment Failure - Could Not Create Blueprint,,Blocker,100
+8cf109da180ee9f80984b0408afed799fa6c7c43,METRON-913,Improvement,Create IP Report in Zeppelin,,Major,100
+082b218fb80ec8049cf7143d2a1c9a1537dd41dc,METRON-840,Bug,All &quot;ambari_*&quot; hosts need to have a /localrepo folder,,Blocker,100
+e08b7d47f3f644e12a9abb59bd3901d93c6d34af,METRON-896,Bug,Document Having Kerberos Issue Renewable Tickets,,Major,100
+716bda326f26b60c98318cdc1cc949b351a0b71a,METRON-795,Improvement,Install Metron REST with Ambari MPack,,Major,100
+38d26d4328eee058b3515dae38e02565a4669f4e,METRON-903,New Feature,Create a connections report in Zeppelin,,Major,100
+1d27a32d5fe20ecb57a0cc143c1cb707f79ad20c,METRON-907,Improvement,Zeppelin Dashboard to execute and download pcap queries,,Major,97.55988359
+494643c38a64834a05ab3c6c2615aab6e9450a4e,METRON-915,Improvement,platform_info script should have node and npm version,,Major,100
+29e7c70dfe946667e907ae0767f47da895e722e5,METRON-726,Bug,Clean up mvn site generation,,Minor,100
+47e5aa70adfd2fb000e412c3a6b6d06c91e2809c,METRON-836,Improvement,Use Pycapa with Kerberos,,Major,100
+f36db22eba256209d494f2ab3eda4f0c2b2448d7,METRON-899,Bug,Fix bad Kerberos doc merge in METRON-835,,Major,100
+68bd6c52055b34460ff1823a31daae1f60985e1a,METRON-861,Improvement,Allow JVM args to be passed to CLI utilities,,Major,100
+bf2528fd3f4d474164ddf497459cd2421df3e4bb,METRON-870,Improvement,Add filtering by packet payload to the pcap query,,Major,96.52232443
+5dd87886d6288b3f65e4f26e88ef10dcc82895fe,METRON-859,New Feature,Use REST application with Kerberos,,Major,99.81785064
+ffe2d934089ba6c63513759a9a740c1e34660132,METRON-857,Improvement,Metron should one unified docker build image,,Major,100
+58fa1f69cf14436b54414f660ff11c2c48c99c6f,METRON-892,Improvement,platform_info.sh should have the version of docker,,Major,100
+6e1e322eff001882153900f840b8387bc2a19c40,METRON-873,Improvement,Stellar string literals do not support quote escaping,,Major,100
+cac696d7dbf9bec57cc9a59f599bded48186ca70,METRON-888,Bug,Update README to show requirement of Ambari 2.4.2,,Major,100
+19e0e715d30670612b0ad826ed133ba138bdc20f,METRON-883,Improvement,Capture Bro Plugin Enhancements from bro/bro-plugins,,Major,100
+fbce3b5f9e396be997c315f39c6749d39b9105a3,METRON-835,Improvement,Use Profiler with Kerberos,,Major,100
+8c264f8e7345620c2a6c155d8d32e396ce30ec91,METRON-857,Improvement,Metron should one unified docker build image,,Major,100
+b6786aaf030122e83b82ad63c828f68f3754d8ec,METRON-864,Improvement,typo in indexing readme,,Trivial,100
+bec84db776a08b55594bf2ac78613d58b0a65b90,METRON-868,Bug,Fix documentation on building RPMs,,Major,100
+8fe52c9a126bbfbb82472f48e1f162f128e35694,METRON-866,Bug,Quickdev and Fulldev readme misses Docker as prerequisite ,,Major,100
+cb44090b0a3f7df6950cf27d43ebb399d5005403,METRON-867,Task,In the event that we graduate  remove incubating from the website and documentation,,Major,100
+41b5b1050cf29e5dcb5d0c36b5a9dbd1cafa745e,/,/,    The MPack should function in a kerberized cluster (justinleet) closes apache/incubator-metron#518,/,/,100
+55062fb79a85722c909906874e0772f51b18953d,METRON-799,Improvement,The MPack should function in a kerberized cluster,,Major,100
+187ef373a6cc0f89696349acc35ddeddbfd836ef,METRON-799,Improvement,The MPack should function in a kerberized cluster,,Major,100
+df44f077a97d0495fea511f5d9f900e4d3a25147,METRON-634,Sub-task,Mpack bug fixes and improvements (not related to singlenode install),,Major,100
+29d7cb378835b819b326660ed59aca4becbf7099,METRON-821,Bug,Minor fixes in full dev kerberos setup instructions,,Major,100
+2ecabaa8c0e7dab929726f8da48b98de623953ab,METRON-842,Improvement,Add dynamic templates for risk score fields,,Major,100
+58d5318a0a9a40ea33c63d83885c11115eacd32c,METRON-862,Bug,Add Mattf gpg public key to KEYS file,,Major,100
+2ecc55ba17591b9216a6cf47d116c53608b9e59f,METRON-848,Bug,MPack&apos;s metron_theme.json is malformed,,Blocker,100
+84f336b372be271abb563b1a19f2af462fe6de2d,METRON-856,Bug,Ansible rpm build wipes out prior binary build,,Blocker,100
+eb08d145f00166ab73316714f96fdb8d53de0f79,METRON-849,Task,Add &apos;reason&apos; to threat triage risk level rules doc,,Major,100
+e6992d56816c37f8f63274a5a1ce33d37d69dc68,METRON-830,Bug,Adding StringFunctions to Stellar - chop  prependifmissing  appendifmissing and countmatches,,Major,100
+d30d8b9df0746dcfb90044ca243c7dfdeb395066,METRON-845,Bug,Increment build number to 0.4.0,,Major,100
+1ef8cd8ff692b29d1042548a903092b0a0d88c4d,METRON-623,New Feature,Management UI,,Major,98.29020333
+0e629f3be53836e0d49adb9a3144a91360226791,METRON-832,Bug,CEFParser does not handle un-compliant format found in the wild,,Major,100
+ba73309502eed5dabedec1276d1101c83568a6de,METRON-839,Bug,RPM build should happen after archives are built,,Major,100
+7c1a56549cf99b013aa2f6022121dc6ff581c0fd,METRON-829,Improvement,Use Fastcapa with Kerberos,,Major,100
+ab80e7b18ba1fb18adeb7645fda9440a9644d34e,METRON-831,Improvement,Add lambda expressions and rudimentary functional programming primitives to Stellar,,Major,99.83579639
+7e21ad3c79a337bdc8007c4af8bdd3109c1e7332,METRON-817,Improvement,Customise output file path patterns for HDFS indexing,,Major,97.0407197
+339f95ed3b940071f55545a3a912cbd94de0911f,METRON-826,Improvement,Ambari MPack should utilize service specific repos,,Major,100
+4c114a51ff730782f6d0584312d7c100a604e50a,METRON-827,Bug,Fix full dev build dependency multi-threading issue with maven,,Major,100
+81677fd906a01a768777682ebf7caed44708c86e,METRON-822,Improvement,Improve Fastcapa Performance,,Major,100
+58775bc488addd1e274ed58679db448689128e49,METRON-823,Bug,bro-plugin-kafka/README.md has Markdown usages not compatible with site-book,,Major,100
+8f1dc5af946e30ec280c99f6620a5de4f46ffe27,METRON-820,Bug,StellarProcessor should have a static expression cache,,Major,100
+fccb67aecca199d7aebd14b16debff4bf16f8acd,METRON-808,Bug,Amazon EC2 deployment fails at Expanding Volume Step,,Major,100
+34614cc9006a77826ed729f2c8a40f99bd84d4b4,METRON-196,Improvement,Deployment Fails Without Ansible 2.0.0.2,,Minor,100
+eb209f5c9400b81720a866ef5dd1817f73226f44,METRON-814,Bug,minor tweaks in document format of Kerberos-setup.md,,Minor,100
+2724bf66c4556147435a74f11df509c75d3f8fc5,METRON-642,Bug,Correct path to ES gc log file,,Minor,100
+ccdb4c71850670c7190d5e2824d3cdd0a6e65238,METRON-815,Bug,sensor-stubs sometimes send malformed bro timestamps,,Major,100
+a48d16e30e2c6e89a49d430fa44db3dcc76447ae,METRON-818,Bug,Ambari elasticsearch.properties template is missing topology.worker.childopts,,Major,100
+a2452a25caffdd8c35fd9efe0ed49ce0dd2e3781,METRON-812,Improvement,Make the bro-kafka plugin work with kerberos,,Major,100
+09f13b2f908ea200796291c03a359329ac8f2edd,METRON-810,Task,Add Jon Zeolla to the Metron website community and project status pages,,Trivial,100
+90fe0d8551847e2fdd1871035338d2181b28bffe,METRON-816,Bug,Add jmeyer to Contributor List,,Trivial,100
+06863d3f051e2c5ea007503454e5572be7ca7df7,METRON-804,Improvement,Create a document to describe kerberizing vagrant,,Major,100
+3766b87bb4125d32867cd82cf9a3e96e0c61a8ed,METRON-796,Bug,Mpack uses wrong group for owning HDFS directories,,Major,100
+7b8d90036952c2911269632fa8c11bda958cd48d,METRON-773,Bug,Intermittent unit test errors in the KafkaControllerIntegrationTest,,Major,100
+aef84636a3427da20b1d54acfe1b8de23e2aaf97,METRON-797,Improvement,Pass security.protocol and enable auto-renew for the storm topologies,,Major,100
+e03636d8d3fa18bbd3ed53cd55e66b81eb84603d,METRON-797,Improvement,Pass security.protocol and enable auto-renew for the storm topologies,,Major,100
+dae102b0228b969d4e685a81dd6df25e59f63cb5,METRON-797,Improvement,Pass security.protocol and enable auto-renew for the storm topologies,,Major,100
+98dc7659a8ce86f5ced1324b0832f8950c6a65a9,METRON-793,Improvement,Migrate to storm-kafka-client kafka spout from storm-kafka,,Major,96.42686994
+c13ee82656830e131f929e443930465c475ff4eb,METRON-700,New Feature,Add hadoop container to metron-docker,,Minor,100
+88d72339f19f02e7264ccf21c7976a3f06df9d74,METRON-806,Bug,Posix for long file names is required on all assembly plugin configurations - metron-rest edition,,Major,100
+2f9158e0f8d8e2a150c6f116c8f6359190b79b49,METRON-807,Bug,Resource paths in the ASA parser conflict with applications which use a different classloader,,Major,100
+468bbdf60a9d415bb961976dee88912003ccb2f7,/,/,    Add mattf to committer list on site (mattf-horton) closes apache/incubator-metron#492,/,/,100
+27b0d6e31de94317b085766349a892395f0d3309,METRON-765,Improvement,Add GUID to messages,,Major,100
+340e92383192962d2de6990146949ac53b5c8056,METRON-770,Bug,Unable to Launch Fastcapa Test Environment,,Major,100
+d0965d54d4aec60e3e0cf94df13e81b966159cdb,METRON-771,Bug,Stellar INDEXING_SET_BATCH incorrectly defaults batchSize to 5,,Major,100
+64ff4694bbdc3d7584b931f571a91bff74d56874,METRON-792,Bug,Quick Dev should remove/replace RPM packages,,Major,100
+8f12a76e0f84b62645f84fbcc9334af0dbc56ad1,METRON-791,Improvement,Add links to website and downloads to top level POM,,Minor,100
+4fba50a86406dc8c46f7d18e3288ece2a9014f5b,METRON-769,Bug,Cisco ASA parser doesn&apos;t include syslog wrapper fields,,Minor,100
+f3987370311e8013764385d6861e56f72832bb16,METRON-767,Task,Clean up license,,Major,100
+39059e5be07796550e8ff7dd054e1e1d2ac93e75,METRON-766,Task,Release 0.3.1,,Major,100
+f1435a6a75f016294920ac328ba79474fbf129e1,METRON-764,Bug,DST bug in metron-profiler-client Unit Tests,,Critical,100
+68a334a8717d2a6b82f7f9651c57bc75e256ba97,METRON-671,Bug,Refactor existing Ansible deployment to use Ambari MPack,,Major,100
+8b6fc2e60f8021e7e2e4896d836e7e739393491f,METRON-641,Bug,Fix Kibana install file,,Minor,100
+2c9299eec1c4712425a2fc6d43337e0bdd8abbb2,METRON-755,Improvement,Update GitHub PR Template ,,Minor,100
+c793308cbd44e4cdbc223b141ed89978d8a52acb,METRON-752,Bug,Fix documentation typos and MD issues,,Trivial,100
+b2e46f57402536dc984a80db4e923975bb9015b0,METRON-745,Improvement,Create Error Dashboards,,Major,100
+29a0c186788bcbd5d1147c91bf03d654e1f04245,METRON-712,Improvement,Separate evaluation from parsing in Stellar,,Major,96.05585497
+22591a7cbe7c373b8744caf8a96d1b358e0d419e,METRON-758,Bug,HdfsServiceImplTest should sort files for list test,,Major,100
+134a23311c51693381fb52e6a90026420ff61b63,METRON-694,Bug,Index Errors from Topologies,,Major,94.06735751
+27ee490960614dfd890acdab443c6b242ce2cdb8,METRON-744,New Feature,Allow Stellar functions to be loaded from HDFS,,Major,97.00279401
+818b0b17b131d875259178e61e59d32d02ae792a,METRON-701,Improvement,Triage Metrics Produced by the Profiler,,Major,98.92077508
+e662849932a74187708b0037042c6b06d4750116,METRON-503,New Feature,Metron REST API,,Major,98.57393045
+a61dbcf7ed69768b2342b292460815e5eee0db07,METRON-503,New Feature,Metron REST API,,Major,99.56896552
+55b3e7ea80953a3bbfad5ec43b85d17e8ed287e6,METRON-503,New Feature,Metron REST API,,Major,92.67747345
+e416a7d7852fb1a7566681d0d3f55cd256d1332e,METRON-743,Bug,Sort the files when reading results from Pcap,,Major,100
+8b4fa79d19be992ad270df7d1780db7f4b8ce176,METRON-646,Improvement,Add index templates to metron-docker,,Minor,100
+1e1b658b76f5c959bcebdf824372eea0d680d3f0,METRON-646,Improvement,Add index templates to metron-docker,,Minor,100
+b34037202775f78733cd21cc0fb4159991f29cd3,METRON-686,Improvement,Record Rule Set that Fired During Threat Triage,,Major,99.53285581
+41fc0ddc9881d9cfdd8bae129c0bb7800a116d4c,METRON-646,Improvement,Add index templates to metron-docker,,Minor,100
+164d602d87ee6203514b27897f68bfa9aa1f0377,METRON-742,Bug,Generated code for profile window selector DSL did not get committed as part of METRON-690,,Major,100
+1f83fdcba7d04242be23fe7462f72267d476bc7e,METRON-741,Improvement,Stellar Field Transformations should execute all of the transformations  not just the output,,Major,100
+a12faeb0eafc4e10c79975160c55686ba2b7fd19,METRON-740,Improvement,Add the ability to pass a log4j properties to MaaS CLI,,Major,99.93736298
+1097f361309daf29db4958296cd38e4a7ffc407d,METRON-728,Bug,ReaderSpliteratorTest fails randomly and extremely rarely,,Major,100
+898d2360c6344eb88698f17974e7a17760b316a3,METRON-733,Bug,Remove Geo database from ParserBolt,,Major,99.55877718
+84d347195a817e70fb792b4b240151b7654b1a9c,METRON-690,New Feature,Create a DSL-based timestamp lookup for profiler to enable sparse windows,,Major,96.82854311
+7abd7e8a231c6cbe9ee4ab23a5df1e97344f5212,METRON-734,Bug,Builds failing because of MaxMind DB transitive dependency,,Major,100
+0e8abc48e5f6b29fb382371ad26bb165cf6e5f25,METRON-636,Improvement,Capture memory and cpu details as a part of platform-info script,,Minor,100
+9e15cb6e24872620ec4bf3c183d15dd6292b153d,METRON-157,New Feature,Create CEF Parser,,Minor,99.72289574
+246acff0f41f9c569687b1715f7c7115283c1f2a,METRON-725,Bug,Javadoc is broken by the use of apiNote,,Minor,100
+610146efb5f61cf7b7ea04982619a9efa14365ca,METRON-715,Bug,Enrichment Diagram still includes MySQL  which is no longer used,,Trivial,100
+b7cd3ea82e27cde52ba81e87086f7ddaf612beaf,METRON-720,Bug,modify generate-md.sh to re-throw errors from within &apos;find&apos;,,Major,100
+a6299fd75378cc8e29673c7f45d4b2c8e7b0437f,METRON-730,Bug,Fix links to mailings list on landing Apache Metron homepage,,Major,100
+80b8aee6a47047ea84f99037977ec7a4717d15aa,METRON-705,Improvement,Parallelize the build in travis to the extent that is obvious,,Major,100
+22ea8e3205c0f2bfe6c538dc2f10e90f92ff597c,METRON-724,Bug,Account for `in` grammar in Stellar Documentation and Unit Tests,,Major,100
+29646550ce3b775668a4439b23677ad86a4dcf80,METRON-721,Improvement,Add Github pull request template to help submitters and reviewers,,Major,100
+d7147e32d9f4f279bc779d4e1d39d691b43c3d35,METRON-716,Bug,Add README.md to site-book,,Major,100
+f6c253f44fe7ca5a6b31c46075f537940751c934,METRON-708,Bug,Update metron documentation,,Trivial,100
+9dcec28a0890a5f3996e33a7ec04492491148e2d,METRON-710,Bug,Rev MPack Version to 0.3.1.0,,Major,100
+1d632646e87720ea0695e85e6d4b72fdeeea95dc,METRON-707,Bug,Correct ansible to execute threat intel bulk loading via the flat file script,,Major,100
+c5bbf5acef05de16a18db9397745a6795427f6b8,METRON-706,Improvement,Add Stellar transformations and filters to enrichment and threat intel loaders,,Major,99.61605585
+0ae9c4b4878787eef61cb379830d9a0bab6892dc,METRON-703,Task,Rev the version from 0.3.0 to 0.3.1,,Major,100
+e4d54a2784a571ec84d5eb31f801f788b96bec7e,METRON-660,Improvement,[Umbrella] up-to-date versioned documentation,,Major,100
+2531b728b66aea1688fc3a34847c8878f80d717d,METRON-660,Improvement,[Umbrella] up-to-date versioned documentation,,Major,100
+dd99533e0511495bdb27b2a23a0e07a13e35309f,METRON-660,Improvement,[Umbrella] up-to-date versioned documentation,,Major,100
+73cb6575cbfd44a40289583b891da138f7f78ce8,METRON-692,Task,Update Upgrading.md for 0.3.0 -&gt; 0.3.1,,Major,100
+1be4fcb0243453863b6aefe0213fe9f0afed5718,METRON-682,Improvement,Unify and Improve the Flat File Loader,,Major,98.30268741
+a11e85c5582ebe4077ffb90378c8f81bb5fd6637,METRON-699,Bug,Update metron-statistics documentation,,Trivial,100
+57c38af1c014a8c9158c51b6d5f9042536b59047,METRON-684,Improvement,Decouple Timestamp calculation from PROFILE_GET,,Major,98.93390192
+84a36a650571ffefa61380d928285cdd758d0af0,METRON-630,Bug,More work is needed tarLongFileMode posix,,Major,100
+ddca4d82947aceef19ed7c2de7cd0e49475774c9,METRON-680,Bug,GeoLiteDatabase incorrectly using country geoname_id instead of city,,Minor,100
+8340c0e25d04f13c2ded2cb37159d9644d00ccff,METRON-658,Bug,Invalid Stellar Predicate Statement,,Major,100
+fd77ec329e96490e8401e300ac4104bf3f4a9901,METRON-687,Improvement,Create String Formatting Function for Stellar,,Major,100
+75d122d1e4c3c7d7c4bd9e3fe3bdc67a133de463,METRON-675,Improvement,Make Threat Triage rules able to be assigned names and comments,,Major,99.85815603
+ad8724eed0af784fcd6a822a11842d86aefc8832,METRON-678,Improvement,Multithread the flat file loader,,Major,99.57188726
+cc29dcab841d6b06c338da829d3f3a8541cdef5b,METRON-676,Sub-task,Create Zeppelin Notebook for YAF Telemetry,,Major,100
+f3ca3c05ef6d95a6f3bc5123e4dc07482c3e2752,METRON-627,Improvement,Add HyperLogLogPlus implementation to Stellar,,Major,99.53186892
+9890018af0b6df3efba07927e72fc4aeb752cabb,METRON-270,New Feature,Add Zeppelin to the platform,,Major,100
+fa6f3df51b881e84aa7a9525f24c627fa28ca62e,METRON-283,Improvement,Migrate Geo Enrichment outside of MySQL,,Minor,98.83424408
+c74c7de27007d192e55c62f84e9b1b9089fd9cdf,METRON-668,Improvement,Remove the &quot;tickUpdate&quot; profile config and make the &quot;init&quot; phase not reset variables,,Major,100
+0219e56a9eb67adf10ece1c2201041f91008a43a,METRON-672,Bug,SolrIndexingIntegrationTest fails intermittently,,Major,99.45394976
+5a5d42b8583fef320ddfd52131915195935b1b73,METRON-664,Sub-task,Make the index configuration per-writer with enabled/disabled,,Major,97.43677375
+cd3bb4f8ddf1155422785d324aedb51832551a67,METRON-600,Improvement,Fix Metron Website,,Major,100
+acfadb3e852d76d8c4431126e9a74b2520cb5405,METRON-666,Bug,Fix javadoc doclint errors,,Major,100
+d1fcda6043fe608167cde616214e4059663fb131,METRON-659,Improvement,Emulate Sensors in Development Environments,,Major,100
+368e7ad63641e3c505ee6e3d335ecabfa60b8003,METRON-652,Sub-task,Extract indexing config from enrichment config,,Major,96.360601
+56e7f4113e55541c9eafa1fb91a75bec2403b375,METRON-654,Improvement,Create RPM Installer for Profiler,,Major,100
+2db6e35b895ca60698b1f1150e0772ed71dc59c4,METRON-656,New Feature,Make Stellar &apos;in&apos; closer to functioning like python,,Major,100
+9ec2cdcdc4675737fec15f9e958b46f17268a227,METRON-532,Improvement,Define Profile Period When Calling PROFILE_GET,,Major,100
+56ff50c3d2da31992004ea066de356965f7adf4b,METRON-624,Bug,Comparison Operators Evaluate Incorrectly,,Major,98.92098851
+52aa580505ec8b2b0b43244345aa05e39c756650,METRON-644,Bug,RPM builds only work with Docker for Mac,,Minor,100
+763f2fc4220caac8e9b4b994e5a6987b43a21bd3,METRON-640,Improvement,Add a Stellar function to compute shannon entropy for strings,,Major,100
+09cb50288f3044e30e6674fca03ef2d05483cff8,METRON-637,Improvement,Add a STATS_BIN function to Stellar.,,Major,93.90012642
+e7fcc755c915c7643be6fcf4867d4a1a7cbc8506,METRON-622,New Feature,Create a Metron Docker Compose application ,,Major,100
+64df1374b298c9c4a06bdf6c00f82a16845a987e,METRON-643,Bug,Stellar function documentation needs to be updated,,Trivial,100
+80ea2fa9b1018ac3a5fe4016b0915258d58e1ddf,METRON-645,Bug,Unable to Start Fastcapa Test Environment,,Major,100
+a0cddc6d0d8c5437add1be757ff42c94d42fa09c,METRON-647,Bug,Parser unit test failures due to assumed year values,,Blocker,100
+f3376755c9df896ed5b0082faad4712d1e99b1ee,METRON-639,Bug,The Network Stellar functions need to have better unit testing,,Major,98.32285115
+accfce8f9826d0d33613f750ad8cfb62adf2a4f5,METRON-631,Bug,Broken link on fastcapa README,,Trivial,100
+befeb439e70aa45a051597e513f5ae9d9145864a,METRON-625,Bug,Parser Filters cannot be specified from the sensor config,,Major,93.27929753
+ec41e732170ebf80c00a8a9013a390f7ffa48899,METRON-587,Improvement,Integration tests should use common processor implementations where possible,,Major,92.32394366
+ffae676cb10caf14b8e3e5ca9c87ea1d5d08f4d1,METRON-616,Improvement,Add Support in Stellar for Long and Float Literals,,Major,92.21282593
+64a49adad0df51c9b87422be8edd9cf1fff90dac,METRON-580,Improvement,Remove hard-coded Metron version from Ambari MPack code,,Major,100
+506610cb99c74bb1161a0dad1f407a1489fd8801,METRON-618,Sub-task,Eliminate Javac Warnings in metron-analytics,,Minor,99.74452555
+b36f4b2fbf8cc4578ef3f39ac4d8306544f6bcb4,METRON-364,Bug,Stellar - Adding Two Integers Does Not Equal an Integer,,Major,97.88182832
+a96c4ed2ef4de70b6012d2992d43123d5d4831f1,METRON-585,Bug,Pcap Replay Fails to Stop,,Major,100
+ba2722e7a7097fc92db5e741d11423eae8543f0e,METRON-586,Improvement,STELLAR should have FILL_LEFT and FILL_RIGHT functions,,Major,98.09630459
+e15f4ba09ff34476f9ce07f11ab6360a28e99023,METRON-612,Bug,Clean up Error Prone generated warnings,,Minor,100
+cf15a3d2344cba01b9682dbd6b51ba8efb4459bd,METRON-610,Bug,OnlineStatisticsProvider serialization is broken at random in the REPL,,Major,100
+f304d3da165d06432e003fef6ac8e489f85a9edc,METRON-596,Improvement,Eliminate Maven warnings from build,,Minor,100
+35ceddc041bed09fb4abe6d1b81e0376073a65b0,METRON-604,Bug,Mpack installs do not work on clean machines due to missing Elastic Curator repo,,Major,100
+e46539a9802930e99eafbba7c74680e0fb48eaa3,METRON-607,Improvement,Enrichment doc improvement and test cleanup,,Major,100
+670f50ae3b949502e660d9e15a10a1da6a0c6fd4,METRON-606,Bug,Profiler Overwriting Previously Written Values,,Major,98.6235119
+1734f5fcf872f9a45442c77bdd84a93dbc309177,METRON-591,Improvement,Make the website in compliance with ASF standards,,Major,100
+354cb6ddce7f5313fb140fd3ab8521f9dce0c35f,METRON-597,Bug,Sporadic Failures of Profiler Integration Tests,,Major,100
+2fd7f95c240769a0c0002819aa1a180fd0592c99,METRON-595,Bug,Elasticsearch Writer only uses One IP Address,,Minor,100
+319c39e5a0017aa71cad9f55990a64225911e0b3,METRON-593,Improvement,Enable an automated static analysis tool in the build,,Major,100
+2bb14b8da119ae0c30427e6513717c6a75789ca2,METRON-592,Bug,Change popup to Warning message in Assign Master page for Client check,,Minor,100
+181327402871317aa1a638851a2c1cfdfc385bca,METRON-598,Task,Add Kyle Richardson to committers,,Minor,100
+59f8f03acbf66d5ac63f9156546833b0c98f57f2,METRON-565,Bug,apps/metron/enrichment/indexed directory path does not get created for metron cluster deployed via Ambari,,Major,100
+2bca7d88285ff52abfcd95ebf1d208006420e97e,METRON-588,Task,Remove ASF License Headers from directly copied Chef Bento Files,,Major,100
+057b6ccf61b2bd925fa1b49decb755fdc0e94a76,METRON-576,Improvement,Stellar function resolution takes too long on running cluster,,Major,93.38959212
+5e3951671c1e5978b8fe957e5cb55ab88b107588,METRON-570,Bug,Add Profiler Link to README,,Minor,100
+054a4eaeea1d402d76ab4eb0836951654b784696,METRON-578,Improvement,Missing error handling bolts for enrichment and threat intel,,Major,99.86820428
+8ec1b5d799d497d5df51ec353b80e24530a7f0a1,METRON-522,Bug,Need to mandate Client installation on Metron Host,,Major,100
+4a915ca0ef98bb9003f47b0a363633d92933becb,METRON-584,Improvement,STELLAR should have a TO_LONG Function,,Major,100
+5b3667f899cbaaa8b758db177d31ec02dffef0d5,METRON-575,Bug,State from different profiles can be co-mingled incorrectly,,Major,99.63708347
+f4e1065b6d270f67009fadf78f709a422cbd3b9d,METRON-538,Bug,Ensure proper shutdown  exceptions of integration test components,,Critical,99.40318302
+f7906e181ff41d9198c7aeca2f5426a6c0ec84c0,METRON-567,Bug,Usernames as numerics strings attempted to be parsed and compared as numbers,,Minor,100
+b1c89df6f0503e82d5a9c4b7ac9c9e82ea810491,METRON-562,New Feature,Add rudimentary statistical outlier detection,,Major,95.89273591
+dbb56cb5e85425e75970cffb62593e5ef7f90578,METRON-557,Improvement,Create Stellar Functions for Kafka,,Major,99.75736568
+d03a363f8b9aaca962bf4b3052e37909889563be,METRON-556,Improvement,Profiler - Refactor &apos;Group By&apos; Calculation,,Major,100
+daa9a5ea7ed5476cae51622d1e8c43603ab11f02,METRON-547,Improvement,MaasIntegrationTests should integrate with the Metron Integration classes,,Major,99.23398329
+c7bf73b462d2b807ed5b389ad591ef13baa0c408,METRON-561,Bug,ShellEditor tests hang if vim is set as EDITOR in your profile,,Major,100
+7aea4ba35d1a931d72898bffd9725be3075fe8ca,METRON-517,Bug,Update elasticsearch bro templates for uri,,Major,100
+d7784d437121088425555e1100936dc6b13498f3,METRON-533,Task,Up the version for release,,Major,100
+66df134cebe26400b0b9e3935a2c2745fdf4186c,METRON-566,Task,Add Casey&apos;s key to the KEYS file,,Major,100
+6e53fd2b1afe1553c6bc2a6d80d5233e1573da42,METRON-563,Bug,Ambari Metron service uses incorrect port for installing Elasticsearch templates,,Major,100
+2e2bea430dfbd6a1455c1893713ea72447d5476a,METRON-564,Bug,Mpack shows UI error when changing configuration,,Major,100
+d85494cec5c5d6ac68086e58bb5276ec1a974f0a,METRON-558,Bug,Maven Assembly plugin does not build if user has large group id,,Major,100
+9c1369c74a1b63da9bdef3eadf1931ed1c0d12f8,METRON-541,Bug,Set log levels for Metron components,,Critical,97.35636235
+226c57cd04c4152a6c934cad14ecbce4a5c794a6,METRON-548,Improvement,Improve Profiler Documentation,,Major,100
+d97c1bb8148dc58dcdddd4519b62cedb1847b45c,METRON-554,Improvement,Require proper error handling when invalid input is fed to Threat triage rules,,Major,100
+8321067d43525350e3ebd6be72fa897aca95842e,METRON-527,Bug,Connection pool shut down seen when running threatintel_taxii_load.sh script,,Major,100
+ddf665843d1fa3b15af7aea53184eaa498d1f5dd,METRON-210,Task,Decom Multi-Node Vagrant Deployment,,Major,100
+8e51c9ceda921bd905afa2bb88c95da9b5abaada,METRON-535,Bug,Global Validations type still refers to MQL rather than Stellar,,Major,100
+f6c595253eee72f60f52c0762f4ffc60eb5a872b,METRON-531,Task,Ensure licenses for bundled components are appropriately reflected,,Major,100
+7eee44eada5683bf24b94133676d5684171a7322,METRON-402,Bug,Snort timestamp field shows up wrong value,,Major,100
+e1401d01ecc87e652931aaada4bc7500df984da2,METRON-510,Bug,Update elasticsearch bro templates for *_body_len,,Major,100
+b390c6d16a43a5907a742ab3690cf29bb76ea80d,METRON-463,Sub-task,Pull RPMs from Remote (configurable) repos,,Major,100
+b39477e0e7a0e1b10374e6fa6b6d7a107021c102,METRON-536,Bug,Add ASA Parser Artifacts to RPM spec files,,Major,100
+aed9b6a57bd0bdf306eae0431dabf76641a0ef46,METRON-514,Bug,Snort kafka topic fails to get any data on a setup running for several days,,Major,100
+05d29e7cb5b1958e79cbfa6d576ab48b40aa508f,METRON-529,Improvement,Allow Configurable Periods for Profiler Client,,Major,99.46351931
+1cf6cc9432e9e2ddace02360db26064225064472,METRON-443,Bug,Exception seen while running stellar or fixed query on pcap data,,Major,99.85606333
+42c55de1767d7297ad587f3f26b37bd677550594,METRON-520,Bug,/apps/metron/enrichment directory does not get created for Metron cluster deployed via Ambari,,Major,100
+5418a6a7fbdf32f1fff8fa042498524e89091ee9,METRON-363,Improvement,Fix Cisco ASA Parser,,Minor,99.49312093
+2dcac3c2494c055488577f94afa12f47c103a5e4,METRON-440,Bug,DSL parse exception seen for Bro Topology,,Major,100
+857520c42f50defb0a9f9e4e743411207e2f6252,METRON-410,Sub-task,mysql_server&apos;s MySQL install causes mutually assured destruction when installed on the same machine as the Ambari Hive MySQL,,Minor,100
+45f0d5b637480433796aaa5be4be7d42ba57a5da,METRON-148,Improvement,Compress logs with logrotate,,Major,100
+b117932954e08fc99d2b5db7894234f5ffdd0cc0,METRON-536,Bug,Add ASA Parser Artifacts to RPM spec files,,Major,100
+d36129d471e276c94f332ee315e2e93b6137e5a1,METRON-249,Bug,Field Transformation functions fail to handle invalid user inputs ,,Minor,100
+118970bd34f4089776ace67c10edc6d86c55967b,METRON-521,Improvement,Stellar function documentation needs grammar/clarity fixes,,Major,100
+dcf10d9f61d9358e6a8ac6bb64c7b681953056c3,METRON-484,Bug,Opentaxi service does not show count for subscribed services  ,,Major,100
+e31705029fd7518bd03c22eece0c2a8eb1187abf,METRON-495,Improvement,Upgrade Storm to 1.0.x,,Major,98.30388693
+e43a72f2f6d69ad2a474b6bb5969ba38bdaa5bae,METRON-506,Task,Add Otto Fowler to to Metron website community and project status pages,,Major,100
+115ae56d894226b606a3b3353c02a991a0454a33,/,/,    merge remote tracking branch apache master,/,/,100
+6f0d58ce55fc765fb01f033bac826001e8b1bedc,METRON-515,Bug,Stellar IS_EMPTY() function does not work as expected,,Major,100
+57798e225db1641db8f326fbcd540a14e8374c70,METRON-512,Improvement,Migrate Metron&apos;s default global junit version from 4.4 to 4.12,,Major,100
+a07c824c1edc679a4828c905609b69ce60cd46bd,/,/,    merge remote tracking branch apache master,/,/,100
+c5d55efd6d20599d246abecd1b96164d983badca,METRON-464,Sub-task,Force co-location of all Metron components,,Major,100
+b80f7e0bcc8af59c663b8b260fab6f802ee725ca,/,/,    merge remote tracking branch apache/master,/,/,100
+8c4b0f1db94d02f390aae571bdc8085dc81ddbe1,METRON-513,Bug,Ambari Management Pack Metainfo should not advertise version,,Major,100
+82eb7713d54d38b6cfcbabccd34485de24efe9f5,/,/,    merge from apache/master,/,/,100
+43603592428cbbcf2a7c3f7cf3ccd35be0d96ba1,METRON-465,Sub-task,Automatically set storm-site topology.classpath,,Major,100
+cc0afd62879740445d81ac3cf2da6b7b46afecff,/,/,    merge from apache/master,/,/,100
+66e60f1a5e400f76225fbc652ec2d82ce179a1a7,METRON-500,Bug,Build failure - metron_mpack: Assembly id is incorrectly configured,,Minor,100
+b9bb5ef78408713d5561aa0afbc9e9e5afdfaeda,METRON-509,Task,Add pcap query filter REST API documentation to README,,Major,100
+61351aabd979e014c48dfc7e0e4f290bd093cdfe,METRON-505,Improvement,Add environment variable and system property functions to the Stellar language,,Major,99.75903614
+21ec01417a3359372958a1c645c23ddbfdb197e3,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+d6d3d45725d7371e560beea42a2788237aab2052,METRON-502,Improvement,Make the ParserIntegrationTest more clear on errors,,Major,97.66403298
+4de80b35efe220142c3d5f4ad8793690ac77f6d6,METRON-441,Bug,Aggregator function &quot;MIN&quot; does not work for threat triage,,Major,100
+4bfb09c49fbc6204ce8b826887d99beff414f84a,METRON-403,Bug,Bro elasticsearch bulk index item fails when DNS response includes CNAME,,Minor,100
+297173ce386e1369bd00706377fc1c37e46d5e10,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+812fe75c30a826c460b59e9fc056c69d0d91b876,METRON-424,Bug,Stellar fieldValidation &quot;IP&quot; does not support list values,,Major,100
+23ff817ebdd3b63be69ad9b6c493b41bb0be4880,METRON-496,Bug,Field transformations are applied after parser validation,,Major,99.96580027
+7972a9093530ed85dad4c5e236ec023ec6f05bcd,METRON-489,Bug,RemoveSubdomains Stellar Function behaves incorrectly for some domains,,Major,99.82882574
+65fa059e4bc927bf3ba94bec5babd911bd759e19,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+3a4023382b24d3fc3b874820c9bd81317ee00656,METRON-499,Bug,Check for Metron Jar Fails During Quick-Dev Deployment,,Major,100
+10bc425f31cfcd8db1d1007bb0a0916800443c23,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+609ea40c2e8ab3b35b645f4238d2f66afc120fb5,METRON-488,Bug,Snort should use a proper CSV implementation,,Major,100
+6f5c84ee2f7e2d70dd27c7e60c84866aeb3e2bd0,METRON-482,Bug,Add logging to GrokParser to indicate supplied TimeZone,,Major,100
+acd3aa8dd7408934c2b810ac380ef2dc1adfc038,METRON-326,Bug,Error Handling in ElasticsearchWriter,,Major,98.52838122
+f1065a62f1016b84e0faed364eece504edb473ef,METRON-439,Bug,Stellar : IS_EMPTY(host) throws exception,,Major,99.8564765
+6277d28c852e5ef7eeeb42d7cc3db4d69ebe59b6,METRON-473,Improvement,Add LENGTH function to Stellar String functions,,Major,100
+b38e017f8978b8d8b2fa58d76ba4c8bb54026951,METRON-371,Improvement,Errors seen in enrichment bolts for squid logs,,Minor,100
+9ac36dec91a215d53b855225f0c813b24ce85b9d,METRON-432,Bug,Fix pcap field resolver to return object instead of string value,,Major,100
+070473f5fc6ce723ccdb037e6dc6d172c579a0f7,METRON-421,Improvement,Make Stellar Profiler Client API Accessible in Parser and Enrichment Topologies,,Major,98.42632332
+0e9316904b51b9e64ef1d128fe9cc788f6762295,METRON-492,Bug,Run metron_common build check as local_action,,Minor,100
+2aec26b7ab65a9d121354fcd252908c9d712b8e0,METRON-492,Bug,Run metron_common build check as local_action,,Minor,100
+62332345be7bc5859be53aacad2ded1c4299ddb8,METRON-492,Bug,Run metron_common build check as local_action,,Minor,100
+56686c058541bb13732641b99aef8fccff8490a0,/,/,    merge remote tracking branch apache/master,/,/,100
+a2a5a3d8a66d77be07fe435ed597417c4950fe69,METRON-480,Sub-task,Kibana 4.5+ Requires http.cors.enabled set to false on ES,,Blocker,100
+f7554f921b614ae9121e41b626f32f2562d42f15,METRON-461,Sub-task,Install Metron Data Management tools ,,Major,100
+7a0d9c7c4536cb9f5e455ff4cec662fe8fcd31a8,METRON-487,Bug,Correct the license in the StixExtractorTest,,Major,100
+cb372d61114f9b74415fae2ddba5a4c6f3b53c2f,METRON-171,Improvement,Add .class files to gitignore,,Trivial,100
+d03b239cb3372a4326b920d932eca5e12cd016d7,METRON-425,Bug,Stellar transformation fails to handle special characters,,Major,100
+d62738a271e9e4da30c91973502b9f3850ac914d,METRON-459,Bug,Bad file location for org.apache.metron.spout.pcap.Endianness.java,,Minor,99.85754986
+a35e387745d3303e03efb9b63b9e31ae97ade812,/,/,    merge remote tracking branch apache/master,/,/,100
+2f579a95b426b60153f5ff999f32a22f74d61e45,METRON-474,Improvement,Vagrant&apos;s default behavior should work as expected.,,Minor,100
+587e5790460b1b05eb7d9263fb49aecf3f59f480,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+f9b55f56ca8f3e6bcb9fba17067252cd039336d9,METRON-478,Task,Add Michael Miklavcic  Justin Leet  Nick Allen  and David Lyle to the Apache Metron website project members,,Major,100
+b2d0a4dbcce81cb7294cf5384c9f818b857429cd,/,/,    Metron-430: Ability to load specific GeoIP data to mysql server (nsinha17 via mmiklavc) closes apache/incubator-metron#282,/,/,100
+3e278cdc2c60d6d193d53157512c68b2a3ed58de,METRON-476,Bug,Bump release version to 0.2.1BETA for Quick Dev,,Blocker,100
+823cd2a83063bf232d25d3f58c08ab1fa8e06319,METRON-398,Task,Bump release version to 0.2.1BETA in master,,Major,100
+85e13e599b2ad304359477c90ea8e7abb6f314e5,/,/,    merge apache master,/,/,100
+dcda538252728d87f36bf140145f04d14a763cd3,METRON-466,Bug,Full Dev Platform build sometimes fails,,Major,100
+23979472c904ccb399478bf1f240fc027245480c,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+1c6de7fe50260b3648d758093c08a4701abb95f4,METRON-456,Sub-task,Create stellar management functions to test grok statements,,Major,98.60188745
+2f6c8bc708b5eff52ba5fcf51b9608faadda1608,METRON-455,Sub-task,Create stellar management functions to put  get and list data in HDFS,,Major,99.82811963
+0c496c20769fc0c9ac8ef209b1f2e08baee38c80,/,/,    merging remote-tracking branch apache/master,/,/,100
+5378f0cffb818d4d96a7032de6f038ec83edf2ee,METRON-457,Bug,Typo in grok parser debug message needs to be corrected,,Minor,100
+d0d6c2c359f5e4afaaeabbd9e32331c688405c2f,METRON-449,Improvement,JSON Parser should handle arbitrarily deep nesting of maps,,Major,100
+3d5f279caea2b9349a05b3a7316ef19e2ca8cb11,METRON-453,Improvement,Add a stellar shell function to open an external editor and return the editor&apos;s contents,,Major,99.16955017
+a825142e7eeffb155aac6d830cd2fe14638c2827,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+c85c74269327487a5fe607ea85ebc56d3b5650ef,METRON-452,Improvement,Add rudimentary configuration management functions to Stellar,,Major,97.40987049
+b022bda86d1fae722d849e39d249aea1ff1866ad,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+0c4aa7b42ac4827c30665583fe9189fd00537bd7,METRON-374,Task,Add appropriate bundled 3rd party licenses to NOTICE and LICENSE where appropriate,,Major,100
+c370bee5cd5a483f20ad9780639888b4fdb41418,/,/,    flush,/,/,100
+125dbef1e59ff808a62e4f5a7d265aafbcf6bf08,METRON-427,New Feature,Create Ambari Management Pack for Metron Installation,,Major,100
+6f1025f7729540f943e8df8d99f282ca98b96f57,/,/,    Merge remote-tracking branch 'apache/master',/,/,100
+6834e146de163b5f6a441410a72fefb8db96944e,METRON-434,New Feature,JSON Parser,,Major,99.75273755
+c10a53eb89f7ec90aff6e8da5121f62f2f0e7eed,METRON-437,Bug,The Profile Definition&apos;s &apos;inputTopic&apos; field is Extraneous,,Major,100
+ed34d9e69c9fc4b8f892dc5e04ead625d57e4ace,METRON-445,Improvement,Fix typos in metron-deployment roles,,Trivial,100
+ef94c652c9b22b78bb37e6057cc42a46aad668b4,METRON-438,Improvement,Back the Stellar REPL with a readline implementation,,Major,99.82294618
+e7fed2d587f7878af52b6e17f091f07193ad51c7,METRON-426,Bug,Stellar does not support scientific notation as a literal,,Major,100
+4a4cb8b117dbb66bbfb4915bca9d871a06682c28,METRON-435,Improvement,Create Stellar REPL,,Major,99.8225692
+001b5cc5bc9ecece648730d99285de056319a07c,METRON-436,Improvement,Updated architecture diagrams for Metron READMEs,,Major,100
+319e61e7a4d6d6872a2889168dc9f8fdda28321d,METRON-433,Task,Documentation update,,Major,98.46266471
+5843421f5205d007569b274363adc3ee03dc8efe,METRON-428,Improvement,Parser topology CLI does not accept offsets,,Major,100
+eb6739399b308c9c8290ee9cedfce49e9654c9f6,METRON-429,Bug,Profiler Missing Dependencies When Uber Jar Deployed,,Major,100
+5f725445044ad8b37bab5f928bb96658e0e430b0,METRON-384,Bug, Deployment fails at task &quot;Wait for Elasticsearch Host to Start&quot;,,Major,100
+e0c9970b1f467135f01ee212fb2a8d7f2d61de8b,METRON-257,Improvement,Allow pcap result pagination from the Pcap CLI,,Minor,99.54510993
+095313255620355132b885fae24cf4669db4392d,METRON-420,Sub-task,Add Expiration to a Profile Definition,,Major,99.80988593
+32d5ff64af0405ac99a718896ac15511046c2575,METRON-413,Improvement,Allow Start/End Time Range Search in Profiler Client API,,Major,100
+3a2ecc404bdd8e6047dbe7199dee45192aa94428,METRON-419,Sub-task,Update Tuple to HBase Mapper/Bolt to Set TTL,,Major,98.61591696
+c64e8ad039018982d2903de88d423f37f25971d2,METRON-422,Bug,Remove bluecoat.json,,Major,100
+1fbbf7648651efd8c8f3c944ee86b9aed4e0e279,METRON-418,Sub-task,Set TTL on HBase Puts,,Major,100
+728133b9115a0d9774a97fdc43063d8aef9df300,METRON-415,Improvement,Allow a Profile to Store Any Type as its Value,,Major,99.49416342
+baf0d24a45e865ec3aafc128d657e0a7b69260af,METRON-411,Improvement,Support Greater Range of Profile Periods ,,Major,100
+5e86bc3dd661be137e88bc62cfa5b8952bf3d3ac,METRON-416,Improvement,Provide the ability to store mergeable data structures for summarizing data on-line,,Major,99.0990991
+6fb85e124d87581c37b79ea105570f4f85b59384,METRON-397,New Feature,Add a stellar function to interact with the HBase enrichment table,,Major,91.39328445
+ef3e9fa5ea506f3ba624ca2102ea9028782dd974,METRON-391,Improvement,Create Stellar Function to Read Profile Data for Model Scoring,,Major,99.43117179
+eaf625a7975c56ac20d268c2c77e89d3daa7e471,METRON-414,Bug,Kibana Ansible Install Fails with SSL Error,,Major,100
+15d04abecee1fe4e8155ec644a0913d8c0850df4,METRON-407,Bug,We currently do not provide defaults if the Stix Observable does not specify a condition,,Major,100
+e0ef22ceb65bba06fe730e6d632312daa88954d4,METRON-406,Bug,Stellar variable resolution does not resolve variables with &apos;:&apos; in them,,Major,100
+4212927b0c6a2f86e51b0289e68fd2ed2438c636,METRON-399,Improvement,Stellar Date Functions Should Default to Current Time,,Major,100
+3dfd7be6f9b5325bdce01ed21f15d2ed13384ea3,METRON-389,Improvement,Create Java API to Read Profile Data During Model Scoring,,Major,98.56921887
+2e5538c4e7abd21aa73ecea4ef88c596e51896e0,METRON-385,New Feature,Create Ambari Service Definition for Indexing,,Major,100
+7eceac2aa9e1387f544f6059baaa2d0e9f440acb,METRON-395,Bug,Metron Bro parser not parsing some timestamp values,,Major,100
+e6bd70c29e2c0c211c9eb50d39a2c74a8db95b22,METRON-400,New Feature,Deploy Probes to running Docker Container,,Major,100
+6a9dd29a63e5337a0536315437ca7d89145bdfe4,METRON-408,Bug,Intermittent Failures of Profile Integration Tests ,,Major,100
+7445e328dfc34736bf81e5ba1d6580dabbd4376a,METRON-381,New Feature,Add support for multiple reducers in pcap_query.sh,,Major,100
+e3ce452a067fda4941645b152106974d311907a3,METRON-404,Bug,Stellar Compiler Hides Function Initialization Errors,,Major,100
+8b623b87f5754edfa0f1ef27b9b740af7b4f6f2e,METRON-392,Improvement,Allow User to Define Custom &apos;Group By&apos; for a Profile,,Major,99.76433621
+47bc9b6defa3707b07ec1fa0123bbb72843a4b33,METRON-383,New Feature,Create Ambari Service Definition for Metron Parsers,,Major,100
+fc2dc3d6b9b958b85dee4dc06ac5f274a7c86af7,METRON-396,Improvement,Make Stellar function resolution happen via an annotation and classpath search,,Major,99.24662966
+8e8f9e05c13395185ff45bc84465b0d964ec95da,METRON-400,New Feature,Deploy Probes to running Docker Container,,Major,100
+5ac442431d567a1d4c45a22f3103f0e0d01d951d,METRON-400,New Feature,Deploy Probes to running Docker Container,,Major,100
+839bd20931d62219f4e375199601899ab3f71001,METRON-401,Bug,ParseException Thrown by ThreatIntelJoinBolt,,Major,98.83814103
+b7e16d2f9a6deeef2356dfa4ba70f17ce4a8714b,METRON-394,Improvement,Create Stellar Date Functions to Use with Profile &apos;Group By&apos;,,Major,99.87951807
+10f55358aeb3d3158eab68c396d0233befc3e476,/,/,    Whitespace commit.,/,/,100
+3a14080c3ea3c7f93b919521a3d7898f1a2e399f,METRON-390,Bug,Stellar functions should initialize upon use  rather than all at once,,Major,99.87937274
+84b7c162b681e0b90384e85e5e2a5d182327ea31,METRON-386,New Feature,Create Ambari Service Definition for Elasticsearch,,Major,100
+86ce763e55e17f50a6ea8a92661a9b0acc178fe3,METRON-377,Improvement,Enable Profiles that Use Non-Single Pass Summary Functions,,Major,99.55698752
+fa946169cf0987ebddfd7e309f2bb471a6d9f18b,METRON-372,Improvement,Enhance Statistical Operations Available for Use with the Profiler,,Major,99.75757576
+5adff74490b6750fa0c3b5fcbf61b4414eae2acb,METRON-388,Bug,Stellar - Unable to Operate on Result of If-Then-Else,,Major,100
+58294b6659856b4e5d1feecc2b670251a15bc09e,METRON-341,Sub-task,Create Enrichment to apply models,,Major,97.74682507
+f5c6d00936cc05a34075928bb7027196523c5ae4,METRON-368,Improvement,Simplify Profile Configuration with Sensible Defaults,,Major,99.95854063
+3acb216539f8d757e52eae021838d9e56e379cc4,METRON-367,Improvement,Enhance Profiler to Support Multiple Numeric Types,,Major,100
+443e7ced3cc5a05bd4f62e4aa514da481bfb5406,METRON-365,Sub-task,Load demo dashboard on Kibana Service install,,Major,100
+71d644ed11757b5895d2c4bc143af6c011613703,METRON-387,Bug,Build Failure - Bad Merge with METRON-309,,Major,100
+817548647efe736dd05a7675d33f12f415ecf46f,METRON-309,New Feature,Create a normalcy profiler ,,Major,96.8487395
+1ea8d9ee426c6e0b14238abd6cfb5f8763fd9fa5,METRON-366,Sub-task,Add Model apply to Stellar,,Major,96.98257544
+225a490cf4a475e728bf9129ea3e662b543f5cc4,METRON-357,Sub-task,Create Ambari Service Definition for Kibana,,Major,100
+93054463e602b0fa4d40b8ec0e735db6d011bb26,METRON-362,Improvement,Unify the stellar languages,,Major,96.75516224
+e5d75e7036fefcaba4f0a1b27473b67d57cd0201,METRON-339,Sub-task,Create YARN app to deploy endpoints,,Major,95.45454545
+9d0e4a020216592377c4a38db88723a0e6f3772a,METRON-352,Improvement,Upgrade Metron HDP install to 2.4 Stack,,Major,100
+b9282b438422d56fac23301dc854a39ae7d83a83,METRON-356,Improvement,Enable topology classpath to be updated via configuration,,Major,100
+bbd6474e2e48a39ac1471bbcd5f12e461d7ec9d8,METRON-242,Improvement,remove Squid pattern,,Minor,100
+9c70a44c72c148f1054cafcde61e92cc0f1c2de1,METRON-319,New Feature,Automate RPM Builds,,Major,100
+e99b6000146bbc6986611e31879941edddf57313,METRON-336,Improvement,Update README.md to use brew instead of pip for ansible 2.0.0.2 install,,Minor,100
+0047387635f77995d3a9bba9801fe38a7e2ca869,METRON-314,Bug,Kibana Default Dashboard - Map Broken,,Minor,100
+b0423073c5fed7c32be2e3943a940b0260d267f4,METRON-284,Bug,SensorParserConfig object cannot be serialized with the default Jackson ObjectMapper,,Minor,99.9103139
+63209e7e30b3b8089850c1e010fa8e126cdf1562,METRON-338,Improvement,Remove flux from metron-parsers and RPM builds and add metron-indexing,,Major,100
+1182d1a87ce6a7b19b23a2d93bb72819835da102,METRON-334,Improvement,Travis CI cache Maven dependencies,,Minor,100
+8cf29f874a82ad53e932fe7cce7f197cae2e0d21,METRON-214,Improvement,Build RPM Packages for Deployment,,Major,100
+30561604c964d645eb1d7e011f48604e1291c02d,METRON-304,Sub-task,Build PCAP Deployment RPM,,Major,100
+528966c1e54d52554cab07fae11efcc3427f3e6c,METRON-300,Sub-task,Build Enrichment Deployment RPM,,Major,100
+8b9d938861af86ac0fe89e563e788b16467d9ac2,METRON-305,Sub-task,Build Solr Deployment RPM,,Major,100
+dd92bd4d3a242c0c693c9a9e211c994f613be687,METRON-303,Sub-task,Build Dataloads Deployment RPM,,Major,100
+2d0c76ac9f9581ca2a284fb22143564c08218f72,METRON-301,Sub-task,Build Elasticsearch Deployment RPM,,Major,100
+78b45258093f5e03ba2643d5f3bfe337ec632895,METRON-299,Sub-task,Build Parsers Deployment RPM,,Major,100
+bf7c527a73b6ade10d164ba205df6935b4440733,METRON-302,Sub-task,Build Common Deployment RPM,,Major,100
+13c5a4cd10ceb80a27eaffa359f08c4058ed5f09,METRON-306,Sub-task,Create Docker container for RPM creation,,Major,100
+5ffcef8d4a9ec0788dca094f54b07d99c44c6bef,METRON-154,New Feature,Decouple enrichment and indexing,,Minor,91.92324855
+1c568bf046a85fee1dc170a96bfe98ca79fb085f,METRON-294,Sub-task,Refactor Parser Topology Builder,,Minor,100
+e50c0f3777aeb66db490eddc3be5cb8b05d073cd,METRON-266,Bug,Remove duplicate entries of sniff_interface from metron_example inventory,,Minor,100
+523b7b1c6b5ba7980eff53a1f4a668a408bc41a3,METRON-225,Bug,Amazon-ec2 run script continues running on Maven build error,,Major,100
+2b0f1228d7bb0956e88bcf6d38b7e3a5ce2c1276,METRON-279,Bug,Multiple metron_kafka roles available in metron deployment directory,,Minor,100
+a116a95f2ccd908194c6a6d7f92b79a6c79bb153,METRON-281,Improvement,Simplify Deployment to Alternative AWS Regions,,Minor,100
+861336f0d4610df881f855bf6b2096f5bc7bb74d,METRON-117,Improvement,Deployment Report Only Displayed After Amazon EC2 (and Not Vagrant) Deployments,,Major,100
+a045159d06a682724998b71045eb88885dab57d0,METRON-262,Task,Update codelab image scripts,,Major,100
+db3b437f152bdffa879ba3d9f64a0abfb02d0f36,METRON-321,Improvement,Add items to .gitignore,,Minor,100
+75642001803396e8884385b0fc297a2312ead3eb,METRON-298,Task,Remove the effective_tld_names.dat files,,Major,99.77866313
+cf295eabb3f8003f9b177d589010e2220e8d09bc,METRON-264,Improvement,Create Docker container to simplify management of deploy dependencies,,Major,100
+d3257a79d0a853ed511c1231ab79a2bfcc48603f,METRON-259,Bug,ERROR! ERROR! &apos;dict object&apos; has no attribute u&apos;ansible_tap0&apos;,,Minor,100
+5fb4dda0e385ba030455db4c7d1290f872b688ce,/,/,    Cleaning for the release.,/,/,99.82363316
+b471ae08d1849f3c9f63be976dde79a93a215e52,METRON-256,Bug,Make the PCap values returned ordered by timestamp,,Major,99.82363316
+882ba77cc8e8bbd95a54ca022f225843505b5192,METRON-243,Bug,Kibana Error - [unsupported_operation_exception] custom format isn&apos;t supported,,Major,100
+bd44d69409ba0911edd8a62f862634f95d2b2abc,METRON-255,Improvement,Expose the IPProtocolTransformer as a function in the Stellar transformation language,,Major,100
+e2d0b1ded454f434d7b305cd16bd1a25bfc14083,METRON-254,Bug,pcap inspector emits fields that are named based on the enum  rather than the standardized field names,,Major,100
+ce49c5d57ae357c57088be707c8be0991688a87e,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-metron,/,/,100
+5c22a4d161414e2376ac34c0fa44535607a1dc62,METRON-253,Bug,Reloading parser configurations from zookeeper doesn&apos;t call init(),,Major,100
+05c3e814910ff15228336d1b2c44d488060dee62,METRON-252,Bug,Metron Dashboard Can Be Broken By Adding Index,,Major,100
+e81650bec99cea4f8b24693b0221096f7ac2111f,METRON-247,Bug,Snort HOME_NET hardcoded to ansible_eth0.ipv4.address,,Major,100
+ea18037ba6b6bc7a466aa08958dba334bbcc7328,METRON-233,Improvement,Expose Kafka producer and consumer configs for parser topologies,,Major,99.46761313
+2c6c27e32467b511eecddf60c0ebad538c528863,METRON-248,Bug,metron_example group_vars file is out of date,,Major,100
+77014676dbd241d55f34c529b05e82ef81d287e5,METRON-246,Bug,metron_streaming role needs to explicitly install defaults,,Major,100
+c884f06c4c495230e9c686510e388e884e1be23e,METRON-245,Bug,mysql_server role needs to explicitly install defaults,,Major,100
+5bfce471d95cfaad50d3dd275a4849f3ccb1381f,METRON-244,Bug,Fix Metron Documentation,,Minor,100
+4429a3846b941e1b55e0374ff05bdf4e371a837c,METRON-239,Improvement,NOOP Bulk Writer,,Major,99.77668602
+8d82b8610c24d844ffd0afd224339502ba088f02,METRON-241,Task,Update revision from 0.1BETA to 0.2.0BETA,,Major,100
+c3f7d7a3f1dad9a9a9b0b39f1b59093d8c438102,METRON-219,Improvement,Create Default Kibana 4 Dashboard,,Major,100
+bf20bba4e2057ea47aba4fa5e58518ad95879deb,METRON-235,Improvement,Expose filtering capability for PCAP via CLI tool,,Major,98.90460977
+5a326da026c4b8b61f94d24cebd15564fbd30e0a,METRON-224,Improvement,Metron should build from top-level directory,,Major,99.90697674
+e3697a69f1ff736962aa579f8698a360344f5e02,METRON-237,Task,Remove old UI code from repo,,Major,100
+1686db742f5e0601600fab2338cd391d8ba2c81f,METRON-228,Bug,Fix NPE when getting indexing batch size for config which is not there.,,Major,98.54323308
+5c11770c60d9f14ac2bc9ecbea4b95f5716142aa,METRON-230,Bug,BasicBroParser returns null if a message is not parseable.  It should throw an exception.,,Major,100
+0fe2097a5e9655e4c612a1c400a0fc34cbf0adf6,METRON-231,Bug,Snort parser is returning null on an unparseable message rather than throwing an exception,,Major,99.80961447
+fabe86e4129590915e9385a9f7ecef5d48c7d906,METRON-223,Improvement,Invalid and Erroneous messages should go to kafka for further analysis in the Parser Topology,,Major,95.44794189
+acea8ca2395c52d93da6381aa55b5ec0a9833d9d,METRON-204,Improvement,Field Transformation Domain Specific Language,,Major,96.88911189
+32d22fc2b63c5d1a30ab5dd87dc78c679a703de9,METRON-212,Task,Allow additional Elasticsearch templates to be loaded to the index,,Major,100
+0670dad9f742c142341851ddf6cd8eb505e3fd40,METRON-215,Bug,NPE when parser returns null,,Major,98.23925427
+7a45ff9c6f556f778a7dbd077b817ad6341cf567,METRON-222,Bug,Address ConcurrentModificationException in BulkMessageWriter,,Major,100
+bd9f74143dc5a3819733607a4c9f6f9948ceb3f6,METRON-211,Improvement,Enable Creation of New Kafka Topics,,Major,100
+0c6b09bae814dc9951278332d1760e91c2ac8548,METRON-203,Improvement,Coding best-practice fixes,,Major,99.79002625
+56848aa7d48e6be98dc1e9e9d3d1779727828444,METRON-217,Bug,Found a grabbag of bugs,,Major,99.73558964
+42c606c4e073592db86d54e5fab8fbb90f75bd65,METRON-202,Bug,Fix unclosed streams,,Major,99.78723404
+9a7869e98bf53e50d489daf390c4f5597174fb34,METRON-208,Improvement,Add Google Analytics tags to Metron Home Pages,,Major,100
+6b5fbaa577838f3ec7b11e3dd40e55df9b33d986,METRON-197,Bug,Validation should be the last step in the ParserBolt,,Minor,100
+70d5214f3aa9d2900149a323abf5348bde4636fc,METRON-180,Improvement,Enable Each Component to be Installed Separately,,Major,100
+230f0d205766e25f27fe316b449dc6a55c3711c6,METRON-189,New Feature,Add the ability to do global validations on messages passing through the parser.,,Major,96.54605263
+75592971a8ea1280270a538432ae9c500afb365c,METRON-174,Improvement,Allow simple hbase enrichment reference data to be streamed into HBase via storm,,Major,95.55683785
+b6f7a1a8fd766b14b0fe3f73e4de94ef463659c1,METRON-183,Improvement,Allow the simple hbase enrichment adapter and simple threat intel adapter to use multiple column families,,Major,98.14710837
+57261e177865a77c397c9b3d5576e8497568d87f,METRON-178,Improvement,Expose the Filter capability in the Parser topologies,,Major,99.24160347
+2a2dad4044bb38a45874ccd4732422ae36fee332,METRON-190,Improvement,Make start_parser_topology.sh more adaptable regarding storm topology configuration ,,Major,99.50549451
+66ca236fdd6416f5187c1c30a738c6438d29313d,METRON-152,Improvement,Add support for ES 2.3.x and Kibana 4.5.0,,Major,98.94444444
+c5354323e78fcd34fdac42628a295c092cb5ec2a,METRON-186,Improvement,Create a fieldMapping functionality which allows for parsed fields to be transformed,,Major,98.29738933
+c1c9dca529690aaa0cf61ab907bfeb531c14ed10,METRON-184,Bug,GeoIP Data is Downloaded When Already Exists,,Minor,100
+008c9a824083686db0410e1a5ac73f75a7d9d0e0,METRON-100,Bug,GeoIP errors out silently in vagrant,,Major,100
+2e984b8e4631ac45a49253815997f824d4d0018b,METRON-179,Bug,Fix Docs for Vagrant Deployments,,Major,100
+66450934627c40d34a490735ebd9affe32f915e3,METRON-177,Bug,Fix typos on the Metron website,,Major,100
+7bcabbf601f4d8bd5fc9c095bd8eb1aa3befb015,METRON-125,Bug,Failure to Start Metron UI,,Major,100
+b855ef34d1f3a501f6afd76f96e7dded30f903af,METRON-145,Improvement,Automate Creation of Vagrant Images,,Major,100
+aa449afb51d24eb46bd74c1fa8389dcd55130313,METRON-173,Improvement,Update the the Apache Metron Web Page,,Major,100
+f0421c1028a4c95e10aecdb1bc0fee43d7826159,METRON-168,Bug,EC2 deployment fails intermittently on check hosts task ,,Minor,100
+392a5be09c4a0aef52e44583a1bda15f2f19a79d,METRON-155,Improvement,Expose query filtering capability for PCAP via Metron REST API ,,Major,94.8441247
+9f0b6010808e4b679a076d8ec1741b8bef004308,METRON-142,Improvement,Simplify Parser configuration,,Major,94.89862655
+bb22cbbb7706726a63a8dd8cd590f04dbc8f5a38,METRON-156,Bug,Step missing from quick-dev-platform README,,Minor,100
+28cd32c6ff2f997e23950c99c3ce8ffff3487fb2,METRON-132,Improvement,Add Monit for Managing Sensors and Topologies,,Major,100
+24cbf702502d9c2a7626e11024cce585bab41131,METRON-150,New Feature,Create WebSphere Parser,,Minor,99.51790634
+ac977166a868f7db22f45e11f31c24b83eaeabfc,METRON-151,Sub-task,Remove yum update from deployment scripts,,Major,100
+49896c30bc2022cca4cc86db6244dab80322cd49,METRON-129,Improvement,Create dev image,,Major,100
+353da40259f92378e06ad84c322815dc293d7b15,METRON-136,Improvement,Add /var/log/metron_pcapservice.log to logrotate rules for Metron,,Major,100
+46c25093e65a78037883b9365a8059bc4ddfe426,METRON-141,New Feature,The ability to do threat triage,,Major,92.69125683
+c41b82207d26e3574bf975acec393b73a766f033,METRON-140,Bug,CSV Extractor fails with index out of bound exception on empty last line,,Major,100
+7572d6bdd0d5301ebc452fd21e0740d8366d0292,METRON-138,Bug,EC2 README Missing Required Version and AWS Setup Steps,,Major,100
+8d8884724016aeef60d3d3fe80092d6edc389314,METRON-143,Bug,Codelab README is named incorrectly,,Major,100
+6461039d2e3a0b7156583e7cab3d721aff3675f8,METRON-137,Improvement,Improve output on ignored errors.,,Major,100
+a3f582006830dca819ae407995d748254938ef0b,METRON-129,Improvement,Create dev image,,Major,100
+f2fa8182b0d78ced8892a0262775c43b9732cac3,METRON-128,Improvement,Create Platform Launch and Troubleshooting Scripts,,Major,100
+c72c1cce57316b0a8487f6967591b1bab4d309f4,METRON-135,Bug,Ambari Start needs to set state to &apos;restarted&apos;,,Major,100
+4bf830401a72d68f1e9d52a08a3e80501df9ab6a,METRON-91,Improvement,Vagrant deploy: expose tags and skip_tags,,Major,100
+761943a3b6fc797b8841c67132273e9345bd4b84,METRON-133,Bug,ParserBolt is not failing tuples when parsing fails,,Major,100
+bd9a26b5247416c26f981f8e115f63f5b6e225d8,METRON-130,Sub-task,Create pre-loaded Hadoop Image for Devs,,Major,100
+7231b4e23d1082a9b0f0c42143b7e9daf7ff1a0e,METRON-128,Improvement,Create Platform Launch and Troubleshooting Scripts,,Major,100
+1b9224be52db87f049c657649d2d9cf1b08ab97f,METRON-127,Bug,HDFSDataPrunerTest fails,,Major,100
+431be8f07e6a9bbe8a8c5e54e23a357beb3f40af,METRON-125,Bug,Failure to Start Metron UI,,Major,100
+418b02b55b1200c84c427f4b303ffe4f6f1e8b12,METRON-128,Improvement,Create Platform Launch and Troubleshooting Scripts,,Major,100
+01231ab79625201e9f476884bcac00e84ca8f4fd,METRON-122,Improvement,Create generic unit test framework for testing grok statements,,Major,98.98373984
+c7ec265ca247f7ea6fb7016e54f0c20b739e149d,METRON-119,Improvement,Move the PCAP topology from HBase,,Major,90.75931232
+1990e23e5ca57fb50f0fa39ccf02604a445539b9,METRON-123,Bug,Pycapa deploy needs to know the Kafka brokers url,,Major,100
+9ddf13fb942739aef40498cc78ad7537630c7b64,METRON-124,Bug,Mitigate issues found in testing of Ansible Deploy,,Major,100
+846302e1eda7c090c9229a94cb67822a4aa61bb7,METRON-121,Improvement,Dataload Unit Tests,,Major,99.39439818
+12530072ae94921e5b6d6800b9890eec1d0d7edd,METRON-113,Improvement,Project Reorganization,,Major,100
+4f0d870f8253179a5c7f1c1c0f2649c820c0d858,METRON-110,Bug,Lightweight Packet Capture Script,,Major,100
+4b66c1bb573da4c5b1d478ffd63dfab45ca41e36,METRON-116,Improvement,Rename Packet Capture to Distinguish from Pycapa,,Major,100
+88532d9d404a927a9e6da7fdb1984f0653c1e8f1,METRON-115,Improvement,Sync OpenTAXII with 3rd Party Threat Intel Provider,,Major,100
+cbe3c86d4db42b489d962ba10849dab6a8aec928,/,/,    INFRA-11772 Pushing whitespace commit to force resync with Github mirror,/,/,100
+0daa7a42bce530eea893415b54c654585e5b45ba,METRON-113,Improvement,Project Reorganization,,Major,17.44421907
+a1dc7a8d632400776e1718dea72cdcd9ef72b477,METRON-97,Sub-task,Create data purging script for logfiles,,Major,100
+64da8e9a6e5f6a787a71af7e6d27789ba736ac36,METRON-96,Sub-task,Create data purging script for ES Index,,Major,98.57761286
+e570aa98ddd237562c94efe2c8c3af4f552f35ae,METRON-103,Improvement,Unit Tests for storm bolts,,Major,91.79810726
+7b7dd2b831823b5914cd1bf35e61a18c5bc83b08,METRON-111,Bug,&quot;Start Metron UI&quot; Fails When Already Started,,Major,100
+ab518d56ccde5ba4e7f04c8129664b5dcb863af8,METRON-83,Bug,Create &apos;Sensor Test Mode&apos;,,Major,100
+30ed07897f02ecfd237a7b8721fa848a2343b262,METRON-102,Improvement,Unit Tests for parsers and enrichment adapters,,Major,93.78531073
+4d257ecfb393c3109cbccba580de8fa9e0d7f1b7,METRON-110,Bug,Lightweight Packet Capture Script,,Major,100
+9cd9e73962304cb6f02294dcd56dc15a21802674,METRON-109,Bug,Maven checkstyle plugin is not checking test sources,,Major,100
+13931880e004b12bf0c346bb61eaa263df43bb6a,METRON-108,Bug,Create Fast Packet Capture Process,,Major,100
+972b812e09926b46a1fd68bbc687c9742451ff03,METRON-101,Improvement,Unit Tests for configuration-related classes,,Major,98.3627204
+f3c98c42de5b519e9d9efa9ab3df74092caa400f,METRON-107,Bug,Travis is not reporting a failed build when apache rat fails,,Major,100
+585f25ae52d8e51cd831c33254338e284c2775d3,METRON-95,Sub-task,Create data purging script for HDFS files,,Major,99.67928159
+7f66d1633aaba79e447e679b66bc07642c072b9f,/,/,    Metron 98 - Travis does not fail a build if the integration tests fail (merrimanr via cestella) closes apache/incubator-metron#69,/,/,100
+d8927d6e518b6a57cbbc6ce9669e4db9d4b8ae1a,METRON-93,Improvement,Generalize the HBase threat intel infrastructure to support enrichments,,Major,91.58383035
+c01e6746b4e1eb1e8b8e34ec00ddab1bf7404ffc,/,/,    METRON 86: Adding Solr indexing support (merrimanr via cestella) closes apache/incubator-metron#67,/,/,94.22680412
+8d9f7809640e6953eee7df653d3d308378fea159,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-metron,/,/,100
+18af391b7cd65d54a41f8ed33b057018f7a00337,METRON-88,Improvement,Expose rotation policy in Flux configuration of HDFSWriter,,Major,100
+24cef92c0fe0f58b136dfaa6d7caa0896f9f6a46,METRON-89,Bug,Rerunning playbook halts due to hdfs put,,Major,100
+860cd9aa8d1eff74966403ebd2291c2d299a3c0a,METRON-92,Bug,Snort has moved their release artifacts  breaking deployment,,Blocker,100
+40e68a70bfc200c5b599a0bdf47837bef4079ea6,/,/,    Adding scm line to repo so that we can build maven bundles.,/,/,100
+526d23ecd30b835cc9f598e6b78b11eb9850cb9e,/,/,    Update license/notices with appropriate 3rd party bundled notices closes apache/incubator-metron#64,/,/,100
+3bb943f69930b1e6c624a6fe35b67d5a3b66b6bd,METRON-71,Bug,Update Amazon Deployment Instructions to Cover Common Problems,,Major,100
+4b14988ef6810b4591728dd951af40784f464abd,/,/,    Adding cisco to the notices file.,/,/,100
+dfb2ccdcc94d6d56c7500d3ef5ed02953ac10fae,METRON-84,Task,Update notices file with UI dependencies,,Major,100
+3ffc57c967f7e0cbc59deaf7f75488c643abcaca,METRON-82,Bug,Enhance Travis CI Builds,,Major,100
+67303469dfbbd5045dd3dc78ceff4d77ecb604b2,METRON-81,Bug,Metron-UI Deployment should exclude node_modules,,Major,100
+91859f42c59b7eb9926f1a9ab24a8a1a339cca86,METRON-79,Bug,PcapService is hanging when called from the UI,,Major,100
+e450e0eab0031357e0d0420dea1cb933c70d1be4,METRON-77,Bug,Refactor Deployment Scripts to Accept Changes from METRON-72,,Major,100
+f4830b3799bfdcda4f2469145091f3ba3d50d30c,METRON-73,Bug,Create Service Management Scripts Around Bro and Pycapa,,Major,100
+09acf470df3001d9ade23f1115504c277284ac3f,/,/,    Minor typos in Howtos (yibter via cestella) closes apache/incubator-metron#52,/,/,100
+afc10d6486e86b657ea3162046801a81aa770cb2,METRON-76,Bug,Metron deploy has intermittent failures on EC2,,Major,100
+754b551cdff14a1af3adfaabfca3e4a9f5ef3cea,METRON-72,Improvement,Update UI to support pcap download,,Major,99.37629938
+2fdfb1a88c4c37af128d10bfcdb35f6ead5007de,METRON-74,Task,Remove MYSQL rpm from project,,Major,100
+45df3df8b503dcc953945086349649bd8ff6196a,METRON-69,Bug,Only Resize Root Volume If Necessary,,Major,100
+24312b568b115d8ae675f1f97ed58a25f4684f84,METRON-70,Bug,Create Service Wrapper for Metron PCAP Service,,Major,100
+312c50e2be2362c2a2a18198fd3835d21c7de3d3,METRON-67,Bug,YAF Probe Not Landing Data in Kafka,,Major,100
+3d3d6bf6f0eaf764a99c31d7b9876cad011411fa,METRON-64,Bug,Bro Is Crashing,,Major,100
+69d9674857ae27e93f43214a6553512830d580e9,METRON-66,Improvement,Fix Grok parser to load patterns via HDFS,,Major,100
+49fcde983c05c96a8c8abd38957fe4164a030dad,METRON-63,Bug,Support Provisioning Multiple  Isolated Clusters with Amazon EC2,,Major,100
+bdc7f71f3086520db7806bc1a79180050687a851,METRON-60,Improvement,Service Management for YAF Sensor/Probe,,Major,100
+8372ad63d111cfb82ab975cf6c4508b8f5914800,METRON-59,Bug,Automated Deployment of Metron to Amazon EC2,,Major,100
+aa255986a03f019f4671a16df1ca1b8d8e1211ca,METRON-62,Improvement,Add writing to enriched data back to the enrichment topology,,Major,99.02166317
+bbb3e790f30573f791afd88ea217a7a284e6b24d,METRON-61,Improvement,Allow selection of topologies and sensors in deployment.,,Major,100
+6d9ebed78020d50dc3da459daa9aadbd4707c118,METRON-57,Bug,Add Snort Community Rules to Snort Deployment,,Major,100
+18893a166adf35e26fcb6eff86a01d38c3c03da6,METRON-58,Bug,Remediate Deployment Integration Testing Issues,,Major,99.64763918
+876e61f5bf5574659032948051abdc80916c24da,/,/,    Weird mac issue..the rename of this file didn't work because the FS is case insensitive  so git didn't register that the file was changed.,/,/,99.71751412
+fb638fe57745f54cc47c316f3e2cad883a9de73c,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-metron,/,/,100
+d5f7039563967bda0cf80de3460a9cdfc027b66a,METRON-56,Improvement,Create unified enrichment topology,,Major,92.32488823
+f785a4366f9ed6dd01b07172a50bf06aeb01cbca,METRON-55,Improvement,Simplify Modification of Packet Replay,,Major,100
+b43b48256000234f433b458e0ef5faaaf165fe7e,METRON-50,Improvement,Ingest threat intel data from Taxii feeds,,Major,91.37096774
+59221f75c2e677b2d379e859ce11bc8454579b10,METRON-52,Bug,Bro Plugin Header has comma instead of colon,,Major,100
+d25c73008aa27956922f6a5423ee8f791fd28bd5,METRON-54,Improvement,Allow Configurable Data Dirs,,Major,100
+b558fad39fcd7a1e3b7042462990b2aee2303b30,METRON-43,Improvement,Refactor Deployment Scripts for Correctness and Ease of Use,,Major,100
+563acab9a99b8b41828b9972f80978ce8e1c8860,METRON-49,Bug,build fails with missing maven artifacts.,,Major,100
+19c09fa49a4dd2032934b3401a22a136df816178,/,/,    Merging keys from https://dist.apache.org/repos/dist/release/incubator/metron/KEYS into the keys file here.,/,/,100
+e3e7979a7093b352b881dbbafd7a8e0bb1c3e3a4,METRON-41,Improvement,Integrate Apache Rat to Audit Source Code Licensing,,Major,100
+1d4eeb0fc74f379fa328108fcd20ec34a5f0686a,METRON-42,Bug,Remove GPL header on custom ansible module carried over from template,,Major,100
+e759672b8bbca64bb82e254ea6332e2adee98cce,METRON-39,Improvement,Replay PCAP Data,,Major,100
+eb8f5e1faaf7c1552843f105c2394941d2cf13a1,/,/,    Adding DISCLAIMER,/,/,100
+95fa3451db6881fbfe1f1144488af7d17a7acf26,/,/,    Adding KEYS and NOTICE file,/,/,100
+5ee15b990466e42a9914150620ef289199ec2e31,METRON-38,Improvement,Add license header,,Major,99.83471074
+84d9be3a8f2484432adfa132dd91f51c172bda7d,/,/,    Changing Version 0.6BETA -> 0.1BETA,/,/,100
+0e798451051fb3359be1342f8f9520e1fdd5a4b5,METRON-37,Improvement,Configure Cobertura Plugin to Aggregate,,Minor,100
+2c379a239ea19a509e8d3636d087c80f080dda8d,METRON-35,New Feature,Implement threat intelligence message enrichment,,Major,89.45454545
+5bd1ddaf4af2fefd3843aae7df0c0313114aec36,METRON-33,Improvement,Execute Enrichments in parallel,,Major,92.55861366
+40be20a6a1f78d0097b678bf8a7cee45779f4a63,METRON-28,Sub-task,Metron should compile with JUnit 4,,Major,98.65145228
+bc140a571a78c428e9ae5a3315c427724183782f,METRON-25,Improvement,Create Bro Plugin to Send Logs Directly to Kafka,,Critical,100
+fd35b10dd25fce278962ab87b574ad9acd15d19f,METRON-22,Improvement,Reincorporate the HBase bolt in the topologies,,Major,96.31236443
+425cc8bf9d56cbe8f8f8c67b8a28a9d60dfd4a10,METRON-21,New Feature,Ansible Deployment Scripts,,Major,98.74857793
+14e656c101d69186dfa672dbf64df97805e8bfa9,/,/,    Merge branch 'master' of https://github.com/merrimanr/incubator-metron,/,/,100
+d8c9dbec436d56549c0ceeb68e05298e2f22bf49,/,/,    Adding warning to know that a user has to build the 'metron_streaming',/,/,100
+6b79ed171ebe3b73a89cd84669886ebb6f3d8ba9,/,/,    No need to check for the latest version  which only slows down the overall deployment,/,/,100
+e6945f29acb8ebb2c6198ec1e05a2251561ba0d5,/,/,    No need to check for the latest version  which only slows down the overall deployment,/,/,100
+1eb0862f9e7d66d897a11cf8480cb0f94354c91f,/,/,    Improved performance of ansible deployment by (1) specifying a file  rather than a directory  for all 'get_url' tasks so that the file is not re-downloaded and (2) ensuring that the yum cache is not refreshed when it does not need to be,/,/,100
+65dfc82f00889bc49b8915cefd20e2331d8e2e51,/,/,    Merge branch 'master' of github.com:merrimanr/incubator-metron,/,/,100
+aeba74c50535d835a9d431b5c21b04e1c1b6499e,/,/,    Was missing zlib-devel as a Snort dependency,/,/,100
+4a414a18b8a45116b898f7962690df11fac581f0,/,/,    Merge branch 'master' of github.com:merrimanr/incubator-metron,/,/,100
+6cbd6a7b7db21d92bec39fc27108972011b18685,/,/,    Remove tab characters which are treated as literal characters  not whitespace.  Different behavior in Ansible 2+,/,/,100
+c2e85f4e2d5a6bf1b33a24a2f28eca70262d0a3b,/,/,    .gitignore additions,/,/,100
+b15ec5a58a9970dc3c0df705303bb0fd03b7f644,/,/,    Turning on ansible pipelining to speed up deployments,/,/,100
+af3066d5c1b1b5145d3ce8c482323448821ccd93,/,/,    missing var 'pcap_hbase_table' but no mo  fo sho,/,/,100
+e639420938e5356f79ad2c2e4d8661edcb73a439,/,/,    Removed redundant HBase create,/,/,100
+c5d80a83189b70e39aafbfb12d00b17c6905521e,/,/,    Moved hadoop setup tasks to separate role and updated documentation,/,/,100
+97f25dfdda60bc6b5496736fc7809376aea1ac19,/,/,    Using yum instead of rpm which handles idempotency stuffs,/,/,100
+47226af261b7b94776032244df83056b2e3d1739,/,/,    Using an older forked version of Bro that has a Kafka writer to publish Bro data,/,/,100
+d91387e892b8b5e363cdc31eedfc2cb4d0d9ccbc,/,/,    Ansible and vagrant scripts to deploy Metron,/,/,100
+6dc127518f1eabd7a5c134699c6d10551f5daf33,/,/,    Merged with master,/,/,100
+88ded5f08a081097bebae93e334f3deb92244e1d,METRON-2,Improvement,Create automated deployment scripts for Metron components,,Major,100
+57e3a8f8c082d591c0257981009752f4570c3630,METRON-2,Improvement,Create automated deployment scripts for Metron components,,Major,100
+9149957339144216f3520f10aa1ab78b40bb4909,/,/,    Merged branch 'master' of github.com:smarthi/incubator-metron,/,/,100
+a9d4eece160bad5e8c374d7d4e4b22abed904d24,/,/,    Merge branch 'flux' of github.com:sirsean/incubator-metron,/,/,94.52954048
+9d5374cc9ef1952d9a51b272dae4e5762ea582a6,/,/,    Merge branch 'bro-parser' of github.com:sirsean/bro-parser,/,/,100
+d504487d19c5f2a16e3f255945c8a3ee3c4b54f7,/,/,    Rename com.apache to org.apache,/,/,100
+3854e07588e02d0f3fa41aee2ef4385fc49ae1d0,/,/,    Move all com/apache folders to org/apache,/,/,15.46499478
+dd8f0ca2933e7d41fb7bef8ffb2e2096ada6a9ec,/,/,    Replace all references to 'OpenSoc' with 'Metron',/,/,100
+90cda3ff2d9e45af9b00a71ba9d2e870cb39ee84,/,/,    Rename all OpenSOC files to Metron,/,/,15.24008351
+0544c2665ebae6f0b5c62728abd77fa2c9167137,/,/,    None of the dependency-reduced-pom.xml files should be in source,/,/,100
+13e8a716e71954e54b78e94ec87f233c7db95d52,METRON-14,Improvement,Add a news item for Debo becoming a committer,,Major,100
+979dee01a27b67b4d659fd60ff906fbd3ecc9593,METRON-6,Bug,Wrong user-subscribe mailto: link on incubator help page,,Minor,100
+6fccedad04f128efe26d574b6a191a04799f319f,METRON-5,Bug,Minor tweaks to website,,Major,13.98907104
+ab6d60d6a323d1da7fad073a961414dad39f9d2b,/,/,    Using yum instead of rpm which handles idempotency stuffs,/,/,100
+ae321aadd9b1a75a97ff8a3f0542d04bc4a184bc,/,/,    Removed redundant HBase create,/,/,100
+fd99302aa10e638f98c08d6d892576358430150c,/,/,    Moved hadoop setup tasks to separate role and updated documentation,/,/,100
+10a58f6e6a203cd4de29b0e80f48f8359565d598,/,/,    Using an older forked version of Bro that has a Kafka writer to publish Bro data,/,/,100
+f66f099c999b56a6e3e67cadcbc0f932bc1f87cf,/,/,"    Revert ""Added ability to configure a topic for each source""",/,/,100
+3f3890e2f2fd0816599e1ca1823c2b8ff96a01dd,/,/,    Ansible and vagrant scripts to deploy Metron,/,/,100
+3bbde87916f02c6e34004b8949d847d99bd78412,/,/,    Added ability to configure a topic for each source,/,/,100
+0232b1da744bdfabe2c2fc79ae5cb53f848599dd,/,/,    Merged branch 'master' of github.com:smarthi/incubator-metron,/,/,100
+b24d27c27902a1e8784a147cfe5b188b1d732a74,/,/,    Merge branch 'flux' of github.com:sirsean/incubator-metron,/,/,94.52954048
+c73db58ffa1d21e3b8e4ce53f409c0e17336be7d,/,/,    Merge branch 'bro-parser' of github.com:sirsean/bro-parser,/,/,100
+7c51b5a5995b6a4af7bfbe7b0d23fca95de9edea,/,/,    Merge branch 'master' of github.com:apache/incubator-metron into gitignore,/,/,15.04702194
+0ef9478fd418f8695b75618c0f332dcb62650155,/,/,    None of the dependency-reduced-pom.xml files should be in source,/,/,15.04702194
+1ae657ae03cce670577f1f288d5929e9799fa5a7,/,/,    Rename com.apache to org.apache,/,/,100
+2411e40faf41c79ac996531ca2e4b9c5c1e798af,/,/,    Move all com/apache folders to org/apache,/,/,15.04702194
+29c089e3f0c162c2410c8bf2f1c397daded3c8f5,/,/,    Merge branch 'master' of github.com:apache/incubator-metron into gitignore,/,/,15.24008351
+2a6d996beebf26ac603b8ac85e63c2f2dcc9fe65,/,/,    Replace all references to 'OpenSoc' with 'Metron',/,/,100
+842462fcee2973da4dd2d04122e385cb3c2347db,/,/,    Rename all OpenSOC files to Metron,/,/,15.24008351
+d797c6b0476fa491833aa0b3cff3661a3cff3ba3,/,/,    Merge branch 'metron-14' of github.com:omalley/incubator-metron,/,/,100
+41fdc1cfbf92e11fb39fe4a2b70c0b984a164b12,/,/,    Merge branch 'master' of github.com:ddutta/incubator-metron,/,/,100
+ac5ecf5035b87d0cdc25fb3cf77b242d321b1818,METRON-14,Improvement,Add a news item for Debo becoming a committer,,Major,100
+af743223827ef48d4868d42d825340c78890800a,METRON-5,Bug,Minor tweaks to website,,Major,100
+fb9af7edd2101abb0fc2e9dd3162d0d1c3b350b3,/,/,    Adding a gitignore file.,/,/,70.10804322
+008a7f8f47bb25fc77d87e83c7d57967963cc998,METRON-6,Bug,Wrong user-subscribe mailto: link on incubator help page,,Minor,70.10804322
+70e84c0318f76190d85a84ec2bdc1f5f1f78fbd0,/,/,    Merge branch 'master' of github.com:charlesporter/incubator-metron,/,/,70.10804322
+34faa3004615c37c4117016a9200b94b2a248b3a,/,/,    adding the committers,/,/,100
+7fb7745f08ee8c74e209a24703f47a04bed43090,/,/,    Took care of comments,/,/,100
+5d510e90573fbe6111014438ca9e6721e1db5899,/,/,    deleted the added file to fix an older issue,/,/,100
+999d0bbc342185763164a64bfdf8e750c26e64f1,/,/,    Merge branch 'master' of https://github.com/ddutta/incubator-metron,/,/,100
+7db4a66269ff0ff593d4589262b0fd374d5cfcfa,/,/,    fixing an earlier git rm issue. Adding and deleting again,/,/,100
+dd93eb022716ad414f92c17a8b89ebeb890e61fe,/,/,    changed config to generate in target to be consistent with BUILD.md,/,/,100
+5e72a63a191488a52155cb62fa6d0bfe540a4129,/,/,    deleted the sample news file,/,/,100
+b0684a18811241e913f4ef6452513532f06674a1,METRON-1,New Feature,Create a website,,Major,100
+a64c9125ab72089e96facab691e9cfe7f165fd34,/,/,    Tweaked colour scheme to fit EKG logo and blue branding,/,/,70.10804322
+a919cc191a207373c7aa854dfe4949f9f0fe9daa,/,/,    replace opensoc-steaming version 0.4BETA with 0.6BETA 8e7a6b4ad9febbc4ea47ba7810c42cc94d4dee37,/,/,70.10804322
+ecfc90604c258196e0e3456bb4857276c80eabe7,/,/,    removed stale file,/,/,100
+155aa696c8b1cb3649ab1d0c8ddea38ecdd4b44e,/,/,    Leveraged ORC website design for the initial Metron one,/,/,100
+c7d4888692b3847fb215f21156098b3a526e18b3,/,/,    Create a website for the project,/,/,100

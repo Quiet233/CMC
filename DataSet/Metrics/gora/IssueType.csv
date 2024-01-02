@@ -1,0 +1,1420 @@
+6c6b06c916b969352a6757ba7025cc78055fa87a,GORA-698,New Feature,Add GEODE Support,None,Major,99.5658466
+039571bbde45656dd8cdc1eaf3f8a2c72e2ef20a,GORA-711,Improvement,Upgrade Ignite version 2.14.0,,Major,100
+8b5cea77f0e99d475f02db4598a1db4c271c0293,GORA-650,New Feature,Add datastore for ArangoDB,,Major,100
+4bac876c854129181ca8a621df8bfa80f95ac899,GORA-650,New Feature,Add datastore for ArangoDB,,Major,96.4569161
+65e6e51c6189dadfd265e17b818eb7c2d7b5249c,/,/,    Merge pull request #289 from claudeyj/claudeyj-patch-1,/,/,100
+0e8f8045fdd88d7fe39789a47541b83b1ad1f50f,GORA-714,Bug,FTBFS: Conjars.org repository is dead,maven,Major,100
+283fa0aad6bec049977a543bec45a19ba41a84c3,GORA-651,Improvement,Upgrade OrientDB to the latest version 3,,Major,100
+a1431ec0f416e486a717d5c878cc887c19ae9f59,/,/,    Update pom.xml,/,/,100
+38f663965c823b6f98711c809fb9e8c515cb67e1,/,/,    Fix typo in pom.xml,/,/,100
+f5e12f398f2bbc36ebc752618765b7e68096dbc7,GORA-711,Improvement,Upgrade Ignite version 2.14.0,,Major,100
+2cccfdbed4fe72668660177572e1d24ed137b88b,GORA-651,Improvement,Upgrade OrientDB to the latest version 3,,Major,100
+8440644c0d61ac0474035107808dd55be30f5154,GORA-663,New Feature,Add datastore for Neo4j,,Major,98.37443946
+b4bd02765a8cbe0dd88adb3b2f0ed3a8badf79bb,GORA-694,Improvement,Upgrade Aerospike datastore java driver to the latest,gora-aerospike,Major,100
+14e75d76fce93d8a417f8f50b8b28e06a91f9bc2,/,/,    Upgrade spark to 2.4.8 (#272),/,/,100
+073d6dfa3ae699bc8856611adb7ef531effbe8fc,GORA-693,Improvement,Improve Gora Jet Test Cases,gora-jet,Major,100
+c8e940d537b4d429237b489a10d3ddcc78f5dc4e,GORA-699,Bug,Unstable build due to test Redis test failures,,Major,100
+370234b8b975ad45dc789c15a3fb778b44da4061,GORA-701,Bug,Fix Github workflow build for PRs,,Major,100
+db1137a9e134d45220e3225f9027802d5d8061ee,GORA-690,Improvement,Upgrade to Apache pom parent 24,,Minor,96.61997564
+ea275745ee40fb6e351f6e4d972997411d6cfde7,/,/,    Replaced wildcard import statements with only required ones,/,/,100
+8e4fbee5b192227e9b3af5c39b2c59cd0ecd1e2d,/,/,     Test Cases for Apache Geode,/,/,100
+53c5628db7a9e116dfa1e02a975a7886b9cade15,/,/,    Test cases for Apache Geode,/,/,96.69396421
+3acc4ed3a3aed78ec3efd8f4313a4972d37d8453,/,/,    3 amendments performed as suggested.,/,/,100
+13fc58561aab36c5debd33f90449288f4307b3d2,GORA-698,New Feature,Add GEODE Support,,Major,100
+a2a0e2184d7c7d0832cf2e4883ef4cee5e8cc2a4,GORA-698,New Feature,Add GEODE Support,,Major,97.88528389
+fd7a4238fbffd136dfb821907247075ae4fe35fe,GORA-698,New Feature,Add GEODE Support,,Major,97.79005525
+4672568e2d4ba301108fdf8a3b6384749206a41a,GORA-691,Improvement,Upgrade Lucene datastore driver to latest 8.10.1,gora-lucene,Major,100
+acdb7f4dff403a1b4933c6c457c9ea5c2ac5c6e8,GORA-692,Improvement,Upgrade MongoDB datastore driver to latest 3.12.10,gora-mongodb,Major,100
+e779d7c48c934bd1cbdd382c0746ef90c95aa78a,/,/,    Upgrade Cassandra driver version,/,/,100
+f78de95ceab3e78840526a5bc3025d7bb262ee32,/,/,    Upgrade cassandra driver version,/,/,100
+056eb7d5d53c869181f7b7b832cb9ae8dd306be7,/,/,    Fix merge conflicts,/,/,100
+e2ef9987975212c044e20c75d3ab2758f741a02f,GORA-692,Improvement,Upgrade MongoDB datastore driver to latest 3.12.10,gora-mongodb,Major,100
+cb8e6ba68438355572e480de2d93adddbfae637e,GORA-692,Improvement,Upgrade MongoDB datastore driver to latest 3.12.10,gora-mongodb,Major,100
+b04a239866d010d4850e6558f435c9cb1009f13c,GORA-691,Improvement,Upgrade Lucene datastore driver to latest 8.10.1,gora-lucene,Major,100
+44ecabb241201c37f94ade36806b2070eca0144c,/,/,    Update master-pr-build.yml,/,/,100
+3da368d4d46aaaded5543d01342abb3a49cd4d53,/,/,    Update mongodb driver version to 3.12.8,/,/,100
+4a9394ecf8e91fc644a8f1103783ef3804f15312,GORA-677,Improvement,Upgrade Java Driver Ignite version to 2.10.0,testing,Major,100
+ffc3a13b778dce17db823dbcda8f5ab44640ab85,GORA-664,New Feature,Add datastore for Elasticsearch,,Major,100
+2d0d91093dd7bceb07a4d64fb6b075bdc2117abd,GORA-664,New Feature,Add datastore for Elasticsearch,,Major,96.46282974
+cd28146e4b4ad59587f2ad4c2748905954f837d8,GORA-676,Improvement,Upgrade Aerospike Java Driver to 5.0.6,gora-aerospike,Minor,100
+d926947e149ee210c6413c2d1f7584d3b20d91e0,/,/,    Update mongodb driver version to 3.12.8,/,/,100
+d265e86601cbcfff69379b49804a5ab1674cdcc8,/,/,    Delete .travis.yml,/,/,100
+22d3af831dbd279151a55f610a747859fc20c74e,GORA-679,Improvement,Restlet JARs and third party dependencies aren&#8217;t available in the main public Maven repository,build process,Blocker,100
+88663d2790a570617630b18d84609d23d728c087,/,/,    Update .asf.yaml,/,/,100
+5d397749a7594e84a312d032d24b4667affda7e9,GORA-686,Improvement,Add .asf.yaml file to Gora repository,,Trivial,100
+5eb1e9bf81455c9c227b1cde324825493e41839c,GORA-686,Improvement,Add .asf.yaml file to Gora repository,,Trivial,100
+80502535c510c44690028468d13e52c53f0fb934,GORA-675,Task,Perform Sonar static code analysis on Jenkins,build process,Minor,100
+6aaf2c85b87069ec21af8d1612dbf63d3d192b38,GORA-677,Improvement,Upgrade Java Driver Ignite version to 2.10.0,testing,Major,100
+718dd308d3659e547269ea9bd0fc3eb5c34e5eb3,GORA-676,Improvement,Upgrade Aerospike Java Driver to 5.0.6,gora-aerospike,Minor,100
+307ff87ef8581dd35acc3f3e0e0541cb138fdcbe,GORA-674,Bug,Failure of testcontainers-java on recent Docker runtime,build process,Major,100
+bd843c2cb4432d7a03185e1932e2e1c82e10ecc4,/,/,    Exclude org.apache.gora.benchmark.generated package from Javadoc,/,/,100
+20220c0dd9a7de4903f8d5786b53ef330bd3ab3b,/,/,    Use release profile defined in project pom.xml,/,/,100
+705d3b5fa75b3028d43c9214b9bd3453e1d40c00,/,/,    Remove outdated maven.restlet.org repository (not updated anymore),/,/,100
+97c6b4336117ce33a08a7c16dc26a67930f51bcb,/,/,    Add deploy step,/,/,100
+b45581a371d2d69c472c37793efa085436056c9b,GORA-669,Bug,MongoDB SCRAM_SHA_1_AuthenticationTest gets stuck never ending,gora-mongodb,Critical,99.93682881
+0d6b8d273ab481e54dab0b3839285b7366fbabd9,/,/,    Update README.md,/,/,100
+6191aeae8fd3bfb1e87525ac3d02d5f5eaf7996e,GORA-668,Task,Create a Jenkinsfile for Multibranch Pipeline,build process,Minor,100
+5fa81de17d741544a2d20775fd1df24799e10532,GORA-668,Task,Create a Jenkinsfile for Multibranch Pipeline,build process,Minor,100
+60af963ebea3bf2050d51488167c5cdb28bd304e,GORA-666,New Feature,Add support for the Kudu datastore in GoraExplorer,,Major,99.84197219
+96d77b241717a20481b9ceb0b706a7805d15946a,/,/,    Merge pull request #227 from mgov88/master,/,/,100
+6defdc7d8cb624aa66fc1c2bc11247dabefd39d3,/,/,    Merge pull request #231 from podorvanova/gora-557-add-support-for-mongodb,/,/,99.46456693
+db487fab7ff604b417e4cc60e622d11e190dcc7f,/,/,    Make document types a list of Strings instead of Classes,/,/,98.752
+cd5ec39b55acf58c3fea5ff0536f2c90cad3515a,GORA-665,New Feature,Add support for the Ignite datastore in GoraExplorer,,Major,99.73813421
+c4643816f8efd1466fad0de881e31ab4adeb8333,/,/,    Merge pull request #226 from podorvanova/revert-gora-271-changes,/,/,99.93434012
+7a7ec0a2b0f6d07ebba401cb03f833efcbfdb07c,/,/,    configure gora.xsd_validation property for XSD validation (default: false),/,/,99.80302035
+81d901b035780e7dc8d94684a02729fd06bf7a38,/,/,    change return type,/,/,99.54113405
+e063e161c5e316e0936e0673e6fe2e1bd5a3c603,/,/,    add datatype of the primary key,/,/,99.54113405
+4e841ea3377c3924f5794782cf4daa0112edaaa4,/,/,    add datatype of the primary key and skip tests,/,/,99.28594612
+d7421552fdafd37597bcd249c58bd3858c78feb8,/,/,    Add test case for MongoStoreMetadataAnalyzer,/,/,99.77316915
+c49efe22e6e45c430dfa0ba8c47a983b86dc032f,/,/,    Add collection document's types to MongoStoreCollectionMetadata,/,/,99.63993453
+61f47d57ff4c27156a8fcfe2f618513f9bc77be9,/,/,    Fix log message to human readable format,/,/,100
+ba84a8fa162730929f1a4b2416a3f09ac32016f3,/,/,    Add test case for loading mappings from properties,/,/,99.73770492
+80c9b057809dbbb0f49fa730c0a27ac8a84c12c3,/,/,    develop Metadata analyzer for KUDU and test,/,/,99.54113405
+925c732eb20e41251446472a1691adf4aa79324b,/,/,    Develop and test Metadata Analyzer of Ignite,/,/,99.5091623
+810a3a4f5f153dbdcc1416ef2fda19bcca253ff9,/,/,    Add test case for loading mappings from properties,/,/,99.93459778
+314ac44b4dd0fef9c9d4c91c007b3b83fc86845d,/,/,    Implement the retrieval of native information from MongoDB,/,/,99.80334317
+733d3b2343e32868abb35c1b3f5c3772e4833447,/,/,    Add properties for DataStoreMetadataAnalyzer,/,/,100
+a6b817db1f121502d89d6432b5f099ec052ab2ec,/,/,    Allow to load mappings from properties instead only from files,/,/,99.96714849
+c361db5f750bb8227e419c2106709468f677c79e,GORA-668,Task,Create a Jenkinsfile for Multibranch Pipeline,build process,Minor,100
+efce549f53ad1dee1cff483ea166e6a8261039df,/,/,    Develop test for XSD validation.,/,/,100
+332420048ad146980effae3b9e4903728e5f6f34,/,/,    Add link to XSD in the test mapping of Lucene,/,/,100
+e0d088a9e30d460b1771cd1bd14c2e33cab6babc,/,/,    Use 2 space indentation  add license notice and move schema to main code,/,/,100
+0aa87d3c343b002205e607224d7c8c06ad0817a9,/,/,    Read mapping from gora.mapping (if available) in the Ignite Store,/,/,100
+b38c957a6e6326fb827ca7f667566d060dabb4b1,GORA-652,Test,Enable tests by default for redis/couchdb/aerospike datastore,gora-redis,Major,100
+ba6980477c001bed7b31c9c18022f27bdd705ff0,/,/,    XSD validation for Lucene datastore,/,/,100
+281973754d704b663cf6209a0f9edebf32c9bd38,/,/,    Merge pull request #223 from podorvanova/address-use-of-deprecated-apis,/,/,100
+3f90ea9a68e6f3a6803bfca5d241cd3870cf9cd7,GORA-667,Bug,Revert GORA-271 changes in hbase-store that disabled the mapping loading from configuration,,Minor,100
+dff7b93dc68bf9cfaeb1296135eaf3a862117384,GORA-655,Improvement,Implement RethinkDB datastore module ,,Major,95.15919428
+ff64c7e6281efb338e9fb5fd32d4df0598a3abdd,/,/,    Merge pull request #224 from podorvanova/document-gora-compiler,/,/,100
+775171eca2ef9d64544a5dd95466055b85dcb18b,GORA-213,Bug,Document every method in GoraCompiler,gora-core,Trivial,100
+8b052303a069d63e36c11c6e0c917c17466f3d0b,GORA-430,Bug,Address use of deprecated API&apos;s,build process,Major,95.15919428
+c80d232bfe57be8738da688b6307730c78eb89ca,/,/,    Add RethinkDB query execution,/,/,96.0488275
+1ccae4622c4bd657f7ddde47206b593e0afffc5c,/,/,    Fix container variable names,/,/,100
+a1efada2629bdd0fc024325c86059c5fb0176bdf,GORA-655,Improvement,Implement RethinkDB datastore module ,,Major,99.0155605
+88a1819c1bc86e65e95b1c0fd92db33273eab71a,GORA-653,Improvement,Upgrade Solr datastore to the latest java driver,,Major,100
+eb21056d9de8cfb48fc6b4881f860603c610cd51,GORA-653,Improvement,Upgrade Solr datastore to the latest java driver,,Major,100
+3d8d9b3ffbb8247daa2f1f1a82710f42884fe2a2,GORA-653,Improvement,Upgrade Solr datastore to the latest java driver,,Major,100
+7bb1e5a2381695eaddb1afa994148c18568b8ba3,/,/,    Merge pull request #214 from arnenissen/mongo,/,/,100
+7f19ab900b78dbc5acbaa68ad8cc87716c5026c3,GORA-661,Improvement,Upgrade CouchDB module to the latest driver version,gora-couchdb,Major,100
+5dd382a1340aea246f50452170377d9c5d808b86,GORA-661,Improvement,Upgrade CouchDB module to the latest driver version,gora-couchdb,Major,99.93573265
+f202e4d236e048e0f960e5d00bb7aba9596bc2ba,GORA-660,Improvement,Upgrade Hive module to the latest driver version,gora-hive,Major,100
+75d85e268fcdb868697de10e16366a06e5c66236,GORA-660,Improvement,Upgrade Hive module to the latest driver version,gora-hive,Major,100
+28168c3a14f241b4b052cd2f51a5e8c041f4a9a5,/,/,    Merge pull request #213 from arnenissen/master,/,/,100
+3ba38f003dcee475b33536ae684df04a36405d21,GORA-659,Task,Upgrade Mongo DB driver to 3.12.4,,Minor,100
+77aaf1b5935d429aac92d66c3328eb8618d1c4e3,GORA-658,Task,Upgrade Cassandra driver to 3.9.0,,Minor,100
+e7b629818c390efaab8758374f03ec48c898329f,GORA-653,Improvement,Upgrade Solr datastore to the latest java driver,,Major,100
+588cdc45f91951261ffbaf386590cffe5aeae9df,GORA-654,Improvement,Upgrade Lucene datastore to the latest java driver,,Major,100
+9376adf1617e91a5629807423939eb8ceda1bc27,GORA-653,Improvement,Upgrade Solr datastore to the latest java driver,,Major,100
+7daea67642f982f5fc4762e0eb2c812714d5be7f,GORA-654,Improvement,Upgrade Lucene datastore to the latest java driver,,Major,100
+927ccdbd66d0dde483e7bac32ec00d1c702b4fa0,GORA-643,Improvement,Move to Apache parent POM version 22,build process,Major,100
+c5515ca5f5e0d53e79db03898e52098cecf2276e,GORA-643,Improvement,Move to Apache parent POM version 22,build process,Major,100
+d65aa1f3333467cb5a79029f585d76cf25797f94,GORA-649,Improvement,Replace usage of deprecated API of MongoDB driver,gora-mongodb,Major,100
+bdf5f0096d2447ad1a93b1119cebf4297133850c,GORA-649,Improvement,Replace usage of deprecated API of MongoDB driver,gora-mongodb,Major,100
+e24756f6441bf00c25d245e3ef37798ca9acacce,GORA-647,Test,Use Testcontainers for MongoDB integration tests,gora-mongodb,Major,99.3624482
+cc6255585dfffd51e3003c46f07b96b7082aa79f,GORA-649,Improvement,Replace usage of deprecated API of MongoDB driver,gora-mongodb,Major,99.87357775
+392b264fdb0da86556a632be5a12d41da3512f49,GORA-546,New Feature,Hazelcast Jet execution engine support,gora-jet,Major,99.42784488
+0b241ad057de385691a2b5fb8d6eb9efe55e72ea,GORA-646,Test,Run integration tests on MongoDB 3.6 and 4.0,gora-mongodb,Major,99.2578251
+3ed6327e447a5c1606d263a161ddc48476614dc6,GORA-645,Task,Upgrade MongoDB Driver version to 3.12.x,gora-mongodb,Major,100
+56e62525164f3090124c4dad98d6496bfcf66253,/,/,    Fix MongoDB Tests Fails,/,/,100
+4ff0eb7f9e5732c895fd5d1bbfd20a4e34436932,GORA-645,Task,Upgrade MongoDB Driver version to 3.12.x,gora-mongodb,Major,100
+220bb3a4d1028db32aa499153c6431612615cc65,/,/,    Merge pull request #203 from madhawa-gunasekara/FixReadMe,/,/,100
+798f40208116e1c41222a2f7430d9b10096b4ec2,/,/,    Fix gitworkflow in README,/,/,100
+4adf88ca644c7ebc8b1ec95750fe22d4e79bf6c3,/,/,    Disable Gora Kudu tests (#202),/,/,100
+51ff495ca1c0dade1ae988940d211f9d0301ecf9,GORA-271,Improvement,Make consistent across datastores the way of getting the mapping filename,gora-hbase,Minor,100
+3f4d474c98c4c4fde94b915d54a60f126448def3,/,/,    Remove unused imports,/,/,100
+18d95f9b59c7a74be741f400ff97fc2d83b396bc,/,/,    Fix mapping file name access method in dynamoDBStore,/,/,100
+e08524c5d5aaac9fd3e4ed42739c03e398d6fa8b,/,/,    Fix mapping file name access method in hbaseStore,/,/,100
+783580ca6f91e12bafeb227c00290ef5e149ecca,/,/,    Update developers list (#200),/,/,100
+736d457cd9ba1243858477c7218585858c70060c,GORA-644,Improvement,Add Github Workflows for PR,,Minor,100
+6b7e9a7b6c9b6a6c1982da45b160783970a45285,GORA-638,New Feature,Add gora-ignite into the gora-tutorial module,gora-tutorial,Minor,100
+00abd59c982c76157ac5863b4edc3732f7a49e0e,/,/,    Use HTTPS instead of HTTP to resolve dependencies (#199),/,/,100
+8de999397c487116606539557ca03f4e75043386,/,/,    Merge branch 'pr-197',/,/,98.27700464
+784cf67bc760e7f0cc591ebe7c91e191f5d35222,/,/,    Uncomment gora-benchmark module in parent pom file,/,/,98.27700464
+f2bab9cebfe8514b9e67004f0b3c84158bf2b7cb,GORA-527,New Feature,Implement a data store for redis ,gora-redis,Major,98.27700464
+a3c734fb7c114703ce6905e756190799889d7d8f,/,/,    Updated YCSB dependency and added my developer details to root pom,/,/,100
+3a742b7db1fa81ddd3e6c9a00e4dec8b28d42c8f,/,/,    Updated YCSB dependency and added my developer details to root pom,/,/,100
+01aef8026e0c314e4ea86100fa0bc2c6998e3ac8,/,/,    Updated YCSB dependency and added my developer details to root pom,/,/,100
+0297cf83d62b7de23d020cfd6e2d0919d6399601,/,/,    Merge pull request #196 from joseph6x/master-typo,/,/,100
+356f1dbba327b49041f033c2dceeaaebe5a7afd9,/,/,    Updated YCSB dependency and added my developer details to root pom,/,/,100
+4af16a83784a9cd7474d0da40216995e1b846f6f,/,/,    Fix typo in DataStoreTestBase.,/,/,100
+a354b35c5d77c0e67d4c2d01ca0306dd5f91e3d8,GORA-532,New Feature,Benchmarking Module,,Major,100
+45a393c0487b3c04846e0aff46522ef979736c08,/,/,    Update pom.xml snapshot to 1.0 and fixed some bugs relating to getting the datastore,/,/,99.28861789
+c837c5ac418618d45974e7dffe34e19c010934f5,/,/,    Merge pull request #193 from chanakadkb/master,/,/,100
+2bc911d2c8afad9d60bf0118317043111c4993c7,/,/,    Add Chanaka Balasooriya as a Gora developer,/,/,99.28861789
+ea43a63c6ef0fe94f7e5b612081e3e689eeb8795,GORA-532,New Feature,Benchmarking Module,,Major,89.74654378
+e02feb1b5e0d3af8e3a0041b76613801c0a97412,/,/,    Address pom.xml conflicts and comment gora-benchmark module from the list of modules,/,/,89.74654378
+60356a8fa725122acaab95447aa957132153dab1,GORA-532,New Feature,Benchmarking Module,,Major,99.28861789
+d34e163fa12ac59b1eeb4bc8141084f8b30dcf0b,GORA-623,Improvement,Javadoc build fails with Gora master branch,documentation,Critical,100
+8db7a1089d7679645df5ab4b83567cc73acde694,GORA-485,New Feature,Apache Kudu datastore for Gora,,Major,100
+fab0ab56ece8206d470dc0ed73906ded61368ec6,/,/,    Improve code with the Alfonso's comments.,/,/,91.31097561
+3a97a90033d45d920ac6b1e935e424fb61a7402c,/,/,    Redefine cassandra generated package as a test source,/,/,91.31097561
+367f05990c426b83b9e3b0dbeb44a1e84c136462,/,/,    Improve code with the Alfonso's comments.,/,/,100
+d2d920a6d27dda881579ef611c7be937914d5595,/,/,    Improve code with the mentor's comments.,/,/,100
+9387c5c4a997cda4a5cc2886cc60a3e81db5f36c,/,/,    add Kudu backend into the Gora tutorial module,/,/,100
+1f9bc1faf87889106cb68b1bdcacd9acde69cea9,/,/,    - Fix Carlos' comments,/,/,100
+dcc39d96b058482571c47dab21315d046e96c838,/,/,    Some overall improvements,/,/,100
+9dfda84821cb393382dc45f52ee96d03c82cca91,/,/,    Replace javafx.util.Pair with java.util.AbstractMap.SimpleEntry,/,/,100
+b91e2500df38dccfa84d9d32c5474040634d8ea2,/,/,    Map Reduce Tests,/,/,99.93188011
+52348aa832795e439a12af6666b4794013400d7a,/,/,    Implement delete by query using a Kudu Scanner.,/,/,100
+09c94b74e4d39bd8b84f84d9de1abaca467e2d63,/,/,    - Improve and test queries implementation (Scanners),/,/,100
+9c504f7871e22505e0714076943a597d54abb4da,/,/,    - Fix issue with binary datatype serialization.,/,/,99.86348123
+401dd68d019e9705f61d782115d0b6abeb842720,/,/,    -Implement basic serialization/deserialization.,/,/,99.93160055
+1a5a6666a4ba6c3cf4cc8d34a738dbd2cf4bb8ae,/,/,    Enhance and test schema management operations.,/,/,100
+4410a61e5d2724c200fc3ed8615a73f4322e7123,/,/,    Create Schema,/,/,99.96577687
+01128fd204d6efa58cd9a205fd123eb19a846ba9,/,/,    -Improve Dependency Management.,/,/,100
+e6e2b5a3bbcccbac99476eb01e73f84d4336cfd2,/,/,    Connection and basic schema management,/,/,92.08523592
+2abf21fff3ef9fded04fb03f5b0cf8e0b4e7770e,/,/,    create basic gora-kudu module,/,/,99.48320413
+2f97b50c06cd040155a688cccf6990961f2170cf,/,/,    Add value field to employee mappings in hive mapping xml (#191),/,/,100
+504833f99f9bffd3b92bd46a48daebdabf1ccd57,GORA-320,New Feature,Hive DataStore,gora-hive,Major,97.53954306
+92817643aa5ba2f09337c87d647b5e2a4a25f890,/,/,    All workloads executed and ready for code review,/,/,100
+79e821503d113c24f8903feff224f127528b2d58,/,/,    All workloads executed and ready for code review,/,/,99.56101844
+048a7dd4a5be1630ca771c6d735b13f2e6276657,/,/,    All workloads executed and ready for code review,/,/,100
+c506202378e65627771d01066a5999d5cd5ef20f,/,/,    All workloads executed and ready for code review,/,/,100
+568057c4587cfe9d1bde56edca2f922e3bb1a220,/,/,    All workloads executed and ready for code review,/,/,100
+7a25ec31a5d5d4931590507c37a7a82d26eafbb7,/,/,    All workloads executed and ready for code review,/,/,100
+fa57c91e694db6c6420b301c89e842646011144e,/,/,    All workloads executed and ready for code review,/,/,99.56101844
+3f48dce18047cd404567898399eadc8ebae74c85,/,/,    All workloads executed and ready for code review,/,/,100
+284a95fbf9cadf0e850cbf9e5b010d032a27cd3b,/,/,    All workloads executed and ready for code review,/,/,99.23595506
+671ab051d8bc1c0c909c64381282546e55a1b2bd,/,/,    Merge pull request #171 from jhnmora000/master,/,/,99.23595506
+85f9889c555261c8bc8854e78335499aae9665d5,/,/,    All workloads executed and ready for code review,/,/,100
+b4a57366b22260b6281074a1b75497d921edf9a6,/,/,    All workloads executed and ready for code review,/,/,100
+2c642c1ce0e895881a3bd58f5669a12e87c1faa3,/,/,    All workloads executed and ready for code review,/,/,100
+be695283b4e930d4d68e6d8881bdb4958f9cc794,/,/,    All workloads executed and ready for code review,/,/,100
+db33a88ad702964e652c8bac1f634c1b22a9ea0b,/,/,    All workloads executed and ready for code review,/,/,99.23595506
+cb9bf826a67ee243657080885fb15e7dad9a5fe6,/,/,    Merge pull request #188 from apache/0.9-release-branch,/,/,100
+6167f732183246881747ab0d64bd38f6c36691af,/,/,    Compile examples,/,/,100
+c3ef51dd23d439a941591b1cf3a0682e3c32ffd3,GORA-538,Bug,No content stored for an object field with name &quot;value&quot;,gora-mongodb,Major,100
+877d1188b4945ce69dd9175b6e3d681f5043dddd,GORA-538,Bug,No content stored for an object field with name &quot;value&quot;,gora-mongodb,Major,100
+9b1d297fc11f90850d0360c93b3bd65486a20834,GORA-396,Bug,Correct GoraCompiler formatting for embedded Tombstone class,gora-compiler,Major,100
+66172a080479c9e29ffab442492c3ca60fd8c4b1,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+bd4b34ae74725d57b31ab5e83da3ea77f6213643,/,/,    [maven-release-plugin] prepare release apache-gora-0.9,/,/,100
+482be554aac116e7c984b019df6ccca74e21629c,/,/,    Prepare Apache Gora release 0.9,/,/,100
+d9eefd867bf8fff86bd7ff4c9b147353991137ca,GORA-622,Bug,maven-assemly-plugin complains that group id is too big and fails build on macOS Mojave 10.14.6 (18G87),build process,Blocker,100
+9975533547c7d2c15f454faf21d28f2a0a24dd58,GORA-622,Bug,maven-assemly-plugin complains that group id is too big and fails build on macOS Mojave 10.14.6 (18G87),build process,Blocker,100
+d9b4b8eb73c84806971a7375fe35c038a0a10197,GORA-621,Bug,Remove log4j 2 transitive dependencies inheriting from solr-core dependency   ,build process,Major,100
+60bcac3e346eee8ee1c7a7119c1b29f931603a55,GORA-621,Bug,Remove log4j 2 transitive dependencies inheriting from solr-core dependency   ,build process,Major,99.59404601
+c29f752d8cb4b9d1123911424e4f9036655ff91c,/,/,    All workloads executed and ready for code review,/,/,100
+37e6c12ff72adc28e6305860dd8abfb52110a70c,/,/,    All workloads executed and ready for code review,/,/,100
+689b13c83e3c4528c35286b5f8b7b263bf263775,GORA-532,New Feature,Benchmarking Module,,Major,99.9103139
+2ca15b327a6f3d3fc64c36b969686c618fdb1ddf,/,/,    All workloads executed and ready for code review,/,/,100
+4068345c8d5b2846c57ecf34d1d1c9c2e0e4a908,/,/,    All workloads executed and ready for code review,/,/,100
+be3b2eb753e7d3c09abdf6ef094c99e0901e8ba8,GORA-532,New Feature,Benchmarking Module,,Major,100
+e4456a3e1221b915d5f6efd7bc943a2c52467fd9,/,/,    All workloads executed and ready for code review,/,/,99.5047276
+d0c1897d27b52d9dcef46b248df7d012d2a34d1c,GORA-620,Bug,Migrate HBase auto flush parameter name in Pig Module,gora-pig,Major,100
+bee2240a02b985131f15ad0d887d04c0c72232a4,GORA-620,Bug,Migrate HBase auto flush parameter name in Pig Module,gora-pig,Major,100
+5973677818221a5d8c25b7d9131dc6ca8b04fb88,GORA-619,Bug,Remove duplicated properties in gora-tutorial gora.properties,gora-tutorial,Major,100
+cf8e66b9a580cbf79542586b4cd56012cdd5570f,GORA-619,Bug,Remove duplicated properties in gora-tutorial gora.properties,gora-tutorial,Major,100
+3ee5663944fcf2fe59186a38b9cc195b3fb33fac,/,/,    Merge pull request #172 from sneceesay77/master,/,/,100
+30645c08b15553df3955f492631421e6a7bf5474,/,/,    Merge pull request #173 from LahiruJayasekara/fix-gora-compiler-cli-output,/,/,100
+d92d298186b1cc11de4a89b6752677421223b8c8,GORA-618,Improvement,Fix gpg-maven-plugin and checksum-maven-plugin issues for the release,build process,Major,100
+d177a938def592312238440be78aca23b1608aff,GORA-618,Improvement,Fix gpg-maven-plugin and checksum-maven-plugin issues for the release,build process,Major,100
+506331f1d20e83a667fc562a3d177a831e66e47a,/,/,    Merge pull request #180 from kamaci/master,/,/,99.5047276
+7cda23f62558cfaa2192c07df16a98fadc0bcc9e,/,/,    All workloads executed and ready for code review,/,/,100
+9503d68c8c5f33f929ce9db04dfe7a73a0986e98,/,/,    All workloads executed and ready for code review,/,/,99.5047276
+7327efe302db791b5800cd7d39eb9573e6c4c1cc,GORA-617,Bug,Fix Inception Year at Gora Pig Module,gora-pig,Minor,99.41520468
+56024e54065bfaf3aca0ea39d56938544719b816,/,/,    All workloads executed and ready for code review,/,/,100
+d90d2dfa4c2b377dfa53948dfd7841df6cba43dd,/,/,    Ran some benchmarks and added some benchmarking results,/,/,99.41520468
+95c607c3dd493b6cdd5958ee12287379e4c53e01,/,/,"    Replace ""\n"" with `System.lineSeparator()`",/,/,100
+05bf5e43e4b12a786fbc45488931b7b8c908d72c,/,/,    Fix goracompiler cli output for --help,/,/,100
+1be58412bc5a221f14bc92f05fac70d1f0582f4e,/,/,    GORA 616 Fix Multiple slf4j conflict issue,/,/,99.41520468
+21075471efdea9a2082151a691772b815d521f9e,/,/,    week 6 Added couchdb to the benchmark module,/,/,100
+32fd4208785b396b6067239afad0f389167606bb,/,/,    Automate running benchmark using a bash script,/,/,100
+80323c1b85c19190a0f634a8e9c524f70ab04613,/,/,    Automate running benchmark using a bash script,/,/,100
+dd1054211bc884e2ad9985de82f2d1b4054c3822,/,/,    Added functionality to auto generation Avro schema  data store mapping and data beans files,/,/,99.00562041
+d7ed667d156cd8d6bc9e6e9dc3c3d20219d636b4,/,/,    Removed reflection  optimise code as suggested mentors  did some basic perf testing,/,/,100
+0835d5b41c26c96457eb9094019552cd3f6e21e6,/,/,    Week 2 minor updates to code  mostly doing unit test and testing the benchmark system,/,/,99.83249581
+8b9eeac0608b27bd337b9e4cafe3599c05fa58b9,/,/,    initial commit: implemented basic functionality. Basic testing works  now doing more against actual data stores,/,/,98.60748477
+bbba90f16fef3d10f5440f9dee8b3c2fba57cba6,/,/,    add generated files,/,/,100
+47325ef4307e4fd5c34e707495e2f4689691c557,/,/,"    Replace ""\n"" with `System.lineSeparator()`",/,/,100
+943d86632fb2d4627b2f4f123ecefb1c9abc7be7,/,/,    Fix goracompiler cli output for --help,/,/,100
+56a8be0620d48d7e54d999f6018ff0ef82d0d5cb,/,/,    correct format of tombtone class,/,/,99.90958409
+a04e09b1f9c129b2ef4da4fbb38a0084579590a8,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,100
+f468a6706642b78665698c8b7e456e13eeaf0968,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,100
+afd66e408abf49cd484a902ee76f2eef97423730,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,100
+a5bdf81383dc41364175696bcddadefcee8f585c,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,100
+3e650149ea721b201e0ddc9bd77fbff9ae2c7084,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,100
+e517117580eaa96df030a13b9cd943786c5b3187,/,/,    Add gora-mongodb settings to gora-tutorial,/,/,99.90958409
+15a8426724be09f893f138a862646163e213a26e,/,/,    Merge pull request #169 from djkevincr/fix_issues_with_checksum_plugin,/,/,100
+33b46e0dc1c6b3193cf53bd46ebcf58a49f5db5a,/,/,    Add auto generation of checksums to file extensions,/,/,100
+57448088300149d40048b14c166de7ab9419f802,/,/,    Merge pull request #168 from djkevincr/upgrade_checksum_plugin,/,/,100
+5f21e1e7da64e45f315250585782c2f67f5f0d1a,/,/,    Add checksum plugin to release profile,/,/,100
+ea28767bf9afda6d08807a9ccfa794bd6bd2c6a0,/,/,    Merge pull request #167 from djkevincr/rsa_keys_djkevincr,/,/,100
+7e81becafac5deddbded0ea4f96cb323eebfdfb5,/,/,    Add release signing keys - djkevincr,/,/,100
+40fec32db4e130d8ff1ef6ce1ef04a6afb8087ea,/,/,    Merge pull request #166 from djkevincr/remove_duplicated_code,/,/,100
+8faaa4a902c9c9981f9e5b2219e0a437813d7849,/,/,    Remove code duplecate introduced by PR #156,/,/,100
+5de8b6b7ebcace007b9c5bb86a7d568fcb411825,/,/,    Merge pull request #156 from jhnmora000/master,/,/,100
+189ce6b6cb3df7c205dfc98a4922337a3b73f117,GORA-614,Improvement,JCache datastore should be able to work with any JCache provider available in classpath,gora-jcache,Major,100
+238d1c0566452aa58e577eb02a16d313b86c20f6,/,/,    Fix proper closing in cache provider,/,/,100
+d34d32bb3097ef7251884a31a748c23ecbd7b5c9,GORA-614,Improvement,JCache datastore should be able to work with any JCache provider available in classpath,gora-jcache,Major,99.90958409
+b848deb7f89822cf59a171e21dfa3161f92f6e07,GORA-610,Task,Upgrade Apache Avro from 1.8.1--&gt;1.8.2,avro,Major,100
+81e8f511fc89546b156467eff0a6344731557f39,GORA-613,Improvement,Remove deprecated method usages Flink Module,gora-core,Major,100
+ae505d68be6f4c126d1bbb72a40ddb3a2b8dcf6a,GORA-613,Improvement,Remove deprecated method usages Flink Module,gora-core,Major,100
+a56c6f10b01e96beb07af7dc2ef7b9fb9fea924b,/,/,    Upgrade AVRO version to 1.8.2,/,/,100
+04d80101937123af1e9828bcc5433cbe2ba3773f,GORA-612,Bug,Fix Flink word count tests after merging PR for GORA-565,gora-mongodb,Critical,100
+c6f3f0996b8031d4ca1f6e2e327730c796239b13,GORA-612,Bug,Fix Flink word count tests after merging PR for GORA-565,gora-mongodb,Critical,100
+b3b1abb2ac3f62ceb720cd182a6cbefc048203c0,/,/,    Merge pull request #161 from sneceesay77/master,/,/,100
+9b85f5a29fb11d54a690e2bce49da11679dcb3b2,/,/,    Merge pull request #158 from cuent/master,/,/,99.81933153
+21eb666b162d492a9c03de6ff8289be5e442ec69,GORA-611,Bug,Fix intermittent test failures with HBase module,gora-hbase,Critical,100
+550462e71c6f41b92d2bd6eade0e4957b079e842,/,/,    Add auto flush as a property from conf,/,/,100
+d84d6998fa0b42e043a490d82d1df0578cb1446c,/,/,    Improve logging for exceptions,/,/,100
+2d65ca654642def73497ba8fbc4c48d59e766fe9,GORA-611,Bug,Fix intermittent test failures with HBase module,gora-hbase,Critical,100
+ba17009dd46e6c5f061eb58a68e7114e59a8e645,/,/,    Remove unused imports,/,/,100
+63542b00e3d08aa72efd21351b78a6c851c8baab,/,/,    Improve asynchronous flush behavior,/,/,100
+cb35901994d9b7d7b2bd3576409890cd17f84131,/,/,    Fixed SparkWordCount Program by adding a flatMap functionality  tested this with MongoDB but should work for other data stores as well,/,/,100
+a2e0ee784252f05982493396fcc48ee2fd2e05bf,/,/,    Fixed SparkWordCount Program by adding a flatMap functionality  tested this with MongoDB but should work for other data stores as well,/,/,100
+ff18fd397130aa18866ff130c903b77887c98b25,GORA-611,Bug,Fix intermittent test failures with HBase module,gora-hbase,Critical,100
+deb08b02f506ca12aaabe4472dc2fc27ce50863b,/,/,    Merge pull request #159 from sneceesay77/master,/,/,100
+75997da16d1bcbb94277b8c75fe831390bd03347,GORA-549,Task,Remove PersistentBase extending java.io.Externalizable,gora-core,Major,100
+181ee2d0217d4d192a7a1aa55f4e8906b036905d,/,/,    GORA 411 - Add exists(key) to DataStore interface - Apply suggestions,/,/,100
+7b80edbfe28a488e1bbbe69741ff9f8432a676b8,/,/,    Remove deprecated API calls from HbaseStore and HBaseStoreMetadataAnalyzer classes,/,/,99.81933153
+eef7aecbe899eb772e48afd4e576449cb7d12c63,/,/,    add compiled avro class,/,/,100
+b49a2d8c41db306b4a1aadccb04ba023668ee7a6,/,/,    add avro schema,/,/,99.81933153
+9aacf0f5ad895c7d5995b6b25635da9fd8488199,/,/,    Merge https://github.com/apache/gora,/,/,99.81933153
+21283f6d7fbf64a87f98c9dea49d1fac87bd88f1,/,/,    Apply suggestions,/,/,100
+3e1735638eb179a2246a8208b744f0e3bfaabc24,/,/,    Add unit case for infering types for query in lucene datastore,/,/,99.81933153
+b04910db450eae9302c7b8536b805a25dcfb4c35,/,/,    change spacing,/,/,100
+78d971063ea902f7d097cb5301351652c92fe5ab,/,/,    infer datatype for building range query,/,/,100
+ab40eadf2da890903f4c5d74d0cb6f5459a5f995,GORA-549,Task,Remove PersistentBase extending java.io.Externalizable,gora-core,Major,100
+8bb377b272666c2e9d071293f5416c95ffae0a01,/,/,    Merge pull request #140 from djkevincr/flink_backend,/,/,100
+62ac8bb632def81e4822a8f340021a03ed4c0351,/,/,    Fix javadoc issues,/,/,100
+e6e6c2d91e0e8b6549b5eda8973e5f3c150a7774,/,/,    Fix HBase Store Flink,/,/,100
+c4e29f3e7d2823406a8d675c376935bbf03396d4,/,/,    Merge branch 'master' of https://github.com/apache/gora into flink_backend,/,/,100
+2325c61a9280d310818f99dea19853718c613557,/,/,    Improve Flink module with custom serializer,/,/,98.35841313
+0fc75e9ae42939a58e6864c81d868e8db1a2092b,/,/,    Merge https://github.com/apache/gora,/,/,100
+81165ab04101234eb32407eba92a579429811ca8,/,/,    GORA 411 - Add exists(key) to DataStore interface,/,/,100
+c7cae4dd788129153c1ab569883bdc4212b3c9db,GORA-545,Bug,Boxing/unboxing to parse a primitive is suboptimal,gora-infinispan,Major,100
+e325402aaa84d4f1501eb00c2c3f5c15e32713ca,GORA-560,Bug,Fix build failure due java docs,build process,Major,100
+9b4f29d41a71f58e2a0a31d03f1bb8117a9e8d60,GORA-545,Bug,Boxing/unboxing to parse a primitive is suboptimal,gora-infinispan,Major,100
+0be0dc4618498c33e1f1c6105e45276c4c9143e4,GORA-560,Bug,Fix build failure due java docs,build process,Major,97.32858415
+b4b0228125aa129ca84efeea63b9c7dac9b61cb3,/,/,    Merge branch 'master' of https://github.com/apache/gora into flink_backend,/,/,94.23076923
+405bbf6bc240b726f6088a9782a2dda9a6c1c8f6,/,/,    Add Flink job test utils,/,/,92.97597043
+c64f4a533a44a7a947f14e225c8ddeffe3962095,GORA-554,Improvement,Upgrade Solr dependency to latest,gora-solr,Major,100
+c57a14611951a6587f8eaba95b5b6b378997385a,/,/,    Parameterize queue size and thread count,/,/,100
+6e552cf090053ecbb1ab4251528754373d0dd511,/,/,    Fix minimum value for solr url count,/,/,100
+ccdddfe067274bfa3612d9e866c2f86c2a6c87a7,GORA-554,Improvement,Upgrade Solr dependency to latest,gora-solr,Major,100
+7047f10b7c31fdb70b7088de0f0c02ef4e5d2d39,/,/,    Merge pull request #152 from djkevincr/LUCENE_STORE,/,/,97.66055046
+09981b81a46ad43379b7f9fc9d8463c8954094ff,/,/,    Merge pull request #135 from alfonsonishikawa/goraexplorer,/,/,94.79262673
+c6396de2d9100032e58a39e6138787a2c133257e,/,/,    Clean up code for the release,/,/,100
+6a8f225173324e4bf593b3ec2bd60015e80d3f08,/,/,    Fix test cases,/,/,94.79262673
+0259f2ff599789739ec402ffc24afdc6d5392f5b,/,/,    Merge branch 'master' into goraexplorer,/,/,100
+d4c5710894d7a141863d94fe66ad79aea0b9eeec,/,/,    Updated Gora-Pig example: deleted webpage.jar and updated README.md,/,/,100
+ec8b737e913ebe887e8d79e463fa49ecbc45ba95,/,/,    Fixed javadoc comments,/,/,100
+05499d26b0fd6b2ccaaacdd665ae4a45808bd642,/,/,    Added comment to Persistent#clone(),/,/,100
+5ebd0e716736f3412088a6b9730563e4957f8683,/,/,    Updated compile-examples.sh to preserve package-info.java in the examples' generated folders  and added deleted package-info.java files.,/,/,94.79262673
+0a0ebbf02c08e303eacddc45854f8cd6e0e0f9d9,/,/,    Implement size method for LuceneResult,/,/,100
+224a3c368dae92bf0a6a8725b68b1fba9eb4a040,/,/,    Merge with master branch,/,/,96.35555556
+3d921068b225994b20a31eef703d889cdabb05b4,GORA-266,New Feature,Lucene datastore for Gora,gora-lucene,Minor,95.28513696
+b366e6c5b70a7de8c15d0af4623a6ed4b2810830,/,/,    Merge pull request #151 from djkevincr/developer_info,/,/,100
+8c373011bc0973df1f2136fda9b72b64a74d8552,/,/,    Update developer role information,/,/,95.51192146
+6ce47dcdea60e4b0d3abe03ddac01a65716cc173,/,/,    Merge remote-tracking branch 'upstream/master' into goraexplorer,/,/,97.19581749
+40ca0af450471fa0b0051200f93f1a30730ee380,/,/,    Added license headers  updated gora-pig example readme  updated dependencies,/,/,94.06657019
+4e7535a5de518cf4be28873da7a218fd89c1d8da,GORA-550,Task,Update POM for the move to gitbox,build process,Critical,100
+692fdd600bc6224902aea3b76e671d5efa5ef589,GORA-534,Improvement,Prepare gora-hbase for HBase 2.0 release,,Major,100
+b6c5132d8b532a3f0c1671932735825d41a1a0e9,GORA-550,Task,Update POM for the move to gitbox,build process,Critical,100
+e9c561e5c98a10e5344b5899b6c65cf701589833,/,/,    Merge branch 'master' into feature branch,/,/,100
+64380fd327b996443b061d01694e70b2c6ed3e13,GORA-543,Task,Upgrade Apache parent POM to version 21,build process,Major,97.83631232
+0361086ee17ecf823c5e5c59dbc8b27a77097c94,GORA-548,New Feature,Introduce Apache Flink Execution Engine for Gora,gora-core,Major,97.83631232
+6a90102ca121229db1e172fd4f84481117a71dbc,GORA-547,Improvement,Upgrade Aerospike datastore to client 4.2.2,,Major,100
+dff8b1a7821262b5158905abc30091f56dd4790e,GORA-543,Task,Upgrade Apache parent POM to version 21,build process,Major,100
+56f8002ab47a1a1190bafa3ea327c6f4ffc900ea,/,/,    Remove committed nbactions.xml file,/,/,100
+ad8a8978a5bcc1cc177bc2fabcc92cf70e861906,GORA-534,Improvement,Prepare gora-hbase for HBase 2.0 release,,Major,94.06657019
+2974126a934bddc526830182b402767c0f1eefd0,/,/,    Deleting a comment related to gora-pig using HDP 2.6,/,/,100
+2e9508bc02e7624f3d3c84a544bf4f5425ddbb1a,/,/,    Forgot to revert hadoop+hbase versions after implementing gora-pig.,/,/,100
+eb97b425e36e2b9e4053fdc7ab59f7951b91e631,/,/,    Forgot to delete goraexplorer distributionManagement (pom.xml),/,/,100
+3b11b1c0e6852be80487963213c8d32774aa0c7e,/,/,    Updated version from -goraexplorer- to 0.9-SNAPSHOT,/,/,100
+6cec5f66c42d5439f1c491ac2d6d9c01d831db29,/,/,    Merge branch 'master' into goraexplorer,/,/,99.50884086
+89225d7ab30ef8fdc650d74ae93454a88fe14dc9,/,/,    Fixed imports,/,/,94.15741188
+446f42ea3685691ee10cf5054a055e8f1685077f,/,/,    Improve SQL building strategy and add MR tests for Ignite,/,/,97.76286353
+8220a15915a86faa68419fe47fd78d4c349f8353,/,/,    Add Ignite to the dependency management section,/,/,100
+740ab8145ac6c004d2b10ea46ea0f5c2a0a9f71f,/,/,    Improve Ignite Datastore to better suit Gora's coding standards,/,/,99.83050847
+87eddc2495cdeec9b28246ea08708540c365f34e,/,/,    Implement Queries for Ignite,/,/,99.65957447
+db7540e045fc07ef39d37163a263615c6e580efe,/,/,    Implement put  get  delete,/,/,100
+b1e2ae4c902691bbce02a90b76c4bee1c6e58455,/,/,    Implement schema handling methods,/,/,99.91452991
+7545170df8047ea6127660c1750e1d0b59044e49,/,/,    Add mapping reading and initialization for Ignite backend,/,/,95.50111359
+7d671376a47a7251dad9df2e8176946b4ddb3420,GORA-535,New Feature,Add a data store for Apache Ignite ,,Major,95.32374101
+a8398651d0b75fe9f161496b266b43d6382399b8,GORA-536,Task,Avoid calling Class#newInstance,,Minor,95.32374101
+4346216ffbed9a9adef2b90589436de543167c4c,/,/,    create template gora-ignite module,/,/,95.32374101
+fb4b3552a497ea082cec27c69512e7f91dbca619,/,/,    -Fix formatting code,/,/,95.2886836
+5578e731d97d974902d923da646650228a2a1446,/,/,    Updated GoraDeleteStorage to allow STORE that deletes rows by key.,/,/,97.82503625
+77be0d83d64f51553a915915ee6d56dafb6e75ed,/,/,    Updated Pig's GoraStorage to allow STORE operations.,/,/,96.31818182
+791e14cb9c8ac13fe4506470f2b8921c3cc542da,/,/,    Add ending line,/,/,100
+3dada3ae68d58491197deb8a3c1cc3f5504a48f8,/,/,    Fix formatting code,/,/,94.09395973
+4ca9bd3382d1e6b5e768f984b4ab804d6f0259bd,/,/,    Updated GoraStorage to allow several LOADs from different origins.,/,/,94.09395973
+5c3acdcbe14ee0d5174ae0a22c4222676342d82e,GORA-444,New Feature,Add #size() to Result API,gora-core,Minor,100
+8d99c0554f4dcd620489eefd7963bce4d0a89dab,/,/,    -Remove empty lines.,/,/,94.22043011
+0b60c1fa734001f087c9865c49fdeaebae574557,/,/,    Support in gora-pig of JSON configuration for GoraStorage.,/,/,99.9076639
+8e3e3f35b903be1f73ae866f03b9c0da8c097db5,/,/,    Refactorization of GoraStorage for LOAD command,/,/,99.30491196
+0afed6a711c208fee64328cb852712e57036af5d,/,/,    Initial commit of gora-pig,/,/,95.58194774
+6d40006563f96442c039b9541355e3c18390ddab,/,/,    Fixed errors after merging,/,/,100
+5e5e43dad805433c533948f63599ed27706ed6cb,/,/,    Merged with Gora 0.9 - breaking code  will fix in next commits,/,/,97.42765273
+dc70b14b542830cee434329cabee1b801ad51254,/,/,    Removed mistaken import,/,/,100
+346ec4300c47b129e06411dc9cea097dab9a8e8e,GORA-530,Improvement,Reinstate exception throwing at Query#execute(),gora-core,Minor,100
+eb4937418e700af5f8518f66e3d29bfc4d110798,/,/,    fix 2 space indents,/,/,100
+0ee48ab3d96445a280852a1fd04206efb883baa9,/,/,    Add #size() to Result API: Accumulo  Avro  HBase,/,/,100
+76cc89cddd2cbda42518de8e304e92e3f341a744,/,/,    Add #size() to Result API: Aerospike  Cassandra  CouchDB  DynamoDB  MongoDB  OrientDB  JCache  Solr  Mock  Mem.,/,/,100
+750bf9d42a607d6f466ab9b93789cbb016948a69,/,/,    Add Cihad Guzel as Apache Gora developer,/,/,100
+b782a0a58ad5886604e1e80a051727dc7fe101f3,GORA-530,Improvement,Reinstate exception throwing at Query#execute(),gora-core,Minor,100
+e2d7341b3b72c001d5601c30f2d268f8987a7a4c,GORA-530,Improvement,Reinstate exception throwing at Query#execute(),gora-core,Minor,97.47276688
+dc754b16e2798242d2a050ba355488566d2ede08,GORA-528,Improvement,Add Support for Spark 2.2.1,gora-core,Major,100
+ff0918d4b8d6e45b0188e6a95ecf83b6ee1de0cb,GORA-531,Improvement,Upgrade HBase to 1.2.6,gora-hbase,Major,100
+28b78fae7a943c51e7c7d5f4a4802d913ef7fd04,GORA-528,Improvement,Add Support for Spark 2.2.1,gora-core,Major,97.47276688
+73db5970c0248433d25be914308f76b03fdef175,GORA-530,Improvement,Reinstate exception throwing at Query#execute(),gora-core,Minor,100
+b06da5f32ec572c88f7ec5245a4b573c73ae8c22,GORA-530,Improvement,Reinstate exception throwing at Query#execute(),gora-core,Minor,97.47276688
+e66d8cd80c0fd29925050aec9ff96095617dd076,GORA-421,Bug,PersistentBase#setDirty() does not set dirty,gora-core,Major,100
+546a1c7d5d40f45e7ce2331255c1763a5b04579e,/,/,    Setting dirty with value -1 (11111111b) instead of -128(1000000b) when calling setDirty(),/,/,100
+f028a548b933c73c85c1f15a4900fe93fc1c4908,GORA-529,Improvement,Remove org/apache/gora/avro/mapreduce/FsInput.java,gora-core,Minor,87.04902868
+6dc22695d51eb464df4bb27765b1af18ca757b9e,/,/,    Added a constructor to BeanFactoryImpl with String parameter,/,/,87.37327189
+ad3f69751b3185fd0d178d5e7ed672960ffac343,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,100
+6428f2c6753975b5e72ba3d7c7eb69d1e1d578d1,GORA-503,Bug,Field index 0 is always considered as clean even if it is dirty,gora-core,Major,87.37327189
+bf1165fac897d7d51fd6645a0eb8dfdd4eb4165c,/,/,    Updated Persistent with @JsonIgnore to allow jackson serialization,/,/,87.37327189
+4260fc0c6c52a8e3b03e08619afb5550a29541f0,/,/,    Adding Madhawa Gunasekara as a Gora developer,/,/,87.37327189
+0ae4ec44259ea0e3feec3e76671420438547fdae,/,/,    Updated DataStoreMetadataFactory to throw ClassNotFoundException not,/,/,100
+e3496145d2ee1d147bcf2af176b99c0ad12d43b9,/,/,    Added missing #close() method to DataStoreMetadataAnalyzer,/,/,100
+43ddc91f9e0b77cbefdda850b7aadf3261505e04,/,/,    Implemented DataStoreMetadataAnalyzer to retrieve native backend,/,/,87.37327189
+1d5ce0051975f0aca46258ba1efe714768589b2d,/,/,    Fix validation for persistentSchema in avro serialization,/,/,100
+6737f0f1aef3154944d5a1a1d30ec41c5484d595,/,/,    Update Gradle versions git 0.8 release,/,/,100
+e1a496b2b95fa33313586870e821eedb14cb3ddd,/,/,    Add Nishadi Kirielle as an Apache Gora developer,/,/,100
+fd2a5eee547d4f46c4863ba5c16e40bdde0a72e9,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+d173382084f73f4b2779fcb9131498f11f010371,/,/,    [maven-release-plugin] prepare release apache-gora-0.8,/,/,100
+b13743d9d90fbffa6edbea34d6ea80a60ccb8c8b,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+68c67db30cc1b9d0eb564571750e4ecf65276855,/,/,    [maven-release-plugin] prepare branch 0.8.0,/,/,100
+e7b97c70796be9f0b62d5d05a28c85486412c39f,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,90.51269765
+9617fbce70fef3ad0e0de235bab92bf6c836a647,/,/,    Prepare for Gora 0.8 RC#1,/,/,90.51269765
+96b9e96df165757f766e414633ae7ad05dd9d05e,/,/,    Fix java doc issues,/,/,100
+f6317e44558135dcbb58b188900019fe21e4eea6,/,/,    Resolve conflicts with master,/,/,85.96222563
+2303e85c5ba9e2aaa72b0e3ea88d589e312df104,/,/,    Make batch arraylist thread safe,/,/,85.82949309
+7a0174fa338294b3ff20859ad3b776b7f0e2970b,GORA-525,Bug,Fix java-doc issues in Cassandra Datastore,gora-cassandra,Major,100
+742df58cbacbac40aa29045c332089a98e21a286,GORA-525,Bug,Fix java-doc issues in Cassandra Datastore,gora-cassandra,Major,100
+e7b4c3d162331f97ac2ef59ed939d5ed81103cd8,/,/,    Remove duplicated gora-solr declaration and add to .gitignore,/,/,100
+52d583affe4e4132d682e011930fe9c466fed27f,/,/,    Remove hector dependecy,/,/,100
+89683c743000df84daddafdafe2e3308480e5c73,/,/,    Rename gora-cassandra-cql module into gora-cassandra module,/,/,84.74399164
+cbed41d00ab55776b8f7647ffe00818ff736ddba,/,/,    Removing old gora-cassandra module,/,/,86.57187994
+3d4e1d69a27b96583cc9c8ccc1cd4abc9a7bf0b9,/,/,    Merge branch 'ISSUE-497',/,/,89.18640577
+ce78ef520c44a075dd24d02f41edd4cccf47bc4b,/,/,    Fix code review comments,/,/,92.60700389
+837b12606b3c857c1d8df4b05424c607f3580230,/,/,    Add map reduce based test cases fot aerospike module,/,/,99.31972789
+31af406eb992beebcb8c0f6908df8031ef179aeb,/,/,    Fix the error in removing a bin value while updating in aerospike module,/,/,93.17738791
+683d902dc66c21b2353292880a00e0e149e548d4,/,/,    Fix code formatting,/,/,93.17738791
+18c6426d1fbb60f0a52a5a7a021690f62d821955,/,/,    Update dirty bit clearing after fetching from data store,/,/,100
+bebc7a8a524e19739f6128437bab06212a35e75b,/,/,    Fix the put method to delete the existing records only if certain fields have been removed,/,/,93.17738791
+1fba41622f64af497b9da81fe6aa7de069da32c4,/,/,    Add Query level consistency,/,/,100
+b1f906c263217909d7c8ba555eb2464ea120ade5,/,/,    Add java docs for Native Compiler,/,/,100
+266ebf464983940a1e36f2bf15737d258d471f24,/,/,    Reformat the code,/,/,93.17738791
+460f9f5b0f30b4ddd5d568ea4c381779e9dcf6f3,/,/,    Add support to retrieve partitions in aerospike module,/,/,94.52571968
+0de528effcfa595ff9f9c5cb3d0c7eaf18392554,/,/,    Fix code review comments,/,/,100
+2695207be60528c10f0d03ac097c0af73a2ab292,/,/,    Add License Headers,/,/,100
+a2d63caeac9b1b640ea2d2004e4312393ec6efcc,/,/,    Add Cassandra Native Compiler,/,/,99.81676592
+a9a3ad4922a45a76c8c6b1b76c011d72736e0c30,/,/,    Add tests for avro,/,/,94.66477809
+b26691806891840645059fa5e3a6c86f167f32cb,/,/,    Add support for connecting to authenticated servers in aerospike module,/,/,100
+170b62aeae48d2cff474edf0b275b0f2bb3a5f88,/,/,    Update the policies as per the 4.0.6 aerospike java client,/,/,99.80497318
+a2a4840549f7468500a8c903612b0383d0b7b975,GORA-517,Task,Upgrade Mongodb Java Driver to version 3.5.0,gora-mongodb,Major,95.01199041
+962d7a6ad830b8a6feca752ddf39f4d705bd563e,/,/,    Refactored the code,/,/,99.20037629
+99894b82ae77290ff43d84eeffe638c3ed55d2d9,/,/,    Fix functionality of the UpdateByQuery for Avro Serialization,/,/,95.117281
+1500916bf165064d370c3583a19350010a88e2a1,/,/,    Update aerospike java client and remove unsupported policies,/,/,100
+0e8b046e38af1dbf1fe4b2437b0865cb83bedfad,/,/,    Merge remote-tracking branch 'upstream/master' into issue-502,/,/,100
+d555d56324cfa620bba111242931fbb7337bfe4e,/,/,    Remove unwanted container stopping,/,/,100
+7a56d2484badfbceff130dab0c128f1a581827c0,/,/,    Fix container stopping error,/,/,95.117281
+c5352b0e077ad1bebe6f3536e7fd1efe2fef5cfa,/,/,    Fix review comments,/,/,95.117281
+7a5d7677e6ae10318907876c58727d68bdd72bac,/,/,    Add log based waiting strategy for the aerospike tests,/,/,99.31473324
+38037ca9530c84c8b7d88284d19b47bbc3f0ab58,/,/,    Add dependency management for test-containers,/,/,100
+9c384099633c80249316af35922c99a70cbbc5be,/,/,    Fix formatting issues and update java doc comments,/,/,100
+c0aa76eb16031973f3e897ea535a0b38bfb7f11f,/,/,    Update the query results to get the progress for aerospike module,/,/,100
+360c6046623fc425c2125b2f9410290dbe5d69c6,/,/,    Add a profile to run test cases,/,/,100
+74147203997d0ff078b5847a0749b3e0f30d2137,/,/,    Configure maven to skip the tests by default,/,/,100
+08fb5dd3465bf636093b056b059c8ce2deda42df,/,/,    Update test driver properties for aerospike module,/,/,100
+6ee55e92440c2eb8a25bffce9fe0b18e1d49b67c,/,/,    Update query result key mapping in aerospike module,/,/,94.91362764
+a51b719cb265ec63f9699f74b498efc0d27c1920,/,/,    Add avro serialization support,/,/,94.91362764
+dbe962a24475a2d288e1e1ff681c21ccd05b5cbc,/,/,    Update the test cases,/,/,100
+390a4358394c91b08ac7903d69689a62cc8c0fc8,/,/,    Add persistent base dirty check,/,/,100
+c485f5bed92b784a4dd915c6fe5d7b95a9990618,/,/,    Add delete by query functionality to aerospike module,/,/,100
+2d667edb08ac241e857c9922d05f13a00c91fdc3,/,/,    Add initial query model for gora-aerospike,/,/,94.86419753
+b58722b587a29c8d8d069ceaafe4c2f63f6cc47e,/,/,    Updated pom.xmls to deploy,/,/,100
+055d5b48cc618b41b2a2d41d95e83fcfa232d838,/,/,    Added #clone() method to Persistent,/,/,99.70267592
+3b35c36fa6855512fe3a228b82caf32952271203,/,/,    Actualizando el proyecto a todos los cambios de la release 0.7,/,/,93.32688588
+434398203b50c8bc4a71b116ebfa99ef6d0de8a2,/,/,    Add optional codecs to support all the datatypes for native serialization,/,/,86.02150538
+71a95b98f37d268eeafd2fb653ee1b2158416eaf,GORA-513,New Feature,Implement OrientDB Datastore.,gora-orientdb,Major,86.11410118
+cc452f8dc0d864c50279dfa61d56e57e5e40a740,/,/,    Add updateByQuery for native serialization,/,/,100
+4ebfabb194c88fa10db51d6f2db6282a357ae15d,/,/,    Add getPartitions Method,/,/,100
+163624a9596298bf80bb41360fcd246a886a0688,/,/,    Add logs for NativeSerializer,/,/,100
+2fe2c2bbbffcbeb968e523dd332ad087827b3f92,/,/,    Add delete by Query method for native serialization,/,/,99.76292082
+4ce6a6e423700c72b99d28c7419aacc1dfe9e1ab,/,/,    Add execute method  get by fields for native serialization,/,/,95.25882922
+ecd3c598b98212cbd47cd415819b62614496839e,/,/,    Refactor code,/,/,100
+65201d14389de67719d14edc5ede1496b21d17e2,/,/,    Add log4j properties for tests,/,/,100
+3b44781f9514988a31e2748416b1cb7015e2767a,/,/,    Refactor code,/,/,95.82726832
+5e383ef974541804382a639b79e3efbf6b03d2b2,/,/,    Refactored the code,/,/,95.82726832
+d3a44b261461ca260022638f75b83b24bf980641,/,/,    Remove redundant dependency additions from aerospike module pom,/,/,100
+4163a062f4f2986874a4e80a3e38ecf426559b0c,/,/,    Revert gora-tutorial module default datastore,/,/,100
+b61eeaf0529f070ba19db904821b517a9e5528dc,/,/,    Add delete functionality for aerospike module,/,/,100
+c72f418ec98b259673c695ed60fa7290708a1d55,/,/,    Fix base test cases for put and get functionality,/,/,100
+27b015e5dfdb67f8530e7c110d36aa55d0e42cb1,/,/,    Update put and get functionality with support for different AVRO data types,/,/,96.33789063
+89109b855537050f5b9d125a88d26ca2c1d12f78,/,/,    Add tests for schemaExists and truncateSchema methods,/,/,99.85514244
+2695794ad01132486447e489b7e179edb357b974,/,/,    Add Simple Test for Native Cassandra  Serialization,/,/,96.77734375
+7c3390d0a7cf72afe3ffb3e3748f993e85cce48b,/,/,    Add initial test base for aerorospike module,/,/,97.01419481
+516f366cc27fa2654cf4017fa151cc07ad902a6d,/,/,    Add doc comments to Cassandra Store Parameters,/,/,99.02771026
+6617b0bb81b7c7da327acf3be2bef9b8cb77337a,/,/,    Read Cassandra Key in mapping file,/,/,99.65836994
+05b791a62c03a35bdfbf156f795ff00edc61e4a1,/,/,    Fix code review comments,/,/,99.80430528
+a7b99f83aaf385cbe6772a5a0c7843b65153ec57,/,/,    Adding Cassandra Mapping file reading,/,/,97.33464956
+d68be8dfb013d7f8d1e56c94d554166d6440de35,/,/,    Refactor code with comments  logging and exception handling,/,/,100
+00d392f2c71e4c6b3e1c8a2fefff0b30afd7c05a,/,/,    Add get functionality for aerospike module,/,/,99.54977489
+eae36f4752f0e22465df552b1c8da1cb5db347fb,/,/,    Update put method to support field mapping in aerospike module,/,/,100
+13f252e525e103155502953ebdad1006909747ba,/,/,    Update aerospike mapping file to support field to bin value mapping,/,/,100
+b0c197744e40816bd5a1780684e9f31081949790,/,/,    Update mapping reading to support mappings of field names to bin values in aerospike module,/,/,100
+3900a41d9a517025618f346b57bd0c5a1fbe89bd,/,/,    Add support for aerospike in tutorial,/,/,100
+8571ad90db93507118897e7fb51500ac4821c47c,/,/,    Add put functionality for aerospike module,/,/,100
+5608731163dc05b7f8d66ea4071d0a1af04911f2,/,/,    Merge remote-tracking branch 'upstream/master' into issue-502,/,/,97.89579158
+1ad1cc9c96d0e2a12612a9efa76503218a935316,/,/,    Add mapping reading and initialization for aerospike module,/,/,96.52260308
+cd3522aa47c542594dc9cc4d91b023a65db71ae9,/,/,    Initial commit gora cassandra cql with Connection parameters,/,/,96.42679901
+e796c8c511463cefdb6da785baf9373d19795995,/,/,    Add initial gora-aerospike module,/,/,97.59277834
+d5e5560bac73885a34de1df66ea998f76006bc28,/,/,    Add HBase configuration exception for erroneous mapping file and test,/,/,100
+3879e1a68fa1d8fd500a2db1c5be2de8b2a3d4d4,/,/,    Remove unwanted SolrTestStore,/,/,98.69565217
+9e95efe2c5d7345400c1e5d081ad2c75bf833976,/,/,    Remove unwanted methods in TestSolrStore,/,/,100
+3b2f282dd68e6e3bae74c43fdd0b42039a9193d1,/,/,    Remove old solr module and Rename solr5 module into solr module,/,/,96.7339097
+c506f44f53f474b0ed7f1ffad47d087dace680a1,/,/,    Fix code reviews,/,/,99.15296462
+a4b26e6c8b320b88d6a802f653a30b5d971d58fa,/,/,    Add managed schema tests,/,/,99.35097354
+47d6d678e4ad80aae798060495b0ea9f5a7f05fb,GORA-509,Improvement,Upgrade solr module into solr 6,,Major,100
+25188aacd98cbcfeec79026a285fb7b1f37187eb,/,/,    Remove deprecated methods from data store test base,/,/,99.498998
+1b20b1072c6a05276519115973b37ae8de8f8325,GORA-511,Bug,Eclipse shows the error &apos;The type package-info is already defined&apos;,maven,Trivial,100
+58df5a4b6fc78631a1a306e514c85533ae11e862,GORA-510,Bug,Conform Query.setEndKey to inclusive query for HBaseStore,gora-hbase,Minor,100
+b9b91ae68d5ecc7a94d9aa14f3a93bb892c5da38,GORA-510,Bug,Conform Query.setEndKey to inclusive query for HBaseStore,gora-hbase,Minor,100
+6e00139362d75c755f311ffffc2236998aaf237f,/,/,    Excluding package-info.java from test compile because m2e in Eclipse does not support duplicated package-info.java both in main and test.,/,/,100
+7c0e34eb942ae2fb990795c6ffce1632edfdccac,/,/,    Resolve errorneous error logging in reading HBase mapping file,/,/,100
+1242a61db95dd10786a50caec1877544ad95e332,/,/,    Generate license to the compiled files,/,/,99.94984955
+3a4f1390673ea29f96be1166a8f28fee4bd7444a,/,/,    Add ability to compile files in a directory via gora-compiler,/,/,99.25298805
+e6eab433cf5584bac1f418dbc0caa5427408a209,/,/,    BUGFIX: HBaseStore endKey is exclusive (since HBase handles it,/,/,99.25298805
+37d44b87426e72be10be780ec35a4b8656994107,/,/,    Remove broken badge from README,/,/,100
+976a5c1db12d61ac2345f5aa6afcda8c1f3f4ed8,/,/,    Fix imports properly in SolrStore,/,/,100
+9b632c5e1a951fbf06126063a3cee9ed65bea9a9,GORA-310,Bug,testDeleteByQueryFields is not sutiable for Solr DataStore,gora-solr,Major,99.54841947
+3a2e1ccfe1bc4338b7425e075341c135c3c0c0dd,/,/,    Fix broken Markdown headings,/,/,100
+ce30d08dc069387f68ede1f7233df9e0e408bf00,/,/,    Gradle plugin: update to plugin-publish-plugin:0.9.7,/,/,100
+60e36d0cf5688f15fcc9e70e06fc3ebdaaa0cb29,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+3b48688f51d6cf618c760b24a341874f12e160d2,/,/,    [maven-release-plugin] prepare release apache-gora-0.7,/,/,100
+d72aedffba18e37a20107ea9b146acbc01cc4965,/,/,    Remove gora-solr4 and update tutorial to gora-solr5,/,/,100
+f05ac182262ce28750d0667f16061b11bc78ee97,/,/,    Remove hadoop2 release profile,/,/,100
+ce8daea35e0af024e73211cd58cd6f2af553f206,/,/,    Increment version values for Gradle plugin,/,/,100
+442c7c2a2f8e643d5dcdea9ece00ab1a09caee3b,/,/,    Prepare for Gora 0.7 release,/,/,100
+d5593751fc8d05e502c15714d77ecd9310c834c8,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,99.54796585
+0a7936017a5330a150ba422d493b59b1ffe3f6bf,/,/,    Change all .txt files to .md for improved readability,/,/,99.54796585
+d1347a5fdb48018050cf25d0e203019521ac8b77,/,/,    Upgrading MongoDB Java driver to 3.4.2 release,/,/,99.54796585
+3f3232112edb829647ae489bed664e585d0b7d5e,GORA-506,Test,Investigate timing of HBase tests,gora-hbase,Critical,100
+2caa0ea3db494c6bb0e74d1f1fc8b8c86ddb5cf0,GORA-506,Test,Investigate timing of HBase tests,gora-hbase,Critical,100
+aa01be9cec54b9a83cf8ddb22a61395461ca0560,GORA-472,Bug,All gora-hbase tests to be comparative,testing,Major,100
+9a253e365d2d38b78e18c848627f0aab6f708a6f,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+d1a12514f1b9a710368877dc7592fc0769a6abda,GORA-505,Bug,TestContainers should be moved to test scope,testing,Minor,100
+b0cd1950c978181890213e1c85e437e44421405e,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+4bbf52ee709aefebc47adc54fea908d1b2fe576c,/,/,    Merge branch 'master' of https://github.com/vaibhavthapliyal/gora,/,/,100
+1d38afc472ba0fd0f67bdb555d1a790aa55ae60e,/,/,    Switched Accumulo Dependency to 1.7.1 and ported AccumuloStore Class to,/,/,100
+ce945da33c42463567c40a2d35fc34a0e23618d6,/,/,    Switched Accumulo Dependency to 1.7.1 and ported AccumuloStore Class to,/,/,100
+76c86b960ea4e4d40e49b9c48fe865ca8e826e8e,GORA-472,Bug,All gora-hbase tests to be comparative,testing,Major,100
+5664dc6791d97116f7613e9bb8407583b411b457,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+21ad6e94a5d3afba02a75e8e102fe7db1d56e4c0,GORA-503,Bug,Field index 0 is always considered as clean even if it is dirty,gora-core,Major,99.40179462
+f3aed481b3d73f655f61e1dd35641f5a03de1415,/,/,    Merge branch 'master' into goraexplorer,/,/,99.40179462
+560704c3afeb76408367fbd37087e814f9a0e7fa,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+c36a2c38b370799bd48a0eb30b1cced4c11dde4b,/,/,    Merge branch 'mongodb' of https://github.com/madhawa-gunasekara/gora,/,/,99.54614221
+f8706c99cbe2f3f1d1eb8bf96d445b6d9c47171c,GORA-501,Task,Fix Javadoc for JDK1.8 compliance,documentation,Blocker,100
+fbf5d58e78e89bf0a4e41c1406652ae7aa8a5f3d,/,/,    Merge branch 'master' of https://github.com/lifove/gora,/,/,100
+d5d673cdf06aacf707c3aff8134a713e189d15b9,GORA-501,Task,Fix Javadoc for JDK1.8 compliance,documentation,Blocker,99.54614221
+84cde80693c5baf593b684c93bd6e8a650c2426f,/,/,    Adding automation tests,/,/,99.54614221
+fb7622fe7c81623e80d6d13bc605a0e974b29190,/,/,    Remove duplicate gora-test dependency from gora-couchdb/pom.xml,/,/,100
+33bab4a3e4711028adc30766b0cc797dab4604ba,GORA-499,Bug,Potential NPE issue,gora-cassandra,Minor,100
+1fe93b6e00c706a862def239ccbbd0bc0821a017,GORA-496,Bug,gora commands doesn&apos;t output results to console,,Major,100
+6658634542ea8c01fec17d0cc05d9217f6e40a0f,/,/,    Add Kevin Ratnasekera as Apache Gora developer,/,/,100
+0380911fc29f2a229ee98e9d8639c748bcaca65a,/,/,    Upgrading mongodb java driver version,/,/,100
+5846373ed25d32a37053853ae16265b7e560eeb1,GORA-498,Improvement,Adding MongoDB Authentications,gora-mongodb,Major,100
+3796843b08037457fa31750121cb71c55387035e,GORA-401,Bug,Serialization and deserialization of Persistent does not hold the entity dirty state from Map to Reduce,gora-core,Critical,94.29484254
+4410c415cc322244046a2234350c8d73f8649757,/,/,    Merge branch 'master' into goraexplorer,/,/,92.45555022
+0f11da5cbd6ad6428dbea890ac35efa7c64f5840,GORA-495,Bug,Gora compiler generates uncompilable databeans,gora-compiler,Major,100
+dd66172613c9450f7a3141ed87b288c59bd8f301,GORA-488,Improvement,setProperties method contains no code,gora-core,Major,100
+1339aad4760ac9afb41a5e1f0eb42b71d0103e2b,GORA-488,Improvement,setProperties method contains no code,gora-core,Major,100
+4cb5a8b4d46e9fc76cd91728855a431ddad2ca34,GORA-412,Improvement,Consider location of @SuppressWarnings(&quot;all&quot;) in compiled classes,gora-compiler,Major,77.25445146
+b9f9f56bd29ce2fefc57acae76ad31c2f075840e,/,/,    Modified Persistent to return it's schema.,/,/,79.68665586
+28e1011120468f183d7f1fb6371285946420a34b,/,/,    adding Alfonso Nishikawa reviews and test cases,/,/,92.56684492
+70637707188c30111862d716b9af94cf7c742d1a,/,/,    adding Alfonso Nishikawa reviews and test cases,/,/,99.77272727
+ac6c42b37385fd05fa9776e53d6de41320a202c4,GORA-401,Bug,Serialization and deserialization of Persistent does not hold the entity dirty state from Map to Reduce,gora-core,Critical,100
+1d06958112db2a96b6b61934d3bbae9c33270019,/,/,    addding license headers,/,/,100
+f14dbd4be9f0ed0729816466db0a803b1c7598a3,/,/,    adding recompiled data beans,/,/,100
+c103f8951106f037b7e2b075c69610372d65aa4c,GORA-495,Bug,Gora compiler generates uncompilable databeans,gora-compiler,Major,100
+882fac9790e64183999cf6d3714d12d0e73da351,GORA-494,Bug,Lack of synchronization accessing cacheManager in InfinispanClient#createSchema(),gora-infinispan,Major,100
+854899e5db38fa14e7be56c1f850c35387d4df06,GORA-493,Bug,Unclosed DataInputBuffer in IOUtils#deserialize(),,Minor,100
+f5503ef369f2193f6395e72cc1875a94c04b33a3,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+163d91bc284e5b5a53b9d314e9fd317964cef486,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,100
+b125b800187be7304461b6ed25a4288c3c58cd05,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,85.73298429
+01856b565be8b6e890130dedc3bed89f63c96daa,GORA-443,Improvement,Upgrade HBase to 1.2.3,gora-hbase,Major,85.73298429
+bb1a1ac01b09d51018beaafbec5aedd19375f498,GORA-492,Bug,javadoc:jar build error,documentation,Major,100
+4bd9db01a4ca5629d24216f4710fdb550f593335,GORA-492,Bug,javadoc:jar build error,documentation,Major,100
+239b7967b32128df30f67ed862cbdbdceb861dfa,GORA-466,Improvement,Upgrade to Avro 1.8.X,build process,Major,100
+b53627198eb15d648090310033cb04aa90a2ad24,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,100
+b0735a7146191098476ded06044865e3ebbb0281,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,100
+ad7b3074ad2f0960f1c998d1fe745c2a98d9a550,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,92.26993865
+29bab2e2cdec2f9e2a06bade4c56d970eba99fff,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,93.43794579
+3fb6c131056e0eda326f993596a9d6381ba0f3d8,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,85.73298429
+a73e4190df396b11caea16fddd714d6af44759f6,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.5423341
+57256e131ee547c3ed8f5f17cfa1f4c1d4373caa,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.76958525
+cf52935d1cf71abf8ff49c40d4c867b149fc768f,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.65237543
+228c821e1f0edb31333cafb1d9dfd92eb0bc9c2c,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.53271028
+5c0cc79a1734a0ccdea2aabe22a312ba4a67ca48,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.76470588
+cbd8ad0ed04a4f47f7a48f50c10f62507a0c725d,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.88193625
+e97ecf1ec420e7bb5054e601207d139b4fa292c8,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.52494062
+0eb2946c8289283d111eb65587dc76fd590b8a82,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.64071856
+d08020c67f86b01c810d25881df9ea62d4e94f62,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.87966306
+2b1f4aaf31f56b914b5e8e5b89963895506eb760,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.5157385
+c098f3486f4710d2f162b0bcac2bbc8149defada,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,95.55273189
+97c488e7f50500f7383380209661ab2fc321f6a5,/,/,    Upgrade javac to 1.8,/,/,100
+e5ca31b642570d6ec94e3df5dab752de082019c8,GORA-491,Bug,JCache test fail under JDK 1.8,gora-jcache,Major,93.43794579
+e943b5a036644c850227d8de8d665eed45510f59,GORA-491,Bug,JCache test fail under JDK 1.8,gora-jcache,Major,93.43794579
+498c783eb56b2ba3476f4e93f2f27149b63f6e41,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,100
+2a3ecfbc951e3d2032b2df7e9fb9198a3ae8ebf7,GORA-469,Improvement,Gora doesn&apos;t build under JDK 1.8,build process,Major,100
+259f16353623eb9138d0c60d55b7864a0a05dbdb,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.59946595
+75243c6a4713d3fb7958538cd2f3994620c094f8,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.32523617
+a6cb1dafb5fdfe866a8b18a7e1bc8425d647e356,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.59072306
+35d9e99b6a08008bf8f1318cfc364f188d3334f0,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.44903581
+7bfbdd06dca8d8b3afa110b21d9a014fc1c5bf5c,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.44289694
+f6b00394db9f958add41f8aa4f00499e05f0ae87,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.43661972
+0cb1aeed78f3efee8902a5bfeaaff22462753422,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.43019943
+a0249c07592f3f0932cdbb2b2f89cf3d85530705,GORA-490,Improvement,Adding package-info.java for gora datastore packages,documentation,Minor,99.42363112
+72ce897f9a3d0feded1687f68aea06375ff8ead2,/,/,    Merge branch 'gora-couchdb' of https://github.com/cguzel/gora-couchdb,/,/,97.76119403
+2289911757c09ad295cf4261d338a8c03ca32b5a,GORA-484,Task,Add documentation to JCache Datastore,gora-jcache,Minor,100
+6406e124a1d1361629b5265c611e5a4504ffbb02,GORA-484,Task,Add documentation to JCache Datastore,gora-jcache,Minor,97.76119403
+788807eeb0335b163ab20c769983a91602273f22,GORA-437,New Feature,Implement CouchDB Datastore,,Major,99.33872153
+51e4a34145f39e03f3bb0eda20918125e44df907,GORA-437,New Feature,Implement CouchDB Datastore,,Major,100
+c0031ab5ff9acfee04b8d0cc8ac53b0ae06fe19b,GORA-437,New Feature,Implement CouchDB Datastore,,Major,100
+d6c820b227ee1eea298126414e2e133096f7698a,GORA-437,New Feature,Implement CouchDB Datastore,,Major,98.41029523
+4192c8751e546890e50da550cc7b8f737c91e502,GORA-487,Improvement,Using IOUtils methods instead of duplicate code lines,gora-core,Trivial,100
+6428e5d0d82aec4dfc8511f9e9d9ff5477b4dc31,GORA-487,Improvement,Using IOUtils methods instead of duplicate code lines,gora-core,Trivial,100
+61c25fefbefe96b39c86ca7d260fa7d63f028912,/,/,    added tutorial to bin/gora,/,/,100
+0b0b54be419fd8ad03ce0b09642f06985513860b,/,/,    fixing typing issues in comments,/,/,100
+2f065e8669fb8699b6a08c157fb9ffc2c3254130,/,/,    fixed problem registering unnessary cache listeners  added formatting for DistributedLogManager comment,/,/,92.09876543
+ba277032722bcba8710cbdcb7c0573c9a8c9649d,/,/,    fixing formatting,/,/,100
+ee6b6c058efc7194610f3b5b3e7b7d17564ff324,/,/,    fixing formatting issues,/,/,100
+a02c5dd9ff307cafdd89ff57c1fdd7f02cd06867,GORA-409,Sub-task,JCache Datastore,,Major,91.24270225
+ed80810818c47d67668f26f3469e90ac10c97bb2,GORA-409,Sub-task,JCache Datastore,,Major,99.68454259
+f4debf25a3b5f0d299a72409675edee6eb6d1314,/,/,    Add travic.yml,/,/,100
+c008fe6df2b58dca27f4d804f107999677cce8d7,GORA-409,Sub-task,JCache Datastore,,Major,98.75389408
+ff1fddfdb016046cea8933adc2a04d05088c45a5,/,/,    adding missing hadoop dependacy,/,/,98.75389408
+77bab097876cd2aa4b8024006c2eeae84902773f,GORA-409,Sub-task,JCache Datastore,,Major,98.75389408
+44bf7101e44dd6690cf7165bd314511092ca86cd,/,/,    adding java docs to AVRO data beans,/,/,100
+351eb6323824acc79e997c254bdebcfa3a29c3d9,/,/,    removing un necessary hadoop dependancy from JCache module pom.xml,/,/,100
+8ba235dd6cf2d61e714293fddb9239735a6d8e71,/,/,    adding mockpersistent serializable changes,/,/,100
+b4cb434b726deedec52d570479289c1c655003bc,/,/,    reverting previous changes on persitent base,/,/,100
+4fdbf6c810a951918ed142d8fc3e83f985b5672c,/,/,    adding missing data bean serializable changes,/,/,100
+c9d11af58f80f200972f4c59a11cfbb6afbbb532,/,/,    adding default values for readthrough and writethrough,/,/,100
+897c787e5f05793c710a96a3741fe9cde4af1ef7,/,/,    added formatting for JCacheStore,/,/,100
+a05928a7e347e841ed0bb4359908b5feca390fb2,/,/,    adding avro serialization insted pure java and unit tests,/,/,92.21949222
+fd80478e376790856b399f472283e58c3969f8fa,/,/,    refactored and improved logging,/,/,85.84544759
+fb4ad6a47e940b22fc42c5640dd5c976428c7173,GORA-482,Improvement,Move into supporting only Hadoop2,,Major,98.92473118
+d607fdfe37c3167fb997708811effc5c94f54af3,/,/,    - Compile a schema from a String  and not only from file.,/,/,98.92473118
+d2418c27cc9e8dca323fc43f1c28e9628f89c29f,GORA-482,Improvement,Move into supporting only Hadoop2,,Major,100
+1cf3547af79b66928a978a0cba7dab9465408e0b,GORA-482,Improvement,Move into supporting only Hadoop2,,Major,100
+d64a275f709bda4fc9c305db1937dde63eff0b22,/,/,    Cleaning up,/,/,98.92473118
+4a1b16ca3505f9509b37efa2e50eb0d3062498ef,GORA-482,Improvement,Move into supporting only Hadoop2,,Major,100
+73cc289467b1072e79f8a10aa4e95c0355814ca1,GORA-482,Improvement,Move into supporting only Hadoop2,,Major,87.07482993
+29a3f615eb2c5a451378c1695ab250fbd7d4bb1a,/,/,    make cache properties configurable from property file,/,/,100
+5684bfa9be52505e49dec532b5b070184de0cfcb,/,/,    Initial datastore commit,/,/,87.07482993
+6949760dcda2be83a3c408502d89dfdc962f3764,/,/,"    Creación de la rama ""goraexplorer"" con los .pom modificados para que",/,/,100
+0e937a1d202fc910758897d66dff790317227990,/,/,     added myself (P.Sutra) to developers,/,/,98.49771391
+e28c661bccd40a0b03221ad6af08c2bcb3075149,/,/,    initial poc commit,/,/,98.49771391
+82a45c70cce38764e28ec9f7f75dcb636a9433ff,/,/,    Resolve Spark dependencyManagement such that it can be used within both gora-core and core-tutorial,/,/,100
+6d98c37f89f1c1d22cb8d65875ce30cd4f4d40c6,/,/,    Fix XML syntax in gora-dynamodb/pom.xml,/,/,100
+8162ab5f1a364ca6e3c96d97507fbd2d782a7d7c,GORA-480,Bug,Compilation issues with gora-dynamodb,gora-dynamodb,Blocker,100
+08c7151c4b98bd05c821933c2a3d20a71ced2483,GORA-480,Bug,Compilation issues with gora-dynamodb,gora-dynamodb,Blocker,100
+e8ed25deb75b4e9506bc6ac6121d4e7e7e5feaf6,GORA-479,Bug,Various compilation errors in gora-infinispan module,gora-infinispan,Major,99.53673064
+2b8b0610767f4cc51f0a393a0627b721069f052c,GORA-409,Sub-task,JCache Datastore,,Major,99.53673064
+73250856a0ca54da7f8a0e0b4a6360d7d374e28f,GORA-445,New Feature,Review extent of transative dependencies post GORA-386,gora-core,Critical,100
+da103068127c2484ed3777852132b7bcd9172e90,GORA-478,Bug,Address Sonar issues within gora-accumulo Encoder classes,sonar,Critical,100
+fc00bb5b9b5223a43d0246d4fd478d90603e5f08,GORA-478,Bug,Address Sonar issues within gora-accumulo Encoder classes,sonar,Critical,100
+ef39527c11beba90669052fe8afea41c3ddb0bf8,/,/,    Merge branch 'master' of https://github.com/lewismc/gora,/,/,100
+22f400d5301a14a0dd30b0a5533a5cbd85c4bc6f,/,/,    Merge branch 'GORA_225' of http://github.com/djkevincr/gora this closes #61,/,/,100
+ae1b59c3c7304bc6f9a02f6efdcbc9997888297b,/,/,    Merge branch 'GORA_225' of https://github.com/djkevincr/gora this closes #61,/,/,97.61737912
+c0c8c6135021302e078e7e6387a95f90acd6763a,GORA-465,Test,Remove @Deprecated logic for hbase-mapping.xml,gora-hbase,Trivial,98.79969992
+1ce9a887a93006180ea19b00b28473acde4c8b05,GORA-465,Test,Remove @Deprecated logic for hbase-mapping.xml,gora-hbase,Trivial,98.79969992
+9361023d62817926fbba612782225021e0a2865d,GORA-477,Improvement,Add support for Solr 5.x,gora-solr,Minor,98.79969992
+f5a6d842d45bb592153b616085634b8fa3664d2d,GORA-445,New Feature,Review extent of transative dependencies post GORA-386,gora-core,Critical,100
+8a7101781ea18d8e3ca2a8e37978110337fe2373,GORA-274,Improvement,Extend the LogManager to support -get &lt;lineNum&gt; &lt;field list&gt; ,gora-tutorial,Minor,98.79969992
+32b93d8bff4fbdbe5ca65b4076d853e666e788f4,GORA-477,Improvement,Add support for Solr 5.x,gora-solr,Minor,100
+348e020e1df6c0b3a5b8c38b220746617320fb43,GORA-477,Improvement,Add support for Solr 5.x,gora-solr,Minor,98.79969992
+049555130980de6663674923968795de99edfe1c,GORA-474,Bug,bug in org.apache.gora.solr.store.SolrStore#getDatumWriter &amp; #getDatumReader,gora-solr,Major,100
+ad5eb9da3821781dceb90b4db88f3bc4fd2d7010,/,/,    Correct JUnit import for gora-infinispan module and implement type checking issues.,/,/,98.49892781
+640852e1fcfda4fa69e03f47dba9122f36e9c882,GORA-447,Sub-task,Fix NPE within MemStoreTest.testMemStoreDeleteByQueryFields and failed assertion within MemStoreTest.testGetWithFields,gora-core,Major,100
+52b03d537c60b799dfc9f7259d43b56b6390c304,/,/,    adding imports,/,/,100
+b0d69051961c797200ec92b37a1557f1be1c2c58,GORA-447,Sub-task,Fix NPE within MemStoreTest.testMemStoreDeleteByQueryFields and failed assertion within MemStoreTest.testGetWithFields,gora-core,Major,100
+570662b02bbe0a0bc10ea0490b323630fb9c0646,/,/,    Merge branch 'master' of https://github.com/apache/gora into GORA_225,/,/,98.49892781
+828aa811f287e473cfc9ab3ae9646527313e149c,GORA-471,New Feature,Datastore for Infinispan,gora-infinispan,Major,90.26622296
+b7fb9eea768a6daac93d1835726c737153f45ef4,/,/,    GORA_447 NPE Fix,/,/,90.26622296
+8267561e52a02bf9faf70a24484aac105cdcc9d0,GORA-471,New Feature,Datastore for Infinispan,gora-infinispan,Major,95.21392313
+96e623b035b2ab35fca15d03b790bee55636efcd,GORA-362,Improvement,Refactor gora-dynamodb to support avro serialization,gora-dynamodb,Major,97.96776454
+d46a96f4125cc0abf024226d7f43e6a6e614a1ec,GORA-463,Bug,Missing assignment in CassandraSubColumn#getUnionSchema(),,Major,100
+8fad49d718de55d45f469fcfdb363ac33eee0cf2,GORA-463,Bug,Missing assignment in CassandraSubColumn#getUnionSchema(),,Major,100
+3977e99b1ada20355acab444d4c60ec2186dac63,GORA-462,Bug,Potential null dereference of serializer in CassandraSubColumn#getFieldValue(),,Minor,100
+e0009e6d6e42d2b2462f28bcff83648f2a1b77a5,GORA-463,Bug,Missing assignment in CassandraSubColumn#getUnionSchema(),,Major,97.96776454
+655cd3aa846751f4805ef5e84ecd9193fe2c7aa2,GORA-362,Improvement,Refactor gora-dynamodb to support avro serialization,gora-dynamodb,Major,97.96776454
+4f98503c014c359b6ab018f43920d454b0344160,/,/,    Fixing Usage of DataOutputStream,/,/,100
+4968823b5a8ba6d8abe796414616584f6c104893,GORA-459,Bug,Resource leak due to unclosed Table,,Minor,100
+73a649fbccb9fa7751aafb20076354c1b10952fc,GORA-460,Bug,InputStream is not closed in DataStoreFactory#getMappingFile(),,Minor,100
+54fc2ad7164333691e6f620846f97fd68d77768f,GORA-458,Bug,DataOutputStream is not closed in BinaryEncoder#encodeXXX() methods,,Minor,100
+01437e1aea6098e6a31f001d139246199ce48066,GORA-461,Bug,Ineffective null check in HBaseStore#getPartitions,,Minor,100
+9e14671986b67b18cbf5018cef62e948959e640a,/,/,    Remove pgg plugin definition from within gora-maven-plugin module.,/,/,100
+5758faf59558380e5c7e64646ccda5eed901a258,GORA-277,Improvement,Create gora-maven-plugin,plugins,Major,90.8412483
+26b189b838cc79e58a7b3fee2e3eb2534936672f,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,99.40397351
+3326f585ef40a3dbfafe4e8a9153095bf24e9300,GORA-454,Test,Implement FilterList tests,testing,Major,100
+83fb8d435963f35fd5de9675842958e8ced175d7,GORA-454,Test,Implement FilterList tests,testing,Major,97.14632665
+61f6977cb1d9cf4a75c76060936eb40e945731ec,GORA-448,Improvement,Upgrade MongoDB Java Driver Version,gora-mongodb,Minor,99.2081448
+aff724878db38c3c7adf2f12f827a7ed0bbe0fbe,GORA-291,Bug,Gora-core  unable to wire up packages not known in advance.,build process,Major,100
+e707ca6f5aca8ef8531b22acf5f2a2bcc8aa605c,GORA-293,Bug,getDatastore use Class.forName() when use String parameters for dataStoreClass,gora-core,Major,100
+15e659d5b9a81817b96945d281ea610682507910,GORA-291,Bug,Gora-core  unable to wire up packages not known in advance.,build process,Major,97.38317757
+18bd38a0a1f90729b03e4d5a3ce8d450d3f9ff9d,GORA-454,Test,Implement FilterList tests,testing,Major,97.38317757
+0e6a30958bd523976e184206e120091f900a3d78,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,100
+0501812a6d21dcfbfa48d65a1e4d9c787b5f3aee,GORA-453,Bug,Implement bootstraping of GoraCI nodes with Chef and the JClouds ComputeService,gora-goraci,Major,94.97578692
+e56eebb9de57eaa9e50ac434e58e0147e6d19312,GORA-452,Improvement,Upgrade goraci prior to Chef and the ComputeService implementations,gora-goraci,Major,100
+a11bf622685c55908b2a46ec7ec38870cd664824,GORA-452,Improvement,Upgrade goraci prior to Chef and the ComputeService implementations,gora-goraci,Major,94.93902439
+356c1f8a825f883c8de43a3e25019ff230a26457,GORA-414,Improvement,Upgrade to Accumulo 1.6.4,gora-accumulo,Major,100
+a40f72f9823507c6995b26203160e8758d2f3276,/,/,    Replace com.jfrog.bintray by com.gradle.plugin-publish plugin,/,/,100
+b79fc898f83994ebf61a2065a69055d0513bbdb5,GORA-447,Sub-task,Fix NPE within MemStoreTest.testMemStoreDeleteByQueryFields and failed assertion within MemStoreTest.testGetWithFields,gora-core,Major,100
+b5ba30c0999088d587755ad5cfdff97faaeb3fea,GORA-439,Improvement,Remove Unused Method Parameters,,Minor,100
+bcee2dbc6e86b3ec095dc3a24d27018e6a7366ca,GORA-439,Improvement,Remove Unused Method Parameters,,Minor,100
+97fc0d678eed32b723ccb1ef6f3c8954743edb58,GORA-240,Improvement,Tests for MemStore,gora-core,Major,100
+209d6632cb98a6c76a3c634f94222cb8b0d135ed,GORA-240,Improvement,Tests for MemStore,gora-core,Major,100
+11b1d7accbe787010218152b6eb25b17ecbe5809,GORA-240,Improvement,Tests for MemStore,gora-core,Major,93.64096792
+93cbd8cc31e40c0163f8c9daf3ccc237a2b59a13,GORA-441,Bug,Update build.gradle within gora-gradle-plugin to reference canonical Apache links ,gora-gradle-plugin,Major,100
+7c15a4f03bfa7cc31db3b9f3ef4f9b395e764f34,/,/,    Updated Committer Informations,/,/,100
+9482e10089fa3fe6c12450a690d7288355eb9d29,GORA-438,Bug,Erroneous Exception Message at IOUtils.java,,Minor,100
+4a7aa37de90a03e03decb4deb24850d75147ce76,/,/,"    Erroneous exception message: ""cannot write to DataOutput of instance:"" at readObject method of IOUtils.java is fixed.",/,/,100
+446b46a81d4a08112b3a7bba4ae15ad830221411,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+79fba16dc9bf0b1660861a233a218bc669173178,/,/,    [maven-release-plugin] prepare release apache-gora-0.6.1,/,/,100
+d276fa580132fd007f592fa038ea03a39d439151,/,/,    Prep for Apache Gora 0.6.1 release candidate,/,/,100
+e201926a3cbfe16d6636f86d184f991f8a0c8d17,GORA-436,Improvement,Improve Source Code as Java 7 Compatible,,Minor,100
+f681764a1b3fb9daeac57266418a874794d22809,/,/,    Java 7 changes and improvements including diamond operators  automatic resource handling  unnecessary boxing  collapsing exceptions  and iterations.,/,/,100
+550c895893b657e8ef0022a54b794ec263bee983,GORA-435,Improvement,Clean Up Code and Fix Potential Bugs,,Minor,100
+20f322d3f9cf2d3d8544d455e3d3e3b8fd1bb017,/,/,    Merge branch 'master' of https://github.com/apache/gora,/,/,99.94600432
+17bb1691e3aef00ce6ef7498f3308206db452fe2,/,/,    Merge branch 'gorasolr' of https://github.com/kamaci/gora,/,/,100
+6cdbe565f9e1b59adef38442124274eafe399ccd,GORA-433,Improvement,Non-Final Public Static Fields Should Be Final ,,Minor,100
+d4797dc28ec09a8aa34053826a3cf76f2eb7fe6c,GORA-314,Bug,Implement TestDriver for AccumuloStoreTest e.g. TODO in class,gora-accumulo,Major,99.62100704
+7cf4ec1d5f0ec50bb205d7fd786cfa9062aa9d8f,/,/,    Potential bugs are resolved.,/,/,100
+1507a59a12928080401fd00c9114790905c912dc,/,/,    Performance improvements.,/,/,100
+5389d0b335f078a57bc2d6c7f51f57a0e6def65d,/,/,    Fix potential bugs and clean code.,/,/,100
+e5ddb78f8fd60278f63a8bc0a944ab0506d30dfc,/,/,    Remove unused imports.,/,/,99.94571118
+c6c087c9f8672bc386d93994e49e68dc97087896,/,/,    Clean up code.,/,/,99.89130435
+4086ece8cd2f9cd7a29bf46a1d290313c4e44d14,/,/,    Non-final public static fields can be changed by external classes (by a malicious code or accidentally).,/,/,100
+c8550d3558d1a438b64409bcbac94f072c191d23,/,/,    Non-final public static fields can be changed by external classes (by a malicious code or accidentally).,/,/,99.89130435
+97d5845100ee1460da36e0d94c504a125a081834,GORA-417,Task,Deploy Hadoop-1 compatible binaries for Apache Gora,,Major,100
+f6bf4cfc328453af90c7ae44b37cecbf48e7060a,GORA-417,Task,Deploy Hadoop-1 compatible binaries for Apache Gora,,Major,100
+578f5f88661cf60382c1e19434ccfbe761ba73f8,GORA-432,Improvement,Simplify if Statements,,Trivial,99.89130435
+d5023d5e998a1aa883a0faf778438d3db22b06b8,/,/,    Fix for uncommitted documents which are at last buffer when buffer is not equal to default commit size.,/,/,99.89130435
+aad4ad41f914a3ceeb04965c0e6fefa7ddefec25,GORA-417,Task,Deploy Hadoop-1 compatible binaries for Apache Gora,,Major,100
+ea44388f9883218f7314ed4bec51e3f2115cf33f,GORA-386,New Feature,Gora Spark Backend Support,gora-core,Major,100
+7c6a63e0dfbbc223353bab64cc6218b03bbff526,GORA-386,New Feature,Gora Spark Backend Support,gora-core,Major,100
+2ce2fda5b7f688f1c5fa9e10f7c8ff64ce99be12,GORA-386,New Feature,Gora Spark Backend Support,gora-core,Major,100
+965c44999d0afde2b6379b035c568d8539b0c384,GORA-386,New Feature,Gora Spark Backend Support,gora-core,Major,99.34497817
+130257370a9227faedf5ce843ea26e7a47e49001,GORA-429,Improvement,Implement Maven forbidden-apis plugin in Gora,build process,Major,100
+ab86b27b4a848e6d8b5f8317edbe6aa9a925eb70,GORA-429,Improvement,Implement Maven forbidden-apis plugin in Gora,build process,Major,100
+606b79d762a456970cdd6b846f63b28a65a19bfa,GORA-429,Improvement,Implement Maven forbidden-apis plugin in Gora,build process,Major,100
+983bed4f395e876c75d8419eddac9806f45a24da,GORA-417,Task,Deploy Hadoop-1 compatible binaries for Apache Gora,,Major,100
+cfd1c52f3e86ca0ae2d4e80446ce2e95a8825af0,GORA-228,Sub-task,java.util.ConcurrentModificationException when using MemStore for concurrent tests,gora-core,Major,100
+5e5416b5fed002d3a2f9e926b268ee0c3f831fd9,/,/,    Merge branch 'memstore' of https://github.com/cguzel/gora,/,/,100
+a303ff796bff390cdf2368dbf2edfaeba33161f5,GORA-429,Improvement,Implement Maven forbidden-apis plugin in Gora,build process,Major,97.20044793
+2df96a1db3908539321d61971ab581e21fcf16e9,/,/,    Memstore problems is fixed,/,/,97.20044793
+08c48d966475f7485b66beeb0b2f4591499b427a,GORA-228,Sub-task,java.util.ConcurrentModificationException when using MemStore for concurrent tests,gora-core,Major,100
+678307454c0a2ab02a993bd8c25378c9e1a215b0,GORA-228,Sub-task,java.util.ConcurrentModificationException when using MemStore for concurrent tests,gora-core,Major,99.23497268
+3cf550264d782bcffa15fdf62c584eca355cab29,/,/,    Spark version is changed to 1.4.1 from 1.3.1.,/,/,100
+6252eddfecf5a9cba028e1d7529b6dee3ec5ef33,/,/,"    LogAnalyticsSpark is let to run from command line by passing ""loganalyticsspark"" argument.",/,/,100
+ad4f5601ebd52e182bf79ba4032dcb85d918b925,/,/,    servlet dependency is excluded from spark  not ant. Without excluding it throws a java security exception. Motivation for it: https://issues.apache.org/jira/browse/SPARK-1693 and,/,/,100
+888c899f966c27dec1fb173611812f8574737da1,/,/,    Spark version should be placed at parent pom and it's done.,/,/,99.23497268
+ed768b4be6af4cc8fa18fa11bdb01c616101afbe,GORA-419,Bug,AccumuloStore.put deletes entire row when updating map/array field,gora-accumulo,Critical,100
+1f6ba329ecaa8d3c06c8b4bd159cca933e59c23a,GORA-420,Improvement,AccumuloStore.createSchema fails when table already exists,gora-accumulo,Minor,99.23497268
+8f1acc6d4ef6c192e8fc06287558b7bc7c39b040,/,/,    Minor change at SparkWordCount.java,/,/,100
+e817a7f0eeb2efb98937efb92701705ec80891b9,/,/,    Spark engine word count tests are implemented.,/,/,99.78225367
+9cff33598231e9cf54060cecf1ccacdf62e64c5b,/,/,    Minor improvements for LogAnalyticsSpark.java,/,/,100
+8893fd5c6c53b19925c99668d24df23c52e70b1e,/,/,    Unnecessary imports are removed from LogAnalyticsSpark.java,/,/,100
+92b71a6d2c95492621a56e48470e951e982cc34f,/,/,    Unnecessary reuseObjects is removed.,/,/,100
+8584911176712f63e316707ace23a12060588cdc,/,/,    GoraSparkEngine.java setOutput method renamed to generateOutputConf.,/,/,100
+62be0c312927e3ea4962eb966689b49dc1fcebce,/,/,    * GoraSparkEngine.java architecture is improved.,/,/,100
+219557002f0e33ef6d0e2bb49471d24fb867b0ac,/,/,    Code is organized at LogAnalyticsSpark.java.,/,/,99.50792783
+a3f44256d6648962b8bb50e717e79698180a32c2,GORA-427,Improvement,Configure MongoDB ReadPreference and WriteConcern,gora-mongodb,Major,99.89010989
+b0c9e89f84b2e2310bb19f3ad13d91873ed6738f,GORA-426,Bug,MongoDB cursor timeout on long running parse job,gora-mongodb,Major,99.61685824
+cf6e76585b18ff926f8e7e4928f2d7cd28ac7c6f,/,/,    * Added dependency to write output to Solr.,/,/,100
+c111e6290fa16d2cc560eb29dbc07eb2f8b7734b,/,/,    * Writing to Hbase via Spark is implemented.,/,/,100
+80c0c26d8fb6a9a84ea39f5aa96cc343b4546266,/,/,    Organizing codes,/,/,99.78213508
+81af4d3afcba4633d0c5d06ead9b4256ea60862f,/,/,    * GoraSpark.java initializeInput method renamed to initialize,/,/,99.46265449
+445edb12c35f867e7b81919ddfb509dd8c179ba3,/,/,    * map was not collecting the counts and it is fixed.,/,/,100
+5644a21c5c5678611c7cef4e2c922643088951b8,/,/,    * map function is implemented as like in LogAnalytics.java,/,/,100
+8fbdef7de963defb1387f0fbbe9e56506b627ba3,/,/,    * Serialization support via Kyro.,/,/,100
+ef68cead273324797cf292dbe6da18ee3fd819cb,/,/,    * GoraSpark.java initialize method renamed to initializeInput.,/,/,100
+9c2d225d04cfa746244373fa661a1aa6f03250bb,/,/,    * JavaPairRDD support for GoraInputFormat.,/,/,99.51403888
+bb09d8916736e3e572eef2cb5e79fe11c80ad1de,GORA-424,Bug,MongoDBResult issues count() request on progress,gora-mongodb,Major,96.96261682
+903aeb016f1efa6fbd7bc245f849062e10e0bf11,GORA-423,Bug,BSONDecorator returns empty string for null field value,gora-mongodb,Major,100
+8da648456c49866a58480a14f1e11aa4a1ac0426,/,/,    MongoDB: Run integration tests of both MongoDB 2.6.x and 3.0.x releases series.,/,/,97.4025974
+df28e1de9c7b0446c071c525136d131920a66ba9,/,/,    Upgrade to latest release of MongoDB Java Driver 2.12.5 > 2.13.1,/,/,100
+9540273d85d38835b651c76286e499d7aa418c16,GORA-262,Improvement,Add support for HTTPClient authentication in gora-solr  ,gora-solr,Major,100
+534b6594219d3c3e27285a7477559ccbed64c2a1,/,/,    Prepare for 0.6.1 release candidate,/,/,100
+35a88e8a6f85e81462f6e1a66a56d9566f87939c,GORA-415,Bug,hadoop-client dependency should be optional in gora-core,gora-core,Blocker,100
+0e66a0b0a858bca51c6b0cf7e62f7ecaf4b5c841,GORA-415,Bug,hadoop-client dependency should be optional in gora-core,gora-core,Blocker,100
+e7d6b6edc3d2392272263a0fb381fb9a2de166ff,GORA-415,Bug,hadoop-client dependency should be optional in gora-core,gora-core,Blocker,100
+1a8a14ba19be9bb6276f2be7148f39c3d8994d58,/,/,    Ignore _rest_managed.json files created by Solr tests in the gora-solr module.,/,/,100
+65d6c7ac29d2cc041d067e5e7f0857936a7529d7,GORA-410,Improvement,Change logging behavior to pass exception object to LOG methods,,Major,100
+61a4747ffc1a329bbe60e95517881e963b4a76a8,GORA-330,New Feature,gora-gradle-plugin,plugins,Major,99.88764045
+33b9a5bf451b28cba6c614e652baab17dd05f6d7,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+68ce474b6813e9e5e8b021e3d255f90ddd7a3eb3,/,/,    [maven-release-plugin] prepare release apache-gora-0.6,/,/,100
+99d1cf8e24490cfe5dafc1dfc85fa6225c456c60,/,/,    Gora 0.6 release preparation,/,/,100
+40841419df1899fcf06bbdac6164777ada8e15f9,GORA-408,Improvement,Implement automatic branch creation for the Gora Git release process,maven,Blocker,100
+abc30e1b4b007269e155bfa3b00fe7615171751d,GORA-408,Improvement,Implement automatic branch creation for the Gora Git release process,maven,Blocker,100
+bb30d94602e4ad16ebe29ff4197b40d19f13bc28,GORA-408,Improvement,Implement automatic branch creation for the Gora Git release process,maven,Blocker,100
+da71d3078177c881a532f4a0de39ffa43103f2fd,GORA-406,Improvement,Upgrade Solr dependencies to 4.10.3,gora-solr,Major,100
+ebf2572320f02efa4761e63bc4c977231e9a5ecf,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,100
+abc8bf7ab7349a3c6132f34b0c15a02b061ac8e5,/,/,    reverting the changes for 0.6 release in the master,/,/,100
+dc037d97483f707d026b6961aa489b9f4e73668b,/,/,    [maven-release-plugin] prepare release apache-gora-0.6,/,/,100
+5f86f58358e94593b7677825c4724943e2f8f054,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+8b94825c189c2c82595b70f61caff0adf449085b,/,/,    [maven-release-plugin] prepare release apache-gora-0.6,/,/,100
+29cbf8ab03eb68898db0014e416de27d4932231d,GORA-406,Improvement,Upgrade Solr dependencies to 4.10.3,gora-solr,Major,100
+390bb21f84960256074e3bd62f785af8026c4505,GORA-407,Improvement,Upgrade restlet dependencies to 2.3.1 for gora-solr,gora-solr,Major,100
+1d659edd9bfb1b0764f877c68cd50cbd38742b7d,/,/,    Updated Committer Informations,/,/,100
+4909501b3f4d6045cba68374d2136d0c46c5d342,/,/,    Upgrade to latest release of MongoDB Java Driver 2.12.2 > 2.12.5,/,/,100
+8ce063466a2c833efa7324540a9c5b780f56ee48,GORA-388,Bug,MongoStore: Fix handling of Utf8 in filters,gora-mongodb,Major,100
+2b48955ffb4008392ca96502401cb2b944892d1d,GORA-389,Bug,MongoStore: Document or List mapping change cause NPE in clearDirty(),gora-mongodb,Major,100
+e1eb90a369851805ef8e1bd1a89f71cd1644f73b,GORA-375,Improvement,Upgrade HBase to 0.98,gora-hbase,Major,100
+30bb3af96d5c70ba2e70dca183c62fb6a49c343c,GORA-375,Improvement,Upgrade HBase to 0.98,gora-hbase,Major,99.32088285
+eedcfed9d3ef3d82ce02fd5ef91f24c362773553,GORA-399,Bug,Gora-Cassandra should handle Strings inside Union types as CharSequences ,gora-cassandra,Major,100
+f267370f1bb3a3bc3c69550be8c2d9d7d33affc7,GORA-389,Bug,MongoStore: Document or List mapping change cause NPE in clearDirty(),gora-mongodb,Major,100
+0126ecd900ec6c9b036db4312073d5ec8ad5f1ca,GORA-390,Bug,Gora compiler generate wrong isDirtyXXXX method signature,gora-compiler,Minor,100
+80d5d8d1c6f0f24772a1039f8220c679ffca6ea6,GORA-390,Bug,Gora compiler generate wrong isDirtyXXXX method signature,gora-compiler,Minor,100
+dc5996a5c110ca04e2a641c865f94ffe889f84fb,GORA-390,Bug,Gora compiler generate wrong isDirtyXXXX method signature,gora-compiler,Minor,100
+c3271e2b6e760a56a5377b8e5811d226dea9d135,GORA-381,New Feature,Fix Guava dependency mismatch post GoraCI,gora-cassandra,Major,100
+b90f5c88c4c91f6f3d1f9d2abd1bcb0dce128d03,GORA-381,New Feature,Fix Guava dependency mismatch post GoraCI,gora-cassandra,Major,100
+95aae127e8b178c23866c80318199719cb1d6ccf,GORA-374,Bug,Implement Rackspace Cloud Orchestration in GoraCI,,Major,100
+b712d9f9da5e236319f1d88620ec09d60aaccea4,GORA-374,Bug,Implement Rackspace Cloud Orchestration in GoraCI,,Major,99.65772961
+0c5eacf4e6b060df8f6147a4f5fce6f66ff2389a,GORA-371,Bug,Exception setXIncludeAware UnsupportedOperationException,gora-core,Major,100
+af3a32385c487e6424ad8c1c8f15b5ce5388a989,/,/,    Merge branch 'gora-dobromyslov' of https://github.com/dobromyslov/gora,/,/,100
+1a42a6239caf8f444a3c53ad7f86a6b681f7eccc,GORA-378,Task,Log error trace as well as error message in GoraRecordWriter,gora-core,Major,100
+d48708eca5035fb576983e99e13f89045c1006b6,GORA-376,Bug,Gora Cassandra doesn&apos;t accept user credentials for connection,gora-cassandra,Major,99.65772961
+bc9a3782fadcaa0253f41fcd2d2ea5dd3cd590bf,GORA-374,Bug,Implement Rackspace Cloud Orchestration in GoraCI,,Major,99.65772961
+a5f04827720dc9cd9ddc65efa6986388181afc2c,GORA-372,Bug,slf4j-api version conflict,gora-hbase,Major,100
+685d73fd28b008c3a01e98a95c158ee5c0a24155,/,/,    Resolved issue with slf4j-api version conflict described at:,/,/,99.65772961
+3c5bd0ee53ab5d3651980d39c5a5b20002ababc9,GORA-74,Improvement,Remove sqlbuilder library,,Major,99.65772961
+c041049c579f85e993c6741eef01dacabd66f14b,/,/,    Updated jdom to 1.1.3 to eliminate xerces version conflict.,/,/,100
+a72c5d36033fa393e492c047cb818b318edd2b35,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+c2d58dd1440b4e2c66c1f40a4b6d4169d79bb6d3,/,/,    [maven-release-plugin] prepare release apache-gora-0.5,/,/,100
+d16ebfdb53850be0f0ed6809d5e4dfa720a9b2fd,/,/,    Make all pom's 0.5-SNAPSHOT again,/,/,100
+c2d3c41246dea3b46d2cde46d6a857ea446d3ba6,/,/,    Update maven-release-plugin in pom.xml,/,/,100
+e099e22df6fcdf9f58426791ff543ef7b981d287,/,/,    Remove distribution management configuration,/,/,100
+5ea25841736e1aefba80b76011374e7d8d56a82e,/,/,    Update pom'xml to 0.6-SNAPSHOT,/,/,100
+0d8def049b8173b36fa5e83dd4bdb373454839fe,/,/,    Prepare for Apache Gora 0.5 Release,/,/,100
+7a36351b2069f7d4193283a448c773595c3c1b3c,/,/,    Prepare for Apache Gora 0.5 Release,/,/,100
+b4f8490281606a87cc2d5f0ba445e90ce8ea36b5,/,/,    Remove empty files.,/,/,99.20634921
+56a01d954e14aff97fabef3d4a34095a90cda7a7,/,/,    Use Hadoop1 for Gora dependencies to pass the HBase tests for now.,/,/,100
+d4d39ef31786189dd86883b3da29747088bf8c4e,/,/,    Remove empty org/apache/gora/mapreduce/FakeResolvingDecoder.java,/,/,99.88764045
+88b64d0be9621f65683556df8abe4ff0c84580db,GORA-346,Improvement,Create shim layer to support multiple hadoop versions,,Major,100
+5d86c24d1e513b95ded9d3a2f74dd95fd82298a8,GORA-369,Bug,Obtain consistent formatting of all pom.xml&apos;s,build process,Major,100
+74d78cbe5425420909889fa18f8031e343c3e2bc,GORA-346,Improvement,Create shim layer to support multiple hadoop versions,,Major,100
+69caf50f56d80c1ecec832928eb1d73c515fce72,GORA-346,Improvement,Create shim layer to support multiple hadoop versions,,Major,100
+b51cdeeadc1e79474acd250e51a77645ad676ce6,GORA-346,Improvement,Create shim layer to support multiple hadoop versions,,Major,99.03737259
+90d1cc0af6fc9b812036aa0e6db05bb508318a2e,/,/,    Add Cassandra license header,/,/,100
+8644c0b604d13f3701a03c13579566b6875c0361,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,100
+a60a33703ffa774a32f11bceb8f3bc2474874681,/,/,    GORA 73 Merge goraci testing suite with master branch,/,/,97.07165109
+dd35192aca863c884e64478d4efc11eac7182b9a,GORA-357,Bug,Maven Surefire testFailureIgnore is true,build process,Minor,100
+b6d3e614f9634141c17ea7ed0de6dcc0f837891a,GORA-352,Improvement,Need to handle MalformedURLException when gora-hbase-mapping.xml file is missing,gora-hbase,Trivial,100
+b167b3aca01b0557544501a4af3a8f5b75d0d6d6,GORA-366,Task,Reboot Gora Sonar job on analysis.apache.org,testing,Major,100
+36f21fba278f1b93c63280ef451c246a7a4bcd51,/,/,    Add myself (drazzib) as Commiter and PMC Member.,/,/,100
+60ce64877ea44cdc6ab295f8e6715e6da1b88ff8,GORA-326,Improvement,Removal of _g_dirty field from _ALL_FIELDS array and Field Enum in Persistent classes,gora-core,Minor,100
+f840b5dda8856d09aa2e919e1d96ac7d0f26c233,GORA-354,Improvement,Clarify lowercasing of DataStoreFactory#findProperty,gora-core,Critical,100
+92b88415820001da61e0a94aa526db3622b576dc,GORA-353,Bug,Accumulo authentication token serialized incorrectly,gora-accumulo,Major,99.86282579
+3cacf2a25f2f8937284d50805eeb353bf5a1eabc,GORA-167,Improvement,Make Cassandra keyspace consistency configurable within gora.properties,gora-cassandra,Minor,100
+68302e213747700ca38cef546f05d0f15a3e99b4,/,/,    forward port of Make Cassandra keyspace consistency configurable within gora.properties,/,/,100
+dc76da920a438d632a102cd422cb8fb6b077f1ce,/,/,    revert Embrace all text-like parameters in generated Persistent subclasses by Compiler CharSequence,/,/,100
+89c025d2f9e4ba19378eb15537104c8775bf2474,GORA-364,Bug,MemStore.get fails with NPE when key is not set,gora-memstore,Major,99.72318339
+22b5cf8e5bcd0c974167a1a5cf03a0771f30790a,GORA-189,Improvement,Embrace all text-like parameters in generated Persistent subclasses by Compiler CharSequence,gora-core,Trivial,100
+2cf5d4ed209656baf1ab3d57e682cda84aae20e8,GORA-189,Improvement,Embrace all text-like parameters in generated Persistent subclasses by Compiler CharSequence,gora-core,Trivial,100
+86d8f8f13afd91536e8063badf3cf61281ae1354,GORA-361,Bug,AvroUtils.deepClonePersistent needs to flush BinaryEncoder,gora-core,Major,99.58188153
+d1a921204e45bb796f269cfd80c558c0167efd63,/,/,    Simple typo fix from Hbase to HBase for module name. Align URL XML element.,/,/,100
+79808e5e4f51abd504656731ca26f5cdd607598e,GORA-289,Improvement,TestIOUtils to print objects with native data values as oppose to Bytes,gora-core,Minor,100
+d61a1735e3fdaeff00c4ecad85905e335651bafa,GORA-350,Bug,NPE within CassandraClient.getFamilyMap,gora-cassandra,Blocker,100
+e00f420fbc0d3d89c4c8cc76509d501622c17b3e,/,/,    Update CHANGES.txt,/,/,100
+3c30e6166d4f2c897cfe67eec23c7f52e21fe3b0,GORA-351,Bug,Multiple Slf4j logging implementations in parent pom.xml,build process,Major,100
+da19993d2d92b62b301cad167c71d7617a2944ad,GORA-234,Bug,Javadoc and java annotations in gora-core base (abstract) classes needs to be corrected ,gora-core,Critical,100
+c2a095d4eb30fcfcc56792d62af3b870bc27f593,GORA-241,Improvement,Properly document WebServiceBackedDataStore Interface,gora-core,Major,100
+41aae36e900fc730ac60af2bf8283012310728b9,GORA-347,Improvement,Column attributes should be obtained using the column name and not the field name.,,Major,100
+64443cc75f7e10ba91788c53befb0411a8c122a4,GORA-348,Bug,Using query for Avro Unions in Cassandra doesn&apos;t fully work,gora-cassandra,Major,100
+68beaa7ff37c913c5071d4317b8f89292e69bb9d,/,/,    Attemtpt to resolve javax.servlet classloading issue within gora-solr,/,/,100
+ff312980a2af2acbca769a1e7dad30c4f1e27f94,/,/,    fix formatting of tabs to spaces,/,/,100
+40cc7a5b680a7c4aececb0777a38adf352b7de6e,GORA-339,Improvement,Upgrade solr dependencies to 4.8.1,gora-solr,Minor,100
+475027d566d0b2d5e2dc73a53dde3f2bff62e3c1,GORA-339,Improvement,Upgrade solr dependencies to 4.8.1,gora-solr,Minor,100
+dce6a66ebe6a6c91c05143216873809c5641647c,GORA-341,Improvement,Switch mapping file root element to use OTD instead of ORM,gora-tutorial,Major,100
+4ac1171d854bcf27ca29e5da57b90916db955b98,GORA-332,Bug,Gora 0.4 compiler generate invalid Java code,gora-compiler,Major,100
+148ca981db5e2abbfbd128b5a8419ec5344ffdc7,GORA-331,Bug,Gora 0.4 compiler crash with &quot;enum&quot; type,gora-compiler,Major,100
+0778e56715bfa2039f5872e82f102336fe1f00c0,GORA-337,Improvement,Improve Javadoc for field summary in SolrStore,gora-solr,Major,100
+deda3f4a83986ba0ea6c31bf7ad6cd198e8f0bf7,GORA-336,Bug,MongoFilterUtil: missing ref link when creating new instance of factory,gora-mongodb,Major,100
+a497d14c1bb59672954d5f16e91154ac8dc5a726,/,/,    Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/gora,/,/,100
+5f55f9e57cde7a85a9bd86fc9c7184fa182aa819,/,/,    Make Solrj solr server impl configurable from within gora.properties,/,/,100
+8bdb4559e621511f174038be661ef4a5cbbef15c,/,/,    Simple commit to align Test annotation to check Git access.,/,/,100
+740253c905bb2e3f3dce8065619e483eae1c35df,/,/,    update CHANGES.txt to reflect commits,/,/,100
+e39e9fbcdb020fed1e039a0e7f05ffb356709997,/,/,    Merge branch 'GORA_199',/,/,96.08856089
+a39cfe48e29aca35e2c0c9d1a7e1a63688b123c4,GORA-333,Improvement,Move README to markdown for better rendering on Github,,Trivial,96.08856089
+8ac3bf51d592c18928e9bf3c771e34be7196c5a6,/,/,    Add implementation of server-side filtering,/,/,99.22041106
+ba1c5a89f6a81a8439b9c91dcc17577ec0b92bc5,/,/,    Small cleanups for TestMongoStore,/,/,100
+279faf0538a9483395ed9369b5e91ff671c01694,/,/,    Move TestBSONDecorator.java,/,/,99.71139971
+7eb27927f2fdfdf2b6fb997f56297823f9920860,/,/,    Add integration tests for MapReduce feature,/,/,99.49127907
+0a2a72eaf5832da87b80fa41008e0b28182d928b,/,/,    Improve support for records-in-records.,/,/,100
+3519c5d0987808697440117e51c9babd4fb8053b,/,/,    MongoStore: Refactor to avoid to long methods,/,/,100
+d8dbd51ed5e59a224e586546ebbe220cd1fdcb6d,/,/,    MongoStore: Remove some old comments,/,/,100
+4ab5a9b190f8556993813b7afc110ea8b22f4312,/,/,    MongoStore: refactor with smaller methods,/,/,100
+1d2d0610c6ecea8b9c8f6e1a7b5ab63db1b6e6a7,/,/,    Refactor MongoStore key encoding / decoding,/,/,100
+62e363c0af2050d38668c09d1b0c6aba1ae13976,/,/,    Don't clear dirty state in case Persistent is not saved,/,/,100
+48806ff3a91e56d09089da11118950fe1b6d916d,/,/,    Cosmetic: Remove final keywords,/,/,100
+5190bd17d81b9a6ff4cdcf1a4b575d6a41618fc7,/,/,    Remove old putInsert() code,/,/,100
+2202a2bc644b9ae21d0531adec165ce353cfa8e4,/,/,    Rework UNION type handling: keep original storage type computed from field name,/,/,100
+ff4abfc7b668e6638b054b08dadf0abe0b105959,/,/,    Clear dirty states after successful put(),/,/,100
+7b6ce7f2dca01dba249ed5d6a0f2eb6589d7cb10,/,/,    Skip fields which are not mapped (for instance _g_dirty),/,/,100
+56cc8cd21679dd60ea95ca43a5f59456bc9182d1,/,/,    Upgrade to Avro 1.7.x: Replace Map<Utf8 ?> by Map<CharSequence  ?>,/,/,100
+ace2c807d1492fe37cccb22b85eb3d1bd31e7f7c,/,/,    Update MongoDB Java Driver to 2.12.2,/,/,100
+f1976e063a2bc55ae047fe969673ed34f057044f,/,/,    Merge remote-tracking branch 'upstream/master' into GORA_199,/,/,97.27272727
+e8e58a42564621274ae4737ce3f07cebb9935b07,/,/,    remove empty classes,/,/,96.97885196
+b4b4b8fee27b5a86b82eafc9568929475ed938e4,/,/,    Cleanup gora-mongodb pom.xml,/,/,100
+30822f1c15e6071cc55e00812facfa1e45d22d88,/,/,    Fix invalid merge from master.,/,/,100
+5a5f527e9dc94fd2e55216fc8465bdd43a47c13c,/,/,    Merge remote-tracking branch 'upstream/master' into GORA_199,/,/,97.28915663
+f5917b35acfe770ad10cdf22c4f20b34b39a69e3,GORA-329,Task,Update all SCM links in * pom.xml&apos;s,maven,Blocker,100
+13a544679994216959abd8d3c039a9c029ba5231,GORA-329,Task,Update all SCM links in * pom.xml&apos;s,maven,Blocker,100
+5266fcfdb31740f19b408814132dde2f22054b1f,GORA-329,Task,Update all SCM links in * pom.xml&apos;s,maven,Blocker,97.28915663
+14d1f04dcd0d3456537e669300789e2974f31c7b,/,/,    Re-enable testUpdateWebPage,/,/,100
+41b512d8bd8b1dcac0139a0ed3c86d2b31e91b61,/,/,    Apply Apache code format from,/,/,100
+ed73e57c1c30243d872fd03a1def2410052ab015,/,/,    GoraMongoDBTestDriver: use Version.Main.PRODUCTION instead of hardcoded 2.6,/,/,100
+77ccfec66f5cc9249898fe4f2d9cf0e37f398098,/,/,    Remove nutch references.,/,/,99.85465116
+a7c5f7791923742513e254ad3e968e0c898b5c9a,/,/,    Improve MongoDB TestDriver,/,/,100
+ce83f25721fb2f5d837d88d497e45f670ded59ef,/,/,    Upgrade to 0.5-SNAPSHOT version in gora-mongodb.,/,/,100
+d59ad4bc0de5ec77ce7f137177734f7e4375f64a,/,/,    Merge remote-tracking branch 'upstream/trunk' into GORA_199,/,/,97.14285714
+290777c2ef9a5dbd6472d9e3dde748fb2db89684,/,/,    Updating svn:ignore for gora-compiler gora-compiler-cli gora-solr submodules.,/,/,100
+97ddc8a9da08d10eadf195aafaa64e20cef3a526,/,/,    Updating svn:ignore for gora-compiler gora-compiler-cli gora-solr submodules.,/,/,100
+8ac9048cf85570a330a807f876c0291ad926deb5,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+e4f3509e30bd5f2ad771909dec971ea2178a523c,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+9bfd4c7d0d1a5774fce0c8ccde71b75f9b36dcf7,/,/,    [maven-release-plugin] prepare release apache-gora-0.4,/,/,100
+a306192c90a1c78fe9cb14a879a0d40429fec8a2,/,/,    [maven-release-plugin] prepare release apache-gora-0.4,/,/,100
+dda54ad518b4a78291cb9eb63ceb3d6900212c60,/,/,    update pom.xml for alparslanavci,/,/,100
+162c552447d86f7a820f459cab0a15a46ff0ba10,/,/,    update pom.xml for alparslanavci,/,/,100
+ee4be90dee2ceb4c656eb4a817c937b847796a3e,/,/,    final updates for 0.4 RC,/,/,100
+32f704120b605ac2699b6b091cb9e573838404fe,/,/,    final updates for 0.4 RC,/,/,97.14285714
+ab2102a29ced91101c8d4987115996071efd02f9,/,/,    First round of update of MongoStore after GORA_94 merge,/,/,100
+30c671b1672655d6d7f4e2b2bd79486e44e8a3d2,/,/,    Upgrade de.flapdoodle.embed.mongo to 1.42,/,/,100
+6719773bb673d13c450a55bb284a82a556c257f3,/,/,    Upgrade to MongoDB 2.12 Java driver,/,/,100
+6d063fce92c7ac0ce7ae096284601931a33da2cb,/,/,    update CHANGES.txt ready for release,/,/,100
+1b5b36d3fee0ba23c0ead04e65f34de09295b907,/,/,    remove unused classes and old GoraCompiler  move LicenseHeaders utils class to new GoraCompiler module,/,/,98.42293907
+136fc595ad3ff7e47bc9878967d2079948b36bc1,GORA-321,Improvement,Merge GORA_94 into Gora trunk,avro,Blocker,87.67772512
+d1c4ac4a6f070f88cfcadc51b151ea8ef426ccbb,GORA-318,Bug,Provide better error message when keyClass from mapping file mismatches data bean.,gora-hbase,Minor,100
+2ea1854ad9993bb156e52354baf7ba7be3bd9a1d,GORA-296,Improvement,Improve &apos;Keyclass and nameclass match&apos; logging in HBaseStore,gora-hbase,Minor,100
+2164710e7ea211b72260dff4367b6e0f422c021d,GORA-154,Bug,delete() method is not implemented at CassandraStore  and always returns false or 0,gora-cassandra,Major,100
+492a78fa6d892f314c5921899d5ce631683a4fb4,GORA-167,Improvement,Make Cassandra keyspace consistency configurable within gora.properties,gora-cassandra,Minor,98.2190561
+eb492c6aa699c4a102c8c695db841765279d258a,GORA-171,Improvement,Implement Daily Rolling File Appender for localised Gora logging,,Trivial,100
+be0c9945b789332b0d0b8c0cbd0ff03a545c06a9,/,/,    Align CassandraSuperColumn logging with CassandraStore when type is NOT supported.,/,/,100
+668c61f1c8401bafb014b1f08bdc51fc3bd49485,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,97.61904762
+201818cc79160efe704f78fdda6ddfe005f196d7,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,99.90566038
+5aeb07bd9e07ebe3b4c27c5e540d884059f237b6,GORA-290,Bug,StatefulHashMap removes the entry when put with same value,gora-core,Major,100
+60e937fbdffdfb01d6886f39baa96052c7420b71,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+f6440d1468e9cd3aa1b0ba09888f52b94acf70a8,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+692f89574beef37409e29720c7ca73f5e548482b,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+3ba3bf581eeb49170c0952bb2707d7eb54173cd1,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+8015551e3a2c6dae1f3c754f471decdd7c457c43,GORA-285,Improvement,Change logging at o.a.g.mapreduce.GoraRecordWriter from INFO to WARN,gora-core,Major,100
+9b05ccf9899b1124cf60a53ad62dcb7547c63b2d,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,100
+2812ebe74054651584da9c7af3ee33bf3f09aaa2,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,83.19112628
+cdce816378abe36c47de7c38f4a05f235837e153,/,/,    update CHANGES.txt ready for release,/,/,100
+22be506860ddae434d70f68f0de96759d516ef7d,/,/,    update CHANGES.txt ready for release,/,/,100
+a932118bafd233c3c78053fa9a9b5e9275ec2b24,/,/,    remove unused classes and old GoraCompiler  move LicenseHeaders utils class to new GoraCompiler module,/,/,100
+185cda722324d1b688df91fed9ba9ae13e7d946c,/,/,    remove unused classes and old GoraCompiler  move LicenseHeaders utils class to new GoraCompiler module,/,/,98.30638953
+4b5a9783546eac906ae193a222f893d7a4d8f229,GORA-321,Improvement,Merge GORA_94 into Gora trunk,avro,Blocker,100
+5d4d82d42c9dba9bd311f12d8949b4df1e868e83,GORA-321,Improvement,Merge GORA_94 into Gora trunk,avro,Blocker,87.42616034
+61779b62c4a63f26c982c58275f01c18472a4213,GORA-318,Bug,Provide better error message when keyClass from mapping file mismatches data bean.,gora-hbase,Minor,100
+578ace6c2cb1477595e087288925e4d1d4b7662e,GORA-318,Bug,Provide better error message when keyClass from mapping file mismatches data bean.,gora-hbase,Minor,100
+5a1ef55c60561f904a563faaaa7d43f93357d26f,GORA-296,Improvement,Improve &apos;Keyclass and nameclass match&apos; logging in HBaseStore,gora-hbase,Minor,100
+8268f4a0a708fc58afe5ce2c5f7731f74e1c0c82,GORA-296,Improvement,Improve &apos;Keyclass and nameclass match&apos; logging in HBaseStore,gora-hbase,Minor,100
+48a5cf82dde819540475a0b582537723cf4ef038,GORA-154,Bug,delete() method is not implemented at CassandraStore  and always returns false or 0,gora-cassandra,Major,100
+ea10e3720848ae6bb45643bd833d11f2fc63eac9,GORA-154,Bug,delete() method is not implemented at CassandraStore  and always returns false or 0,gora-cassandra,Major,100
+8a117394a698d2e5df78106e273f38f72feda3ce,GORA-167,Improvement,Make Cassandra keyspace consistency configurable within gora.properties,gora-cassandra,Minor,100
+f1a1c370ec7c44d4d191459a999060161cab0454,GORA-167,Improvement,Make Cassandra keyspace consistency configurable within gora.properties,gora-cassandra,Minor,98.10785241
+6e60d9783f545cd28306b37a667b64bfff589dcf,GORA-171,Improvement,Implement Daily Rolling File Appender for localised Gora logging,,Trivial,100
+26689ec21bda509c5ebca72e1dae2cf2d667e50d,GORA-171,Improvement,Implement Daily Rolling File Appender for localised Gora logging,,Trivial,100
+66056fde207e71348b954a46d128289a4b6e8e78,/,/,    Align CassandraSuperColumn logging with CassandraStore when type is NOT supported.,/,/,100
+5b8f00dda6b9c1666977444852bca070207df9fb,/,/,    Align CassandraSuperColumn logging with CassandraStore when type is NOT supported.,/,/,100
+f8509bd61e7f84de95b4a73adb8ed385140c364d,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,100
+0dc2f1b20b4f47cbd18cd8c89b5f1e010e91d51f,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,97.46588694
+902dc06e34555d3db41154ac0634dd8cccf55717,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,100
+614ee058a56b451ff5a3abc035b148bd2bfef3b0,GORA-119,Improvement,implement a filter enabled scan in gora,,Major,99.89939638
+c5a57530b676825ef052317d7ca131805459fc4c,GORA-290,Bug,StatefulHashMap removes the entry when put with same value,gora-core,Major,100
+90aedb7af30807558c4e035a03c9673229404fba,GORA-290,Bug,StatefulHashMap removes the entry when put with same value,gora-core,Major,100
+8592e92fc9e95466fb7fdc839909e115ba9ee51d,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+3dbd8f4046c1fb61baa980025cfd9b93ccaca332,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+0c9f047f179d6b0b448a1d26841caf4dae92a9b9,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+cdac4b29518f99352569972949c64bcc119e7e0c,GORA-231,Improvement,Provide better error handling in AccumuloStore.readMapping when file does not exist.,gora-accumulo,Major,100
+10a701b87343716607435e5a37282fef618e4a03,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+47794859f50ad5298bb5941e9262ebe98cca20d9,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+c401e929da396fcd3c902ae76a71ba981ff2d67e,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+ddff02db5dd8d93903a1312e999af7867fd3b62f,GORA-283,Task,Specify field name for types not being considered in gora-cassandra,gora-cassandra,Minor,100
+af9de64dd8ebef8df8ec587bf757113294cd6d79,GORA-285,Improvement,Change logging at o.a.g.mapreduce.GoraRecordWriter from INFO to WARN,gora-core,Major,100
+9d53951cbef913c25247d4260f989aa709c1ce24,GORA-285,Improvement,Change logging at o.a.g.mapreduce.GoraRecordWriter from INFO to WARN,gora-core,Major,100
+3960af2d65cb74e5be31a28c92c62e4650213131,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,100
+e4a024d23defebfd066f615fc46be81a185cc761,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,100
+8964043d8de8c21cc79f96b7012005cf0b7e4a62,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,100
+5c167e007c05305aafa7d7cc76bcea9cd5c18d83,GORA-117,Bug,gora hbase does not have a mechanism to set the caching on a scanner  which makes for poor performance on map/reduce jobs,gora-hbase,Major,96.98736638
+17cbe64a3d3a2baee11c4a051fca6f56d242b49d,/,/,    Bugfix: MongoStore try to overwrite document if there is no set / unset items.,/,/,100
+34a272c3f6af9cdf76ea1c696d147ff6688a6d41,/,/,    Remove dead test code (covered by existing other testcases),/,/,100
+6c34cb6be113091fed0128198972f3b0b2b011ff,/,/,    Remove old commented code,/,/,100
+bcc60b6250ee566f0fac68bcfbeaf93b463268c9,/,/,    Enable new test for MongoMappingBuilder,/,/,99.71724788
+e807d5941f73e3355b7583081f19243ff01573a9,/,/,    Update MongoStore to state that we don't support union fields with 3 types.,/,/,100
+e4088d5cb3b2f8c7eab7a84cc1c63e9412f9f8b1,/,/,    Merge branch 'trunk' into GORA_199,/,/,97.08171206
+4f95f3fe1e451a6c05dd2e17c88d761a542b8cb4,GORA-281,Improvement,More flexible file locations for cassandra&apos;s config and log4j,gora-cassandra,Trivial,100
+fde03a1a28e78743c5050da55c3008e460a7b8f5,GORA-281,Improvement,More flexible file locations for cassandra&apos;s config and log4j,gora-cassandra,Trivial,100
+faf2ce65c2c279f721b9f076d6cc435d63a3a191,GORA-270,Bug,IOUtils static SerializationFactory field,gora-core,Major,100
+7a01a219481df8723f7dce9518379efc19695a51,GORA-270,Bug,IOUtils static SerializationFactory field,gora-core,Major,97.08171206
+a205ad56bdf09de2228913e3e7b35432ed73ff0b,/,/,    Merge remote-tracking branch 'upstream/trunk' into GORA_199,/,/,90.2970297
+af7a2e281ff7850a23d1e6623a91a49e18cbe3d2,GORA-66,Bug,testDeleteByQueryFields seems incorrect,testing,Major,100
+5594f27bf034e6eeb4961ca8a694e10328f2be20,GORA-66,Bug,testDeleteByQueryFields seems incorrect,testing,Major,87.21881391
+2b0276b0fcf8fd10a8f96d1ff9271431979c25ce,GORA-268,Bug,Make GoraCompiler the main manifest attribute in gora-core,gora-core,Major,100
+270b43bf667b90ac91ca50d5227c1a36290df6b5,GORA-268,Bug,Make GoraCompiler the main manifest attribute in gora-core,gora-core,Major,100
+071f7e45f21f8b926ebfcfb302e3de415f86d5d9,GORA-265,Sub-task,Support for dynamic file extensions when traversing a directory,gora-core,Minor,100
+dd93039bf4c3673f85757d4499f2b4fab7c7ee09,GORA-265,Sub-task,Support for dynamic file extensions when traversing a directory,gora-core,Minor,100
+8dc0d39f4caa329ced1c75a14244be416ece5bcb,GORA-264,Improvement,Make generated data beans more java doc friendly,gora-core,Minor,100
+d30b88ac24af61d4ed4fc954588e25b10c0afc3d,GORA-264,Improvement,Make generated data beans more java doc friendly,gora-core,Minor,87.21881391
+395f2e2ad50d524f42ecc563104c165fa0fa6f39,/,/,    Define configuration on PartitionQueryImpl.,/,/,100
+0b00d1e50c6a796fd3f9d1e58740ca12ef9bfabb,/,/,    Fix issues with double nested fields.,/,/,87.21881391
+e38692d844003af75d91e7152de2ff4afd7555fa,GORA-222,Improvement,upgrade jackson version to 1.6.9,,Major,100
+853adbfe70bf32d14225d349c3105a4143e088ca,GORA-222,Improvement,upgrade jackson version to 1.6.9,,Major,100
+33c70b619c3746ef6d8a9c6ff5d8350e98665156,GORA-232,Bug,DataStoreTestBase should delegate all functionality to DataStoreTestUtil,testing,Minor,100
+1b63c78c3c4034132324b43dd24a68774b14f90a,GORA-232,Bug,DataStoreTestBase should delegate all functionality to DataStoreTestUtil,testing,Minor,100
+d7d21708aae317c660b9a925efbda3d4eba4aead,GORA-259,Test,Removal of the main methods from the test case classes,,Minor,100
+885498179bc5d898adf303cb8ca9ac475899ac42,GORA-259,Test,Removal of the main methods from the test case classes,,Minor,100
+197f13437bcd82fd99526bc0597ecc20aee197c7,/,/,    disable solr module to stabalize builds,/,/,100
+db0dcdc57bbaae8230224ecaf1d98481334e325e,/,/,    disable solr module to stabalize builds,/,/,87.21881391
+5fa3e4495c5360ec2de4e33b06e22eb21d20923e,/,/,    Refactor loading/saving code into fromDBObject and toDBObject methods so that,/,/,87.21881391
+d10ac0c8b0fc876cefc2537913e7b7d3f7293d3a,/,/,    reformat SolrStore for correct 2 line indents,/,/,100
+ccd3b7e7169c7e939a27cd11222d007d2807e820,/,/,    reformat SolrStore for correct 2 line indents,/,/,100
+02cae63ac970f6148b6105cf896851ed1ebae627,GORA-229,Bug,Use @Ignore for unimplemented functionality to identify absent tests ,testing,Minor,100
+2a395d3c5001e761c0a3e7c65d564247f1deb3df,GORA-229,Bug,Use @Ignore for unimplemented functionality to identify absent tests ,testing,Minor,89.97890295
+87e64a58ff8c4bf307fa36233a093587e587426a,/,/,    trivial update of CassandraStore to annotate methods,/,/,100
+3f37cbf80e18ad3c89dcbb906ffda219d53abd7c,/,/,    trivial update of CassandraStore to annotate methods,/,/,100
+f1917c4293090a208b55072e17634bbf83892542,GORA-258,Bug,writeCapacUnits gets value from wrong attribute,gora-dynamodb,Minor,100
+3a36e94a1b46b86a20dd1b6bab5f143bccedd6e9,GORA-258,Bug,writeCapacUnits gets value from wrong attribute,gora-dynamodb,Minor,96.77419355
+b6a14758dc63851c272ca423d16e1c37e02cb16a,/,/,    Use MongoMapping to convert Schema fieldname to Mongo Document fieldname,/,/,100
+962cdd67bc9672ed46da54b9a114c3ac8dfe14c1,/,/,    Fix mapping for tests.,/,/,100
+8a9ea8ebc323c7351319dbd0dc3456384097b403,GORA-199,New Feature,Support MongoDB in GORA,storage,Minor,100
+be7344ee4976f0c98762ddcd68107b454b628738,GORA-199,New Feature,Support MongoDB in GORA,storage,Minor,96.77419355
+346a7ae7a342588c00a4fd40e56f82bb219587c9,GORA-256,Improvement,Add Solr store to gora-tutorial,gora-solr,Trivial,100
+477fc27b8c75de4a07f9669733580d5b3f2f1842,GORA-256,Improvement,Add Solr store to gora-tutorial,gora-solr,Trivial,100
+7de9f41d4c39c7cedb58391bd0ff51586ae1d2ed,GORA-256,Improvement,Add Solr store to gora-tutorial,gora-solr,Trivial,100
+32789a82fdcaf48069d2d79d4825f9818650a7bc,GORA-256,Improvement,Add Solr store to gora-tutorial,gora-solr,Trivial,100
+f149ad06baa3025458e1f29d834896f2ad7f41c6,/,/,    trivial update to test driver to remove generated test index directory,/,/,100
+70f7c0fc694156d031b811d34d73d8948c39a854,/,/,    trivial update to test driver to remove generated test index directory,/,/,100
+292a8ac981cce2e608126b5c6d47db85b312f8b4,GORA-9,New Feature,Implement a Solr-based store,storage,Major,100
+c7999a9dcab5baf2f84e295554fc39570a090c3d,GORA-9,New Feature,Implement a Solr-based store,storage,Major,98.41986456
+d0216287cda30f0394457a51d5b6ded137ece755,GORA-9,New Feature,Implement a Solr-based store,storage,Major,100
+44998ab6d85ed1ce79132c0033b6dcb0905d731a,GORA-9,New Feature,Implement a Solr-based store,storage,Major,100
+099b0eea972382dac63c31809425de6cb29ae1ea,GORA-237,Bug,Gora Compiler usage message for LPGL v3 mentions v2.1,,Trivial,100
+d173a80bd2147c6d771e2272035a39dde1b4b227,GORA-237,Bug,Gora Compiler usage message for LPGL v3 mentions v2.1,,Trivial,100
+f2cf5370a2055be21d0b90f3af07ef32c9fa920c,GORA-230,Improvement,Change logging behavior in AccumuloStore to pass exception object to LOG.error method.,gora-accumulo,Minor,100
+08939c94d233587a7b31cb56d1372d61904b95c7,GORA-230,Improvement,Change logging behavior in AccumuloStore to pass exception object to LOG.error method.,gora-accumulo,Minor,100
+69c7b249ed8e95dec7ec73bbf54334eedb1912ae,GORA-185,Task,Remove ANT scripts and IVY confs,build process,Major,100
+da48dd6611397326caa0b4b187d99dfb4a9d64e7,GORA-185,Task,Remove ANT scripts and IVY confs,build process,Major,100
+22e501483cbee03dcf63c903e16a52d18d84ad26,GORA-243,Bug,Properly escaping spaces of GORA_HOME in bin/gora,,Minor,100
+80f9afaa60b1a4194f8749eaa916f1f12323f80d,GORA-243,Bug,Properly escaping spaces of GORA_HOME in bin/gora,,Minor,100
+da8c98355f56a256e40c712506e29c2fc5f533a6,GORA-174,Bug,GORA compiler does not handle [&quot;string&quot;  &quot;null&quot;] unions in the AVRO schema,schema,Blocker,100
+97cf439fbdc95bd495e74b2e430ad954fb276bea,GORA-174,Bug,GORA compiler does not handle [&quot;string&quot;  &quot;null&quot;] unions in the AVRO schema,schema,Blocker,99.65635739
+285d63ea21683415a9cc3c218f82a82f339935ca,GORA-239,Improvement,Add null checks and better message in AccumuloStore,gora-accumulo,Minor,100
+48efefc5c2664e5289f8665da31d7234cf79556a,GORA-239,Improvement,Add null checks and better message in AccumuloStore,gora-accumulo,Minor,100
+e62836c5dcfaa6cdbfc823fdfb05c341cc621efb,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+5482bcd6e862287d54361e550e444c10973dc9c4,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+9ad9308a14ca8a4b6cfe6a1072dc97a844fdab3e,/,/,    [maven-release-plugin] prepare release apache-gora-0.3,/,/,100
+50075d9dcb8f51dbad13e94f2a1fee4e0dfb56ed,/,/,    [maven-release-plugin] prepare release apache-gora-0.3,/,/,100
+05692d3b3b1e04f005f4a1aee9ea0e29d4850839,/,/,    update of KEYS,/,/,100
+ba16d43279934af49d0bac2528c38a2d08d7f1e3,/,/,    update of KEYS,/,/,100
+4ad4d6af88196db4fbbb383d82a0ac5251b09114,/,/,    prepare for 0.3 RC#1,/,/,100
+b43abc4a4c3f53ff7f869a2c43626254fbb0fe67,/,/,    prepare for 0.3 RC#1,/,/,100
+a954488598d1d15f85dfe8a142d51f46024873ec,GORA-191,Improvement,Support multiple Avro Schemas within GoraCompiler,schema,Critical,100
+a99c78c25c2344a3ab98851495ccf3766bff933b,GORA-191,Improvement,Support multiple Avro Schemas within GoraCompiler,schema,Critical,100
+eeebc4b2fdf8533a90d8f1df255ee989ffaca4b8,/,/,    Comment out the HBase mini map reduce because the map reduce test is not using the mini cluster one.,/,/,100
+7d7e93c223a7ebb4ece1875ecbf1c46c52b4cf60,/,/,    Comment out the HBase mini map reduce because the map reduce test is not using the mini cluster one.,/,/,100
+628468cd6b6fc7c742c361d7a0e36b1b79dcb4bd,GORA-89,Improvement,Avoid HBase MiniCluster restarts to shorten gora-hbase tests,gora-hbase,Critical,100
+e88e5e800d7ab28cd6a4e3a62aa30509569439c1,GORA-89,Improvement,Avoid HBase MiniCluster restarts to shorten gora-hbase tests,gora-hbase,Critical,95.7011259
+ebed85fe78156be2d21596c9c0e6fbbddf2d54f2,GORA-203,Bug,Bug in setting column field attribute &quot;qualifier&quot; in CassandraMapping ,gora-cassandra,Major,100
+e7bb428cfa979ad49f355f8bc85ba98b50eb34f3,GORA-203,Bug,Bug in setting column field attribute &quot;qualifier&quot; in CassandraMapping ,gora-cassandra,Major,100
+f8e78a238106d57d12c687c21aff35615db2b1e0,GORA-221,Improvement,fix Cassandra configuration in gora-tutorial ,gora-cassandra,Major,100
+f03c7fc7305c40c5fe91360a3ec0535fd37a7c2d,GORA-221,Improvement,fix Cassandra configuration in gora-tutorial ,gora-cassandra,Major,100
+e99d96cbf5d879da2b42e367b273f015bbe319d1,/,/,    move eclipse file out of trunk,/,/,100
+390f8694eb890bc063fb99ed5de8feadf65ff113,/,/,    move eclipse file out of trunk,/,/,100
+feb10e0258f7c1a135195896300e0abb7e1d6ecf,/,/,    Move DOAP out of trunk and into documentation,/,/,100
+e06e9091a7341f0715217f56e1054f4b74069111,/,/,    Move DOAP out of trunk and into documentation,/,/,100
+6304fbedf22dd37b7a849ecdec5affc6fc2a0b59,GORA-211,Bug,thread safety: java.lang.NullPointerException,gora-cassandra,Critical,100
+703449a3ddaa99161182ca0d7f562f8d1aff501a,GORA-211,Bug,thread safety: java.lang.NullPointerException,gora-cassandra,Critical,100
+d56f37ea1b91c8d7066eff5b0b4b0dd1ff019a92,/,/,    Update CHANGES.txt for author,/,/,100
+f78ae6f5d2bbc49bc028084913fdbe2d08d0e0e6,/,/,    Update CHANGES.txt for author,/,/,100
+3ecb70ad9bcfc9e97424af3c16a41b795f75f54a,GORA-210,Bug,thread safety: java.util.ConcurrentModificationException,gora-cassandra,Critical,100
+e51060b1adaf4b5475e9d9437b2667380acfbabe,GORA-210,Bug,thread safety: java.util.ConcurrentModificationException,gora-cassandra,Critical,100
+ad7e15b4aaad2eee51abe06dae214a44104786fb,/,/,    added myself (Roland) to developers,/,/,100
+61f90b669b74f2a5821443dcf221bc6963bc8a96,/,/,    added myself (Roland) to developers,/,/,100
+fbccdcd51802fae1f8a86463264ec5cb5378de18,/,/,    Cleanup alignment of code a bit.,/,/,100
+a8f5ec28b37de581ad711831c59896c49e940e4e,/,/,    Cleanup alignment of code a bit.,/,/,100
+576ddec78b5ec4aea285b81fee418dd5dfefe2d6,/,/,    Updated developers in pom.xml,/,/,100
+b16cb1cb4c60ce25318accd5b551fc5244e74a71,/,/,    Updated developers in pom.xml,/,/,100
+4f4bcc7e9445ac00a03aa01fa36343b96fb88c79,GORA-190,Improvement,Add &quot;version&quot; switch to bin/gora script ,,Minor,100
+2288c471b41a9957611414faca3cfd94bdc31466,GORA-190,Improvement,Add &quot;version&quot; switch to bin/gora script ,,Minor,99.53488372
+46090449b714ead81f1cc36b292ce8e69822a3a8,GORA-169,Improvement,Implement correct logging for KeySpaces and attributes in CassandraMappingManager,gora-cassandra,Major,100
+201689d1d2b68dca79fd8ba00e53808681bf379f,GORA-169,Improvement,Implement correct logging for KeySpaces and attributes in CassandraMappingManager,gora-cassandra,Major,100
+0a7370ae14d516de3c2f394155ac8ab0d2605719,/,/,    bring CHANGES.txt up-to-date,/,/,100
+419db470fb26f81a20f433a6036c98d4b60abb19,/,/,    bring CHANGES.txt up-to-date,/,/,100
+1ceb8b89d2182733adf8a3d7489952f8bfa39c60,/,/,    gora-tutorial does not work with Cassandra,/,/,100
+2d7e17c00f5f07a1c5a0b6ab01bc278bc2fe1089,/,/,    gora-tutorial does not work with Cassandra,/,/,100
+bb2589744c25d46bbb7ada8cefaa79a52751563a,GORA-197,Task,gora-cassandra requires BytesType for Cassandra column family validator,gora-cassandra,Major,100
+0c027955d23d4d52771aa3508292b881d07ee0b0,GORA-197,Task,gora-cassandra requires BytesType for Cassandra column family validator,gora-cassandra,Major,100
+c3f4effa90d07835b73f8c27fdefda9d844aa242,GORA-196,Test,OSX JDK7 failed to load snappy native library from snappy-java-1.0.4.1.jar.,gora-cassandra,Minor,100
+eb58a60647c4804910432b202d52cdbfe6fa4b3a,GORA-196,Test,OSX JDK7 failed to load snappy native library from snappy-java-1.0.4.1.jar.,gora-cassandra,Minor,100
+6eef3c4be029b7b9503d998d2dcced1538d73df7,GORA-182,Bug,Nutch 2.1 does not work with gora-cassandra 0.2.1,gora-cassandra,Major,100
+b43a77692d1cf01c2c23c21a7a048b8fee9e0cbb,GORA-182,Bug,Nutch 2.1 does not work with gora-cassandra 0.2.1,gora-cassandra,Major,100
+fbef7c92d61673aaf70090e622b1c71d0bf64ff3,/,/,    Fixing tabs used.,/,/,100
+ad8af60311592ad36256ea4746b3b7d81f2ca3c9,/,/,    Fixing tabs used.,/,/,100
+5c6f7dbabb47e18745920dbbba2511230f0b7e38,/,/,    Adding new features to help GoraCompiler provide new licenses.,/,/,100
+0eaf9587c10fd25ced2f173af91196a3d9e038c7,/,/,    Adding new features to help GoraCompiler provide new licenses.,/,/,99.43661972
+d9889f20b190a29c238e5861330c4392fcea8725,GORA-193,Improvement,Make sure gora-core test dependency is always generated when packaging.,maven,Trivial,100
+21e76adbc50c21637b6fe88acc2d99a8aaa1aa05,GORA-193,Improvement,Make sure gora-core test dependency is always generated when packaging.,maven,Trivial,100
+8106d73f4ad334dbb45962991232e5927fc37017,/,/,    Forgot update to CHANGES.txt,/,/,100
+056fad0d1a067acc3558a3ddb52869e7067fa4e5,/,/,    Forgot update to CHANGES.txt,/,/,100
+52dd95191a0544394c06472ca0d45dffa2857c59,GORA-186,Improvement,Show better errors when a field is missing in HBase mapping,gora-hbase,Trivial,100
+0a1e555373a70a31e9f37fc064a41788efdffcc6,GORA-186,Improvement,Show better errors when a field is missing in HBase mapping,gora-hbase,Trivial,100
+a79c77499bbf0bd636abb220fe49e1fff51ac91d,/,/,    Cleanup on code style,/,/,100
+1f87683c46e09387de54b924ea94f218d7b56f07,/,/,    Cleanup on code style,/,/,100
+207e0ca38228688a7c3cf96b26203fba05fda708,/,/,    Cleanup alignment and unneeded imports plus comments in the code. Add gitignore for intellijidea files.,/,/,100
+d8f1440abb8daa01ea49263d080ddc6059100ad5,/,/,    Cleanup alignment and unneeded imports plus comments in the code. Add gitignore for intellijidea files.,/,/,89.31216931
+dcff4bd4ce41be97ac9d2455c1a0f46798bbee0f,GORA-179,Improvement,Modify the Query interface to be Query&lt;K  T extends Persistent&gt; to be more precise,gora-core,Minor,100
+4f40cc48b417cb33448b607b17fb277651cd186b,GORA-179,Improvement,Modify the Query interface to be Query&lt;K  T extends Persistent&gt; to be more precise,gora-core,Minor,88.7254902
+51412468f077a072ff4bf9c35b3989d1fc63d2a7,GORA-178,Bug,HBase fix ivy.xml to use the correct antconfig mapping,,Major,100
+9339be97637ba58d95711b922cea9d6da63ccd00,GORA-178,Bug,HBase fix ivy.xml to use the correct antconfig mapping,,Major,100
+4d423f42358eef873574d75a0222ac87cca00cf0,GORA-172,Bug,java.lang.ClassNotFoundException: org.apache.gora.memory.store.MemStore.MemQuery,gora-core,Major,100
+1c75f0265f173945adcf2e7c01b7ea52103d9000,GORA-172,Bug,java.lang.ClassNotFoundException: org.apache.gora.memory.store.MemStore.MemQuery,gora-core,Major,98.32599119
+049b9e19051ec416ae85876a7550f29ab9c5d0f8,GORA-172,Bug,java.lang.ClassNotFoundException: org.apache.gora.memory.store.MemStore.MemQuery,gora-core,Major,100
+3b54836096abc549d4942d5a4c524da0a12ab62e,GORA-172,Bug,java.lang.ClassNotFoundException: org.apache.gora.memory.store.MemStore.MemQuery,gora-core,Major,98.32599119
+1edda03966eb57d9b102886d970425c1cd6c6bc7,/,/,    Remove lib directory for Gora accumulo module.,/,/,100
+c401425d1d4100882bd9023725a8c740e4032cff,/,/,    Remove lib directory for Gora accumulo module.,/,/,100
+fc107e31815a76eef8030a5dcb5c90c773f14942,GORA-103,New Feature,Datastore for gora-dynamodb ,gora-dynamodb,Major,100
+e7eee670943eca0cfaeb77e2d94c9fdae83ac2b0,GORA-103,New Feature,Datastore for gora-dynamodb ,gora-dynamodb,Major,96.21962196
+f745fb2b631f6cf56d927135f60bef115dadcc26,GORA-103,New Feature,Datastore for gora-dynamodb ,gora-dynamodb,Major,100
+5f1d8e033fbc70f7fca46575dfb5fbcb72d05cf0,GORA-103,New Feature,Datastore for gora-dynamodb ,gora-dynamodb,Major,86.04898829
+50f6bffa3b51376fb1c9223fd16642d4af18746d,/,/,    Commit to update pom.xml,/,/,100
+2b3e2ba383e83daea0f0b6905b3279ce0f7f492c,/,/,    Commit to update pom.xml,/,/,100
+be32279cc5cce692054d94cdfc03bf7afb4f8d1a,/,/,    trivial commit for gora-tutotrial gora.properties file,/,/,100
+2288900cb02540b12d37a901506686e4973b6ea1,/,/,    trivial commit for gora-tutotrial gora.properties file,/,/,100
+4647d6986dc0293adf8d7ab185584527346506ec,GORA-39,Sub-task,Complete Gora-Cassandra site documentation,gora-cassandra,Major,100
+375f49eb4fb43d8fd94d775bcc996ea1fd04c50c,GORA-39,Sub-task,Complete Gora-Cassandra site documentation,gora-cassandra,Major,100
+f1f7a8cd566d1d3c5e5b9aab428fc4061f812b7b,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+d39962e57bd4644de8b1b04625c8dc0c68c5d8aa,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+ac367f1ad20df33132c8d596523254629c2ad963,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+16accd4425801e350fdfa30876c1f64cc2888756,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+68c57d6a94fd0722058fa3c7e0b03baf1f223e66,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+8faaf51de5a59c0ef054b127f726f1102bb14491,GORA-125,Improvement,Clean up logging libraries,build process,Minor,100
+4e29df90c53fecbd31ece5419e6fb8d04619b23a,GORA-160,Bug,Gora Fails to Import Into Recent Versions of Eclipse,build process,Major,100
+931f86c6c28acd851a6d48eccb1b59e94f4aaba4,GORA-160,Bug,Gora Fails to Import Into Recent Versions of Eclipse,build process,Major,100
+75fb0f137923b9dfafb85a8dba69eed83aae938e,GORA-85,Improvement,Implement &quot;Usage&quot; messages for SpecificCompiler and LogAnalytics,storage,Major,100
+45d204d58813a521d21c66dd51b93608f8e5e77e,GORA-85,Improvement,Implement &quot;Usage&quot; messages for SpecificCompiler and LogAnalytics,storage,Major,100
+c16ab63653451f985276cb7368004802518a2a00,/,/,    trivial correction of hbase test maven artifacts.,/,/,100
+1d8d5f2fb28ed73680955f6df90610d2564a594a,/,/,    trivial correction of hbase test maven artifacts.,/,/,100
+ef3c4ab865c0e363ba61254de1ff75a05de3b007,/,/,    trivial commit to correct test artifact config,/,/,100
+1ab2d8b864a81aa449ccb06529d0910818dfcea5,/,/,    trivial commit to correct test artifact config,/,/,100
+45402e8e98f9a620e4a154f44902871343a2073e,/,/,    Add apidocs-0.2.1,/,/,100
+e48277eaeb96b4507b728a443fed29a64e33ef1d,/,/,    Add apidocs-0.2.1,/,/,100
+068fe59b9a67da5ee8a39642a1cfa1c8123a4fcd,GORA-164,Bug,Use &lt;type&gt; instead of &lt;classifier&gt; configuration for test dependencies,maven,Critical,100
+a96d68aebc480a1a7624977ff7c3c5244228b887,GORA-164,Bug,Use &lt;type&gt; instead of &lt;classifier&gt; configuration for test dependencies,maven,Critical,100
+43c25f33cbeceb80e7fea0e83e9f97a4dfbf1736,GORA-164,Bug,Use &lt;type&gt; instead of &lt;classifier&gt; configuration for test dependencies,maven,Critical,100
+6698f7c20ae97faa124b431022de8a4499ca6d6b,GORA-164,Bug,Use &lt;type&gt; instead of &lt;classifier&gt; configuration for test dependencies,maven,Critical,100
+be63175b5cebe17130cae8b3b1f63a6e56de3fa3,/,/,    GORA-XX ensure directory cleanup succeeds in gora-*,/,/,100
+33af553add6a40e123fadbcdafd382748c6c724e,/,/,    GORA-XX ensure directory cleanup succeeds in gora-*,/,/,100
+09d7bc992bc080109d1e9eed5b75f003b3b2f22e,/,/,    add code format file to trunk,/,/,100
+f6a1dd621600f01b2e85666a4d06b4391bb21871,/,/,    add code format file to trunk,/,/,100
+935aaaae9858e2e91f51e98b03ffcd3ff95a7f4b,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+8991c5b0977d226a5d9b00be3089e84d74204dc4,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+1b1e5989e52cc0aebded938b2f874d6869e68c53,/,/,    [maven-release-plugin] prepare release apache-gora-0.2.1,/,/,100
+a6f68e1474c4ffb49d1dddeb5a1adba8380a8197,/,/,    [maven-release-plugin] prepare release apache-gora-0.2.1,/,/,100
+014aae87aca2867947f249d11ef45ff703c9bfd6,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+3cd56ab34e19d5e9a035115afad9c48f01d72356,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+3b9e369c2a45c1391ee0b9a250cec72c2538a177,/,/,    [maven-release-plugin] prepare release apache-nutch-0.2.1,/,/,100
+de0f23036b2dc29a810ba33f49caffd1a7c655e4,/,/,    [maven-release-plugin] prepare release apache-nutch-0.2.1,/,/,100
+9b4e2f648b6c725517af3e43975ce38877d3cff8,/,/,    update CHANGES.txt,/,/,100
+97d88cc3fa15ee53a8e491a88ab8ebbb59f38163,/,/,    update CHANGES.txt,/,/,100
+fa07cf8e3d2c451702214dc67658d9f36bc2bbf8,/,/,    remove podling from PMC,/,/,100
+f4788c81949d6608e6447c952bd4bf467b5db3e8,/,/,    remove podling from PMC,/,/,100
+0bec9d863a0c7b81c964b7eac9f33ae908f48f75,/,/,    Adds kazk (Kazuomi Kashii) to developers of pom.xml,/,/,100
+8595861f466ba057eaad62776e59c09cbd952320,/,/,    Adds kazk (Kazuomi Kashii) to developers of pom.xml,/,/,100
+cf52faece0cfc13843181d6530826485832a8d49,/,/,    revert commit to disable testQueryWebPageQueryEmptyResults,/,/,100
+8e24f854c929c09db06aa19b154554f3494b327f,/,/,    revert commit to disable testQueryWebPageQueryEmptyResults,/,/,100
+b4d6b4e9e544bf5d0085ff0013b891a42331dd6c,GORA-157,Test,gora-cassandra test failure - proposal to skip 10 test cases for a while,testing,Major,100
+4e3ccbb8fa4303099bfe29edc79e49fc506c31a5,GORA-157,Test,gora-cassandra test failure - proposal to skip 10 test cases for a while,testing,Major,100
+b324848c48992c6f6800c9e30909a387735ac787,/,/,    commit to disable testQueryWebPageQueryEmptyResults,/,/,100
+da3d7b04f59c9d46566729b7855358c1aa9de0f0,/,/,    commit to disable testQueryWebPageQueryEmptyResults,/,/,100
+8dfed9a70cd1651e366fc8e2cf95938949e0c0ed,GORA-157,Test,gora-cassandra test failure - proposal to skip 10 test cases for a while,testing,Major,100
+e30f56d4480dedb98978aca9e7f0943c07ad6f6b,GORA-157,Test,gora-cassandra test failure - proposal to skip 10 test cases for a while,testing,Major,100
+f2759ed60f086cb882d0745fef6ba2da34b8c4a7,GORA-156,Improvement,Properly implement getSchemaName in CassandraStore,gora-cassandra,Trivial,100
+3cd16d2e855c5d0a504007003418c5dfafb02883,GORA-156,Improvement,Properly implement getSchemaName in CassandraStore,gora-cassandra,Trivial,100
+44ff082465653250edae51964e8372210cb9327b,GORA-153,Bug,gora-cassandra does not correctly handle DELETED State for MAP,gora-cassandra,Major,100
+36dfd5b95a854d36845621fd8f98228ab8d18064,GORA-153,Bug,gora-cassandra does not correctly handle DELETED State for MAP,gora-cassandra,Major,100
+08d2d760ca0995da8b55c448a660cfc403c6ff8a,GORA-152,Bug,gora-core test incorrectly uses ByteBuffer&apos;s array() method to get its byte array,testing,Major,100
+83487fe9ae50303258038b2c8b4a4ddb5ed56c25,GORA-152,Bug,gora-core test incorrectly uses ByteBuffer&apos;s array() method to get its byte array,testing,Major,100
+3a2d7f0eb6561c557fc512932643458af4c7343a,GORA-151,Bug,CassandraStore&apos;s schemaExists() method always returns false,gora-cassandra,Major,100
+b4be1b3811786a7cba1be1d370989afc03078286,GORA-151,Bug,CassandraStore&apos;s schemaExists() method always returns false,gora-cassandra,Major,100
+ef10dcc56790d4ba38da9e6144513c7b597cda11,/,/,    trivial commit  duplicate test for ListGenericArray.compareTo(),/,/,100
+feee9b225107939dac427fdd778336122352b264,/,/,    trivial commit  duplicate test for ListGenericArray.compareTo(),/,/,100
+33fda86c3e8ee962aa82ec39051fae8358eb0eb2,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+3a750258627ab09e0b2febf5b6cc2fb758d3c12d,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+963a2c764c6e6fc48671bbf4483231b9dc1109d7,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+e4db45b39a0cc8e5ce04654824fb142da180521d,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+687a96cf8cef710919ecc0783de99c4edc59e1ac,/,/,    bring back cassandra-all 1.1.0,/,/,100
+c53e448eeebe1fb7105dbe6465c0e5a2c31cebde,/,/,    bring back cassandra-all 1.1.0,/,/,100
+263ecbd5e6f96f1ed5e454eb2ec0d26b8746d781,GORA-53,Improvement,Add Gora-Cassandra tests,gora-cassandra,Critical,100
+7782f6e6d4336c55de08ac73637b889b3feb499c,GORA-53,Improvement,Add Gora-Cassandra tests,gora-cassandra,Critical,98.74572406
+085c000ad03cc988cd8c26c68dcb8d115d6887ed,GORA-149,Improvement,new serializer of MAP for single column implementation,gora-cassandra,Minor,100
+6962d3fc7ad347f791497543ff9776d2eb68f752,GORA-149,Improvement,new serializer of MAP for single column implementation,gora-cassandra,Minor,98.6409966
+99ab3c377dfeaff8400c08c2655f14aa275aeb8a,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+5daddbac992f9cce26b2983740b59e3921f79007,GORA-150,Improvement,Introduce Configuration property schema.prefix,,Minor,100
+0eb90cd89f224be5efc63b4d0a8f54ef58aac5dd,GORA-142,Improvement,Creates org.apache.gora.cassandra.serializers package in order to clean the code of store and query packages and to support additional types in future.,gora-cassandra,Major,100
+ea9bc0f1ad05fb84965c5f7518d9e44753084144,GORA-142,Improvement,Creates org.apache.gora.cassandra.serializers package in order to clean the code of store and query packages and to support additional types in future.,gora-cassandra,Major,91.98966408
+c52078487987b6191eda45ae00187452190107a4,GORA-148,Bug,CassandraMapping supports only (first) keyspace and class in gora-cassandra-mapping.xml,gora-cassandra,Major,100
+f979d9db1051b2ff055f3bb2df4567663575e04e,GORA-148,Bug,CassandraMapping supports only (first) keyspace and class in gora-cassandra-mapping.xml,gora-cassandra,Major,98.8005997
+c312754378f4379c822904d009058c52c23db67d,GORA-143,Bug,GoraCompiler needs to add &quot;import FixedSize&quot; statement for FIXED type,schema,Major,100
+8c0ce1bae4f5766f178d530f26bba0c11962d286,GORA-143,Bug,GoraCompiler needs to add &quot;import FixedSize&quot; statement for FIXED type,schema,Major,100
+519e3b2cc60d26c4371ee76a917da521bb6f84db,GORA-147,Bug,fix threading issue caused by multiple threads trying to flush,gora-hbase,Major,100
+f545363eb34a5e007d7f18490987e1a5e8a6b4b8,GORA-147,Bug,fix threading issue caused by multiple threads trying to flush,gora-hbase,Major,100
+16d3d6c588e38b76f01081c1e8b1b3923cc226f8,GORA-146,Bug,HBaseStore does not properly set endkey,gora-hbase,Major,100
+2bfeabadb562a202c2150c213baf71a605401d25,GORA-146,Bug,HBaseStore does not properly set endkey,gora-hbase,Major,100
+ff3c64249c646ba8e336f9c14b7cb40e896f185f,GORA-143,Bug,GoraCompiler needs to add &quot;import FixedSize&quot; statement for FIXED type,schema,Major,100
+83c9255ebc2756a9fb781f39d7248aa55971acd7,GORA-143,Bug,GoraCompiler needs to add &quot;import FixedSize&quot; statement for FIXED type,schema,Major,100
+49013e47f214656b3941fa234b4ce2646d94bba7,GORA-140,Improvement,Requires some adjustments on dependency at gora-cassandra,maven,Minor,100
+d71bf00104a4e1c6e036d96c41cb03978977e4e9,GORA-140,Improvement,Requires some adjustments on dependency at gora-cassandra,maven,Minor,100
+22d8611923b2e08d7480b7818c379e628fb31454,GORA-138,New Feature,gora-cassandra array type support ,gora-cassandra,Major,100
+d25807281cacf571a02868df9fb54e862a20b04e,GORA-138,New Feature,gora-cassandra array type support ,gora-cassandra,Major,100
+f69a4981dc8e82f169ffac10f4e2c263a29144fa,GORA-139,Improvement,Creates Cassandra column family with BytesType for column value validator (and comparators)  instead of UTF8Type,gora-cassandra,Major,100
+cc50fdeed3c43d8991137db3ffc0b82258d41bb0,GORA-139,Improvement,Creates Cassandra column family with BytesType for column value validator (and comparators)  instead of UTF8Type,gora-cassandra,Major,100
+e388c78803801b96fd4bf18dddbeb82c8c8fee50,/,/,    commit to update Gora doap with 0.2 release.,/,/,100
+f228a138c3e31bdaa0f2085c942235f006c9e32b,/,/,    commit to update Gora doap with 0.2 release.,/,/,100
+8c4668019c56a215060036ea75ae0ca81db886a3,/,/,    commit to add gora-cassandra-mapping.xml for tutorial,/,/,100
+21f6c4efd940ae577e3359fe7c795cf758ae30bf,/,/,    commit to add gora-cassandra-mapping.xml for tutorial,/,/,100
+85bd7251c245eb2f4bad7e685be88fe6f35ec33c,GORA-131,Bug,gora-cassandra should support other key types than String,gora-cassandra,Major,100
+dd76e0c809d355bc0558abcd021b87bb4a8f5fb2,GORA-131,Bug,gora-cassandra should support other key types than String,gora-cassandra,Major,100
+70ff159fc7b4535f6e59a17317cca5e1618803d9,GORA-77,Improvement,Replace commons logging with Log4j,documentation,Minor,100
+87ef4a2cbd4f2438bbdd0095b3eda564c113628c,GORA-77,Improvement,Replace commons logging with Log4j,documentation,Minor,100
+25569236caafb46aae5d3184f198a32cf2e7947f,/,/,    trivial commit to copy over tutorial configuration for runtime config,/,/,100
+75b7f20442e76f9c317126ae8a32885d7b336c1b,/,/,    trivial commit to copy over tutorial configuration for runtime config,/,/,100
+5b719e97a0501c40a215d8b29364ba30eaf63fe6,GORA-134,Bug,ListGenericArray&apos;s hashCode causes StackOverflowError,schema,Major,100
+9fabc724c8b86be6cba1b70098b9b1823434c33e,GORA-134,Bug,ListGenericArray&apos;s hashCode causes StackOverflowError,schema,Major,99.39485628
+42aa7ce3247c1123a7f83e6908c931f65420038c,GORA-95,Improvement,Catch incorrect mapping configurations and implement sufficient logging.,testing,Major,100
+a4a2e99a6a05276bf04300c2b8f0381502ff2a73,GORA-95,Improvement,Catch incorrect mapping configurations and implement sufficient logging.,testing,Major,100
+534c0d9a04c48313e8a6d42c7f594852955d69bc,/,/,    commit to address classloading issues as discussed on user@ and update to CHANGES.txt,/,/,100
+6ed2c732ef793d39d1805a543b637df987292f2c,/,/,    commit to address classloading issues as discussed on user@ and update to CHANGES.txt,/,/,100
+77684c1487aa7d14cd2457c0f0f43d54266ff8a4,GORA-122,Improvement,gora-accumulo/lib is not cleaned after mvn clean,gora-accumulo,Minor,100
+6c1cf81074f71979dd4dbf022c997bb1df99ddfd,GORA-122,Improvement,gora-accumulo/lib is not cleaned after mvn clean,gora-accumulo,Minor,100
+aa8402da983cd81f073a11b97e6e43230483ec2b,GORA-63,Bug,bin/compile-examples.sh does not work,,Major,100
+1b4ea508f6e4b01de5ed511cc7b39b8858248b55,GORA-63,Bug,bin/compile-examples.sh does not work,,Major,100
+e3a8ca558c96ef8c5d61a27315ddb1e7ba991d68,/,/,    Simple cleanup to remove extra spaces in the indent for new line.,/,/,100
+ea8ddfb3c2c33d00bdcef672e998871c3e1f4747,/,/,    Simple cleanup to remove extra spaces in the indent for new line.,/,/,100
+bd557a04a85dad282c08f820f0935e20a2c9eb74,/,/,    Simple JavaDoc fixes for persistentClass,/,/,100
+84d87c276902acfb261631b4deeebb67b961d035,/,/,    Simple JavaDoc fixes for persistentClass,/,/,100
+1586ac478a4815b5bc611e857e557085bf79e45e,/,/,    Fix gora mapping file name for hbase tutorial.,/,/,100
+3612a67f5e73956c49fd8d3da801c773e43a6754,/,/,    Fix gora mapping file name for hbase tutorial.,/,/,100
+d9d4d97ef760a0ff5488c04cb88ca21878aeb7b5,GORA-130,Bug,gora-accumulo caches tablet locations between map reduce jobs ,gora-accumulo,Major,100
+dfa409fc04425e0b86d55a2a62afb43c0f299baa,GORA-130,Bug,gora-accumulo caches tablet locations between map reduce jobs ,gora-accumulo,Major,100
+86eb95f8c1cc7acde6924e741997012fd3e1872d,GORA-127,Bug,Result objects are not closed properly from GoraRecordReader,,Major,100
+bf010f26487edbfdfd79588df01fe5c9458ca40b,GORA-127,Bug,Result objects are not closed properly from GoraRecordReader,,Major,100
+b9505d55b600fa82cae3f11ddc11d7aafef03eea,GORA-129,Bug,redundant conf field in HBaseStore,gora-hbase,Trivial,100
+838dbb14bb82aada29d247b1557fef64f9eefc6b,GORA-129,Bug,redundant conf field in HBaseStore,gora-hbase,Trivial,100
+132b4a6d8a276624dafd426f462b6b75ad99bab5,/,/,    trivial change to ivy configurations file to ease eclipse integration,/,/,100
+5429038e2b0a77420930bb5ef6ffb241845e8c63,/,/,    trivial change to ivy configurations file to ease eclipse integration,/,/,100
+b4ce8e1bf02efc2288c20439b6c80bee949e57aa,/,/,    trivial commit to correctly define instructions in bundle export-package that are never used e.g. change from o.a.g.cassandra to o.a.g.accumulo,/,/,100
+b04e85950ee5d64f44dd358302291bf6ed7c40a9,/,/,    trivial commit to correctly define instructions in bundle export-package that are never used e.g. change from o.a.g.cassandra to o.a.g.accumulo,/,/,100
+780ad302ed2ff9df0225e609ca58f5bad42c4f18,GORA-123,Bug,Append correct submodule directories to SCM paths in submodule pom&apos;s,maven,Minor,100
+4572936a4e76a8537e6e725bd09224310f921f74,GORA-123,Bug,Append correct submodule directories to SCM paths in submodule pom&apos;s,maven,Minor,100
+660f6dd293c899f09a0f1a8bedb623ae86df4cd5,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+dced91ba52a4dab44d293ef379c5b05f2b0ff618,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+eeee4beafb370693c987ac7c0f258078ec93cfb1,/,/,    [maven-release-plugin] prepare release gora-0.2,/,/,100
+cd484be43f505e595c31b1023950907457ab7425,/,/,    [maven-release-plugin] prepare release gora-0.2,/,/,100
+4a90bb4dcf0d4c87c65701ed62595140e7f39267,/,/,    don't include build directories with release sources.,/,/,100
+b091caf768086954d0d4de82e776d1b50827b61d,/,/,    don't include build directories with release sources.,/,/,100
+e4da216f8afc4deb3bf96307586d683ba05b77ae,/,/,    don't include jar's with sources  these should be obtained when project is built.,/,/,100
+d542c57da8e39cdd212a80620432d314f80d16d6,/,/,    don't include jar's with sources  these should be obtained when project is built.,/,/,100
+228beb01b53eaaeaac3e19cb672f7dbe8c18cf91,/,/,    wrong directory config.,/,/,100
+fe134ad602b538841a9feb92691da606c3b95170,/,/,    wrong directory config.,/,/,100
+0d33fed2a8ba1598fc554304b8a2e198b5d1f216,GORA-120,Bug,Dirty fields are not correctly applied after serialization and map clearance,,Major,100
+9f6611e931ae122f69c5aee5aac95e72f6bf778d,GORA-120,Bug,Dirty fields are not correctly applied after serialization and map clearance,,Major,100
+b5963fa0204995a66558cb97375711098b00af18,/,/,    Correct descriptor profile.,/,/,100
+aecd3c88935a06c698e00ef7e0a7537aa5fa0e7b,/,/,    Correct descriptor profile.,/,/,100
+26bf01ca6f88edf108642966cf7cacad5d5bac6e,/,/,    Trivial update to sources-dist pom.xml,/,/,100
+187699d797b4973143a4dcf1d846c2e56dab97fb,/,/,    Trivial update to sources-dist pom.xml,/,/,100
+a61da1f47b41a8543e8667afe7ee1311c40c6236,/,/,    commit to add sources-dist module for maven assembly plugin. This allows us to produce both src.zip and src.tar.gz,/,/,100
+3c619678eb9b261cee7596053038ca9dbac616ab,/,/,    commit to add sources-dist module for maven assembly plugin. This allows us to produce both src.zip and src.tar.gz,/,/,100
+aece99cc4b456558cea668358a18c96cbd1de684,/,/,    rejig of maven plugin configurations.,/,/,100
+4f681b466b8f5ff28dd78da80b9024236d0e4d2a,/,/,    rejig of maven plugin configurations.,/,/,100
+6a2dbc1853413541c826c3f23f493763a2e5803a,/,/,    add plugins to apache-release profile.,/,/,100
+37e29d4e00c542e2fef1d0f0a74262101c91f5c5,/,/,    add plugins to apache-release profile.,/,/,100
+9dd338a5c5c3214d3e5dd6ced12b64e1c8169522,/,/,    commit to make trivial change to pom.xml,/,/,100
+5ded73e0949be1cf67c835150ba06b7126e386a8,/,/,    commit to make trivial change to pom.xml,/,/,100
+ba41f3281bf3b666b573a5d57940bf3a0bf8db6d,/,/,    update to KEYS file,/,/,100
+dc26bac4793dd51a2a8e55c0b251518e9f226c7c,/,/,    update to KEYS file,/,/,100
+6afc971df7f9d522ed3f8d5f7985833989807b39,/,/,    configuration for maven release plugin.,/,/,100
+c45e0df0bae0a44b1aa68fb293d45417194cb012,/,/,    configuration for maven release plugin.,/,/,100
+04431162060d430c9e064625f886f675a38b9ad5,/,/,    default skip tests for release plugin.,/,/,100
+9d71be171a4a08fcc777bea50f418d087f2c2f49,/,/,    default skip tests for release plugin.,/,/,100
+ed03a36d760a7b2bf87f0ad46f260ba15212d9b6,/,/,    temporary commenting out of RAT plugin,/,/,100
+ef2d6d5bd3a47f2fbf974110b9e6a31d5eb09b7e,/,/,    temporary commenting out of RAT plugin,/,/,100
+9b0659431f9fa2d03cd9154c222ec3d4d19025a5,/,/,    trivial commit to correct gpg-plugin config,/,/,100
+500555196eb18567997339ad363e03645c1a9b1d,/,/,    trivial commit to correct gpg-plugin config,/,/,100
+922c4f67791693bed7a7a04f679f7b71bd832eda,/,/,    commit to update KEYS,/,/,100
+0a8b1b3cf24058f077f7787c2f29059229c1f366,/,/,    commit to update KEYS,/,/,100
+739a1c803eff48b717c5cad9c3bcbc1e7be9b286,GORA-115,Bug,Flushing HBaseStore should flush all HTable instances.,gora-hbase,Major,100
+0dc916659db0e3a764a0e614fc61012ce9eac4d2,GORA-115,Bug,Flushing HBaseStore should flush all HTable instances.,gora-hbase,Major,100
+de48c0c28f5ea0fb97112f30747efe36b2680ca1,/,/,    update to KEYS,/,/,100
+cc34812a8dfa1a35022019713c8cb59618a5a269,/,/,    update to KEYS,/,/,100
+731380d4aa31bf06d932901227060bf6734f882c,/,/,    commit to add gpg key to KEYS,/,/,100
+e33ef9e547e9c5477d79bd0e13b8b9cc0cc3d8c1,/,/,    commit to add gpg key to KEYS,/,/,100
+0119303c029d4e75e59a00c9361404ba79c63756,/,/,    removal of uniqueVersion == false is not anymore supported in maven 3.,/,/,100
+751ea79c4288234fdd01bd5a530f8bc062a66338,/,/,    removal of uniqueVersion == false is not anymore supported in maven 3.,/,/,100
+e9aac87a57656c4c938982c4b2764abda25016ab,GORA-114,Improvement,Make hbase autoflush default to false and make autoflush configurable rather than hardcoded,gora-hbase,Minor,100
+7bf92af1f13d94257a43b8c48ec3c46b9f6614a0,GORA-114,Improvement,Make hbase autoflush default to false and make autoflush configurable rather than hardcoded,gora-hbase,Minor,100
+e33af08ef072e637b66d7bf975bd1985b597eb2b,/,/,    Revert removal of -SNAPSHOT's  these are required for Maven release plugin.,/,/,100
+674b3fcddd320d49f1c093a0346bae6a29a7bb0f,/,/,    Revert removal of -SNAPSHOT's  these are required for Maven release plugin.,/,/,100
+b24046e8ea4eef2543d098a3cab91837df9d7d1d,/,/,    Prepare all pom's for RC and minor updates to NOTICE and README,/,/,100
+c28d8caa72af1d70d39dc5e6fc74f58615e04090,/,/,    Prepare all pom's for RC and minor updates to NOTICE and README,/,/,100
+6d27a4bbc417cdd05966788dcdcfb0ba200b70e9,/,/,    commit to set skipTests to false  this can easily be overidden @ CLI,/,/,100
+723f21baa6392219edd5e9b2d7b892c55ae31a0d,/,/,    commit to set skipTests to false  this can easily be overidden @ CLI,/,/,100
+fdddf7417e5fb696ca53f387264ec1f5472800e2,/,/,    commit to rectify error in gora-accumulo-mapping.xml  and also to make gora-accumulo module OSGi ready for consistency with other datastore modules.,/,/,100
+bacaaf98a58e1c9eae0549895b63e0cdca9c60e9,/,/,    commit to rectify error in gora-accumulo-mapping.xml  and also to make gora-accumulo module OSGi ready for consistency with other datastore modules.,/,/,100
+744621dd076cba9d1c561d604172fe07db843d40,/,/,    Commit to update release profile for pom.xml,/,/,100
+d48166d2de4cc0fdca5f91d61d7e5f9761a42eae,/,/,    Commit to update release profile for pom.xml,/,/,100
+0af3633956540b82cb511685d119e393a6cf830d,GORA-76,Improvement,Upgrade to Hadoop 1.0.1,storage,Major,100
+de29d0cfb2e6740b0552877870a4f471df032a08,GORA-76,Improvement,Upgrade to Hadoop 1.0.1,storage,Major,100
+8277a58dc9975d6e97f95ef6120519984533a824,/,/,    add gora-accumulo '/target' to svn ignore,/,/,100
+f13c73ec6c585fc7c4692605cb3075e980765351,/,/,    add gora-accumulo '/target' to svn ignore,/,/,100
+be97b66135445b504663862c6633be104e86e04e,GORA-76,Improvement,Upgrade to Hadoop 1.0.1,storage,Major,100
+56f06bdb55e1e630b5a5c19e7fc235948de24d80,GORA-76,Improvement,Upgrade to Hadoop 1.0.1,storage,Major,100
+e1fc5d4c8d1f69d23afde99a91cc222bac9ece65,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,100
+126259baaab72a8465737dd7ed632588389455f8,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,100
+dcf1878f260727a85933fbd33c2c1bc9b7032bac,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,100
+c978e8016d658d6935b67d44ec6b0bdbb80a178f,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,100
+e4db20a1c92023bfcfb600d3fd739e9faed8d1e4,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,100
+f5f1547d77d299f55a13a73c80c51cf6d9d68020,GORA-65,New Feature,Implement Accumulo datastore for Gora,gora-accumulo,Major,93.19620253
+3a1a9c6a8fd77551b89f64c741dc7d669213c240,GORA-108,Improvement,Change CassandraClient#init() to CassandraClient#initialize() for consistency with other Datastores. ,gora-cassandra,Minor,100
+87c974611d7c6befc889794112c0452f0bb4053b,GORA-108,Improvement,Change CassandraClient#init() to CassandraClient#initialize() for consistency with other Datastores. ,gora-cassandra,Minor,100
+a7f52f1365c45c240135c6858b023f03f00ad00a,GORA-104,Test,Change to correct testWordCount() in DataStoreMapReduceTestBase ,testing,Minor,100
+afe46a31902d79e7dc8f0dd50e4fa5905c43c593,GORA-104,Test,Change to correct testWordCount() in DataStoreMapReduceTestBase ,testing,Minor,100
+bbad5d213f05de4aec1de7919bc490bea0bf47be,GORA-105,Bug,DataStoreFactory does not properly support multiple stores,storage,Blocker,100
+9701ea398ba8a9fea6e84b84eb99dd0d405021ff,GORA-105,Bug,DataStoreFactory does not properly support multiple stores,storage,Blocker,99.16805324
+b15813017f2b9c496b1004aa98398c93451e5299,/,/,    Update Gora parent pom to include maven release plugin targets  and update developer credentials.,/,/,100
+810440fded63beee91d84f30df375e840e0e64ff,/,/,    Update Gora parent pom to include maven release plugin targets  and update developer credentials.,/,/,100
+bf5d4babac7b6149b75b5feb1b3d11e640c45338,/,/,    trivial commit to upgrade to newly released maven-bundle-plugin.,/,/,100
+ffe654ae874ab00f7cf07712626ea59a0ae2c432,/,/,    trivial commit to upgrade to newly released maven-bundle-plugin.,/,/,100
+9580086bcbbb377b7c07c96cf1abe40b1b4f7b9b,GORA-74,Improvement,Remove sqlbuilder library,,Major,100
+ccedbdd84405031b279fb9bbe5f16023f06caa49,GORA-74,Improvement,Remove sqlbuilder library,,Major,100
+558947ef653a2ca2b38fc1656881248366f51197,GORA-101,Bug,HBaseStore should properly support multiple tables in the mapping file.,gora-hbase,Minor,100
+cea6c41780719d5cfff77d880b2519399b2e24e8,GORA-101,Bug,HBaseStore should properly support multiple tables in the mapping file.,gora-hbase,Minor,100
+b094802ac43001ec04f65bbb34a3292e4958dae6,GORA-101,Bug,HBaseStore should properly support multiple tables in the mapping file.,gora-hbase,Minor,100
+c066b1666df0db7872a062529de62fb206a3d91f,GORA-101,Bug,HBaseStore should properly support multiple tables in the mapping file.,gora-hbase,Minor,100
+fa471a637f3b6adf5c9c22bb3f736d7c6f6dced3,/,/,    commit to change RAT target to release phase of maven lifecycle.,/,/,100
+dc24a48411a2652e313abdf8a6f93bce59beb8d4,/,/,    commit to change RAT target to release phase of maven lifecycle.,/,/,100
+59def38a4e0c53446aec63a238d8ec4c6f0a96b5,GORA-82,Improvement,Add missing license headers,documentation,Major,100
+b8de48a7831711d6a0862ddb3da10d4e102ac58f,GORA-82,Improvement,Add missing license headers,documentation,Major,100
+aa33dddf543a5b7e3489b63e951c623b6c6ea979,GORA-88,Bug,HBaseByteInterface not thread safe,gora-hbase,Major,100
+9dde359ddbf5d688735e9ea9b7286358457fca13,GORA-88,Bug,HBaseByteInterface not thread safe,gora-hbase,Major,95.09493671
+0f516a44ffd104af78107b2d3c3c2d77a5fa11dc,/,/,    trivial commit to provide more verbose annotation of DataStoreTestUtil.,/,/,100
+ae1483645dada6027542fe3428aa04b2fa72791d,/,/,    trivial commit to provide more verbose annotation of DataStoreTestUtil.,/,/,100
+9f6f914de2cdbfcdd4f6f21b04e8c52eae6513cd,/,/,    commit to address small typos in /current/docs.,/,/,100
+656e8c03b535b7caeb86589716b5d9ec6d381be6,/,/,    commit to address small typos in /current/docs.,/,/,100
+94b842e0a40aa8ddb3eec1a64e20a6a6dab10def,/,/,    commit to make vital updates to current docs. This is the first time I've made changes to this portion of code so hopefully all goes well.,/,/,100
+a6dd821b7352251ceec92f13050a475cf35130b1,/,/,    commit to make vital updates to current docs. This is the first time I've made changes to this portion of code so hopefully all goes well.,/,/,100
+a95d0ff795c3d3689bfa4b87b620662f475c89bb,GORA-93,Improvement,[gora-cassandra] Add implementation of CassandraStore.get(key),gora-cassandra,Major,100
+d46bc08e453dbcc7e6bf57df30f5bc8b3458a99f,GORA-93,Improvement,[gora-cassandra] Add implementation of CassandraStore.get(key),gora-cassandra,Major,100
+ce0d9958ce38e4da5e437f37140a6ac8aaea4f0c,/,/,    trivial commit to upgrade hsqldb version to latest stable 2.2.8 release.,/,/,100
+716c834ab5db5e7a94534d4625c4620fc514080d,/,/,    trivial commit to upgrade hsqldb version to latest stable 2.2.8 release.,/,/,100
+b7aeb442953c5c2446031a186027e9a843b1c773,GORA-80,Sub-task,Implement functionality to define consistency used for Cassandra read and write operations.,gora-cassandra,Major,100
+41835d87406be142a67da9039de3391351a412c1,GORA-80,Sub-task,Implement functionality to define consistency used for Cassandra read and write operations.,gora-cassandra,Major,100
+bf90c77365e671bd45c809df444f6db9c2a80ee3,/,/,    trivial commit to test commit mails.,/,/,100
+586017e7cb4592c89c087d3d2ca37f7ae1bf7d72,/,/,    trivial commit to test commit mails.,/,/,100
+20aaac5c58740f29811d7965d13de9cad02a7022,/,/,    commit to update maven plugins and add jar goal to parent pom.xml,/,/,100
+accc74956bcd2e5cd3d73dcc869b70732e3b6f40,/,/,    commit to update maven plugins and add jar goal to parent pom.xml,/,/,100
+885811d7f7d071b2ee9cccfc6af8e64c0de42c1e,/,/,    Customized maven-jar-plugin configuration so that bundles can be properly deployed.,/,/,100
+3a49abe0011f5dd0e32947028e3e4d0dcb4e2585,/,/,    Customized maven-jar-plugin configuration so that bundles can be properly deployed.,/,/,100
+42a854b9d028b9b7dbb504144089aabc6e05a7eb,GORA-90,New Feature,Create a DOAP for Gora,documentation,Major,100
+3b0c49b95344109f9ce4a75137a235c3b1c233d6,GORA-90,New Feature,Create a DOAP for Gora,documentation,Major,100
+9f0c279388cd5f9269b890cf5f5d97ca77f6775e,/,/,    commit to update pom.xml with resources to point to new repository location.,/,/,100
+946bc11201972c71824372254131ca07ac611db3,/,/,    commit to update pom.xml with resources to point to new repository location.,/,/,100
+d7d0bbc0eef9a3ab59702d7eaf155a8de3bc5bd8,/,/,    move gora to TLP,/,/,100
+383baeffcd3bea28260eb209d060117bdf208a44,/,/,    move gora to TLP,/,/,100
+872d65fb885e2998e3f64d0cbb83ec77023777cf,GORA-79,Sub-task,Block keyspace creation until the whole cassandra cluster converges to the new keyspace.,gora-cassandra,Major,100
+4e6d272f42263c7590e5db9f247d7ef3584254d1,GORA-79,Sub-task,Block keyspace creation until the whole cassandra cluster converges to the new keyspace.,gora-cassandra,Major,100
+1eb7a24413002255b5caa9e72945b137b9fa08b7,GORA-72,Improvement,Make Gora OSGi ready,,Major,100
+4bbe6600c948ab7a6ae902d6aacf051c560fdf2b,GORA-72,Improvement,Make Gora OSGi ready,,Major,100
+2d5ca013cb24ca2cdf2ced6019df115737f977d5,/,/,    Added target folder to the .gitignore. Added IntelliJ project files to .gitignore,/,/,100
+8d65f6141486b765443b820aa907d1f1761fa76b,/,/,    Added target folder to the .gitignore. Added IntelliJ project files to .gitignore,/,/,100
+39eec62caeb9f41b1f616bbee34fdd6a80539cce,/,/,    ccommit to revert the end row issue with DataStoreTestUtil  we need to implement this within the HBase store for the HBase tests.,/,/,100
+0aef8cfefcecbf1145eb3781c1bdff042da7d7a7,/,/,    ccommit to revert the end row issue with DataStoreTestUtil  we need to implement this within the HBase store for the HBase tests.,/,/,100
+05c57b29f713b35f984a1b9810e357d9d9a76757,/,/,    commit to correct StringSerializer configuration for CassandraClient.,/,/,100
+8a0a59a0b2432ff57b53a9c288c80a4504c27366,/,/,    commit to correct StringSerializer configuration for CassandraClient.,/,/,100
+28cf29a99cfaebcd86af04ee1183cb00d776e580,GORA-83,Improvement,add &apos;target&apos; dirs to svn ignore,,Trivial,100
+6e9227d2976f8f2c45c2923da5e844a5d60d9f4f,GORA-83,Improvement,add &apos;target&apos; dirs to svn ignore,,Trivial,100
+f355e0141993c41a56d2a395b31b5e3668ab9b0d,GORA-66,Bug,testDeleteByQueryFields seems incorrect,testing,Major,100
+db864f74704aa772622bd689ed981bb228aa1404,/,/,    commit to fix the failing gora-sql module and to credit iocanel for his commit in CHANGES.txt. Thank you,/,/,100
+c4c1b4c3f30df3836d79ca857229f29bc0c74a67,/,/,    finally a commit to revert the changes made in r1213062 e.g. removal of .gitignore files. N.B. Unnecessary Jar files have still been removed.,/,/,100
+76294f7cdbdd7e00b294d009d8f5e0b3a1218c76,GORA-72,Improvement,Make Gora OSGi ready,,Major,99.6996997
+13ced4472812ed97f652974f77705744ee4f522f,/,/,    trivial commit to update CHANGES.txt with all of the recent commits.,/,/,100
+deab9d45777ba7c4aa302d2983b9595b95d1481a,GORA-55,Sub-task,Fix TestHBaseStore,gora-hbase,Major,100
+88c3c054cdc95a973ae33adcab158a4a052b81c4,GORA-55,Sub-task,Fix TestHBaseStore,gora-hbase,Major,100
+c0e2f8a7ea62890daf38b0d936a7b507f8fe7abd,GORA-54,Sub-task,Fix TestHBaseStoreMapReduce,gora-hbase,Major,93.06784661
+7b6bfdd31f7fd5d4e4cc447131606b90bdb1dd40,GORA-54,Sub-task,Fix TestHBaseStoreMapReduce,gora-hbase,Major,100
+f772803a9cb1fd9720492a641175d1a5762312d1,GORA-70,Improvement,Upgrade deprecated expressions in pom.xml for use in building effective models,documentation,Minor,100
+6214f5432d220de5f3294d7b66e18a7bf24a809a,/,/,    Updated the maven surefire plugin version to properly set the system properties.,/,/,100
+5d3df3a55fe60ecd85e0dd4fe8f27edf68296735,GORA-69,Sub-task,Xerces version conflict produces ERROR messages in the logs.,,Trivial,100
+e2a90e7304d536057c10dfd34718131545fb5f66,GORA-55,Sub-task,Fix TestHBaseStore,gora-hbase,Major,100
+83d2fa86627d587ac4f2520813680672940bfb2b,GORA-68,Sub-task,Fix gora-sql test failures,gora-sql,Major,100
+eaef7cbca52a7198e172f6aa00bd08e7ad114680,GORA-51,Sub-task,Fix JUnit test for TestPersistentSerialization,,Major,100
+9a9d906dc3fd402bff6b147b7bd6ced5ecc75bbb,/,/,    commit to remove .gitignore files  and unnecessary jar files from all lib-ext directories  these are now available from maven repo.,/,/,100
+11eed24317f70066800174d2e9ab0f33a4a8e90d,/,/,    commit to remove .gitignore files  and unnecessary jar files from all lib-ext directories  these are now available from maven repo.,/,/,100
+968b228f5106292d28c98e5bb19826dc55c7477c,GORA-64,Improvement,Query should document inclusiveness ,,Major,100
+a919af24d181f8bc70c1e64d7d9537f8cd2ac205,GORA-52,New Feature,Run JUnit tests from the command line,,Minor,100
+fbfbb8c3fcf27ba786c5dc7d4c64a0b876a6024d,GORA-62,Improvement,Run bin/gora commands after maven build,build process,Critical,100
+74cbfb0caa264382f0d0dad444daadd8c192349c,GORA-43,Improvement,Forward port 0.1.1 incubating Maven poms to trunk,build process,Major,100
+89c8319064d79cc9ef3684ff30774242957aa7e1,GORA-57,Bug,HBaseStore does not correctly read family definitions,gora-hbase,Major,100
+1be4d216dc9f2e93348e3f44417628cb9471f223,GORA-56,Bug,HBaseStore is not thread safe.,gora-hbase,Critical,97.12556732
+5b939b021c92a1398450a8417b7fe63f8d07ac9a,/,/,    commit to revert HBaseStore.java to include javadoc comment.,/,/,100
+9e353e6d37ca805179c2abd3a9a94ff43a12739a,/,/,    removal of HBaseStore thread-safe comment in HBaseStore.java,/,/,100
+7ed697bb7c6d4c57d70993963c3996e112eac296,GORA-48,Bug,HBaseStore initialization of table without configuration in constructor will throw Exception,gora-hbase,Major,100
+7158877fd653febff775bbe2e0a2aadb8f6c5222,GORA-47,Sub-task,fix tar ant target,build process,Major,100
+ebbabd4d958c0234e379e764e137dadf483b8cc3,GORA-47,Sub-task,fix tar ant target,build process,Major,100
+3d2484c70fd2f93b63be8eb8ffefcb5ec2e9323e,/,/,    Cleanup in maven poms. Fixed cassandra build in maven. Fixed hbase tests under maven.,/,/,100
+5d3e49ea36a52f1c26f0ed687b448c325cb46351,GORA-45,Improvement,Add dependency to &apos;clean-cache&apos; ant target,build process,Trivial,100
+682e27ad01798aed227777fb04941e01400058b2,/,/,    ConcurrentModificationException while iterating over map keys,/,/,100
+f374c70b9a184e8e4f694c8d57a5652571c24c73,GORA-44,Bug,Ant build fails,build process,Major,100
+3abd4220efcaf0e89a1c266279a08f80000f0782,GORA-28,Task,Merge back recent changes in 0.1-incubating to trunk,build process,Major,100
+18d2fc2cce689f2ca3af70dd7a43959121ac4413,GORA-12,Bug,Semantics of DataStore.delete*,storage,Major,100
+8cda8a401d28a02338fab466f8641976c9ea5e0f,GORA-12,Bug,Semantics of DataStore.delete*,storage,Major,100
+7fc5067426717dadcdb875f6d0d3758fbbeed25c,GORA-18,Bug,Configuration not found error breaks the build on trunk,build process,Major,100
+189b92e40747dee516eb060723606b2573b6df8a,GORA-26,Bug,Configurable classes should pass around Configuration consistently.,storage,Major,100
+17a7112d2c9091e87a511d753fa40e1767f38f0c,GORA-37,Bug,Gora build fails  complains about multiple HBase artifacts,build process,Minor,100
+bdfc5bb48e24463b3b9362e0c3dc6fbb584504d4,GORA-29,New Feature,Gora maven support,,Minor,100
+9928332b3f375041bad2824ed723f7f279b903f7,/,/,    add Apache licence header,/,/,99.6835443
+3743da48981761d6b653d80b1cee9bcaa54c7011,/,/,    Cassandra 0.8 backend witch Hector client,/,/,88.80484115
+e1842847b31f1c802f7c32fe7135096e063899bd,/,/,    - add in missing changes from 0.1-incubating,/,/,100
+7ceae1b5d52a24a23e74accb345ff535ca391b34,GORA-30,Task,Missing SVN EOL properties,documentation,Major,100
+cb2b38dd7ee1a0406fc5ebb17761a1d9223b8dd1,/,/,    - add my key to the KEYS file,/,/,100
+65ace1086680d680ab81fce7c725437db9996dfe,/,/,    - forward port working POMS from 0.1.1-incubating,/,/,100
+4af433e99366e9458301013bcbe9a5da4277c606,GORA-25,Task,Upgrade Gora-hbase to HBase 0.90.0,gora-hbase,Major,100
+de89793edd1118490a40a81ba81d9570971cc08d,GORA-32,Bug,Map type with long values generates non-compilable Java class,schema,Major,100
+e682197aad5cf40bc37cedbf2d98251ca6e01b5a,/,/,    Remove public and abstract modifiers from methods in Interface because they are implicitly puclic and abstract,/,/,100
+67274381ce1a821155a610c78a2e40471834e259,GORA-29,New Feature,Gora maven support,,Minor,100
+ee60cf08b83e24acd35831152fe5959743df8f89,GORA-29,New Feature,Gora maven support,,Minor,100
+33c02eb016e2902e639b11a3774b622f30fa6a8c,GORA-29,New Feature,Gora maven support,,Minor,100
+61b4a9e8a6182e0ca15ec9a8389935dd93fc31f3,/,/,    Update CHANGES.txt for trunk,/,/,100
+810bc5c0de5afa10327aa84c9d57be0ac612542e,GORA-31,Improvement,jersey-json dependency not in repositories currently in ivysettings.xml,,Major,100
+9edc6f8f065603c28d41245667eab9bc3dba8be7,/,/,    Bump version number to 0.2-incubating and update year for cp info,/,/,100
+74046a2fcdafad5a90e20a68ad4718f308156762,GORA-25,Task,Upgrade Gora-hbase to HBase 0.90.0,gora-hbase,Major,100
+2214b2e4d9c8c0041b920527fbfeec92a4b3104c,/,/,    - added missing dependency for testing gora-core,/,/,99.71014493
+db7a73f3f69b617efb41bfe303f03d6133edf5d6,/,/,    Change version name from 0.1 to 0.1-incubating for release preparation.,/,/,100
+7736a7b31dfbf8a306d7cf9520f82340044f491f,/,/,    Add LICENSE.txt and NOTICE.txt for incubating release,/,/,100
+abc97fedb0093a2d899d685451a75bcf56c9b967,GORA-23,Bug,Limit result set in store reads,storage,Major,99.27536232
+41e87e0737b4fba8791de2b1656019c9f7891c02,/,/,    Update hsaputra KEY with stronger hash.,/,/,100
+a1b2d53c8bc5e6dd9d12604f98e442c9adf11ae7,/,/,    Add KEYS file that contains the PGP keys of various Apache developers.,/,/,100
+cdacd2965c86067fb37a4e335d0663c9b5f769b4,GORA-20,New Feature,Flush datastore regularly,storage,Major,98.06094183
+4638c444368a8f028437018533fd38ca024403af,GORA-21,Bug,commons-lang needs a configuration in gora-core/ivy/ivy.xml,build process,Major,100
+17e681ce2af93052f01cd6a0a014d7c4d326711c,GORA-16,New Feature,Create a tutorial for Gora,documentation,Major,100
+9d16d94ca210eb1a5fafb1f37a3ecb063bd6310e,GORA-16,New Feature,Create a tutorial for Gora,documentation,Major,90.43478261
+4a831be2bfc1df53311885acdf58bf2be03f304f,GORA-15,Bug,Primitive types cannot be used as keys in DataStore,storage,Major,100
+6b79e8f43b6b934ed3902b005b179595dfea0814,/,/,    Fixed old package references in the gora configuration documentation,/,/,100
+4207ddd67b427e308d75cdef250c1a28237125e9,GORA-7,Improvement,DataStoreFactory.createDataStore() should throw exceptions on failure,storage,Major,96.70846395
+8867d0605aa01e02ed0e971cc63536353f0990a0,GORA-6,Improvement,Add methods that take dataStoreClass instead of data store instance to Gora{Input|Output}Format and Gora{Mapper|Reducer},storage,Major,100
+fe6f6007b43eb78386bd152a6c48098e0cee3cda,/,/,    Remove uneeded import in PersistentDatumReader.java. Replace gora with Gora in comments.,/,/,100
+ef57501f6830245359e3ca290021fedf42a18b44,GORA-4,New Feature,Publish API docs to the web site,website,Major,100
+b524cebfca12dbf3a662695cce2843f66bdb5883,/,/,    Fix typos in comments and remove extra lines,/,/,100
+64b79914345122f19719ee0c6811eb64f041f560,GORA-1,Improvement,Organize source code for Apache,storage,Major,68.37865055
+acf57c062f4b3323dcc029ddba2756edb7838714,GORA-1,Improvement,Organize source code for Apache,storage,Major,23.70225269
+8e940693817a08d064e90352e2130effe3fd2c4c,/,/,    Fixed svn:ignore for module directories,/,/,100
+20645a6f39d1f733014a3270ee163b57b763f6f4,/,/,    INFRA-3038. Initial import of the source code,/,/,

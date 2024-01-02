@@ -1,0 +1,1460 @@
+2601bcd2d8c7c5f1dde663830093c426ffff3da4,/,/.1,    Fixes NullPointerException in OptionsRenderer,/.2,/.3,100
+8f9cb3ab2bf3e1a1fb7f6aa59b9dd2b61612eb5d,/,/,    Fix the build,/,/,100
+1fd3e4f91143010e883a82fedd562803ed31f091,TILES-599,Bug,stuck thread on hashmap,tiles-core,Critical,100
+9051c571ba9e2fe9fc645e51120aa46d56388bf2,/,/,    svn merge -c1814484 ^/tiles/framework/branches/TILES_3_0_X,/,/,100
+500ecaff2d7840c3761eec178e594676371cf368,/,/,    remove trailing whitespaces,/,/,100
+c6691354562c897f1c41964b7863e54c57b9d8e7,/,/,    `svn merge -c1810188 ^/tiles/framework/branches/TILES_3_0_X`,/,/,100
+19ab09762f11b04c866dd0dab1a71f5f0d0f2231,/,/,    `svn merge -c1810179 ^/tiles/framework/branches/TILES_3_0_X`,/,/,100
+052e07859fb4d48e2933685029e5eb76be73bf1e,/,/,    use Tiles Master 7,/,/,100
+0a5893661a05ae0eefa6281f46b91d827cdac319,/,/,    Update site.xml to point to working location for ASF logo,/,/,100
+3e77bf45dde3112c008ee13f94dc72fbbd9f287b,/,/,    patch for typo: SerlvetContextListener --> ServletContextListener,/,/,100
+62c78d12a9da4ae5ca56ab04f0c80dfea3a5582b,/,/,    Fix: squid:S1149  Synchronized classes StringBuffer shouldn't be used,/,/,100
+d49fa768f72dfa732ea99e4e562e27846a12f02a,/,/,    forward port commit 1752405 to trunk using,/,/,100
+ef1a1b92a6d9ec3f22c4205fa612f1c5793da6eb,/,/,    forward port commit 1706314 to trunk using,/,/,100
+f51db98f67c621088e627bc82fd9672081f13a3a,/,/,    forward port changes from TILES_3_0_X branch,/,/,100
+951d6a227dd4caaf402ab4ec11fbfda7db1dbcb4,/,/,    `svn merge -c1594481 ^/tiles/framework/branches/TILES_3_0_X .`,/,/,100
+109bc00ab6bf345de6108782500b72f707f03f31,TILES-571,,,,,100
+13f3f595cdbcfa2c7c9962dc63d38e5ec1cfc184,/,/,    forward port r1571643,/,/,100
+c5e2719ef5af257894818acb31317ae0468c602c,TILES-576,Bug,Please delete old releases from mirroring system,,Major,100
+8368c20f1c735d6fb2954a091fe6a6d9d568277d,/,/,    forward port r1543135 with,/,/,100
+8c5426de8145b19087aaf5bf2099fe12b53afe08,/,/,    forward port changes from r1539480 to r1541580 with,/,/,100
+dde1b90ab3a31ab41e7aaf570640600c649fc341,/,/,    svn merge -c1539385 ^/tiles/framework/branches/TILES_3_0_X .,/,/,100
+480a883fca15e242655718da5e2a86fdc4fc1e5b,/,/,    add dev@tiles.apache.org into a top-level file so that github pull requests are forwarded to our dev mailing list.,/,/,100
+ec95602f492a489c76ba6393c06f04507ba52352,/,/,    forward-port of r1538333,/,/,100
+c9aab32d1502f258981e7e723a06223d104ee708,/,/,    svn merge -c1538333 ^/tiles/framework/branches/TILES_3_0_X .,/,/,100
+ad38048f2d9887e156dfea19c8437fef6759a9da,/,/,    forward-port r1486577,/,/,100
+2700c3be2de22a20793a069192e3a880c6a43afd,/,/,    forward port r1484307,/,/,100
+25351df24eea206ff57a7789f49ab2f635604c59,TILES-563,Bug,Typo on configuration tiles 3 page,site,Trivial,100
+2720827d886488f3ca12ebb03992de113571c135,/,/,    further improvements from Michael Isvy  use tiles-3* dependencies in the example.,/,/,100
+d8d4aa6c23a258647ddc257d9b1fcc580e069f9b,/,/,    Improved documentation on using wildcards from Michael Isvy.,/,/,100
+899eef3a830bea87531335a2e174ddf16ff7a518,/,/,    the resource loaders from spring (eg spring-webmvc-tiles3 from SPR-8825) throw unchecked exceptions.,/,/,100
+fec431a7141b6cfd0df1c8b8410f6dbadf9ff67c,TILES-557,Bug,concurrency failures in OptionsRenderer.Cache,tiles-extras,Minor,100
+e54930b620781d8c24ea326ac5d200ac1c92858a,/,/,    update to autotag 1.1,/,/,100
+eea80e92c1d17e994c7c6a011dc29c0db51f4c3a,TILES-548,Bug,mvn release:perfom fails on Maven 3.0.4,,Minor,100
+370fcd29724efa259f8eafa536f0f71e3fd78107,TILES-548,Bug,mvn release:perfom fails on Maven 3.0.4,,Minor,100
+c3ae154726b0ec4d651367041aba1a71b1a1c8d8,TILES-552,Task,Update the poms and the documentation on the release process in order to resolve ambiguities,,Minor,100
+b81b0cee65dd4e186c58fc59dcc08978e0ee5b20,TILES-549,Task,Improve code quality (post 3.0 release),,Trivial,99.65870307
+c55b06bf26190fdd7c9610b524b9fc4ce9d0f44e,TILES-549,Task,Improve code quality (post 3.0 release),,Trivial,99.8630137
+fe3ce21515fc3cc925d39f94831f7451083f8d2a,/,/,    [maven-release-plugin] prepare release TILES_3_0_X,/,/,100
+96b4a7060d1fa2d293fd30fe4bf9dc772b4172f6,/,/,    [maven-release-plugin] prepare branch TILES_3_0_X,/,/,100
+4dc004e4546d860a4ceea9b004293843a108d991,/,/,    fix project description that gets altered during mvn release:prepare,/,/,100
+a41476c1edcfa1cdca6bc72607d6edacd34b8e47,/,/,    moved to non-snapshot version of the Request API and Autotag,/,/,100
+68f7393e68365f991d466c8f1e2eafa95c5b018f,/,/,    added the request assembly project and updated the copyright notices,/,/,100
+e67bef92d4719c1480f54c29d5edcaac0b0828c1,/,/,    updated the poms with the new SCM URLs,/,/,100
+4777fcd255f58383054b10fad65d8a5e9b06ef1b,/,/,    established tiles-parent as the framework project,/,/,17.66381766
+a3d7cb3717add64daaf6e7168b77ee09eadb2e50,/,/,    Moved tiles-request and tiles-autotag into their own versionning structures,/,/,64.81559983
+cbd620a1c7c3d6f68bebcb448d19a2efea675cc1,/,/,    more POM cleaning: missing plugin version  deprecated features  unused repositories,/,/,100
+8081e6c64a395746588b4e047ac4692e55aea6eb,/,/,    restored the src/test/resources configuration to its standard location,/,/,100
+b19b396eab09dc2624a26bd17b528079c70018a2,/,/,    add missing licence headers or autogenerated notices where needed,/,/,100
+f0e71aa89aa62911d0d53a2b4e3781638b1aea51,/,/,    move non-java files from src/test/java to src/test/resources,/,/,100
+426550f0dd1575b1b453b277eda2b9c1aca7dc88,/,/,    use new snapshots repository http://repository.apache.org/,/,/,100
+369925c59729d11df4a71532b1adb84ffbbb3713,/,/,    Complements to r1332134 http://mail-archives.apache.org/mod_mbox/tiles-dev/201202.mbox/%3C4F43A891.4090401%40nlebas.net%3E,/,/,98.8700565
+cd35a0670f05144ef30ab0fb89fc1b3050f10231,/,/,    add basic setup of the mustache renderer into the CompleteAutoloadTilesContainerFactory,/,/,100
+fcf82b7625597408767507902e1c727dc9d1d0d1,/,/,    http://mail-archives.apache.org/mod_mbox/tiles-dev/201202.mbox/%3C4F43A891.4090401%40nlebas.net%3E,/,/,96.27854525
+9fbb7cf5931a819bdb559f62baae52e98238ee14,/,/,    ignore target directory  delete empty directories,/,/,100
+efb0974a736d10d2762a9d737e8028b9c025651b,TILES-547,Bug,NoSuchDefinitionException appears randomly when using wildcard/regex-based definitions with l10n,tiles-core,Major,100
+b84bd8cc2f952df217a03f96f7f446a8aece69ea,TILES-544,Bug,Stack overflow due to rendering loop when including a resource resulting in another tiles view.,,Major,100
+85d931c47d79f9121e9fe45ba7f3e5e64b3c740f,TILES-544,Bug,Stack overflow due to rendering loop when including a resource resulting in another tiles view.,,Major,100
+85601b26b55015236cb18d4e0e8a46cef27a8445,/,/,    add missing site.xml for some projects,/,/,100
+dc6572d7b95e98c7755d3ee1af34ed6cb5fe8979,/,/,    Update the main documentation for tiles 3.0  including:,/,/,99.19657204
+f961399fb45f9b43739281318dc734d65109d781,/,/,    Add missing OSGI manifests and use dependencyManagement to achieve convergence,/,/,100
+40c787aebb8dca3702af871ba2cccb2b41f337df,/,/,    fixes:,/,/,100
+7036fe51e2ebd4c97bd5a0ef5e75a4007fc56ec5,/,/,    removed misleading @since in tiles-request and tiles-autotag  since the project restarts at version 1.0,/,/,100
+2d563f47274719d91192488f3127ff6eb68420cb,/,/,    moved ComposeStackUtil out of autotag because it is tiles-specific,/,/,99.73219068
+7feba8b04016013650c83ab665133e11a55f07f9,/,/,    documentation for autotag,/,/,100
+49f19cbc89851c7bbfe788ce7a31e6ecf75289fe,/,/,    merged the autotag-runtime projects into the matching request implementations  as discussed here: http://mail-archives.apache.org/mod_mbox/tiles-dev/201110.mbox/%3CCAHTRnew8sEF+GrT_4PC7_OQcoaJo8zpo592bJSgTTdCo3edE0Q@mail.gmail.com%3E,/,/,96.46370646
+14584de403cc6b34f1aae1c54546170caccc8838,/,/,    site documentation for tiles-request,/,/,100
+edd079b93b2cf07743ca14d477f8d712dde26e8a,/,/,    create o.a.t.r.mustache package to avoid collisions,/,/,99.5243129
+d38060ee69418266f85f5632837b0c947c1119d1,/,/,    changed the URLs of autotag and request to match JIRA,/,/,100
+3025c9020565d704bb0f42853ab33a4f734f74f5,/,/,    cleaning up the poms:,/,/,99.73628692
+c2840f127e053ab4ac7f6d438876ef7fbfd8dd57,/,/,    Created a new interface ApplicationResource to replace URLs in ApplicationContext.,/,/,94.38040346
+830af84181a64682fc25565aa94819fdbea21d0c,/,/,    TREQ-11: Adding Mustache support to Tiles,/,/,99.68030691
+15ef44b3831746ffce90e35a824313c3bf6a8864,/,/,    Expanded the package javadoc,/,/,100
+bfcafa4323888141ba94e46e59e4ea97034159cf,/,/,    Removed the obsolete reference to java 1.5 in top-level pom.xml.,/,/,97.86833856
+5a19f7e122ffbc5d2115bc50bd31ef3f3f29225b,/,/,    Initial stab at removing ContextResolver,/,/,93.02461899
+11e0ac0792151a8e70c25b87292af53376b70135,/,/,     Cache TTL be customised by a system property like,/,/,100
+cb79b9bf38a6b2ae905d715181921dcb3dac8f1a,/,/,    > http://thread.gmane.org/gmane.comp.apache.tiles.devel/329,/,/,91.56156156
+2ce6d3ddb25c725af054c09d32bb5f38137eb87c,/,/,    removed working file,/,/,100
+55d6cf3d7456a9b1befe434b67585d25db4dd5f5,/,/,    changing the type of responseHeaders from Map to the more natural Addable,/,/,99.28128063
+6c4ea00f78458f7994b216cbe09e1eb6a1631a48,/,/,    merging TypeDetectingRenderer into Renderer,/,/,95.05890052
+670c85cc559c67f3397a77ff0d7f6565384d740f,/,/,    renamed WebRequest into DispatchRequest,/,/,94.11046689
+dde44280ea9ef438ba537096a9b6c480841c5a6a,/,/,    split the header map between request and response,/,/,95.37892791
+ebe2ab8a42071c56acda228dc2aeff9a8e5f65f9,/,/,    removed the obsolete getRequestObjects method,/,/,100
+9df87a83ae7b5ae3b06c66bd035875e7327c81ce,/,/,    splitting interface Request into 2 interfaces,/,/,97.23160027
+c9699b4605fc88248aeedfe611fd8ce98d5f36bc,/,/,    http://thread.gmane.org/gmane.comp.apache.tiles.devel/290/focus=296,/,/,100
+b7cd0426576cb9826c5d266b0cdcdb009e707557,/,/,    text in exception msg,/,/,100
+6dbcf9a4ef32073a4589a81a26e558b47accc7bd,/,/,    Decoupling the generator from the runtime in autotag,/,/,98.42032967
+9b34a0eafc8efd2256762dcf8b89587f94f253a5,/,/,    re-add (see r1141610) scm details. these projects don't inherit from tiles-reactor but from tiles-master so scm needs to be redeclared for each.,/,/,100
+f4801be3d85330ebe75cf3395d88951e1548c136,/,/,    - avoid clash with el expressions: use just {options[..]} rather than ${options[..]},/,/,100
+93d446173367bee1056bbd14d2139a23b30bc65d,/,/,    TREQ-10 - NPE while reading the session scope when no session has been created,/,/,100
+ded340ef750f648690bc5aff9170bf8457be9ec0,TILES-534,Bug,Wildcarding interferes with EL Expressions in put-attribute,tiles-el,Major,100
+ac4274f07f8788b2c6c458dd5a34ab28a8f92597,TILES-538,Improvement,Pluggable debugging around rendering,tiles-api,Major,99.93160055
+96cd98dcdbdeae28e09281cc6a20aaa2a4b71bf4,TILES-539,New Feature,OptionsRenderer,tiles-extras,Major,99.79459089
+13324ace507b8ec8a19f3463d79431850681daf1,/,/,    http://thread.gmane.org/gmane.comp.apache.tiles.user/356/focus=363,/,/,100
+fe1b19f0f654960a2767c7d47f5191200c0591f9,/,/,    http://thread.gmane.org/gmane.comp.apache.tiles.devel/233,/,/,100
+3be0501f57f0c2ed8b802cf92de28a8e9a54c263,/,/,    http://thread.gmane.org/gmane.comp.apache.tiles.devel/233,/,/,100
+778cb1d884ae9538dc9b5b4d97f735619edb388f,/,/,    introducing tiles-3,/,/,100
+9cedd1f517fa3431e95dddcff8993ad2236a8f34,/,/,"    placeholder of ""what's new"" for tiles-3.0",/,/,100
+d133af666997f5d2777458bb2584ebd374563650,/,/,    site building for tiles-autotag and tiles-eval (and submodules),/,/,100
+f9d490ca837b100e2d4823caaf74010f6e69a141,/,/,    site building for tiles-request and submodules,/,/,100
+e27cb96c8e3052dd3298b95e6942f12f22d02a94,/,/,    site building for tiles-request and submodules,/,/,100
+dce11d44ec93df8a1b0aeb7ec3a7751e51e69815,/,/,    correct distributionManagement urls,/,/,100
+2e8be93341b89e9a6ac0c49c6af3bb71f9729844,/,/,    Reverted r1141998.,/,/,100
+1a3e807e17056f0ec4412401f117dcfa8b186096,/,/,    http://mail-archives.apache.org/mod_mbox/tiles-dev/201107.mbox/%3CCAHTRnezgac2runeLzvvX_3Ya69=nLVKTN1SAmaCs4k2CXf8h8A@mail.gmail.com%3E,/,/,100
+b51e0191c123cc6287c8338b92b78085a7833a3f,/,/,    Fixed urls of projects.,/,/,100
+3b53a1621ed3da39f7168fea5368bdabc24bcdda,/,/,    AUTOTAG-13,/,/,100
+47f4db3e21c509f7356aa6339e94d4cc8cf72bfc,/,/,    Fixed SCM elements.,/,/,100
+1a6dd89365a072c5ec3790f1914bbeb098fa3a2d,/,/,    Updated module name.,/,/,100
+5d5c91b1e2ab9b92db72127e42d0dbc5866f9275,/,/,    Renaming tiles3 to tiles-parent for homogeneity.,/,/,62.14968678
+edf78ded133b498daf200295f8e7a46012439ace,/,/,    Moving tiles-test-sandbox into archive.,/,/,95.87242026
+e6f09039f6100f8c9463b1be3b831f51e7ddbcf6,/,/,    sandbox moved to trunk,/,/,100
+078752acffe9e650d8d3df8d17e4f59cfd2c5ab0,/,/,    ready to merge to trunk,/,/,100
+dd5afab40736ca5e2be9d3398eec71af21387e71,/,/,    * use latest tiles-master,/,/,100
+9f21010c3acc9380a0ea1139dfb5922318d822fc,/,/,    rollback r1138622,/,/,100
+a502a01735e694c44d199c13fb96bae4a0329f37,/,/,    * change name to tiles-parent,/,/,100
+543efce0a7edbc3fba668cffc5f6b4c495aff6ea,/,/,"    this is intended as ""tiles 3""",/,/,100
+9cc946c633cdb69f7b364cfee5f88f12cfd669f5,/,/,    maven magic didn't work.,/,/,22.56227758
+ad0f4943a605501bd2ef6ffa07e7ce1308f53cc2,/,/,    TILESSHARED-24,/,/,22.56227758
+d9d59039961b44fa67349eb6bc53bf048168c537,/,/,    TILESSHARED-24,/,/,100
+184b6c346bdbca8587aef3b578830fd83b1e1b08,/,/,    TILESSHARED-24,/,/,22.56227758
+cce5a9bcc99f328a02cb72fd67d9c3d333abdfc7,/,/,    TILESSHARED-24,/,/,100
+2b5d5a9152bc0695d1fd2e020d57618303d8391c,/,/,    TILESSHARED-24,/,/,100
+9340dccfeda27a1e59c7f92747bc7d1ebbd0e9a1,/,/,    TILESSHARED-24,/,/,100
+12b9f2cf7f8b60b154117562db924ea9899dcd82,/,/,    TILESSHARED-24,/,/,100
+e08a1305f791d9f5b17547947a80b418f93664db,/,/,    TILESSHARED-24,/,/,100
+c60d6c0a70d79719460077b377235397beffb435,/,/,    TILESSHARED-24,/,/,22.56227758
+d16f1b38bc80e0396cc88a82a786c13e0531f564,TILES-520,Bug,Not Found on tiles website,,Minor,100
+095b7233cfd47670dd779309fcc2244d1f18cfa3,TILES-519,Bug,tiles:getAsString is not cleaning tiles context when attribute is not present and ignore=true,tiles-template,Major,100
+022feb70c01a8e53011cb9576077aae08cb5cd42,TILES-519,Bug,tiles:getAsString is not cleaning tiles context when attribute is not present and ignore=true,tiles-template,Major,22.56227758
+cc33e050ccb977bb55ddbbc499be2f939cf82180,TILES-520,Bug,Not Found on tiles website,,Minor,22.56227758
+9103c763711371a60b88425c737921ab8da8aeef,/,/,    TILESSB-40,/,/,99.69135802
+7371812d69e48c608a970f111ad74ff9ca60232c,/,/,    TILESSB-40,/,/,100
+f3bfe6a3f57544abc9030572fa7bd51820ab909b,/,/,    TILESSB-40,/,/,100
+d7da81877520fe6409861e85e7fc8af9d6e0b835,/,/,    TILESSB-40,/,/,100
+f0c8642110b3a669a4972e6dfd77d081e433eb98,/,/,    TILESSB-38,/,/,99.93804213
+583e03589eedcfed5a9c4b0357b5155dbe921cc1,/,/,    TILESSB-38,/,/,99.93796526
+ae0ec18d04f154196cf1bfe0a6bd2990d14d57d8,/,/,    TILESSB-38,/,/,99.81343284
+67bfc6ab53f5af2e13e1a6a94c9da26a765b9183,/,/,    TILESSB-38,/,/,99.87523394
+1b89d08c21d856c8d56ba8b153fb957728d9f8ed,/,/,    TILESSB-38,/,/,99.62429555
+64a5c136f330c36a6431d4ddb6e71c9162baf457,/,/,    TILESSB-38,/,/,99.81132075
+6fc552e0717a7187223d62ba1f3975cffc0a5a96,/,/,    TILESSB-38,/,/,99.87381703
+06690eb4305582bce198e3cd2622d5f381b8e91a,/,/,    TILESSB-38,/,/,99.87361769
+ffcd97ba88a35b015c6674a3432164d0e8a5c31f,/,/,    TILESSB-38,/,/,100
+4f4c14a506d72e6c1dcd057664fd580b1cb4398e,TILES-519,Bug,tiles:getAsString is not cleaning tiles context when attribute is not present and ignore=true,tiles-template,Major,22.91290206
+4e1860a03b4cce3bd25c41b0524c6d998b292970,TILES-519,Bug,tiles:getAsString is not cleaning tiles context when attribute is not present and ignore=true,tiles-template,Major,22.91290206
+784f883d4ef9bc9f78f40c62a574f21061977969,/,/,    TILESSB-38,/,/,99.87341772
+f70f30769aab613ab7d530bb4cb626e9e0b7e705,/,/,    TILESSB-38,/,/,99.93658846
+206e6e519155dd14626f4615f70a4a46c0e3c821,/,/,    TILESSB-38,/,/,100
+8b683b752c4e9109cae6d38b14dbb7df74b097cf,/,/,    TILESSB-38,/,/,99.74587039
+bacf170990f3964b9dd54ff3f759881172cf35d7,/,/,    TILESSB-39,/,/,97.00290042
+39b0a8c252ea4fe990500bc0c18037e36f767a76,/,/,    TILESSB-38,/,/,100
+6d47906603eb67f1aa82fef8990aaca677dd81d4,/,/,    TILESSB-38,/,/,100
+d973db86de5c202b2fb6087ecba3d300414fd16c,/,/,    TILESSB-38,/,/,99.93464052
+0244d1a32d13e55badc7e5a670398be0ad59323e,/,/,    TILESSB-38,/,/,99.93455497
+0c636ed6351f0d72c6436f52d898c5ee04051298,/,/,    TILESSB-38,/,/,99.9344692
+c775177c2a762b199295f85cf8262d81714e29ea,/,/,    TILESSB-38,/,/,99.86868024
+32d87116a324076c06d10da7a79a05cb5c87a20e,/,/,    TILESSB-38,/,/,99.86833443
+49073c6d86954bb219a1e2fbbe468fd0e470fd5b,/,/,    TILESSB-38,/,/,99.93403694
+98e8bce6c29e63485067bedbf69d394a9486f714,/,/,    TILESSB-38,/,/,95.01312336
+683c470afda1ed233841ea1f5fa03cbd84e30c51,/,/,    TILESSB-38,/,/,99.80392157
+80094e9f66315a0781d0f2e1b175774b6c6a3807,/,/,    TILESSB-38,/,/,99.9344692
+ec6bf2b22a539fb0e971aada5eba7a5312bdc58d,/,/,    TILESSB-38,/,/,99.9343832
+954fe86734563d14bc333c54adb56e947d45eb59,/,/,    TILESSB-38,/,/,99.93429698
+0c9d3621f64b402c0527c87bf1a2cd361b1d5667,/,/,    TILESSB-38,/,/,99.93421053
+9132947f7ce280ae8e486077a27efbc6da4b0948,/,/,    TILESSB-38,/,/,99.93412385
+70abdddeee250286c1ea657ea023dd0e26fa98e4,/,/,    TILESSB-38,/,/,99.93403694
+71c263b3ddfc68da17c4d7e18018a8a8ff861a78,/,/,    TILESSB-38,/,/,99.73527465
+459824e54e01ae8fd387f420110ed0a5e3f1ef78,/,/,    TILESSB-38,/,/,100
+ab97069eb0395e5ce139867c3b6e98d34b3749a8,/,/,    TILESSB-38,/,/,100
+3f203d3d0b08d67b60297938f0bd672875bbb70b,/,/,    TILESSB-38,/,/,99.7338656
+61d974901df582091a2bffb36102dc7efce71f24,/,/,    TILESSB-38,/,/,99.79946524
+c119d0311caa1f7ec9c519b5550e9d493ec9cf17,/,/,    TILESSB-38,/,/,99.93297587
+f1b32c6a00214b73085de74e2ec0b7add6b6b0cf,/,/,    TILESSB-11,/,/,98.54483926
+bfb6e0caedf03643ec398f7bf8f4b8c6a12eb925,/,/,    TILESSB-11,/,/,98.53592101
+864561ed8bf7c26eddc56323a0df77d1a73e02f4,TILES-518,Bug,tiles-el should make org.apache.el an optional OSGi Import-Package,tiles-el,Major,27.23852521
+46b1c01eb764bfe211fd9e0644bf225c5cfacfb9,TILES-518,Bug,tiles-el should make org.apache.el an optional OSGi Import-Package,tiles-el,Major,27.23852521
+f86867c1211c73fb949ff635f3a17f1dbb90b445,/,/,    TILESSB-11,/,/,98.64958449
+6be6daa68475573d1fa17458c00b8d86322a984c,/,/,    TILESSB-11,/,/,99.53966006
+e436b5feb061074ce5689c32971b4eecd3afd68f,/,/,    TILESSB-11,/,/,99.1852639
+380057ffb55397f063a0d4ec7855e38949b6eb65,/,/,    TILESSB-11,/,/,99.28952043
+ee1f781883db26815febd6c07a604e65a62f7656,/,/,    TILESSB-11,/,/,90.47256098
+95767d4bd5e0f0592e1346d389ec3f03b44c3fc0,/,/,    TILESSB-11,/,/,99.25834363
+5a00c252c9eea3deb3e79bbaf97adff56aa14cbb,/,/,    Corrected a velocity-tools dependency.,/,/,100
+a8de013a075d54473ad4dc7ce0e0b810739e383a,/,/,    TILESSB-37,/,/,98.62442684
+67af8c66565ef3ac301af4644a471cd46149c591,/,/,    TILESSB-11,/,/,99.83242564
+469048d73b1cdc41653364496578eba0e12198ee,/,/,    TILESSB-11,/,/,99.41027801
+cec9c2bec4b282eafbc1dcf141230cf4eb83087a,/,/,    TILESSB-35,/,/,99.66173362
+4094a56ca4490bc07dede0ea922dfa532c389d42,/,/,    TILESSB-35,/,/,92.91521487
+668359a9cd33bcfc5c6e4afc703294e90388901a,/,/,    TILESSB-35,/,/,100
+0d26a3156a2d331a9e6bb409bfaa6c12eaa14258,/,/,    TILESSB-35,/,/,89.27053824
+c741bcbd51e52a24d100e4895eccfd00472ee266,/,/,    TILESSB-35,/,/,89.76377953
+a06ba4429c8aced87c2864d6e911dfb2c66e5619,TILES-515,Bug,ResolvingLocaleUrlDefinitionDAO doesn&apos;t handle loading from war properly,tiles-core,Major,21.33443163
+f34c225cdb9dd8d97d26107bb153992083228d11,TILES-515,Bug,ResolvingLocaleUrlDefinitionDAO doesn&apos;t handle loading from war properly,tiles-core,Major,21.33443163
+76284c7f17cba5ff6e3d7b199250ad319b582725,/,/,    TILESSB-36,/,/,98.4280532
+6fc0f8a8a817947547ec30168cf57968f8b9a9cc,/,/,    TILESSB-35,/,/,100
+4a809ec19ece2fe65e700b3906d036dcdca84378,/,/,    TILESSB-35,/,/,97.90265137
+526841016b8c995c64d6e50a176c4b9498dcecd4,/,/,    TILESSB-35,/,/,99.53667954
+70d018524e7d2e35aa1ac010feddaec9bf104c17,/,/,    TILESSB-35,/,/,99.92313605
+63400302d79b409c7c4140bad65dbc744acb05c3,/,/,    TILESSB-35,/,/,99.53667954
+3df39c5b13ac21ba89fd604a8a4649b2473a0760,/,/,    TILESSB-35,/,/,100
+d013e743b4641c8e912fe29b3850d5d80832f358,/,/,    TILESSB-35,/,/,99.92236025
+c312124d0cafac636f85245f51667cfcd1d77c7c,/,/,    TILESSB-35,/,/,98.72459147
+5180c5c60ca209361515d3b257706bd0df64ee02,/,/,    TILESSB-35,/,/,100
+0c62d86b3c41958a4a02533f93afe2658220a816,/,/,    TILESSB-35,/,/,100
+c0a72c2498325e9c1c46a4f7585697d3d84cec77,/,/,    TILESSB-35,/,/,99.50657895
+95c20c37e7c9ea1dbb2795d38d6d6e697ce6a097,/,/,    TILESSB-35,/,/,100
+96c773e1c6ed2af67f18e9e5b570faf8943767d9,/,/,    TILESSB-35,/,/,100
+99ff1c669d425bc4183ccf74b998f5f829dc0d3d,/,/,    TILESSB-35,/,/,100
+3e17abc2f661c7100368124272f89a6e77010672,TILES-512,Bug,Definition &quot;templateType&quot; attribute not propagated to extending definition,tiles-core,Major,21.21085595
+725e9390f892699acf5d01bd719415cd8ec86a9b,TILES-514,Task,Let tiles-jsp.tld implement JSP 2.0,tiles-jsp (jsp support),Minor,100
+c337c0b72f1bac7fe8ebce8f6a840da80eff9824,TILES-513,Bug,Simultaneous definition requests to multiple locales causes NoSuchDefinitionException on anonymousDefinition,tiles-core,Major,99.78947368
+149cb7b2a7a0fb3f28851249c2831ff548072ed1,TILES-512,Bug,Definition &quot;templateType&quot; attribute not propagated to extending definition,tiles-core,Major,28.12266268
+4195e7cf9c160da045db5293bf37848fe4401406,TILES-481,Improvement,Add automatic upload when releasing,building,Major,100
+36c2634c0b079b6b1d651f2495afc3e568936342,TILES-481,Improvement,Add automatic upload when releasing,building,Major,100
+3229a165fe958f469519785ea139dbdb40ecf612,/,/,    Updated to the latest tiles-master.,/,/,28.12266268
+1d34986318a0c7284398de5f1f53d7abdc22c333,TILES-481,Improvement,Add automatic upload when releasing,building,Major,100
+7f58041beec80382fb4e985713229a73e82f9968,TILES-481,Improvement,Add automatic upload when releasing,building,Major,100
+ca254ed632f9e3bdf49e60f1f342dbdcb07b65ec,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+56c1e32241723f34a5834b7595875353b7787e2d,/,/,    [maven-release-plugin] prepare release tiles-2.2.2,/,/,100
+9230f787ed7e77f5952f6b4a107ec473997e4316,/,/,    Updated tiles-velocity pom to depend on velocity-tools 2.0.,/,/,100
+8b7c8d18e9f4668f5a47ddbdd562e27a2e49e968,/,/,    Updated dependency to tiles-master 3.,/,/,100
+ff52bee587cd70005fa6055ee05e4c789b79e3f8,/,/,    Updated copyright year.,/,/,28.12266268
+82873bdb6a30e04b41ec8b1b0abfdf2d25d0572d,/,/,    TILESSB-11,/,/,99.15368991
+88181d7741d232d63a31179fe746384d6a5979df,/,/,    TILESSB-11,/,/,93.44012204
+af3785e9a8d9267cf62122492506daeac1ad586d,/,/,    TILESSB-11,/,/,99.69525468
+5257e32b0912754e0f18314daedf8cfc822d74e0,/,/,    TILESSB-11,/,/,99.82509838
+1bb5107b7f51031a7443789de02ed2096b43ff91,/,/,    TILESSB-11,/,/,94.97825227
+84dfe904842afc9f4b64e981a2ffc839c583d4ae,/,/,    TILESSB-11,/,/,95.52691433
+e8754bdf6e6600d82f1413701947aae0ee40f7b8,/,/,    TILESSB-11,/,/,22.61368292
+039440158977e124757e98f5f02079baf31c4019,TILES-509,Bug,infinite recursion in TilesApplicationContextWrapper,tiles-core,Major,22.61368292
+492080900d2e2170f2d30a4475f74a0730ecd91e,TILES-510,Task,Update release process configuration,site,Major,22.61368292
+283231753df4ac17b492825d20846eab463e7022,TILES-510,Task,Update release process configuration,site,Major,22.61368292
+782c98b7916823149b6564b1fde38f5662794b79,TILES-508,Task,Remove repository configuration,building,Major,22.61368292
+2a3117035d544cb950fd649237d3ca3628cb82f0,TILES-508,Task,Remove repository configuration,building,Major,22.61368292
+be9ac6f3ce012458b3bcca1e9d9dd1becafb7f65,/,/,    TILESSB-11,/,/,98.18754925
+46ece5f9025fc0ce8ee3c6cbc90f65d4cab9e8c0,/,/,    TILESSB-33,/,/,100
+1d64dd506dfbb9b088f7167e438cd1cecaba2dde,/,/,    TILESSB-34,/,/,24.06136455
+8abdc0c9373db4c76f4b05e4dcda7f4e1d37bf74,/,/,    update to use the latest parent pom (tiles-master-2),/,/,24.12955466
+dcf32b14ba70e9e09125d825ab909cf97cf24319,/,/,    TILESSB-11,/,/,97.63458401
+e29ad48e82aee09baac5406cc4f47fd99e4d1a21,/,/,    TILESSB-11,/,/,98.67009867
+285945d8ab0f2429d1b983fa92d885e596812f73,/,/,    TILESSB-11,/,/,97.58135444
+34c3a1bbd5f3bdb2840a2051eda3c82677dddb5f,/,/,    TILESSB-11,/,/,99.91023339
+77398caf9ac6d7200d653462928259f5dc5707f1,/,/,    TILESSB-33,/,/,99.46140036
+9df908ac4dd8bf53269d3429d6345d9b0fe2c925,/,/,    TILESSB-11,/,/,99.82038617
+e583849377c71caabf4e6143dc55227ef3e36cdd,/,/,    TILESSB-31,/,/,99.50405771
+1d034b752ddbc1257a7790f74095e9b378ad6d10,/,/,    TILESSB-31,/,/,98.17518248
+e8740942d4d23e961651b0b47ffc933b70ca046c,/,/,    TILESSB-31,/,/,99.36305732
+c197dd968ff737f465f526d606170b6d585fc45b,/,/,    TILESSB-31,/,/,21.54648132
+a4a43ffc5002c4a8acbfbfa433400c48cd9add25,/,/,    use the latest tiles-master,/,/,21.63105102
+14ce3c961c09e5933978720df7e1f7ba07f97816,/,/,    TILESSB-31,/,/,99.17770672
+d8e74b0269efc389469ab91f897c1adbe8805a73,/,/,    TILESSB-31,/,/,21.6168717
+86e70b8f564aa4e2b4764e0250c6f20f2ed532c0,TILES-506,Bug,Fix link to jira under &quot;Project Information --&gt; Issue tracking&quot;,site,Major,21.63588391
+cdc13e4367f3ee36f3a25b658c35cbe3935aeecb,/,/,    TILESSB-31,/,/,98.88372093
+44a404a25647d6908c8440cb4d533a17d6e200c9,/,/,    TILESSB-31,/,/,99.34086629
+f898515dc41fd5b740ab2d1dc260068acee86614,/,/,    TILESSB-31,/,/,99
+348a838236a8f142200f784fbce4c87de88cb086,/,/,    TILESSB-31,/,/,98.38172299
+eb1a1932122605c6b2bfaf34916c4a6bf8926464,/,/,    TILESSB-31,/,/,96.53012048
+65d5370d38e99112a15adb1074c55e4babb7805c,/,/,    TILESSB-31,/,/,98.72235872
+ce1fdb88cae2b73ddf2b9b7115d2c1e8a8f97852,/,/,    TILESSB-31,/,/,99.75417896
+3466e7f6e2dbc79c79da771598f8ea9154b5b6ea,/,/,    TILESSB-31,/,/,98.41975309
+397c753808abd808120ffa9dff5ea89bb6889031,/,/,    TILESSB-31,/,/,99.15632754
+0c11024abfd3240dc56f01a115b784a0dfc6302b,/,/,    TILESSB-31,/,/,99.24736578
+cbe9f11cbc22a07dfd8f84ad0f1829091adbf5c9,/,/,    TILESSB-31,/,/,99.7464503
+7deccb65275cbc4d7f6ecc2f8dd2f9545daaad82,/,/,    TILESSB-31,/,/,99.59349593
+b6777e0ee3be8d9264c56fdb60252a55b560376f,/,/,    TILESSB-31,/,/,20.97516099
+8e9cdd6633a46e0579ecf0c39382be10ebaf9c31,TILES-499,Bug,NPE in UnresolvingLocaleDefinitionsFactory,,Major,20.92050209
+58b33dbd5710380a21c3d66d615336110c0e12ba,/,/,    TILESSB-11,/,/,99.68814969
+09fa877fdb0608937baf7b4bc73fa15c0b3a517a,/,/,    TILESSB-11,/,/,98.15983176
+cc978b3e7ae1858a90deec3bda54a48aa4080c25,TILES-496,Bug,The tiles-velocity module website has links to contributor&apos;s site,tiles-velocity,Major,100
+dbea8e7586f4b921293a31e69a857b0624ba9702,/,/,    TILESSB-11,/,/,24.44246209
+e861feba2f97c3ab7fc4543b22bc193aa07ffc25,TILES-496,Bug,The tiles-velocity module website has links to contributor&apos;s site,tiles-velocity,Major,100
+c8c35e1249dc176c9eed68317a5dcd8ed8bdfd45,TILES-500,Bug,&quot;flush&quot; attribute is not evaluated,tiles-jsp (jsp support),Major,100
+ddfb400715205efbfdfc3e70c16357aaaf1da6d2,TILES-497,Bug,Velocity docs do not specify what class to extend,,Major,24.50805009
+ea2f46a31b5a7216c824341078bdefec198d9138,/,/,    TILESSB-11,/,/,24.50805009
+b1fe7f6b0875c806da3829146434eaaaed105df7,TILES-495,Bug,addListAttribute and putListAttribute JSP tags do not specify &quot;role&quot; attribute,tiles-jsp (jsp support),Major,24.76531068
+df2caaf12c73e3741a4f3a33bf7ab7ccea38bb01,/,/,    TILESSB-25,/,/,91.50110375
+29810cc9b3070c28bd14fca43234f14eeb44ed32,/,/,    TILESSB-25,/,/,99.15254237
+ad39b0b2f891c0392bbe2a784538b4066cff7e0e,/,/,    TILESSB-29,/,/,100
+3e8956e34870581594b69e394a183b4769ab3e38,/,/,    TILESSB-30,/,/,98.50083287
+e1fa00345e702d89d382651d5b2c883b1fe715c2,/,/,    TILESSB-30,/,/,99.16943522
+1e71771c5682c9cabb0bfd5360e3f4dc23432613,/,/,    TILESSB-30,/,/,100
+fd69fd529c7e3c306483abfd0d5dd98223ddc0d2,/,/,    TILESSB-30,/,/,100
+fed71392ff1b019caa120a31d3c05872470a1385,/,/,    TILESSB-29,/,/,98.86877828
+46b87c86848a21b2f98e061e4d48eb083231891d,/,/,    TILESSB-29,/,/,100
+98d7ae96ca6dffda529387f026369b96e400fa65,/,/,    TILESSB-29,/,/,100
+acca2b61cab555f724536ada47f78f3d44f7788e,/,/,    TILESSB-28,/,/,100
+e960cac7ad869e33661f1e9c45d6271edc0899f0,/,/,    TILESSB-28,/,/,100
+4126b5a954bd18a75bfe04a2df6100b9038de336,/,/,    TILESSB-28,/,/,98.73997709
+118079b262a0ffd22414865cc03263de664967d9,/,/,    TILESSB-28,/,/,98.90616005
+0cf18cc78d0f2298dc3f4a2ac6db933b1902de88,/,/,    TILESSB-28,/,/,100
+baaedb7c1e338e7af7f3e2d3e24017b0264bc8a7,/,/,    TILESSB-25,/,/,98.94490035
+d8e35111ef02b046a8d026728120822677c03daf,/,/,    TILESSB-27,/,/,89.96242619
+cdba61cf812b82848c4b33f5de0c3c09777e0849,/,/,    TILESSB-27,/,/,100
+0f8dff1ff9cdf9536e7fe3a8e8786d48769236ba,/,/,    TILESSB21,/,/,100
+f5f278dc076c136f8a633ca35a10ff83b2ae9cc6,TILES-502,Bug,wildcarding works in put-attribute@value but not in  put-attribute@expression,tiles-core,Major,100
+67ab8c8e3b315dbdb8d02f1e3815c763f2a89299,/,/,    TILESSB21,/,/,100
+60db721048c6b21d4bf25e2a49284f38f56c5ba8,/,/,    TILESSB-27,/,/,97.52407153
+76adb38cbe9d06c902857a408e2bf585045ca6fa,/,/,    TILESSB-21,/,/,100
+e16d74a93ccab4ad104b5ac836d66983c0435e3b,/,/,    TILESSB-10,/,/,29.69574037
+166564e92a88d77195fee1652454293c31b290a1,TILES-502,Bug,wildcarding works in put-attribute@value but not in  put-attribute@expression,tiles-core,Major,100
+16042890801876903c25b1a30180428f603b0dfb,TILES-501,Bug,multiple containers not supported by two tags,tiles-jsp (jsp support),Minor,26.79425837
+70e60058b192991a24015191db0862f5d5d16c2e,/,/,    TILESSB-27,/,/,100
+8ce84b7257df3ea291b0dc9bc40a28a4a1b10bf5,/,/,    TILESSB-26,/,/,98.89391654
+6326154e44af2c8032b40c4565b1910693263989,/,/,    TILESSB-26,/,/,99.3972878
+e0a2040eb94a7a3d45147f1f5077eeff4cb8e0ad,/,/,    TILESSB-26,/,/,100
+ef44a8b49ce6627228cdd83e7a0ed03f31732763,/,/,    TILESSB-25,/,/,91.10552764
+8e8d4d5bf522ae201b261ccd63b57ce8b7d6387a,/,/,    TILESSB-25,/,/,93.41723136
+41007b951091200b973ea8e7f16834b2f24d9726,/,/,    TILESSB-25,/,/,99.62738705
+9f9c678528e1a62f146372013adb4683e3faa1af,/,/,    TILESSB-25,/,/,100
+ddfc572ff5f461076d6e73071f9b8f9c181beab4,/,/,    TILESSB-25,/,/,99.06759907
+89e6441e2b033269c476bc39308297e047b408ac,/,/,    TILESSB-25,/,/,99.72001867
+6c43a64f86dc7fac63034cc3c7cc491238dcfd01,/,/,    TILESSB-22,/,/,98.67235657
+67b553f17d18a90acb10f14e7217ef04c5da7dc8,/,/,    TILESSB-22,/,/,98.80325515
+e74f040ab69a5ece759c368a64bcea67e13df6b6,/,/,    TILESSB-21,/,/,99.61941009
+ec8d1bce4556dab6870f3fe815f83be5d838f7b2,/,/,    TILESSB-21,/,/,99.81033665
+c7aaee7c049762eb3a1e465cafd0cbfd834d3b8c,/,/,    TILESSB-21,/,/,100
+f66737de2150f24c59ae317f19bb78733b6ed04d,/,/,    TILESSB-24,/,/,99.43289225
+e12e1ef5283843897dc71aeb386042924c857e06,/,/,    TILESSB-10,/,/,99.67012253
+0dcb114f60db96a016e3ca2966c94fd62702ccbe,/,/,    TILESSB-24,/,/,94.90616622
+b10b19bf9496686030366052ec610a9104e30872,/,/,    TILESSB-24,/,/,100
+486a20d0516e8ed8c3200d71418316ec86f5db17,/,/,    TILESSB-23,/,/,99.83000425
+1674987003af493c18d67fb5b6fa594dacd24013,/,/,    TILESSB-23,/,/,90.1734104
+93d4b9ca96f426f806d627c74688e89222331d1c,/,/,    TILESSB-23,/,/,97.40955784
+df2bb26fd50b78f5b617e39c7f5c8c6b0b418f1d,/,/,    TILESSB-10,/,/,97.008359
+8463304ef9d6f4e826c8367b6bc8544c6d18840e,/,/,    TILESSB-22,/,/,99.59090909
+43cfff578698a760e3c6ee03d4060a6a8f8fc726,/,/,    TILESSB-22,/,/,100
+0fa30c8d4fcc6d3e835f3120138ebf64fa601fe4,/,/,    TILESSB-21,/,/,99.26369075
+e92c6c67f69060e0a6fae51b0ff901cc3ac207e4,/,/,    TILESSB-21,/,/,98.73060649
+e8158658931658254514a261abf6cd89d3a071e8,TILES-491,Improvement,Tiles-Velocity tool APIis a bit verbose,tiles-velocity,Trivial,27.62430939
+afcb9270a38c1b67c42f5e51b49199040f59eeeb,TILES-491,Improvement,Tiles-Velocity tool APIis a bit verbose,tiles-velocity,Trivial,100
+74d966e9a1186a7e6d35246889baac4d6076cef3,TILES-180,Improvement,ChainedTilesContextFactory should not log a missing context factory with a stacktrace.,tiles-core,Major,27.62430939
+096cda2e111bfa0c0b11a4043def5b44ba10a7e2,TILES-490,Task,Create Velocity custom directives,,Major,27.62430939
+16f5b7865ab3c91cf0ea23de2bf79021c9397b97,TILES-490,Task,Create Velocity custom directives,,Major,100
+9df5e8221cd246609ce86305d44938bf17b73f3e,TILES-490,Task,Create Velocity custom directives,,Major,97.63358779
+63ee33a8478bafe3952f662f2b902adb9168831b,TILES-490,Task,Create Velocity custom directives,,Major,96.70876387
+7d0b25a0c30eb356925fc74022175cfa1cf48e42,TILES-490,Task,Create Velocity custom directives,,Major,100
+8ca207bf24927419e7b1ee179938ec484d823711,TILES-490,Task,Create Velocity custom directives,,Major,100
+30ee093ab29aa67d5737e4a9259ef64347039c41,TILES-490,Task,Create Velocity custom directives,,Major,99.84567901
+45e8bf1e8779e25c2218faa6df09816d15f8e437,TILES-490,Task,Create Velocity custom directives,,Major,28.69198312
+c5b6414ac55089d6db9538c2e209722ef901c1a5,/,/,    TILESSB-21,/,/,100
+2a392ba026fa871c2a12bd46535dc5beaadd5d00,/,/,    TILESSB-20,/,/,100
+5b7cc2dd555e3f107ecedbc9f00a199825eede98,/,/,    TILESSB-20,/,/,100
+8e93f7ad8a9c93a50ea820b8423800d4c1346206,/,/,    Removed useless directory.,/,/,100
+727da76dba7733c6a98fd638a7e42449308acb79,/,/,    Initial import.,/,/,100
+ea6eeae11efb7582b8a2e73980a2e2afede28560,/,/,    TILESSB-20,/,/,100
+3a7173b1242f3d072bcfec5263624eff292c9ecf,/,/,    TILESSB-17,/,/,97.02740362
+a6005c405e8c575141cafbc4ede3b259efc298fd,/,/,    TILESSB-18,/,/,100
+e6002d4a30a4b413af2708dbff75ab8600267b00,/,/,    TILESSB-18,/,/,99.81464319
+9bdd05f6415788000f7d9cc06940833062e013bb,/,/,    TILESSB-18,/,/,99.62928638
+4f513871aeacd98a52d289614b94e5059bd41c2f,/,/,    TILESSB-19,/,/,100
+3a57c32929a991e713f38c43fe0925b1295c0c07,/,/,    TILESSB-19,/,/,100
+51e03bfa95ae655e548344ff8bb07aa1552ba7be,/,/,    TILESSB-19,/,/,100
+97882cc4c9bc8171e98b9afa62d3e6a1f57d8be6,/,/,    TILESSB-18,/,/,88.48144953
+435d5eede71775e1ed206ba09b11575195c493e2,/,/,    TILESSB-19,/,/,97.57301522
+f65307474e94da6b338d2a352fe781154b3239af,/,/,    TILESSB-19,/,/,96.57534247
+613216b251f3615f69b61ca8b2ce14b58822382a,/,/,    TILESSB-19,/,/,93.14851485
+194177cd40b569ad65d0738b444deaf6264baa85,/,/,    TILESSB-15,/,/,100
+caedf2a1d825b121f15f71b815f303021dfaaf98,TILES-488,Bug,URL&apos;s need to be changed to point to updated location,site,Minor,27.40772168
+158371d7efe5e45338ca969701ccf469663d4798,TILES-488,Bug,URL&apos;s need to be changed to point to updated location,site,Minor,27.40772168
+1ad9bade068abd2b26cd3d75d7d94d3821e7611e,/,/,    TILESSB-16,/,/,99.90825688
+afe827fced8dcb449038acada72e2c213dd115ad,/,/,    TILESSB-16,/,/,99.30907416
+98a8818fa97ddb4964c7ea2ebf49b6e923049829,/,/,    TILESSB-16,/,/,92.24634471
+5c5bd3f06d0363662277eff8409217c1e3b7c60a,/,/,    TILESSB-16,/,/,99.40602461
+21f28a485edee8ce251041bc8141cdebe21f0c61,/,/,    TILESSB-16,/,/,97.01110162
+170fcfc1e8ecc347afd990c16132547f13ee42ef,/,/,    TILESSB-14,/,/,94.15700268
+74776cc3b7888e370fc7e5be6d093640019936cc,/,/,    git-svn-id: https://svn.apache.org/repos/asf/tiles/sandbox/trunk@882693 13f79535-47bb-0310-9956-ffa450edef68,/,/,99.44263818
+3496465bebd2489e529ffa7d7cc0abcc0b665271,/,/,    TILESSB-14,/,/,99.1187384
+f6757640a63d67e51bb5b62c043deec0c6de96f0,/,/,    TILESSB-14,/,/,99.72286374
+441c82865b7c505f68286c8b4c00c4c7e26747d8,/,/,    TILESSB-14,/,/,99.72324723
+37133228774dffe6935226b891c76eff588277f7,TILES-486,Bug,InsertDefinitionModel does not use two parameters,tiles-template,Major,27.78249788
+8a5441183b37208784365789531647a4e74ae5d8,TILES-486,Bug,InsertDefinitionModel does not use two parameters,tiles-template,Major,27.78249788
+ad6515296d9ae144d4cc9c116701ef2b932de3b9,TILES-486,Bug,InsertDefinitionModel does not use two parameters,tiles-template,Major,27.78249788
+9af83009ae742a7ef30abfc3b55b3a756e3f193f,TILES-486,Bug,InsertDefinitionModel does not use two parameters,tiles-template,Major,27.85562633
+13c57800a94469c04a05367a8df17845e1cb6ce5,/,/,    TILESSB-14,/,/,98.52466574
+60cccf7241880761c561e95c5b4641623d445fd5,/,/,    TILESSB-14,/,/,97.15784871
+48525d38a1c1603c75ad0504a415ced9c7b8dbae,TILES-484,Bug,NPE in CompleteAutoloadTilesContainerFactory.getSourceURLs,tiles-extras,Major,100
+208c41379b9da274b188b18495ca72079ebc3fc9,/,/,    TILESSB-14,/,/,31.21714517
+7a4fe9397801ed81253f8f67d995b9845d565ce5,TILES-484,Bug,NPE in CompleteAutoloadTilesContainerFactory.getSourceURLs,tiles-extras,Major,29.5558323
+05f8bd2a9c6af7837fef698adff877ad6886b09e,/,/,    TILESSB-13,/,/,95.3927161
+69a5467bfb8e5e1f4e1f2e1ad42c68912632e44c,/,/,    TILESSB-13,/,/,100
+7de6d2bd00b48292c2e821c3d0bd2db12241eabc,/,/,    TILESSB-13,/,/,98.06508355
+ec324805e98c644658566e6854d9097239d8affb,/,/,    TILESSB-12,/,/,98.67899604
+f93866ee786ed4dc59ff7aafd3b2554ac8ef1ea0,/,/,    TILESSB-12,/,/,100
+4c1a0de9f2177bad14a1510e48ff7b586509f59f,/,/,    TILESSB-12,/,/,98.19004525
+d69a9d35f64e3e630271cb38d5dec2af7dde8176,/,/,    TILESSB-12,/,/,100
+414ac01f8cd40e5d90704201f796be50bae9bb6d,/,/,    TILESSB-12,/,/,98.7336047
+ca1615dc372a2af08987406d2e1f28516baec791,/,/,    TILESSB-12,/,/,98.33260202
+c1945a9c870b538ccaa2ade8e7929e3e96962d06,/,/,    TILESSB-12,/,/,100
+bbb613f9dcadcf8c5a999d7b5094b0221b9bc33c,/,/,    TILESSB-12,/,/,99.78127734
+e00f492e2e195f329e2d33d52f0765d4f33a94ed,/,/,    TILESSB-12,/,/,100
+e18d5ed5a7819ef893cb61c7f4a825ccfdfec2d8,/,/,    TILESSB-12,/,/,100
+e38016a9c3ed98fd424c8360e0738fb04da11ae3,/,/,    TILESSB-12,/,/,99.65004374
+04295ddb65b35c03442bab7de4c2a5ec48c08142,/,/,    TILESSB-12,/,/,97.72528434
+d7067c9742664cdfda630c7a1fddcedb259120b9,/,/,    TILESSB-12,/,/,100
+7ba0fb92dbc63fc11dd2db23429ca02e85e261f2,/,/,    TILESSB-12,/,/,99.82509838
+fe09c5f1d6b982fa182e0990e9949cfcb249a989,/,/,    TILESSB-12,/,/,99.8689384
+41e422811a898be9b314219d7f5c67c3fc7cad61,/,/,    TILESSB-12,/,/,100
+7e2630483028389fd60722c4e441b7e6b9526f0c,/,/,    TILESSB-12,/,/,100
+5d40b7eb9995de4a8de9436c176aff122d882169,/,/,    TILESSB-12,/,/,99.5211145
+57b4aaf0fca70c14fb7013a1abea9b4dde2b5d5c,/,/,    TILESSB-12,/,/,99.5211145
+e6dafcde6cc61df71e21119feea4e6b753a3c6d2,/,/,    TILESSB-12,/,/,95.97902098
+5899bcb03a74c9b05255601658f557568f72315c,/,/,    TILESSB-10,/,/,99.78175469
+0b4f1eb576db03ccc678ea78bc96a71269377de4,/,/,    TILESSB-12,/,/,100
+2853bf5f04ee5cca2c52641067640958b06fb3a9,/,/,    TILESSB-12,/,/,99.12929909
+055a3c1c93243e473512f8103154dfa64403da46,/,/,    TILESSB-12,/,/,100
+8178cbad7afde250ea026ac2e96ba09dc28aace9,/,/,    TILESSB-12,/,/,100
+68182b41c686deadeb091f534dbdeb511e64e194,/,/,    TILESSB-12,/,/,100
+a7877c71596f499a501e36e6c8680eef1cd19dd3,/,/,    TILESSB-12,/,/,100
+303cb365cd8faed0946d13c88a2df1c608bae2b2,/,/,    TILESSB-10,/,/,100
+3baf019859259e5f873421d907436d0cd1261312,/,/,    TILESSB-10,/,/,99.91304348
+7e62af4639d189095ff114f883e114a922a0b47a,/,/,    TILESSB-11,/,/,100
+b73647db34dd872e0fbca62e1f8de2de101096fc,/,/,    TILESSB-11,/,/,99.73890339
+7c1002b3887bb27669dfe41184be078074a02ba3,/,/,    TILESSB-11,/,/,100
+289dfc5ebacaf13470e2c1fbfb78bb91760cb5c5,/,/,    TILESSB-11,/,/,30.0621118
+ec4bf8960a122eb92c1664f0d630ab89079b4aed,TILES-483,Bug,BasicAttributeContext.addMissing does not work well with cascaded attributes,tiles-api,Major,30.0870286
+3b172addc55bfa9362d2330de0d6d74f4e9a2417,/,/,    TILESSB-10,/,/,100
+baa2a489cd8407b600659a45bece864492bdc80b,TILES-483,Bug,BasicAttributeContext.addMissing does not work well with cascaded attributes,tiles-api,Major,100
+dcfd869bfb947903f73f54f00d60bec0afc71cfa,/,/,    TILESSB-11,/,/,100
+4d6164c5c826a5933432258dd50df2884498d0a0,/,/,    TILESSB-10,/,/,30.0870286
+b95208f046edd266d0883213d0389476b7e54b66,TILES-480,Improvement,Use release:stage goal when releasing,building,Major,25.54908113
+b66697a71a45a234305d7852683a30d49a562b86,/,/,    TILESSB-11,/,/,100
+6ae1ae445d64cb8e181002de6a4695c6527cf521,/,/,    TILESSB-10,/,/,96.97117733
+9066a497ecd7256d37a05c4355430e91d2f2afc6,/,/,    TILESSB-10,/,/,99.76883957
+713326364fedbab1785e692ba44584ea34fffb41,/,/,    TILESSB-10,/,/,90.11786038
+7875833eadbaf966faff30439d062adb8a9e5634,/,/,    TILESSB-10,/,/,100
+9ce894c9e2806228eaf3a995e843b2065673dd72,TILES-481,Improvement,Add automatic upload when releasing,building,Major,29.97912317
+3d002a2c07516a3901c9dea306e5f43e378d584b,TILES-481,Improvement,Add automatic upload when releasing,building,Major,29.97912317
+bb84a057614882865b8ecb73fe92a821c753388f,/,/,    TILESSB-9,/,/,100
+d1173c18102e3995f5656a7f9cff2114355e5bfd,/,/,    TILESSB-9,/,/,32.5648415
+0ca6f3ef0bfedc01f00e8423506f99682773af62,/,/,    TILESSB-9,/,/,100
+ce0f91d09801a14ba75643fcbb3c81c6fd97f1b0,/,/,    TILESSB-9,/,/,100
+32e9e5e8a44b5202a534d2c04a9b0cb452cb019a,/,/,    Copying the trunk of Tiles framework into the sandbox.,/,/,31.43968872
+d4226ebb87aab3f8aeae39eb5f5c4f3e1ddd80b9,TILES-480,Improvement,Use release:stage goal when releasing,building,Major,100
+1461db2c03f245ee39ebd1aa056f67872e21e323,TILES-479,Task,Configure easier Selenium launch,tiles-test,Major,100
+1980ca6775846324bafc6415b446a2de731fd61e,TILES-479,Task,Configure easier Selenium launch,tiles-test,Major,100
+1bcca5f7b99c3eda4c4929434cdff2a260d3ad9a,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+a7e05d7a7f8f44db2ae4c345608fbe23401848a8,/,/,    [maven-release-plugin] prepare release tiles-2.2.1,/,/,100
+0cbcdedd2523421d06f8d657ebb505a094528b20,/,/,    Added svn:ignore.,/,/,100
+e0c625e40add3f1f72acf051359638ebe99ddec9,TILES-478,Bug,Fix license headers,tiles-test,Major,100
+6a1ef8cb3c76267ed7648cf0f470249ae23afdc2,TILES-475,Improvement,Add wildcard support to the extends attribute of the tile definition,,Major,97.59435919
+e08b2dcf22c91eb00524a7340ec192f2839cbd31,TILES-477,Improvement,Create DefinitionsFactory that does not resolve definitions,tiles-core,Major,99.47437582
+254d32a5ef31a92fd51bd509f926c572584bc767,TILES-476,Improvement,Add equals and hashCode methods to Definition and BasicAttributeContext,tiles-api,Major,99.95614035
+1c96e0ae32ff7d040f175776bb65511a814fd0f0,/,/,    Removed empty packages,/,/,100
+ee7197180021b4acb2ca75ff40a0f6c3fd53bd19,TILES-474,Improvement,Support wildcards in list attributes,tiles-core,Major,100
+945bfc86a45454575e8a33554b97ec8d202b41f9,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+f978681e9daa2edeeabe82f1d94008b94d0bceae,TILES-473,New Feature,Add combined webapp/class template loader to Freemarker support,tiles-freemarker,Major,99.86830553
+6931506994b788310f5a629fad94b34b1fb22d20,TILES-472,New Feature,Create untyped renderer to manage Velocity and FreeMarker,tiles-extras,Major,96.71628722
+fbcb3d8ff6ca7eb1d655c20c04cfe8288313e7f5,TILES-470,Improvement,Invert the creation of the default attribute renderer and non-default ones,tiles-core,Major,97.36123749
+a17c92e55352700b831799ac19ff035bdd07814e,TILES-470,Improvement,Invert the creation of the default attribute renderer and non-default ones,tiles-core,Major,96.98852772
+79df69eda53c62c5af868fd5c762d88f458ae0f4,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+3c3a8e8a6053d9f327cb8fe1e262a2a4d15f304a,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+4a604b4c0b3fe4f076a7472cd35faa4f76943cd8,TILES-469,Bug,Other integrations do not work if portlet support is loaded,tiles-portlet,Major,99.75903614
+19e5546467f1770e05a0f1afc4a6687ced3b816e,TILES-468,Bug,TilesException should wrap &quot;Throwable&quot; causes,tiles-api,Major,100
+b00ad6833eac6b6d9eb997a631c0123e0b9fcf67,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+54d59841f40877db9db971dfe197edeffff34726,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,95.87345254
+3fa699b1597b34b14ab67532a0d0dbee518d5df6,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+9bd92c4bdc46c2f0bda0fa73493d4b1d94f70350,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+8f212fe82414bbf7a4cec64a449cd3c9296eea39,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,99.43057381
+15341ead0279ff1270eb1de5b552f4dd0d26c11e,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+19ea17f78670656fbb3f0c9a7ac982126a0880c4,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,96.67686926
+bc58ed07538a94fcc4e95ed63e5231bf633e8c9e,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+1e7a615b6b17248f65664e07d5b09e5f566e5fba,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+864e4e4b0ef3a06e62dd42ac75a9a9ebcc9a6b73,TILES-467,New Feature,Make the tiles-test webapp modular,tiles-test,Major,100
+d3e687aafc85ce5bf025728a19f82bc09d2033fb,TILES-457,New Feature,Add a modular initializer,tiles-extras,Major,100
+55a5bc5f3043749095474acabe1c71d0739d9def,TILES-457,New Feature,Add a modular initializer,tiles-extras,Major,99.03424056
+b1faa29565adc97fa81e538b566f25c56d16d815,TILES-457,New Feature,Add a modular initializer,tiles-extras,Major,98.33024119
+126632e1561bc870c497063a87ccb65213becb7d,TILES-436,Task,Create example portlet,tiles-test,Major,99.70774476
+e18f336eb9b611c99bd0b5104b3762d18f03c2da,TILES-466,Bug,PortletTilesRequestContextFactory does not construct a correct request,tiles-portlet,Major,99.65770171
+a1e0cfb324e48fff6a8ecdd9cfc3099067143b19,TILES-465,Improvement,Create smaller assemblies,building,Major,100
+c18f77932951c61d8e24025eeff77c55eac61ab5,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+f95b31a92ca79e1fa4a670ccdcbbe26e7be7c116,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+152de2c1a399c34498cff65f5c719709d8e85247,TILES-464,Bug,Cannot instantiate JspExpressionFactoryFactory,tiles-core,Major,100
+0e6cd2d3aa5c1089f71d02d5fc2acf9040e9c4d8,TILES-458,Task,Reorganize modules,tiles-servlet,Major,99.31237721
+cf65990cd5fd69a623f18674cf259e3d5a1246db,TILES-458,Task,Reorganize modules,tiles-servlet,Major,99.31102362
+680e7004d7b9274a5f3748f3e3fad9cffa278991,TILES-458,Task,Reorganize modules,tiles-servlet,Major,99.40944882
+9ba7f85f2675f2f15fc7dec73f62bd30d76ffb9a,TILES-458,Task,Reorganize modules,tiles-servlet,Major,95.25672372
+d4caff5de9795cac2ed91008742c45786de11d9e,TILES-458,Task,Reorganize modules,tiles-servlet,Major,97.8250591
+f19b6218693b34dbd944a0f3021bcbe4894cffd6,TILES-458,Task,Reorganize modules,tiles-servlet,Major,97.24334601
+c823b68fc96b40cc629e2f6598f65571a510d5d1,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+c85fb5c5a761ff151af295914d744d7aa7060613,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+2db7c6617806eccb3a883c32b66ba76d10911ed1,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+c0bc14f7d64bde5d56626d2af6724ab4157d68f0,TILES-458,Task,Reorganize modules,tiles-servlet,Major,99.41060904
+b535ec4a051ef6275a0d60d81a1e96a4436ce966,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+97f650e607b2679c3be30cf743dc203250d19150,TILES-458,Task,Reorganize modules,tiles-servlet,Major,99.41060904
+7bbe7a36781bb153d592593417232695654318fa,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+6b0d28cc6d0854367de1eb0ee00e5810eacb0715,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+b3895f4105ddbb3e1de392c9d703fa42b4ce3464,TILES-458,Task,Reorganize modules,tiles-servlet,Major,98.02955665
+5090c5bc189ba0a7d48a4284bdd23776f537cd02,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+d44a25e4d7fda06d88b2c1a51cf7e94489b49b8d,TILES-458,Task,Reorganize modules,tiles-servlet,Major,95.20514088
+c50ddb98444f9f9294ef06b5195f7fbf7e05569d,TILES-458,Task,Reorganize modules,tiles-servlet,Major,100
+514fe4fef267f0d5fe8aeb518a3bcba550e9b3a4,TILES-462,Improvement,Typo on website: re Migration Struts Tiles 1.1 to Tiles 2,site,Minor,100
+0ba19a3011b391b0351b7d57cc77a316b206d00a,TILES-340,Bug,Wildcards and some combinations of locale fails to find definition,tiles-core,Major,99.95054402
+47cadca58c9020ee624a884843eae8237f095bd3,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+bedee7284c1df40bbc47d1ca40809199034b14a5,/,/,    [maven-release-plugin] prepare release tiles-2.2.0,/,/,100
+b9f5a36948b41eeb45ef147c7bc61c8f6bd51381,TILES-461,Task,Define Velocity tools snapshot,tiles-velocity,Major,100
+e2eaaddde57df5c2fe91f19781241210d5026fdc,TILES-149,Bug,The release:perform goal process fails,building,Major,100
+a4f810d498ca229da81f5b377d60843c31514b5a,TILES-460,Task,Add new licenses and notices,building,Major,100
+87f834693aad33a6416fce907ce523af464e0993,TILES-439,Task,Organize assembly,building,Major,100
+80e8aab00a9a6f6b3e6a8f96946e28eb72be0a5f,TILES-459,Improvement,Remove useless dependencies from tiles-velocity,tiles-velocity,Major,100
+7ac4beb4f1fcef7449e772e8406d13463a92f99a,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,90.85529855
+18dcc60b8971ff6bd4f032a9df5873736d85c7e6,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,100
+925d10acdcc9022f75ef0fa95354553f6b236fcf,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,99.76415094
+2cb01981f91a7079ef952e6317632fdb2a03633a,TILES-452,Bug,Create utilities to manage URLs,tiles-core,Major,90.20217729
+7d5e08f3f852ffc88ef5d738f6905016a8ddb0c4,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,99.90740741
+35426013f0a108e7b1347eb6310015bc8a7677f0,TILES-456,Bug,TilesApplicationContextJeeConfig does not manage parameters correctly,tiles-velocity,Major,100
+74caa320f48d23dcaf893c86deadd8ca0738c49e,TILES-455,Improvement,FreeMarkerAttributeRenderer.commit throws an exception without cause,tiles-freemarker,Minor,100
+b2816b844cc2ad68451c81e4ad34964324fcac89,TILES-454,Bug,PatternUtil.replacePlaceholders does not work with null template attibute and cascaded attributes,tiles-core,Major,100
+93d912658968ee95dacaa91de28495db4641f771,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,100
+6ceea5446bf72857bb9c6b67e1eb90781755914b,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,95.97069597
+3ddfe69f4fe9285cd65cc010bdd7104101ab2826,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,96.22276029
+b837f62157dcda720365b08ce348db8690df50bb,TILES-452,Bug,Create utilities to manage URLs,tiles-core,Major,99.73890339
+5d5ed8def59a6ab0ebcc9ff6f7aa269236c958cd,TILES-451,Bug,KeyedDefinitionsFactoryTilesContainerFactory signature of method storeContainerDependencies,tiles-core,Major,100
+576c0ba170c672d99b619196621c85f0c6a5bef6,TILES-444,Bug,Deprecate UrlDefinitionsFactory,tiles-core,Major,100
+3cb12d696915a2ac0d4f6ab24de5a83d40b48734,TILES-443,New Feature,Create a TilesContainerFactory with all new features,tiles-extras,Major,97.0709147
+bcb628b8420eff798a79bb811b90bae058ce1764,TILES-450,Bug,Add a method to BasicTilesContainerFactory to list the factories to chain,tiles-test,Major,100
+0d65f49212463be808453998dba3b295690e3e38,TILES-449,Task,Create tiles-extras module,tiles-extras,Major,100
+f0e4089480c74a80778edb4be020658fb6578efc,TILES-449,Task,Create tiles-extras module,tiles-extras,Major,100
+4c2bbd96edd80c656646af18a7df0a600d2deb05,TILES-448,Bug,Configure release plugin to use the &quot;release&quot; profile,building,Major,100
+6f1225b065850f0a37bd6880747fd02451139905,TILES-447,Bug,Drop support for Servlet 2.4/JSP 2.0,tiles-servlet,Major,99.74811083
+6a1341fbf0d450d9b8833dad4b7715fbaeaf7c41,TILES-445,Task,Remove parameter-based initialization docs,site,Major,100
+246b3229101e3e66f2f911bc100dc7549d25e734,TILES-442,Task,Create test section for new features in Tiles 2.2,tiles-test,Major,100
+d6291d3d88af7d47b1e981bae52ff5e225731a06,TILES-438,Task,Remove Java 1.4 retrotranslation,building,Major,100
+0a8f8963cec73a5237a108b0826843bd69faabde,TILES-435,Improvement,LocaleDbDefinitionDAO.DbDefinition has unused constructors,tiles-test,Minor,100
+8c9b1f1ed578e9a908665980ccda690cd5325f69,TILES-440,Task,Remove dependency on commons-collections,tiles-velocity,Major,98.79032258
+25a0bc3dd11e42f7a2886f40ada968a7d5457b1b,TILES-434,Improvement,Make TilesRequestContextBeanInfo more generic,tiles-core,Major,99.74747475
+ad4316715e5fd86567f9f2df88ff37aa825c9774,TILES-431,Improvement,Use a substitute for java.util.Stack,tiles-velocity,Major,96.81397739
+7fd9d638e4383f4d681a5009dad2f829659dabbb,TILES-446,Task,Deprecate KeyedDefinitionsFactoryTilesContainer,tiles-core,Major,99.63427377
+239788bf1eaa29a4829cc54889bdf94ee75efecf,TILES-444,Bug,Deprecate UrlDefinitionsFactory,tiles-core,Major,99.68847352
+f4817169ac33495c4f12133103cda7d80355a0be,TILES-430,Bug,Deprecate parameter-based initialization,tiles-core,Major,100
+fef308e6418e351d0d9fcf660aa654da916d1e64,TILES-430,Bug,Deprecate parameter-based initialization,tiles-core,Major,96.83026585
+921cf52499d543722812cfbac8beec97bc92053d,TILES-430,Bug,Deprecate parameter-based initialization,tiles-core,Major,97.33879222
+f8e58ae817fb4b8a9128df5c60bf432a3fe46ae1,TILES-428,Improvement,Allow the use of expressions in JSP tags,tiles-jsp (jsp support),Major,100
+30ee9618d92b57c16ea48941da48e8207808ec02,TILES-433,Improvement,Provide a prefix-based mechanism for pattern definition resolver,tiles-core,Major,100
+b3fa899f57376ebabdde9e9b32af703ca4a7ab61,TILES-433,Improvement,Provide a prefix-based mechanism for pattern definition resolver,tiles-core,Major,98.62944162
+b4323d3bcdc49186c32a380414c32c0a0e83ae56,TILES-433,Improvement,Provide a prefix-based mechanism for pattern definition resolver,tiles-core,Major,99.44862155
+f50ebc92e49be98abe555de6937cc5229e788c59,TILES-441,Bug,ignore=&quot;true&quot; is not working for importAttribute tag,tiles-template,Major,100
+c67d74e3e84bcaf0fef68f82e08eb5727b2ea463,TILES-433,Improvement,Provide a prefix-based mechanism for pattern definition resolver,tiles-core,Major,97.70525242
+e66a2cd41012bf7e0893511441bd414b8d8e7f76,TILES-422,New Feature,Support OGNL as language for attribute evaluation.,tiles-core,Major,97.29442971
+c7c888f827d7b5f230d5f0265683826f83a14ee9,TILES-424,Improvement,Migrate from commons-logging to SLF4j,tiles-velocity,Major,100
+fe4af43ec0d3c3a3b2fa9f3afa417d7085514e52,TILES-356,Bug,Upgrade library dependencies,building,Major,100
+3a03bfd44c322113360298431fbd9a25900a6350,TILES-437,Bug,Definition.toString may throw a NPE,tiles-api,Major,100
+7fbeaabb91693456a41ec2a47f97c7282e3e0627,TILES-356,Bug,Upgrade library dependencies,building,Major,100
+cd525312350e56b7589de77e39bd47de7d468428,TILES-356,Bug,Upgrade library dependencies,building,Major,100
+66532e5f48466c26cf4012e5d5649a59a4f23e3b,TILES-356,Bug,Upgrade library dependencies,building,Major,100
+ee408be2dc2a5ae81cfedd91af157dcece3f2bab,TILES-429,Bug,ViewPreparer does not deep copy Attributes of AttributeContext,tiles-api,Major,100
+684cc47e231f6e61ce26d32305c023ad00e093b9,TILES-421,Bug,Fix warnings in Javadocs.,tiles-velocity,Major,100
+4bbb6d591ae332a5383dc79f94104f0351b9fdc3,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+4342be89bff16999d03a169d956a54ff628a21bf,TILES-427,Improvement,Provide an AttributeEvaluator factory,tiles-core,Major,93.11695579
+f8f03e7b968b8048928082ff1fa932bf950ff80e,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+a304f356e93e1dce120954271f9c8dcb1e2905e4,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+1c8a6d1bb9ea214035b741aac527f3f20fde7512,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+fd3222f2b04fb315de69c50b098b14ce63110146,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+505492e5a80d63cb629139dd199bbe7246ad4b96,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+927e12152b24a5b3926f9a6206a8ffa4a34dd840,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+228759713f7f9323ab7b319cb85401dc5915fc09,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+f4425aedb6351e8408f68627593a0545be62a376,TILES-432,Task,Checkstyle polish of code,tiles-velocity,Major,100
+596e9f190f7037d79a3c155e4420bd9f6523beb1,TILES-416,Bug,wildcard order of tile definitions is not preserved,tiles-core,Major,100
+9e968ad93a8cdc0cf7bcfcafe786fca20fc3e7ce,TILES-416,Bug,wildcard order of tile definitions is not preserved,tiles-core,Major,100
+97167c7c81284f1280255d26fca05413ce757c7c,TILES-425,Task,Create new &quot;What&apos;s new&quot; page,site,Major,100
+848904dc31ee7178131a45a0e3104f01095a79f6,TILES-421,Bug,Fix warnings in Javadocs.,tiles-velocity,Major,97.4789916
+34e2648964f888d4c73e6e5c64acd37b3b27b854,TILES-419,Temp,Support matching with regular expressions,tiles-core,Major,99.67087219
+433468921b445774419660e5c16957b3b0e29937,TILES-420,Improvement,Refactor CachingLocaleUrlDefinitionDAO to extract wildcard matching and replace,tiles-core,Major,98.54667412
+04846e3bc244efebd5e674d67580efe08bf67402,TILES-410,Improvement,Convert JSP tags to SimpleTag style,tiles-jsp (jsp support),Major,100
+afc41c256041250be0b93e3e9958fa06d44592fc,TILES-402,Bug,TemplateAttributeRenderer has a wrong exception message,tiles-velocity,Trivial,100
+829574c9d283bbebc0b096da4a59bedd24779eca,TILES-410,Improvement,Convert JSP tags to SimpleTag style,tiles-jsp (jsp support),Major,97.22379603
+a13f4acbd4e367662545701c20b1bf4a373a1207,TILES-413,Temp,update velocity dependency to 1.7-SNAPSHOT,tiles-velocity,Major,100
+5cdb94544696df8f1336bceee82041ef1a8f4c9a,TILES-415,Task,apply missing tiles-freemarker svn properties,tiles-freemarker,Trivial,100
+6c42a49672bd092f6c76e96ac2cf12c59409a92a,TILES-414,Bug,Eliminate dependency on nonexistent/rejected velocity-tools class AbstractJeeConfigImpl,tiles-velocity,Major,100
+3ac39ba3283b60f256793621a8db00dbbb4038bb,TILES-407,Task,Create documentation for new modules,site,Major,100
+f7088bc83d808b409c7cb99fe6533dfdf1065658,TILES-404,Bug,OSGi classloader issue with Class.forName usage ,tiles-core,Major,100
+34d92068a8ad311c56973099d293ac6fae93198f,TILES-411,Bug,Attribute.equals is wrong and implement hashCode,tiles-api,Major,100
+44d5fa198d3c6f57e763acf090222f42c28b0072,TILES-412,Bug,WildcardServletTilesApplicationContextTest fails,tiles-servlet,Major,100
+6a386c19482f55e900facf578d75a4251f2d608f,TILES-398,Bug,Create Velocity attribute renderer,tiles-velocity,Major,100
+6f97de89790faff3e186a0977c9b858dad078072,TILES-404,Bug,OSGi classloader issue with Class.forName usage ,tiles-core,Major,97.51693002
+928431fa30c75b884081b6a828b124243f252e6a,/,/,    -- Fourth phase  fixing mistakes... --,/,/,100
+3d932cdac53487d4fb30f9853a6a1bd5d03ccbcd,/,/,    -- Third phase  missing file --,/,/,99.88700565
+a3d0af429ae17c59c5a9fa09af617080174aacfd,/,/,    -- Second phase  added files --,/,/,96.46320593
+312743b82fc471141c7542ff72e774c2c04f23d5,TILES-400,Task,Create FreeMarker attribute renderer,tiles-freemarker,Major,97.13138267
+9bfa6b9350d29e490ff89eb2362c9093c06a6244,TILES-383,Bug,New modules must follow Checkstyle rules,tiles-velocity,Major,98.60058309
+820ec7710038e10e4cd656de881f708e808ce772,TILES-383,Bug,New modules must follow Checkstyle rules,tiles-velocity,Major,100
+1c439621943d33862ddf6c22505bff557280dfcc,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.76176295
+4c3a5865669b885f9ad591f8aa962b3d8610d2f9,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,98.24046921
+4b6b8eee82cd62bfd50e7bf13a7daa19967f64b6,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,95.77216676
+4236a86813c704c7948eab6d7395fb2b0f111c18,TILES-397,Bug,PutAttributeVModel.end does not set &quot;cascade&quot; correctly,tiles-velocity,Major,100
+a63ac708dd87c629090af3138c156e89cebc5922,TILES-396,Bug,GetAsStringVModel.end uses the response&apos;s writer,tiles-velocity,Major,100
+dbc01d1811c8ecf0ddec501ac4e0803a0c361010,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,98.97094431
+17312491035925927485fe0bf81f0e1048c00ce2,TILES-393,Improvement,DefinitionVModel does not need to push parameters in stack,tiles-velocity,Major,100
+1e4066d2c4f144207250d56c8dd26a0bbc546aab,TILES-394,Bug,VelocityUtil.setAttribute does not work when scope=&quot;application&quot;,tiles-velocity,Major,100
+0c62a6ef0a9f765da237becc3b6e329ebbdfb705,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.50799508
+8275951b725235a19150807cd466fcfc7c1c6471,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,97.96308084
+338c994558946f01fe8f6b57a9da769e27890660,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,97.52010724
+6b648a8f9ce1384fd05cf3c7eca224cc1be70ef9,TILES-390,Bug,CHECK_REFRESH not documented,site,Major,100
+3cd525bd2888c282b5270c75f3e49cb8aa770854,TILES-388,Bug,NPE When definition has no attributes,tiles-core,Major,100
+7c46c64cac9430a31852b4feb3477e466c5d27bf,TILES-389,Bug,AddListAttributeModel does not put list attribute in parent,tiles-template,Major,100
+01c25af63792410a041550b98cf0f943538a329c,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.17638984
+460a25b29ee0ecc456eda2b5f1eaed0039e2b550,TILES-386,Bug,FreeMarkerUtil.setAttribute bug when scope=&quot;application&quot;,tiles-freemarker,Major,100
+8f959ed06bb877df09d3368b0986f6af47b4e2d2,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.65493444
+28504d6f8b500097b9b82de7e69fb266d33f5500,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.65325936
+6af7fcd5f29f3c046009608d7c57c9e88353c8ae,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,99.01960784
+57340a53cb14f36d0d17ba1a7dade13f338cafab,TILES-385,Improvement,DefinitionModel.end does not need &quot;name&quot; parameter,tiles-velocity,Major,100
+d04a89da07de7c5947e1c5ade8741b57aee0706b,TILES-382,Task,Add unit tests to new modules,tiles-velocity,Major,97.6022567
+6ac4baf2f1856f91a6fe3ccff8cbd9523495bfb8,TILES-384,Bug,Throw more significant exception when a ListAttribute is not found in AddAttributeModel,tiles-template,Major,100
+f903f8769b0e5c46f1d0b907bec2e317333646c3,TILES-381,Task,Add Javadocs to new modules,tiles-velocity,Major,100
+6f23817eef080c21aefc6fb50e98889b9f1b8669,TILES-381,Task,Add Javadocs to new modules,tiles-velocity,Major,99.92947814
+66830e54112d51c7effaea7b191fdfe95227655b,TILES-381,Task,Add Javadocs to new modules,tiles-velocity,Major,99.85895628
+3f89d61865572376d8192b0793d5ffdcdab7d743,TILES-381,Task,Add Javadocs to new modules,tiles-velocity,Major,100
+5309d8687af55c0707a0d6cb13f90561d375e578,TILES-380,Task,Make Selenium tests for list inherit with FreeMarker and Velocity,tiles-test,Major,100
+f34967a4d7dc6d84308d96589ca8b8bf4ff67c9f,TILES-377,Bug,Default scope should be &quot;page&quot;,tiles-velocity,Major,99.78858351
+16a7402fad0d01e091eb0de0673034d5f295418c,TILES-379,Bug,Fix Selenium test for exception management,tiles-test,Major,100
+bd3fa1440c18191443fad1d9520300b59f2fd8ca,TILES-378,Task,Merge sandboxed test webapp into the main one,tiles-test,Major,100
+f963e7c5f4ec7cdb29646e57c470d398b4ddc3d1,TILES-378,Task,Merge sandboxed test webapp into the main one,tiles-test,Major,99.85895628
+a184312eff12a48bcddd22b16d179f5bf0824cd7,TILES-376,Task,Move &quot;tiles-velocity&quot; out of the sandbox,tiles-velocity,Major,7.476635514
+0f403b6cd21128bf9f0c723134391bb398ebebb0,TILES-376,Task,Move &quot;tiles-velocity&quot; out of the sandbox,tiles-velocity,Major,7.476635514
+0cf7a600cd0a8247781aa81465852fc730d4b4f7,TILES-376,Task,Move &quot;tiles-velocity&quot; out of the sandbox,tiles-velocity,Major,18.84422111
+4ef4d1b2bb9969d60591fcada3051811ce4d60eb,/,/,    TILESSB-8,/,/,100
+d93bc6f0010d5e4aa92031550b3c52a6d82945fe,/,/,    TILESSB-7,/,/,8.78828229
+0b128ece3a1c5e2fe9e280bfb5fe6f573ca81550,TILES-375,Bug,Add &quot;getComposeStack&quot; method to ServletUtil,tiles-servlet,Major,8.78828229
+9a0193baab2ab062e2d5bd002b5d00d7060c2321,/,/,    TILESSB-8,/,/,100
+41216fedc1fa477284c9dc98da3eedb400cab8db,/,/,    TILESSB-8,/,/,98.85057471
+b4bcebfe3a5ef2796eb0076076af1682092c7975,/,/,    TILESSB-7,/,/,8.811748999
+b60142ec9c6533c8af9e05dd3cf388a7190d6f24,TILES-374,Improvement,change visibility of &apos;render&apos; methods in BasicTilesContainer,tiles-core,Trivial,8.811748999
+8abd4102c38a2dbf4d2dc5b330dea786b8d5aa99,/,/,    TILESSB-8,/,/,100
+fbaca74152a102dd7c9dcb60b8d04fa99bff1615,/,/,    TILESSB-8,/,/,100
+369168ba5d7e6a6ddd0d3a67ce85863fcf14dbc6,/,/,    TILESSB-7,/,/,95.90643275
+025cc6f7f5ee5eb018b1bac9c420fd31052fd9a5,/,/,    TILESSB-7,/,/,97.32620321
+d112448b20ff95428b60b53ca3efac8209295a77,/,/,    TILESSB-7,/,/,100
+c2c20305d6b2bc7514ab01ae69348708ceac0dee,/,/,    TILESSB-7,/,/,96.80851064
+fd2c8ded92de9daac2b374f1d5c5c809f3db730b,/,/,    TILESSB-7,/,/,96.42857143
+39ecac26c69319901b4b9db452cb5ace49998867,/,/,    TILESSB-8,/,/,100
+85e14592067cf90a7014d6a60ca82738a25e956a,/,/,    TILESSB-7,/,/,98.7804878
+247f16817856ee7a4174f4f4e04d8d1c41b71103,/,/,    TILESSB-8,/,/,100
+5db54098ab3b04f1ef9b70d2626b99a59aa20f70,/,/,    TILESSB-7,/,/,56.09756098
+6e5a285ff616faaa4544758364cc41a4cb89c79f,/,/,    TILESSB-7,/,/,8.859060403
+d62fd1b04c95466f74dfd3f2d1507a79ad498c1d,TILES-373,Task,Add &quot;execute&quot; methods to template models,tiles-template,Major,8.426966292
+b793e74fafc52b23dd4bf6eab4a366a92638dfec,/,/,    TILESSB-7,/,/,100
+d709257ced07ddb16f14f67d0d05ba6b64236ebe,/,/,    TILESSB-7,/,/,100
+ae58a5d464e36633bf7e2548d5435654f9019116,/,/,    TILESSB-7,/,/,100
+05e4c325fec8ba0eb08d100d09689d508847c143,/,/,    TILESSB-7,/,/,83.67346939
+7e086d264df93d153ca1436432f8f5abdb6053d2,/,/,    TILESSB-7,/,/,96.07843137
+62f408b8ad1ff2616237267e6b236860727f8587,/,/,    TILESSB-7,/,/,100
+be4861d963d402284b805adf09dfc8a77d1f0dc6,/,/,    TILESSB-7,/,/,97.11538462
+2c19dae8c0531347a18a1e972fd1f2faf3766657,/,/,    TILESSB-8,/,/,8.403361345
+420a74700d20da7f3b48e8c93a6e71ac3ef82926,TILES-371,Bug,The &quot;role&quot; attribute in InsertAttributeTag is unused,tiles-template,Major,100
+09d0345d1a460f74673825c5f555998233f52f06,TILES-371,Bug,The &quot;role&quot; attribute in InsertAttributeTag is unused,tiles-template,Major,8.403361345
+62b33712dae71817804f774574bce086d49f7a14,/,/,    TILESSB-7,/,/,8.403361345
+b520d41254ba278a63019318be2553ac8a963c60,TILES-370,Task,Refactor JSP support to use tiles-template,tiles-jsp (jsp support),Major,96.57142857
+e65ec55b03adf1ad2c86b5acde69aaa33a914d66,TILES-369,Task,Extract &quot;tiles-template&quot; module,tiles-template,Major,96.20081411
+a2531257034b6c63146c9d2aa9c4993f3160aa22,TILES-369,Task,Extract &quot;tiles-template&quot; module,tiles-template,Major,100
+578ef2180d14b0597e83c4e9934f7f9db08be353,TILES-368,Task,Merge sandboxed test webapp to test FreeMarker support.,tiles-test,Major,100
+c958e3a5ccf8a7290c5fcfb9ca00d07d38656304,TILES-367,Task,Promote FreeMarker support to become a Tiles module,tiles-freemarker,Major,13.95939086
+2b97bcb6c725ec5d270b0756670e091641715960,TILES-367,Task,Promote FreeMarker support to become a Tiles module,tiles-freemarker,Major,13.95939086
+f6fffbdd27391a0702f041ac13541db1a40d04e8,TILES-367,Task,Promote FreeMarker support to become a Tiles module,tiles-freemarker,Major,87.45387454
+027497d8eae63175f29237f1985c4683565cb00d,TILES-366,Task,Prepare for 2.2.x development,building,Major,100
+41632de7a3105e8ca8d3f12dfeb4ad5c53edc9cb,TILES-365,Bug,Test webapp &quot;testimportattribute_inherit.jsp&quot; test fails,tiles-core,Major,12.78295606
+e6e0a4bc5bb7f61cad2110c0052cb04410edb55f,/,/,    TILESSB-5,/,/,100
+a8abdba3aead130aff4985e2b7b36a7feaeaa85e,/,/,    TILESSB-5,/,/,100
+1b852420cba950a91369ec5075628cc1cf690d3b,/,/,    TILESSB-5,/,/,12.78295606
+37dbd909d1050d27d316165729f5412dbbde2961,TILES-365,Bug,Test webapp &quot;testimportattribute_inherit.jsp&quot; test fails,tiles-core,Major,100
+e111a2f1b1a9dd479d1ae8026b8f5fee6037b2f1,TILES-365,Bug,Test webapp &quot;testimportattribute_inherit.jsp&quot; test fails,tiles-core,Major,12.78295606
+fdd8411c6555b87541f732c8f09dda594b242615,/,/,    TILESSB-5,/,/,100
+b63f7564fe33ac80edcaebab3e5acb8e31fe45c2,/,/,    TILESSB-4,/,/,100
+5ad0950a6a6734b2c294d15426bb4fc669840a64,/,/,    TILESSB-5,/,/,100
+016519cd62fb6e1bd2e63766455910d9fe9bda35,/,/,    TILESSB-4,/,/,100
+56674763257f26a675fa43b0f1939f76d32cdbe2,/,/,    TILESSB-5,/,/,100
+b6ee0d31e15f988d236b09c70eaa1794a4b4b8b4,/,/,    TILESSB-4,/,/,100
+98e9c0520da568cb002ba3930aae9853e0cb52df,/,/,    TILESSB-5,/,/,100
+327f81c9a6f61f9b1b71016d2ad85c3432df999c,/,/,    TILESSB-4,/,/,100
+36a122fc242d1891c3168ee47617aaf767ca089c,/,/,    TILESSB-5,/,/,100
+05bc5265698329801720c98b203ad61daefdb32d,/,/,    TILESSB-4,/,/,100
+710b9bf6c96c24ca132eaac72747101138f6183c,/,/,    TILESSB-4,/,/,100
+de97f9453116c625b2fba3eed727909ca8dc39ad,/,/,    TILESSB-5,/,/,100
+0c88f6c9bfb200491ed60f4695898fc536ae52ae,/,/,    TILESSB-5,/,/,100
+f2f3be9e77cd377247dd55c24da3aaa5ab256b34,/,/,    TILESSB-5,/,/,100
+5863c778215d4ab390df3364d7195ca86a0e4662,/,/,    TILESSB-5,/,/,100
+1dd42513a16adeedfea7e7c2789892a713ddc127,/,/,    TILESSB-5,/,/,100
+565b7d27661de836871ce2099d2a965db9f1333b,/,/,    TILESSB-4,/,/,98.47908745
+3659bd673fa996772857f394177b077764dcd0de,/,/,    TILESSB-5,/,/,100
+98b2bbba33cc3e94b7b3086385f3bb79dcc5f510,/,/,    TILESSB-4,/,/,98.06949807
+b8871bbfca253d383343fd5c88dc35476f58662b,/,/,    TILESSB-4,/,/,12.85140562
+b8affa052182f05640d3df9e6279788a809fcd42,/,/,    Minor commit: changed security sentence about upgrading to Tiles 2.1.2,/,/,100
+92bdfb551ce84981457893e1632f489a1c755c61,TILES-364,Bug,incorection,site,Major,11.35734072
+b5f25c7b5df9c5c87d9d31b791dd16dbe7f6da19,/,/,    TILESSB-4,/,/,100
+8a6b56a966cdab91dfbcc6d117aa573d3dcdb0eb,/,/,    TILESSB-5,/,/,100
+bbcfa71a1bad0c48083e35cb84451671e6830b8a,/,/,"    Added svn:ignore to avoid including ""target"" directory.",/,/,100
+0369f52e7ddbc8347039fd513c5397a3e1ff466e,/,/,    TILESSB-5,/,/,67.30769231
+b431f1a8347c7c562b58cfff18a8b17076fafed7,/,/,    TILESSB-5,/,/,76.57142857
+d014abb73e59954eabad908063280c3cc6ab22c4,/,/,    TILESSB-4,/,/,91.66666667
+f0d8490dd12a637cd0d5f09833774e7819950f70,/,/,    TILESSB-4,/,/,10.60382916
+9a530af4696dd73d2f471333ce9f19b2e2a79295,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+96cd20a8b5fefbe5652f339d26fa6a5931a6ed86,/,/,    [maven-release-plugin] prepare release tiles-2.1.2,/,/,100
+8c45cde9e9062b14542c38e13f8127cf8dc7918a,/,/,    Removed extra characters.,/,/,100
+1af0a79638809ac6ff5b80065f83e258cba561e6,TILES-361,Bug,NPE in PutAttributeTag,tiles-jsp (jsp support),Minor,10.6351551
+bd37a87fc0e88ecf24a21e3d7885caceda95bc9d,/,/,    TILESSB-4,/,/,83.17757009
+b3e4aff26758f4a1ad7e72c583bc200598eda37b,/,/,    TILESSB-4,/,/,100
+c736bd262c1c5ee4d47a2328eba8eaba13bfb0ac,/,/,    Updated to the latest snapshot of Tiles 2.1.2,/,/,9.90990991
+8a9b461300ce07541ed35e6c6f65fe94c8ef6bf6,TILES-356,Bug,Upgrade library dependencies,building,Major,100
+e07fbbe0e7d7c74d61a8b986799c5e2543928276,TILES-354,Improvement,Add a template attribute concept,tiles-test,Major,9.90990991
+16de82a3e7cd90f1a55e5f138a2828c7c37c7749,/,/,    Updated Copyright date.,/,/,9.90990991
+07daf199f52fddd49866eb37a67b1597182e5192,/,/,    Updated Copyright date.,/,/,100
+7e0de8ba08e82d41e9a97bb5dc56c0714aa05440,TILES-355,Bug,Fix assembly pom and descriptors,building,Major,100
+71973287ddb77feb117929e3e47c769a7554004d,TILES-354,Improvement,Add a template attribute concept,tiles-test,Major,9.90990991
+42f1672c93dbb74182ba499f28cb52edeba8aa08,/,/,    TILESSB-2,/,/,10.01517451
+b36d20a79b1a6fcb7c99fd804f71e6ce29067076,TILES-353,Bug,Remove static references to logging objects,tiles-test,Major,100
+5d4fca9c0f2383e8872f23de22092e2d9bfa601a,TILES-352,Bug,Exception while using &lt;put-list-attribute&gt; with &lt;add-attribute&gt; in nested &lt;definition&gt;,tiles-core,Major,100
+0cb657b1c4cdd839e4bf4c529c8ba0c344a7a8ac,TILES-351,Bug, EL expressions in JSP using some Tiles JSP tags are evaluated twice,tiles-jsp (jsp support),Critical,100
+612226f321b2f7d9b2407f7b88eda93b8c5df964,TILES-351,Bug, EL expressions in JSP using some Tiles JSP tags are evaluated twice,tiles-jsp (jsp support),Critical,100
+e7f6e39588c509f3c561467c2919d31081a1a207,TILES-351,Bug, EL expressions in JSP using some Tiles JSP tags are evaluated twice,tiles-jsp (jsp support),Critical,100
+6fbc20fad1f0e115ac47760e45848078dd05f139,TILES-351,Bug, EL expressions in JSP using some Tiles JSP tags are evaluated twice,tiles-jsp (jsp support),Critical,100
+50ffabdbbe7ff6946fa143fa6253bd777da3c37b,TILES-351,Bug, EL expressions in JSP using some Tiles JSP tags are evaluated twice,tiles-jsp (jsp support),Critical,99.03303787
+5f5a31e9ad4303222b5c5566f7a8341302525ddf,TILES-336,New Feature,The ability to assign some default value if an attribute is not present,tiles-jsp (jsp support),Minor,100
+d8d2bdceab4953f043b1ff0daa4f65f2c89b6cea,TILES-336,New Feature,The ability to assign some default value if an attribute is not present,tiles-jsp (jsp support),Minor,100
+206df0e1d76b983ea04ecdfafeb801568e77ced5,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,100
+48de07052d4650faac6501d79cc1d51a5d47d41b,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,99.5256917
+155979fbc2e817e12f14c06c4538e736b99b97ae,TILES-349,Bug,Provide environment-specific access to Tiles container and application context.,tiles-servlet,Major,99.8427673
+eea6408a0d45e4fc05a319ca978c0ac147bf2111,TILES-348,Bug,TilesDecorationFilter and TilesDispatchServlet refer wrongly to TilesListener.CONTAINER_KEY_INIT_PARAM,tiles-servlet,Major,100
+e1b61c858ccd540036414dede56c36f5cf3b5641,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,99.20948617
+99189353c71a3d941aa2d3786072c44636c71942,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,100
+9b3b4445e97ce39f9dec3c0bed927af96edae00a,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,100
+ea9d5760b42208c9cfe45626ed0d6c5fd70d0512,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,98.70445344
+5c5b9d7901401e5b19c9a3e7a841349a65b1b19d,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,99.33938893
+f8ae2e4d50c8a3f3ba075c9632496f7637ecd201,TILES-346,Bug,Enhance pure java configuration for TilesListener  TilesServlet and TilesFilter,tiles-servlet,Major,99.66859983
+574d040cb80fa95fbbbbd379f103c30851dec8f4,TILES-347,Bug,ELAttributeEvaluator.init does not register BeanELResolver,tiles-core,Major,100
+588e88af14a30eea51fa2870935eff701bbd3489,TILES-345,Bug,Link http://tiles.apache.org/framework/download.html is not working,site,Minor,11.3671275
+3947d5bc26dc98e21403c2f83c8eff86d6c7aa04,/,/,    TILESSB-4,/,/,11.3671275
+78cb183faf371fc11e1201eccf98e0d6e9b6bdbc,TILES-344,Bug,Servlet API package is included in binary distribution,building,Major,100
+5190a7cd7d734f071fe75dad5d1d93715e5ff8af,TILES-343,Task,Document changes to application context and request context management,site,Major,100
+cc690c857928ab3792b6d8719ff5c506b0a084e9,/,/,    Preparing the repository for the next development iteration.,/,/,100
+5912fb0411e823e1f830f1f41708ea3f0265d212,/,/,    [maven-release-plugin] prepare release tiles-2.1.1,/,/,100
+810b032224051ffb73cb3657e035b90fe5778a07,/,/,    Added svn:ignore for modules/projects.,/,/,100
+55108bde34716c090113d5dcc0eee0620195c418,/,/,    Moved SVN repository pointing from svn.apache.org to svn.eu.apache.org.,/,/,100
+480d32bc01cda0fc9e60e67115ddb8a373e384e3,TILES-341,Improvement,Rename RenderTagSupport,tiles-jsp (jsp support),Major,97.25557461
+4cbee1b14c640d6a7b8c212ae9a99c8a1cb67d20,TILES-341,Improvement,Rename RenderTagSupport,tiles-jsp (jsp support),Major,99.64476021
+88263d73a17e84e42f27932df6122739324c88b5,TILES-342,Bug,Link to &quot;Rendering Utilities&quot; is wrong,site,Major,100
+4d2b68267f2c66641cd388a8625c035f7ee2056c,TILES-339,Bug,JSP  tags do not reset attributes when reused,tiles-jsp (jsp support),Blocker,99.28571429
+dbc2ae39081b1179554afe56ffe0421bc114a387,TILES-339,Bug,JSP  tags do not reset attributes when reused,tiles-jsp (jsp support),Blocker,100
+383477a575547133582e44cfe9dc5f8f6669cc38,TILES-334,Bug,TilesApplicationContext should be created outside of container creation,tiles-core,Major,100
+270c5f0ef76a9fc50d88ad776b899c6ca153bf29,TILES-340,Bug,Wildcards and some combinations of locale fails to find definition,tiles-core,Major,4.827586207
+59f32ce1be146a7cf7b0baa148dcaf0e73300013,/,/,    TILESSB-3,/,/,86.66666667
+b454e7c17ebcf05a75fcc50bb24d19d35884a47d,/,/,    TILESSB-3,/,/,5.18134715
+f93b5f5e538c22f12850211f5503b602e6d5d460,TILES-334,Bug,TilesApplicationContext should be created outside of container creation,tiles-core,Major,100
+afe9322753af380e183665d6e052bc02fd28337b,TILES-334,Bug,TilesApplicationContext should be created outside of container creation,tiles-core,Major,99.82078853
+d98134aa568e83f05f573262d4c6015257565023,TILES-334,Bug,TilesApplicationContext should be created outside of container creation,tiles-core,Major,98.83093525
+5ae11d54497f7305949e79bc6fe38bd382a0406d,TILES-334,Bug,TilesApplicationContext should be created outside of container creation,tiles-core,Major,98.0565371
+f39bfb4c2bc4b0da36ee2d977e2b48231ec90aa4,TILES-330,Improvement,Separate TilesContextFactory into TilesApplicationContextFactory and TilesRequestContextFactory,,Major,100
+96d350e99d9cb61d6576477f962f14eeb3d4042c,TILES-333,Bug,Add an attribute renderer for &quot;page&quot; for backwards compatibility,tiles-compat,Major,100
+113c1036eea671e940616d1cc81d117b9277a31c,TILES-330,Improvement,Separate TilesContextFactory into TilesApplicationContextFactory and TilesRequestContextFactory,,Major,100
+b4fc8ab6de94c46f8e405f2f42251434b9071cd4,TILES-330,Improvement,Separate TilesContextFactory into TilesApplicationContextFactory and TilesRequestContextFactory,,Major,93.85026738
+46c6a6cc9ba0785d2b3a64ef3194f0285003434e,TILES-329,Improvement,Allow re-evaluation of a TilesContextFactory,tiles-jsp (jsp support),Major,99.35304991
+86d07375b6822a21621473aed3b1b61351a8c9b2,TILES-329,Improvement,Allow re-evaluation of a TilesContextFactory,tiles-jsp (jsp support),Major,99.72196478
+920db9ba0c1faea2ea6603b8228943af3f2192be,TILES-330,Improvement,Separate TilesContextFactory into TilesApplicationContextFactory and TilesRequestContextFactory,,Major,95.39347409
+2b7cacd7507657fe719d2e1faf8ee1bdd1aeb159,TILES-331,Bug,Custom renderer Selenium tests fail the second time,tiles-test,Major,100
+6c2579195c71fac4dfa46dcd74533e2450e85dfe,TILES-329,Improvement,Allow re-evaluation of a TilesContextFactory,tiles-jsp (jsp support),Major,3.838771593
+646e6552b2fbdfda086380fdde5b09433c244b2d,TILES-170,Task,IP Clearance for Velocity plugin for Tiles,tiles-velocity,Major,100
+f9bfd371e910604f842eb5b10d1c0f45d6d396b8,TILES-170,Task,IP Clearance for Velocity plugin for Tiles,tiles-velocity,Major,53.84615385
+3ce50c925526e7b5d11bddb85ab0267b1be829d7,TILES-170,Task,IP Clearance for Velocity plugin for Tiles,tiles-velocity,Major,100
+773d65968d6d7b03ea66d77d8f51d553c280ab1c,/,/,    TILESSB-3,/,/,4.140786749
+f2e54e0601f9da9d690646ae041aa97d02d4924f,/,/,    Fixed style of the code.,/,/,99.68520462
+263176593eccbebfaa700b29adba79ad339a527d,TILES-327,Improvement,Simplify UrlPreparer.execute,tiles-compat,Major,99.8951782
+7262180c470d6378925b54c86bd8f5d367b487cf,TILES-326,Improvement,Classes that implements TilesRequestContext and TilesApplicationContext should expose a wrapper TilesApplicationContext,tiles-servlet,Major,99.68487395
+0ba90a4a72cbfb27ae08f91bc305e276b1482534,TILES-324,Bug,Cannot call ClassUtil.setContextClassLoader() with SecurityManager,tiles-core,Critical,100
+764404322620cda1b0a996965e8232467da6389a,TILES-322,Bug,Type renderers list is not split correctly,tiles-core,Major,100
+bd0d2d9a21bfae333a8fceff4c18cad4f5ac38fd,TILES-319,New Feature,Add &quot;getApplicationContext&quot; method to TilesRequestContext,tiles-servlet,Major,95.8974359
+d96cdf391231cd110ca1f90f7ae5060815dd4c40,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+c744abb4c8bde87c4ffe8dc8cec07aba94f6e110,TILES-318,Bug,&quot;site&quot; phase produce warnings,tiles-test,Major,100
+ab2ef4bf203f684d53b695c34b441f516338e412,TILES-312,New Feature,Add documentation about user roles and Tiles,site,Major,100
+301d18a69675660581ffd48f4283fcb7466a96be,TILES-316,Bug,Document usage with FreeMarker,site,Major,100
+e93ece2ce75a6c26a4b43729fd11ab242ca5e83b,TILES-317,Bug,Fix DTD documentation,tiles-core,Major,100
+0b44b8eefc7972ca75f198cfe764b727403b6c41,TILES-313,Bug,Getting started needs to be fixed a bit.,site,Major,100
+bcbfedbce168f322d94524a9c0c77aaef7057c63,TILES-311,Bug,Binary release has some incorrect libraries,building,Major,100
+9ff089bfea12a455f04bfb1055b2a297ad18aede,TILES-315,Task,Remove &quot;quickstart&quot;,site,Major,100
+5a77c09a2b6610fb5a49ce12a3734f6c7f0f3cf1,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+ed7e84aa8fcfbd8eeebbed553e52014d097f03d0,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+e66d705fa1dd092ba1f9b0e6d34d6af0d36d0623,TILES-301,Sub-task,Verify consistency with changes in API,site,Major,100
+9d0238f54f3f7bf323dafa4e0bdb921fdacad5ec,TILES-304,Sub-task,Modify configuration reference page,site,Major,100
+881ca7a87ee4ae327e492598c694e39613b9bba4,TILES-310,Sub-task,Document usage of multiple containers,site,Major,100
+f5f5d411f12b73b62128c586e934a1da392a0013,TILES-299,Sub-task,Create HOW-TO to build a DB based definitions DAO,site,Major,100
+b893baa83326c50b561391bcdad59b7871cc0cab,TILES-309,Bug,Fix links to Javadocs in documentation.,site,Major,100
+1d96c389fcb91b339f574f498c686f17a4f257e5,TILES-303,Sub-task,Create a &quot;What&apos;s new&quot; page,site,Major,100
+dea41b34856fd194f8bbd7afac558244c2d7cf39,TILES-308,Sub-task,Document wildcards in XML files loading,site,Major,100
+831f49248d0244cac38555ca30ef9c6512c5ff28,TILES-307,Bug,BasicRendererFactory has typos in its constants,tiles-core,Major,100
+0cd477b0a158b7db99802576ac72bfbd23bf80a3,TILES-302,Sub-task,Document attribute renderer as an extension point,site,Major,100
+1f9e4add7ed730754cd85aeafcc318714a9621d9,TILES-306,Sub-task,Document use of attribute renderers,site,Major,100
+fd5a908e4306121e7e25a140d889bd3cbd6c2a5e,TILES-298,Sub-task,Document cascade attributes,site,Major,100
+e0a01ea23046132e42bee484b5157e98af4e89a8,TILES-305,Bug,NPE in InsertAttributeTag when using ignore flag,tiles-jsp (jsp support),Major,100
+c61c62d8e4770f392d48927b152e5792b3c64f5d,TILES-300,Sub-task,Modify &quot;Runtime composition&quot; page to show template override in JSP,site,Major,100
+c38dba9d390da28395e6fb15c0ee91c1966293a7,TILES-297,Sub-task,Modify list attribute page for element inheritance,site,Major,100
+c67c28c61c222c4f57f3177e4e53cc685350dce4,TILES-296,Sub-task,Document Java configuration,site,Major,100
+9f1362cbf3820f9d28c5dbd569a03e819b55c39b,TILES-295,Sub-task,Document compatibility package,site,Major,100
+6f3654f6133251d2eb08fa6f1423f0d906c92ba4,TILES-294,Sub-task,Document EL support,site,Major,100
+2f092a3efe08d0ec3526a705497d20a0cf683cf0,TILES-293,Sub-task,Document wildcard support,site,Major,100
+0b77304ff7d1db9399da97beec4778df2a2c13e8,TILES-292,Sub-task,Document nested definitions,site,Major,100
+66883c4321d490aed574b9923e1d901950e8ce4c,TILES-291,Task,Document new features of Tiles 2.1,site,Major,100
+77833793683cddf322d72bd943cdf49bee46e3c8,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+0eaba684b60b4f4bc2f1c4e51e9d14472dce914f,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+c4b0b01e498395fb36631352b58604c18902ad9b,TILES-284,Task,Moving Tiles documentation under the &quot;framework&quot;,site,Major,100
+a78ef4408ed7e530019c409c7a02ee8dbf78558b,TILES-288,Bug,Small typo,tiles-jsp (jsp support),Trivial,100
+c4414285be7ed2249ae521621c6fc7a214adb1fd,/,/,    Manual commit due to a failure of the release plugin.,/,/,100
+81368a2d9e0422e10055aca0b255839730c4372a,/,/,    [maven-release-plugin] prepare release tiles-2.1.0,/,/,100
+13fbcd8e7c04d913aa4db058c64f6a8eeab469e1,/,/,    Preparing for release:,/,/,100
+81890da69a67e1586d57e6fdf9c167260ce23f93,TILES-287,Task,Separate 2.1.x examples from 2.0.x ones.,tiles-test,Major,100
+91020dfa47f0ebdbd4a2a1baf43698df44045f80,TILES-286,Bug,TilesAccess won&apos;t set context attributes in Jetty 5.1.10,tiles-test,Major,99.59879639
+3124b762fca6bd7e52eccabd35b14a548eb13f94,TILES-286,Bug,TilesAccess won&apos;t set context attributes in Jetty 5.1.10,tiles-test,Major,98.37892604
+a7c31879f728a4ee143454269388b0352aa35dfb,TILES-282,Task,Make JARs OSGi-compliant,tiles-servlet,Major,100
+d58f0a14bbf3e0c3054c72ed14e7d4b434299769,TILES-281,Task,Fix assembly creation for optional dependencies.,building,Major,100
+e13b44c47435ff67630fb5fa91e37c64b0e2ce19,TILES-281,Task,Fix assembly creation for optional dependencies.,building,Major,100
+82e0980f49562462ae978d85a42e5f0660e3d179,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,100
+ee4a3f0c52b4da44808bffda48087551fca00256,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,99.6941896
+16ccf3103b24795546f00a06002222c569e96ab0,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,100
+3b8ed9d9f26fbb3928a80b9961cf7d48d6001572,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,100
+9aeac92d3b7350b7f6b07bb5339dc507a2e5c9cd,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,98.97119342
+fe869111e0a682afabca381907e02b55d2b93320,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,99.47862357
+c76d20e71a85427d2502516f087b92634b2a03c8,TILES-84,New Feature,Wildcard support for Tiles Defs Loading,tiles-servlet,Minor,99.0516333
+87c51d4830ab297dc5215e0fa9bdaaae919c8c27,/,/,    Updated to Spring 2.5.5.,/,/,100
+6825042a52f91a3032d2da10f9e7509ccf4ec0f9,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,100
+62c2697303af8888c2c107355e2383ad18ef9424,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,95.7537155
+1078828c2948deafff2ea155b03531911338e7f4,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,100
+8954e288ecebb2a943e0665a1b4c7955b45d33ed,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,100
+a92f4c2676f27436a627fe17bd58d28029fbf10c,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,100
+870043b0048a004d9e8d5d48f72ff92bf6e65a2d,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,96.50053022
+76fb77c36f1c63f51a822296def7e42b7b026686,TILES-154,Improvement,Create technology specific modules,tiles-servlet,Major,92.78131635
+2798be51310800edea10e45de834adedb13f5fa6,TILES-83,New Feature,Add to &lt;putList&gt; the ability to add elements to an overridden list attribute,tiles-core,Minor,93.8121547
+a7f4682b4891acda8d4b8c60b6140f041f76a7f9,TILES-83,New Feature,Add to &lt;putList&gt; the ability to add elements to an overridden list attribute,tiles-core,Minor,100
+ed6bebadf82be9f37e96a28eea49de85e1925053,TILES-83,New Feature,Add to &lt;putList&gt; the ability to add elements to an overridden list attribute,tiles-core,Minor,99.76958525
+6f26544715e36859a7583a0cfa5337d2f8e7ca67,TILES-83,New Feature,Add to &lt;putList&gt; the ability to add elements to an overridden list attribute,tiles-core,Minor,99.42263279
+de89d19800a9e9c065d990368a2e71a7a9f86ea4,TILES-157,Sub-task,Create URL-based &quot;view preparers&quot;,tiles-compat,Major,100
+0d37f9e968b63e25926074e5d34480742861c2f5,TILES-157,Sub-task,Create URL-based &quot;view preparers&quot;,tiles-compat,Major,98.36829837
+69d731b14efe1afd33f0bac76a34e7f765ac5161,TILES-280,Improvement,Move inheritance resolution from UrlDefinitionsFactory to a resolving LocaleUrlDefinitionDao,tiles-core,Major,94.19953596
+dbee890addc30a6b44acf70adf58dc873ad37032,/,/,    Removed unnecessary @SuppressWarnings.,/,/,100
+9c83c52f1e33c767b431600e43c7f236762adafa,TILES-220,New Feature,[tiles] use of wildcard in tiles-defs.xml as for wildcard mappings,tiles-core,Minor,99.65437788
+aea2dde644199bdbc2c94538728262e00d80071f,/,/,"    Fixed missing ""package.html"" files in test webapp.",/,/,100
+fe2314a61171357e29d102fde98a3e66e9afd031,TILES-220,New Feature,[tiles] use of wildcard in tiles-defs.xml as for wildcard mappings,tiles-core,Minor,98.95104895
+78e0f7134472b270a0675d20ba8eac6c586117c3,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,100
+4fa4c92852a3c6281b79f744d0c1e61ee553a729,TILES-257,Task,Create DB-based definitions factory,tiles-test,Major,100
+4d13be0428960a4e68ea294a1150559ce73793f7,TILES-257,Task,Create DB-based definitions factory,tiles-test,Major,97.61904762
+79a3d350f802e7de54bfb729a19b4f2b0b3c9d6c,TILES-257,Task,Create DB-based definitions factory,tiles-test,Major,100
+df1fd727b51622a8230ee0b7aed439c0e8befcbf,TILES-257,Task,Create DB-based definitions factory,tiles-test,Major,100
+f69ce4daeea527297d0eafb11025fbd55d7a047b,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,99.39246659
+43d6aebb0a2e7792259dbfc27a213201273746ec,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,99.02912621
+eee4738f86e543b7bad4b84794bf440fbe2b0d09,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,98.66017052
+c8b514c8f51a4111f55f01b16467ddc0444a9b40,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,98.63354037
+868eec60ffbd5ebadd032df5f1d93302fd7eebf5,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,99.62216625
+5eb7ae0f4879bce72b7ba207ec62ffb9737b3f3f,TILES-256,Task,Create a demand-driven definitions factory,tiles-core,Major,97.55784062
+e4f567ee799108f342e3cae27ed4bf4a3d13d494,TILES-276,Bug,tiles:putListAttribute - PropertyDescriptor: internal error while merging PDs: type mismatch between read and write methods,tiles-jsp (jsp support),Major,100
+fabb96e8618038418de7b5bfc4b82b440e8e14c5,TILES-89,Improvement,Refactor Definitions &quot;Service&quot;,tiles-core,Minor,98.44559585
+5a557dfd28d8a1b7c2b404a1a4674e302aec6dd1,TILES-275,Improvement,Allow the use of multiple containers,tiles-jsp (jsp support),Major,99.3556701
+a4d59b65684a43ab2a65ac96eba3d101798be77e,TILES-275,Improvement,Allow the use of multiple containers,tiles-jsp (jsp support),Major,99.61139896
+07cffdb38af2a8c34bc4f310b33cbe626585273f,TILES-275,Improvement,Allow the use of multiple containers,tiles-jsp (jsp support),Major,99.34895833
+d5f3709a24743b6865b033db01e68702e751b11e,TILES-275,Improvement,Allow the use of multiple containers,tiles-jsp (jsp support),Major,99.47437582
+580e1770753ef6259201c56f6f5c4ae76d7b2c0b,TILES-257,Task,Create DB-based definitions factory,tiles-test,Major,100
+745b726eb70935db475825582615930a5685a399,TILES-274,Bug,tiles-jsp.tld report escapes html when it shouldn&apos;t,tiles-jsp (jsp support),Minor,100
+a31cea851d5013e65718aeb325029ee74fc1d24e,TILES-273,Bug,tiles-jsp.tld has incorrect comment,tiles-jsp (jsp support),Minor,100
+65a4215d4bf623eae65ae543bfd3c74b2c5a9bf7,TILES-268,Bug,Tiles test webapp does not work with Servlet 2.5 containers,tiles-test,Major,99.20529801
+f0fbee5be078ee41e8fda109cfc33ee61762896e,TILES-269,Improvement,Allow the use of JSP application EL expression factory,tiles-core,Major,100
+97b8912dcc7e71f68b03773d501845539bd22163,TILES-268,Bug,Tiles test webapp does not work with Servlet 2.5 containers,tiles-test,Major,98.67899604
+a02d2183b4ce14b200b2114e13076ffcb67fefae,TILES-268,Bug,Tiles test webapp does not work with Servlet 2.5 containers,tiles-test,Major,97.73030708
+54482f4f0bed5e820136abd8dad7f531019af472,/,/,    Fixed code to follow Checkstyle rules.,/,/,99.45578231
+ddf8c3ebfe8fca37b224a618dc66ec0216eb84e6,/,/,    Fixed ignores.,/,/,100
+074b70b005fee1dd37d24123dc58b3cab2c4987d,TILES-271,Bug,Modules should depend only on necessary packages,tiles-core,Major,100
+78db829c63ef992c820863817880aa550f3fd910,/,/,    Fixed Subversion properties.,/,/,100
+5544dfed4aed29c67c5229407a7229f88803e67a,/,/,    Recovered original tiles-core/pom.xml committed by mistake.,/,/,100
+497a8475edd7d899b089c51def7be935a3ee402d,/,/,    Adapted code to Checkstyle rules.,/,/,100
+a91fb714c0c229ec8133057b644ef56cae645d1a,TILES-266,Bug,DTD doc not clear for &quot;role&quot; attribute,tiles-core,Minor,100
+48c2367d4422a7913ec30b838254b3412a97f3ae,/,/,    Forced the use of retrotranslater 1.0-alpha-2 plugin.,/,/,100
+54e624281dd08c292eeced553059491ca3e00786,/,/,    Removed some plugin versions.,/,/,100
+b86a94ca0944b4e94825a81678cd1dcf1cca9cb0,/,/,"    Added test for insertion of an attribute and inner ""putAttribute"" tags.",/,/,100
+c3040e724be6aa21a4cdd2f71fbcaefc5a63c167,TILES-261,Sub-task,Create a standard Java Container Factory,tiles-core,Major,94.57459926
+919a4a2f307490cbdb960c2c7377ddb04e60a38b,/,/,    Fixed @since tags.,/,/,99.88738739
+e20b59822489de27a1fa29f0ed33acb2de4d2d86,TILES-261,Sub-task,Create a standard Java Container Factory,tiles-core,Major,96.32352941
+72bcb60c2b45e3545d3eaef073327d10bdc8ac74,TILES-261,Sub-task,Create a standard Java Container Factory,tiles-core,Major,97.64397906
+9996844407e6f6b3805fa1d48e999b4dcd10ba93,TILES-262,Sub-task,Abstract TilesContainerFactory container creation from the factory execution,tiles-core,Major,99.48783611
+861f50066911450777acd7879252d5cdf8812d83,TILES-252,Sub-task,Add setters to configurable objects,tiles-core,Major,100
+09b8da9f0a8c091908ebede60877a314ed159b8a,TILES-252,Sub-task,Add setters to configurable objects,tiles-core,Major,100
+d5fa73bb846530c4b32065639eb4814dde699258,TILES-162,Improvement,Refactor definitions loading,tiles-core,Major,97.5388601
+4fb4090dcb125facde60212c74f22d4a8134700c,TILES-253,Improvement,Create more significant exceptions,tiles-servlet,Major,100
+89c32fd248c1fb3c23248c31937519be6244ad04,TILES-264,Bug,InsertAttributeTag.preparer is not evaluated,tiles-jsp (jsp support),Major,99.7382199
+8ef903041b4f46b2dc89ff9a6980b6d67fb0d3a7,TILES-265,Bug,TilesContainer.prepare has a wrong Javadoc.,tiles-api,Major,100
+24c5816bd0a980e381c8ef2c47f4f9c780f963b3,TILES-263,Improvement,InsertAttributeTag should store the attribute in doStartTag,tiles-jsp (jsp support),Major,99.73684211
+b3cc7716d849a0f77eab4e54941479eb6a9d84e9,TILES-253,Improvement,Create more significant exceptions,tiles-servlet,Major,92.62899263
+00333950b6bb91ef2008fd1da44060e1dbaccb4d,/,/,    Fixed Checkstyle problems in Test web application.,/,/,100
+0d90ec97ad96ec87ba6edb8b3d3ef26ea418e473,/,/,    Fixed Checkstyle problems.,/,/,100
+4ff8fc5262dbc46923cee426d66995f85b6dc335,/,/,    Added a svn:ignore value.,/,/,100
+cbe34a8e0f06d02b110049ad129a4a8089ce3edd,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,98.63481229
+f86d545e9577ffd76e30fa7c40c6ac3ca4015d35,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,96.23217923
+0f1d4610af3962f7fe89e0678c14369b4352d58c,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,100
+c0eb9d746a27d0557eff33a3603f9908a07ccf38,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,95.19832985
+366b6bd01411d87cb56907689acdd56967c4fe87,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,99.52210275
+ce20fa6fe0ec1aa4c24390b3aef9853191795ce3,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,95.50827423
+3a508742ff12c82f678001209429f3761d68e7ee,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,99.76635514
+65b722647fdab3d801978b53340ce4f7f45a4a74,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,100
+81a4a3ac2b76829c9c9a28feb47fa3c8d01e4e49,TILES-48,New Feature,Add EL support to attribute values in definition files,tiles-core,Major,96.08801956
+5198605fa9003259638cccc1aeebdd4b45cc26b9,TILES-89,Improvement,Refactor Definitions &quot;Service&quot;,tiles-core,Minor,100
+36bb2d317a1428f6121c6f797725dbb7109d4311,TILES-259,New Feature,Allow to override template  preparer and roles when inserting a definition,tiles-jsp (jsp support),Major,100
+10f1c6880e4c8c8663e1203131a2e4deea34ce3d,TILES-255,Bug,forward not checking for null on getRequestDispatcher(path),tiles-core,Major,100
+590673957db22b32c912fe14b353773a87387648,TILES-259,New Feature,Allow to override template  preparer and roles when inserting a definition,tiles-jsp (jsp support),Major,100
+fe73c1d18279145716df8376694cc21ef26a4b2c,TILES-259,New Feature,Allow to override template  preparer and roles when inserting a definition,tiles-jsp (jsp support),Major,98.59335038
+443131362fe039781d27514188840a9d4d8e2acc,TILES-259,New Feature,Allow to override template  preparer and roles when inserting a definition,tiles-jsp (jsp support),Major,99.61636829
+79f5771bff902737ba85b6d95a3f08b0510b63b5,TILES-259,New Feature,Allow to override template  preparer and roles when inserting a definition,tiles-jsp (jsp support),Major,100
+5eb6004336b714573b5a57e5e37c7a18426ccd52,TILES-85,New Feature,Support for nested definitions,tiles-core,Major,100
+d5fd11e5ebca6b95f02691697b575d93f68fc51a,TILES-85,New Feature,Support for nested definitions,tiles-core,Major,97.38154613
+a18e636b8d5a467ccb2ae2515fc23f19c7d5d00b,TILES-85,New Feature,Support for nested definitions,tiles-core,Major,100
+0c84cec55ec398cdfcb4a9b84d59f2cc8fe74316,TILES-85,New Feature,Support for nested definitions,tiles-core,Major,93.8961039
+1fcd2109b49a8ce20a375038a45a414b0ae4afb1,TILES-249,Sub-task,Created attribute renderer factory,tiles-core,Major,100
+7944875548f32542789d614ef10eace57ea5e074,TILES-250,Sub-task,Link attribute renderer creation and assignment to the container,tiles-core,Major,99.72067039
+7b32f45883ed899fe50b78d75969e1328702d5fc,TILES-249,Sub-task,Created attribute renderer factory,tiles-core,Major,98.08743169
+d910aec33bf1ea0540489dce3b2897c9454d7e23,TILES-190,Sub-task,Create attribute renderer,tiles-core,Major,100
+7931e969c24bdf75e0319c5b43cda2072e1077d4,TILES-190,Sub-task,Create attribute renderer,tiles-core,Major,95.81699346
+3c0df395ae0ef04e8b9dd4603db2e8b075266580,TILES-189,Sub-task,Convert the attribute type back to string,tiles-api,Major,89.82118294
+2cabc33ef49267ca7f2910cadc4eee065c0b85fd,TILES-238,Improvement,Tiles doesn&apos;t throw exception when inner attribute has problems,tiles-jsp (jsp support),Minor,100
+f29a6584e29fc38d74803ce9c18a3176b162bc47,TILES-240,Bug,Empty &lt;put-list-attribute&gt; declaration is of type Attribute rather than ListAttribute ,tiles-core,Major,99.40740741
+e829d4aee08d18b1bdcbabaa39bb97a7dce35e67,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+c5bd86cdf9fb4398e8a70a2891e5348209abe538,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,99.85207101
+103f6778e7c25a9d50a9d0e6128cb11014e40467,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,99.85207101
+bfaa1c96a03814e877cdd233d56a581baa9df459,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+56e75323a16380d2a22ffb99001ab134e0e34dc3,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+92c38e2704c5ed1355a594176fdb95a0fc1dd42e,TILES-236,Bug,tiles-test Selenium tests fails at the second execution,tiles-test,Major,100
+9a9acbe4b223eb9a890fb6b716059218a63aeb04,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+0bb290a0b49558de5f82d597fdaaf22c2afa835e,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+2e3c48024dc54cfa66067da5a44ebb828911bda8,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+d72957316de444140ba7fbb4f2bb603ccf9ec0e0,TILES-248,Bug,Fix &quot;@since&quot; tags,tiles-jsp (jsp support),Blocker,100
+27114990a6edd820d6336b40487168774449bfbc,TILES-248,Bug,Fix &quot;@since&quot; tags,tiles-jsp (jsp support),Blocker,100
+26dfc6bf3dce3d29da0f68e2039409852f7408e9,/,/,    Added svn:ignore to assembly/target.,/,/,100
+8ab7a93e475ed1fbb0f70431d46ff5b4b1ec646f,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+7686eaa87d7be8ed48eb4854cec15ccc0837fc4d,TILES-245,Improvement,Refactor Definition and AttributeContext,tiles-core,Major,100
+30fed0cce401bb1214e674307b3f05bfd42c3034,TILES-245,Improvement,Refactor Definition and AttributeContext,tiles-core,Major,98.96602659
+15d2655ba4e78fa111c08e65543efcb5abecc06a,TILES-245,Improvement,Refactor Definition and AttributeContext,tiles-core,Major,88.37606838
+cc1920db160f6f172373f9b92e04e794c18c99cd,TILES-245,Improvement,Refactor Definition and AttributeContext,tiles-core,Major,100
+4494c6435ebaa284f0de242247dbf1b0733c8990,TILES-244,Task,Deprecate Attribute.name property,tiles-jsp (jsp support),Major,100
+6acd0982b0bba85247e837b70b8a60f180d0483f,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+f0ac328f73bd21ef9e34090e6097fce4b9ec896b,TILES-244,Task,Deprecate Attribute.name property,tiles-jsp (jsp support),Major,100
+9f5241277634e28a8eed848245c1c22f4ce8b572,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+1fea0ea4676c45eafd90ca8895a91f7c8d599916,TILES-242,Improvement,BasicAttributeContext static methods should be deprecated,tiles-core,Major,100
+ac241fbae8d9ae2c86edb98dfcfcfcbc0cb22693,TILES-243,Improvement,BasicTilesContainer methods should stay in order of visibility,tiles-core,Major,100
+f747c56cb27cff5a990c892bb4b49b24524677a0,/,/,    Put under svn:ignore Maven target directories.,/,/,100
+0777a8a0a3cb4d143f2734fe7a334070a8427ba8,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,100
+68c730af198f99fd6a846a6e4bbfc005270a9a76,TILES-208,New Feature,Add support to cascaded attributes,tiles-jsp (jsp support),Major,87.96610169
+9fc1aa32bce2922ef72aaf72f2e9840a6af17101,TILES-237,Improvement,When TilesListener throws IllegalArgumentException  it should wrap the original cause.,tiles-core,Major,100
+98bcdff7101f6adb9e30c04627f1d71de5df709d,TILES-200,Task,Clean JSP tags documentation,tiles-jsp (jsp support),Minor,100
+bd0ea1e8b67acd6ec2fba12b1ceec57b8e184036,TILES-235,Improvement,Tiles JSP tag documentation for &lt;tiles:insertTemplate&gt; refers incorrectly to &lt;tiles:put&gt;,tiles-jsp (jsp support),Minor,100
+46702150ba0c01e3406a3269c68c4391b5878ec3,TILES-197,Improvement,Role strings need to be split at every evaluation,tiles-core,Minor,100
+f9504206ec5d05924d5ab2aa4bf01312f453dd2b,TILES-230,Bug,Missing error information when included jsp page has errors,tiles-jsp (jsp support),Major,99.26793558
+a3d3ae8b8fe0dd6eaa50090cf221c496c79149bb,TILES-227,Improvement,Add retrotranslator-runtime and backport-util-concurrent JARs in J4 distribution,building,Major,100
+0dd48cb5f495eadcb757752b634b131d42c4260c,TILES-230,Bug,Missing error information when included jsp page has errors,tiles-jsp (jsp support),Major,100
+1dd367c67052be151b32f7f315cf411f7daa7308,TILES-230,Bug,Missing error information when included jsp page has errors,tiles-jsp (jsp support),Major,100
+bda85ec9619bc403cc2e1a4701a54984a76fba83,TILES-231,Improvement,Remove JspUtil &quot;doInclude&quot; method.,tiles-jsp (jsp support),Major,100
+c9f3a8d5179e5be6beaf429d1a12cebf4af54845,TILES-222,Bug,Spelling error in exception,tiles-jsp (jsp support),Trivial,100
+72a06f4b03a807b102f8cf040663e1e506b2a952,TILES-232,Bug,Exception thrown when using insertTemplate to insert the result of a struts action,tiles-test,Major,99.40828402
+30c0a96e1439f8ad5e6a059b1be12fef1e98fb8a,/,/,    Fixed SVN properties.,/,/,100
+3b8f5c1edb852c9fe999848cd6566b3d045da782,TILES-156,Sub-task,Allow to read Tiles 1.x definition files,tiles-compat,Major,100
+bc9d5209603760e7442f17d504fd0f57ddd462fd,TILES-186,New Feature,Add functionality tests for user roles,tiles-test,Major,99.40387481
+2cb97a8e6bb56c09086da1bc77c5709813108a63,TILES-223,Bug,XML validation is turned off by default,tiles-core,Major,100
+3fbf372bb6f4b5d94b3b811e9595a13f39e90d65,TILES-223,Bug,XML validation is turned off by default,tiles-core,Major,100
+32e0e7a8ea73cae99450e715cccbd25a06a9b28e,TILES-156,Sub-task,Allow to read Tiles 1.x definition files,tiles-compat,Major,100
+8544d39e79a4bbc7b0329dcef968f3bbecaa409f,TILES-225,Bug,DefinitionsFactoryException has a wrong implementation,tiles-core,Major,100
+f491cec701d0b55324c640b5c0d853b26a48759e,TILES-156,Sub-task,Allow to read Tiles 1.x definition files,tiles-compat,Major,100
+d692c618ecfeba1d8b0f05d0bd6a8d8312931e90,TILES-224,Bug,DigesterDefinitionsReader does not throw exceptions with not correct XML files,tiles-core,Major,100
+c1744245dd4041e84cadfbbd975c48faf193847f,TILES-224,Bug,DigesterDefinitionsReader does not throw exceptions with not correct XML files,tiles-core,Major,100
+355d4b07897151dde98812f4533d35efb59f987b,TILES-198,Bug,Sources and Javadocs are not deployed in Maven repository,building,Major,100
+da055e16324a66d1dd0854c1baa8f6dbdef84778,TILES-196,Improvement,Add distribution containing Java 1.4 packages,building,Major,100
+d5cd1931fbd75812f8df813cee405678007c516e,TILES-196,Improvement,Add distribution containing Java 1.4 packages,building,Major,100
+15518fce1ceb49bdcf14e0e10a7755165ced24bf,TILES-196,Improvement,Add distribution containing Java 1.4 packages,building,Major,100
+d920e6fd2015b5d25aaaded669b32ea2332d9528,TILES-209,Bug,Scope maps have wrong &quot;equals&quot; implementation,tiles-core,Major,100
+897e572d3f839ee226d701f4d725f0b12a34ac02,TILES-209,Bug,Scope maps have wrong &quot;equals&quot; implementation,tiles-core,Major,100
+8615480bd232c90990040c97ea402dce9e039e5d,TILES-209,Bug,Scope maps have wrong &quot;equals&quot; implementation,tiles-core,Major,100
+905920ff6c9d28ddf348ec2465988af7236895c3,TILES-199,Task,Update references for Commons move from Jakarta --&gt; TLP,site,Major,100
+fe9b7ce10b6bcdfaed4b59a093985c60519f48a4,TILES-210,Improvement,JSP pages in test webapp create useless sessions,tiles-test,Major,100
+d9344fdbb70d61bec968fe86fd6eebf880321a1d,TILES-207,Improvement,Do not create sessions in ServletTilesRequestContext,tiles-core,Major,99.39849624
+2893aa3ca89468a88d21b1f9f0d606599e68fba1,TILES-204,Bug,UrlDefinitionFactory crashes during getDefinitions on multiple requests,tiles-core,Critical,100
+2ae0b095361862b1f8b5ea6a25f196ca3922a3f3,TILES-203,Bug,TilesDecorationFilter can cause infinate loop when mapped to a wildcard,tiles-core,Critical,100
+9770ba099eaf3468632d0f75073c7a0e01fd9a18,TILES-169,Task,Add test to see how FreeMarker integrates with Tiles,tiles-test,Major,100
+4cc0e206533aba0b0d1a95b4e57c3c1e0c980d2f,TILES-185,Bug,Attribute.role is not used,tiles-core,Major,99.8489426
+6d74149d43f0e3045d0e2963cd69f68892f3353e,TILES-156,Sub-task,Allow to read Tiles 1.x definition files,tiles-compat,Major,100
+9a8bc752c9e2a70180ef2a3f8c9ee43d63ae7a4c,TILES-185,Bug,Attribute.role is not used,tiles-core,Major,100
+df7c0918741a943a3220993cba5a2fb5636588db,TILES-185,Bug,Attribute.role is not used,tiles-core,Major,100
+0dbc3dc0269c548acc4c0694c61b7a50937bacd9,TILES-156,Sub-task,Allow to read Tiles 1.x definition files,tiles-compat,Major,99.39301973
+84c7aeb6a9c6ffd9feeaafc33283a8c2c6664fa0,TILES-192,Bug,JSP pages not being flushed with &lt;tiles:insertAttribute ... flush=&quot;true&quot;/&gt; request,tiles-jsp (jsp support),Major,100
+b81dad73050a92c206acae4d80ea9905ded787bf,TILES-187,Bug,Resolve JSP tags inconsinstencies,tiles-test,Major,100
+4d4cce76b480af36849b357243dc330cd8cd51a5,TILES-182,Sub-task,Create Tiles compatibility module structure,tiles-core,Major,94.61538462
+043c254fc54e87988868db93c174480d9768b465,TILES-182,Sub-task,Create Tiles compatibility module structure,tiles-core,Major,100
+66758ef066c60199ae894f8b0356ff43018ae1d0,TILES-182,Sub-task,Create Tiles compatibility module structure,tiles-core,Major,100
+0ff373378d5973fd09925be6650c11905fdd8f9d,TILES-179,Bug,tiles-core.jar and tiles-jsp.jar have duplicate NOTICE and LICENSE files,building,Major,100
+5ee12eb54107945dbb5f1d55ea92f9c23c2620f2,TILES-180,Improvement,ChainedTilesContextFactory should not log a missing context factory with a stacktrace.,tiles-core,Major,100
+34c415f39f2f00d153bb42fea91c2b8b1424c26e,/,/,    Updated poms in trunk to continue work on Tiles 2.1.x.,/,/,100
+ce7a016bfc477a032c0e7101eb1fe31524e7ab5c,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+8ab1bbbb614e8b5178d045507675442b3bc6c10a,/,/,    [maven-release-plugin] prepare release tiles-2.0.4,/,/,100
+51b8339427fddd11293cc1f7e2c4214e14ae5fc4,TILES-178,Bug,Remove forcing release profile when using release plugin,building,Major,100
+359ceae7919211431fee3f9d34291e8574b63f12,/,/,    Removed empty directories.,/,/,100
+79eb0ac688425d498994d121aadbe84a9e269da7,TILES-177,Improvement,Unify TileDefinition and Definition,tiles-core,Major,98.75776398
+66dd831a9273e65da193a1c21d197bc78691a0ed,TILES-177,Improvement,Unify TileDefinition and Definition,tiles-core,Major,94.12698413
+28f9c793318c20d68a604366472d5fbc69302a8d,TILES-176,Improvement,Move Definition visit algorithm outside of Definition class,tiles-core,Major,100
+ebcddea05296f68b0c7e463deaf8559f2aac9894,/,/,    Updated Maven release plugin and Selenium versions dependencies.,/,/,100
+5331d435c2eaacc3082692a703a622bb7a37111b,TILES-172,Improvement,TileDefinition.getAttribute should return an Attribute,tiles-core,Major,100
+5000e0ae23f7d84b148229f7aacc6ab8cddfc2cb,TILES-175,Bug,Attribute type is not propogated to extended definitions,tiles-core,Major,100
+62147e36879ab248f5ae4f6ba4b2844ca63a20a3,TILES-167,Improvement,The attribute type should be an enum,tiles-jsp (jsp support),Major,96.58914729
+f103bc96c39e9fc0a6c1dd029c5d791eedb47ba7,TILES-168,Improvement,Add &quot;object&quot; attribute type,tiles-core,Major,88.35616438
+a721d2db2c706a261484bbac43085f91ceffcfc0,/,/,    Simplified and fixed framework site descriptors.,/,/,100
+ddd642e7fa8a6d1cb4f864da5a2cb10c0752b406,TILES-166,Bug,The logo of the framework site must be the same of the main site,site,Major,100
+e6e55c22d76144c934f0e695b7dad9f94531052d,TILES-165,Improvement,Refactor key extractor classes,tiles-core,Major,100
+371ed44c0350eee896b06c59a8a72cebef6a5f14,TILES-164,Improvement,Refactor class name configuration constants,tiles-core,Major,100
+ba5c34402a153dc44d7b29c616bb4aa7515543a4,TILES-163,Improvement,Remove DefinitionsFactory.DEFINITIONS_IMPL_PROPERTY,tiles-core,Major,100
+6524b6bc9ad2dd35b8e1436530cef9856fffe8df,/,/,    Removed some useless files and directories.,/,/,100
+f61d8eb704b1d1cbf21631b3593003c7334810ea,TILES-161,Bug,ChainedTilesContextFactory does not skip missing classes correctly,tiles-core,Major,98.97750511
+d1f8f31a5e556f41b3c78d97d1b944fe750c6a48,TILES-153,Improvement,Refactor technology-specific package structure,tiles-core,Major,100
+2bb7ad9c534f4ba77eefd275c82210b693334fe4,TILES-153,Improvement,Refactor technology-specific package structure,tiles-core,Major,99.17355372
+ebaa69237d33801563ee38753c8265d7bf867c07,TILES-153,Improvement,Refactor technology-specific package structure,tiles-core,Major,98.34710744
+b4c52ded91c89d15e53f03884b045bfe3229316a,TILES-153,Improvement,Refactor technology-specific package structure,tiles-core,Major,79.66804979
+323fd30c96ccbb98166ba94b7d0d2a20d07bbbd5,TILES-153,Improvement,Refactor technology-specific package structure,tiles-core,Major,95.61752988
+1e7c68f9ae7c16f1db1e070ab4bf9f921bfb0e5c,TILES-160,Improvement,Homogenize Tiles modules sites,site,Major,100
+f4946c3356d3624fcd2a6db57361983b4f436663,TILES-159,Improvement,ViewPreparer.execute should throw a PreparerException,tiles-core,Major,90.13157895
+6a3783257222c1d8a82ed7baacc12a67d0bf8a9d,TILES-152,Improvement,Remove Constants interface,tiles-test,Major,96.80365297
+dd9df665f6be30dc2513636d27dce2b0f2c11204,TILES-151,Bug,Fix Checkstyle issues,tiles-test,Major,100
+1995cb7f3793119b15c95dbda3a69ac6fb4d99d8,TILES-151,Bug,Fix Checkstyle issues,tiles-test,Major,98.71794872
+9072be8ea42503cb507c461a4c85ea471910b8ed,/,/,    Pointing to Tiles specifid Checkstyle configuration,/,/,100
+a0ca49ad3e57ee1ca18e282788694a61d4852271,/,/,    Added the URL in the pom of the framework.,/,/,100
+91ddbdd7a392a38933e624a1a03bc6833775a6fc,TILES-148,Bug,Assembly artifacts are not deployed during release,building,Major,100
+f1e6c80df95f43e958fe74947829ff74ca83811d,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+60bfc7961d0d64e49f201c2beaa8765c23b59b41,/,/,    [maven-release-plugin] prepare release tiles-2.0.3,/,/,100
+3834662e1d6ac847d08094824ff0bd9f292845bb,TILES-147,Bug,Some files miss license headers,,Blocker,100
+8a99fcd2b0ec240ab0e9b54afca9904283418012,TILES-146,Bug,Fix release process,building,Major,100
+ad5f5826cd29a127b0e7b259479d5fb490ff6efa,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+afbc1b8d243dda309ad635af163f7fb2ebd0cfa9,/,/,    [maven-release-plugin] prepare release tiles-2.0.2,/,/,100
+9adbc0e6d62b41124505a17b8fedb4622379141b,/,/,    Some site adjustment.,/,/,100
+7d8ddcd2dd59143af4de2d1a59f37aa513c32689,/,/,"    Concentrated assembly creation inside the ""assembly"" module",/,/,100
+daade1307bb5622df051994b3a5a0c1686d95625,/,/,    Removed snapshot dependencies.,/,/,98.71794872
+636aeda44f57e70bf258d9e6ec507347fc748b75,/,/,    Using retrotranslator version 1.0-alpha-2.,/,/,100
+53d87608e256df18ab00d9e4e728ea5c71c84fc0,TILES-144,Improvement,DefinitionsImpl private methods should be protected,tiles-core,Major,100
+49d7b02b0b45bb1e7b13d43b15030992c0fdd0bf,TILES-143,Improvement,Allow configuration of Definitions instance in UrlDefinitionsFactory,tiles-core,Major,100
+395570d61c26e10be47e2877b54f9afaa88d31cc,TILES-136,Improvement,Binary distribution should contain Taglibdocs and DTDDocs,,Major,100
+04924a6e8e074a42bcd57c4cfad6bf3055efa290,TILES-141,Improvement,Rename &quot;Component&quot; classes and interfaces,tiles-test,Major,90.64516129
+4b6f34966f79c3814b0f067ac81aa96cd3cba240,TILES-138,Bug,Component scope is handled incorrectly,tiles-jsp (jsp support),Major,100
+4c9de51b6cee09db4eefc32d5fd5c15e8699515c,TILES-142,Bug,ServletContextAdapter.getInitParameterNames returns duplicate names,tiles-core,Major,99.3495935
+5055c45680285480c4fdd0d3545c2e65239308c5,TILES-137,Bug,InitContainerTag.RuntimeConfiguredContext.getInitParameterNames has a wrong implementation,tiles-jsp (jsp support),Major,99.34318555
+26a609664d40ebb980c34862c1fa7575394c80e0,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+2894c624ccc4b2712dab12877ddd99743fdacad0,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+5d218bc24efdaf9e197689fe5ac08299302265df,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+4cc21f175cd9a94bd03581bec83e4927fe4a9177,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+ab075f8a164033c89ef4a22dd3b47df2181a4611,TILES-140,Improvement,ConfigurationNotSupportedException is never used,tiles-core,Major,98.52216749
+f3fbfc13bd1339c92b377274c0d9b255f0ad69c5,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+28816c41931c23485b6a01ce9226a424edaf1114,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+7c168e638a0dc04d2a5313966052d5392cb714c1,/,/,    Corrected some Taglibdocs  that were not updated to Tiles 2.,/,/,100
+f68bc7581ba10a732610443e5ec44b74416d09e6,/,/,    Now when the attribute type is calculated  a new TilesRequestContext is not created.,/,/,100
+7ea0fe4a16393d012e0ccc41ce8f4c78cdc4b57a,/,/,    Corrected compilation error (due to Javadoc link!).,/,/,100
+7a505c15a2db8e9919c5a4e76412d3a6487dcaf1,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+3b21314ff6ea60f2c681a38f4c7b98c2777d8b87,TILES-86,Task,Complete JavaDoc documentation,tiles-test,Major,100
+d4c62051a9d4d6d6f4cd21b763829086ea6abf91,/,/,    Removed TilesDecorationFilter duplicate.,/,/,99.6742671
+bf82b6ea7827ed4c58a2ead5402cb07015c70982,/,/,    UrlDefinitionsFactory.getComponentDefinitions is protected to allow inheritance.,/,/,100
+ae7ccdc4e25681cfac18cfecf1117d58cfb1400b,/,/,    Add a 'release' profile with maven-gpg-plugin configuration to sign the deployed artifacts.,/,/,100
+804d4f5a03695072a34643f18f618892af8a4d15,TILES-95,Task,Separate JSP support into its own module,tiles-jsp (jsp support),Blocker,100
+01450afa7e10f828e8a862b91c623a372679cdec,TILES-128,Improvement,Clean up Java 5 support,tiles-test,Major,99.01477833
+c167b154c9e6c8724d6b28b8492c367ded05eb72,TILES-128,Improvement,Clean up Java 5 support,tiles-test,Major,99.50083195
+c80a04bfcab66295bdc595b169c21710d8bbee00,TILES-129,Bug,Portlet TilesRequestContext maps have a wrong entrySet implementation,tiles-core,Major,99.66555184
+ee876cfcd2bcc9530938cf46a8fc9ae0282a53ae,TILES-135,Improvement,Attribute tags do not need container,tiles-jsp (jsp support),Major,99.66329966
+6dff187d6048daabede4bd92f3d9cdb324e17d45,/,/,    Added class checks to ServletTilesRequestContextTest.,/,/,100
+c38ba36c6f67b81d0e5dd02dbf4d8afbf4d37837,/,/,    Removed dependency to strutstestcase  no more needed.,/,/,100
+10d0f387733ed64c27a2c62bc83231c457f4ca10,TILES-130,Bug,ServletHeaderValuesMap has a wrong entrySet implementation,tiles-core,Major,99.66101695
+c5a223689808e91c4a0463bd542ce78ec02438be,TILES-119,Bug,Binary distribution JavaDocs have broken image links,,Major,100
+6e1427b91dacdb83c7ea013a333dee113a75c1c5,TILES-128,Improvement,Clean up Java 5 support,tiles-test,Major,100
+9ecf49f9792278cee79278a376c4ffff501cacfc,TILES-95,Task,Separate JSP support into its own module,tiles-jsp (jsp support),Blocker,100
+51eb0a981e7cc1932480861d45642d27a047c958,TILES-95,Task,Separate JSP support into its own module,tiles-jsp (jsp support),Blocker,85.03401361
+9d5551cf5662528882966f57fa1f5e62c9b5e883,TILES-95,Task,Separate JSP support into its own module,tiles-jsp (jsp support),Blocker,84.15672913
+024eaee0fdd90ca3509778ff8583a395f817c844,/,/,    Fixed svn properties.,/,/,100
+ed004b0badd9da6461e1fbf1d8ba3b5e20de102b,TILES-127,Task,Create assembly module,,Major,100
+bda2fdf1a3ef8191324b8614cff0f46e7255afd9,TILES-127,Task,Create assembly module,,Major,100
+78ee62cea36ebf4004251108f963d1e8aeba418e,/,/,    Now if a class is not present  the exception will simply logged.,/,/,100
+4bb8a960bf0465b73cb30c0047abb8ad00500db2,TILES-125,Improvement,Refactor custom definition handling,tiles-core,Major,100
+03adfb8a1173797a9bc58c1b5463e48a59215e58,TILES-123,Improvement,Allow the choice of a Locale by the user,tiles-core,Major,99.48630137
+189f9c15e47be6c3e1f33f5bfc443fdf99194faf,TILES-123,Improvement,Allow the choice of a Locale by the user,tiles-core,Major,99.31623932
+5cc442b5f5a8b250cd173324f0803e4b1473a263,TILES-123,Improvement,Allow the choice of a Locale by the user,tiles-core,Major,99.13194444
+7dd000d97b6e3519e7efba1e5f670624661aaa7a,/,/,    Corrected DTD doc for the root element.,/,/,100
+0ed538a8b1c8f525dce9fd6e4bc0b5c656d369ca,TILES-122,Bug,An exception in JSP Tiles tag causes wrong attribute evaluation,tiles-jsp (jsp support),Major,100
+407a0aa7c5c9f2487eeaf1c99684c57119c08918,TILES-122,Bug,An exception in JSP Tiles tag causes wrong attribute evaluation,tiles-jsp (jsp support),Major,100
+441025b4298b66087617a7c19512983b4b9a7201,/,/,    Removed useless code and corrected a message string.,/,/,100
+356886c7308a2719fa8a34d7a4971ffb598429a3,/,/,"    Removed the useless ""exception"" field  since it is duplicated by the ""cause"" field of Throwable.",/,/,100
+8a94fee825a359a5d293a4f38f855304adcc10cf,TILES-88,Improvement,ComponentDefinitionsImpl has too much code replication,tiles-core,Major,100
+b830e56c80350926120bc7d22bbdd8ef7dc97afe,TILES-120,Improvement,Default TilesContextFactory implementation refactoring,tiles-core,Major,98.2078853
+031372c5736062343b05d4967ab420a251d66924,TILES-114,Improvement,Remove JSP dependencies from the core,tiles-core,Major,100
+0c9f2d8397e831e10b573f2ee3e9568b759297b7,TILES-114,Improvement,Remove JSP dependencies from the core,tiles-core,Major,100
+dbf6de7367df9af6ea577287dfbcece4aad8bd20,TILES-118,Bug,Creating a custom definition extending another does not work,tiles-core,Major,100
+51be7fe6d05890e1b12d5a0e4046b323039e9483,TILES-118,Bug,Creating a custom definition extending another does not work,tiles-core,Major,100
+beb272c2949ba0d789b97cc15d28a0aeb7c893b7,/,/,    Updated UmlGraph used version to 4.5.,/,/,100
+fae92ad4cedbd9d1acce901cbae51d01e3f0093a,TILES-115,Improvement,MutableTilesContainer.register methods should have a request parameters,tiles-api,Major,100
+c78afc59b40d120aa1336602fa0419afc636a6c9,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+368aa51ea0d9c3343fd93e8bbd83294035a7d219,/,/,    [maven-release-plugin] prepare release tiles-2.0.1,/,/,100
+d81485f608530e46cd73c2658aac1043b0c22b72,/,/,    Fixing source distribution jars and cleaning up distributions,/,/,100
+c8f89a3f42fbea14add1cae2c83c756230cb58f2,/,/,    Oops! Forgot to specify dry run when testing releases,/,/,100
+a8987dff953506bdcc54c6a454a64c6a07c1f2d6,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+62801edc576a6c1dadb545b7dafbf517d9d218eb,/,/,    [maven-release-plugin] prepare release tiles-2.0.1,/,/,100
+88f94186617cdcbb15d4933222eabbf5025c870a,/,/,    More assembly and dependency tweaks,/,/,100
+d47feb5f4f12b8c18c3b497444bb2bb4d70223a2,/,/,    Cleaning up dependencies; Adding dependencies to binary assembly,/,/,100
+c6eda7bdc697eab0eb75778617193acb7dedd105,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,97.44525547
+c705c0f475831e4d5bfd5d8a9d9e3a85a8cc91c9,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,100
+5226c036b0e20feee59a2b358346f97e625e94cc,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,100
+6b1f99614e33ea5272245e0b82b5a3e38b40b880,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,100
+cff16b1331fcd17bcfc8ed19aa32a6e029ef69f8,/,/,    The not-default definitions factory had to be initialized.,/,/,100
+e20b3f522d289020fdbc451953b1199c7f95076a,/,/,"    The name of CachingKeyedDefinitionsFactoryTilesContainer was wrong (had a ""factory"" at the end).",/,/,99.26470588
+178e4c7ad66d869c7b51a0cf9fbbca07d577805c,/,/,    Changed a field and a method to be protected to ease inheritance.,/,/,100
+1ca1478769c231549ad14f98ab071fdd2e9416cb,TILES-111,Bug,TilesRequestContext is null in PreparerFactory call,tiles-core,Major,100
+a90eede5991b648af71fb3100f0c4059d83fccb6,TILES-209,Bug,Scope maps have wrong &quot;equals&quot; implementation,tiles-core,Major,100
+f1a85efaaf8073820e269aed2da62501a1942de3,/,/,    Fixing licensing problems,/,/,100
+f631b4c31aa2639184aadd66e581351313b3b740,TILES-104,Bug,No content-type header in Tiles Result response,tiles-core,Major,100
+a5d4d3ab30effc7cfb773a34dd1691876cc72f40,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,100
+43cd2cbde93b670f9c8aaa614a8ebe89896549fc,TILES-103,Improvement,Refactor attribute management,tiles-jsp (jsp support),Major,97.23247232
+262b49b810db7a0760067739a51dc0265d9bcde6,/,/,    [maven-release-plugin] prepare for next development iteration,/,/,100
+828a3f155c55086a43bb4217a67cea335eb972ee,/,/,    [maven-release-plugin] prepare release tiles-parent-2.0.0,/,/,100
+65d69d0a1ae9688def843e1b4e79d18d62850590,/,/,    Upgrading from war plugin 2.0.2-SNAPSHOT to 2.0.2,/,/,100
+3e989e90fb27a74302bd7a8b5aba448730c42ad2,/,/,    Removing unused/erroneous def,/,/,100
+5e76de46faa473beeb5db10605e0e09e56b448f1,/,/,    Modifying tld to match refactored tags,/,/,100
+5279c77a5538880cf94d9d482676b9159fc870f5,/,/,    Better management of ComponentContexts inside attributes.,/,/,86.91983122
+29435d1f5394da10f5fa3ce1c5c15cc017523a99,/,/,    Added new Selenium tests,/,/,100
+e6653308aea23ed3fb7dd03860eba2128c31c3fc,/,/,    Corrected reference to Tiles' tags URI.,/,/,100
+40270424de300079accd0c5cf4fc9d3674eaaa1e,/,/,    Added a test for putList tag.,/,/,100
+8ef689344edbcee00d0bd88c731a3f36e2d4eeb3,TILES-102,,,,,100
+c2110a54c6e58f3ef464f902f246a03d55546bb0,/,/,    Added the support to insert an unnamed attribute.,/,/,100
+643959af9fe0c95beb41c9ccb18be382020c9935,TILES-101,Improvement,Provide a stack of ComponentContext inside TilesContainer,tiles-core,Major,99.26650367
+099278af60604cb73077ccbfda8437ce4e6c4347,TILES-96,Bug,Using &lt;tiles:putAttribute&gt; override all attributes with the same name in the request,tiles-jsp (jsp support),Major,100
+8a470dbb1b999a2439dad21629860197243f2f88,TILES-96,Bug,Using &lt;tiles:putAttribute&gt; override all attributes with the same name in the request,tiles-jsp (jsp support),Major,99.26650367
+060afc466b92851331b704106ece257a44a22c40,TILES-100,Improvement,Provide a &quot;render&quot; method in TilesContainer that accepts a ComponentContext,tiles-core,Major,100
+e0e7169a38a564a3ea86c4ba81b68e2762218afc,TILES-100,Improvement,Provide a &quot;render&quot; method in TilesContainer that accepts a ComponentContext,tiles-core,Major,100
+6e62b9c78375e6740f46febb60c98a00f77dfc38,/,/,    Corrected end tag,/,/,100
+d6b53e789bdf5dba2de5009277e94b30ad0635a6,TILES-97,Bug,Using &lt;tiles:putAttribute&gt; inside a &lt;tiles:initContainer&gt; produces a NullPointerException,tiles-jsp (jsp support),Major,100
+3b982ef8d58fa4e23a4223f40fa9891d223d8466,TILES-98,Bug,Correct attribute JSP tags in test webapp,tiles-test,Major,100
+d3029bf59a5b2167a2c54033d2c2f8623fe86128,/,/,    removing old site dir,/,/,100
+5e7d0910f770cbf0719d63a4c895ede66493bb24,/,/,    Moving site content to site module,/,/,100
+b592c34b75447c952dfbc460968128ff69dee3c6,/,/,    Stay on the previous release of the site plugin  2.0-beta-5 has too many problems.,/,/,100
+be24a07861d1a75b84cfd32c5612e83719c33395,/,/,    Add scm connection urls.,/,/,100
+9f6394e1299881582d1caab29d2605143255efdd,TILES-28,Bug,ServletTilesRequestContext always uses include  causing content-type problems,,Major,100
+99c45393557787e5c3a8dfc01a0113b68c90ea9c,/,/,    Leveraging master pom,/,/,100
+b4e5f387c7ee550dcc17a5d8563dba6ce0cc50b0,/,/,    Moving forms to site,/,/,100
+b10c30d45c24750ffadb456cc881f4c383e12c3f,/,/,    Moving showcase to examples,/,/,71.875
+235665b7225b935728a810673da23f0293de0e31,/,/,    Refactoring repo to seperate showcase,/,/,100
+306ed0f9073d0841382dcb9645115bf815d72d74,/,/,    Adding 1.5 switch to pmd plugin,/,/,100
+86f70925fbff917fad0eab8a2bea3ebd590943ae,/,/,    Copied Struts forms directory to Tiles repo.,/,/,100
+db8c333cb0a97bed8c2f0df133c3e9a971b8152c,/,/,    Added site directory.,/,/,100
+4073dce1c09d16be77ba7058ff9f2ba484c2c1ba,/,/,    fix some spelling errors,/,/,100
+214e69f12558a6398ce073f62e5da1049c2174f9,/,/,    More quickstart material,/,/,100
+779b3270c8718eb20a1865b295b0d08b8f7363a8,/,/,    Beginning the quickstart guide for tiles,/,/,100
+e43f78032326dbc8a2220dc4bf87883bac2a4588,/,/,    Starting to flush out tlp site content,/,/,100
+b6705b78116d8dbb53d680329abef40fa045021b,TILES-3,Task,Establish Tiles as a top-level Apache project,,Major,100
+8a02be132f6fdffb60fbd234db0d1b48941a8b1e,TILES-3,Task,Establish Tiles as a top-level Apache project,,Major,100
+4fcc04427dbf35898d20b1ab459eb2bed75d0ba6,/,/,    Update poms to groupId org.apache.tiles  and inherit from the apache parent pom.,/,/,100
+d2ce2777d11e75c028e006083745f549d3a134fc,/,/,    Move Tiles 2 from the Struts sandbox to its new home as a top-level project.,/,/,100
+1672ae7080392b5300063254a29a284039a7ac86,/,/,    Initialize list in doStartTag; release() is not necessarily called before every use of a tag.,/,/,100
+2aa46672e339e6ba05b1b63ea644740cf0ab5053,TILES-1,Improvement,Rename tiles:attribute tag to tiles:insertAttribute and tiles:put to tiles:putAttribute,,Major,98.23529412
+5cb83d7b0b765d1100908af7238547e0cf9a1245,/,/,    SB-92,/,/,100
+382ccbe12b65fe04fc537ce383119d3c526d9e74,/,/,"    Added the concept of ""KeyExtractor""",/,/,95.99427754
+2504482c92d5814bc3bd0e951cc018a64894628c,/,/,"    Added the concept of ""KeyExtractor""",/,/,100
+57210600fae2f9bb39612b9c0b3c3ef6a56f2b7b,/,/,    SB-92,/,/,100
+2e83012a8e5faf3d624138f11b7819114cef72d7,/,/,    Various fixes araised when creating showcase.,/,/,100
+cb20eba37b35f961b87a30d7c477f6e372c77b49,/,/,    SB-97,/,/,100
+0d4b19f2f4bb7c0a755a902ae5669693e5b68817,/,/,    SB-101,/,/,100
+4aa3bb14f8ba2502bb7fb9e253af9ac15d36df3f,/,/,    SB-101,/,/,99.15254237
+883b4fbb8b9a4e7387b1f124961b20bffcd8447c,/,/,    SB-101,/,/,100
+1564cc10f7bc7d9c5a85884c054fd53c61f17d14,/,/,    SB-101,/,/,97.65051395
+45ecfa1802efff2dfdc5605b3855de7a61509c4d,/,/,    SB-101,/,/,100
+545d676b69ed07c2e0594e8e0ca7b3a148ec0893,/,/,    Fixing easymock test for container factory,/,/,100
+6a8f1ca805dca9040687ac483cdd227a4295d9a5,/,/,    Fixing 2 of three factory tests via easymock,/,/,100
+9af26109b87d6773ade5f6ce4d5e890454923366,/,/,    Small tweaks to the defaults to make it more obvious what they provide and how they interact with the context.,/,/,100
+44a21a39f96497c1f7c4285eb9cb89c95bb063d7,/,/,    Small tweaks to the defaults to make it more obvious what they provide and how they interact with the context.,/,/,100
+7a11b460004909ce900acefb6f70e4ec4d3df865,/,/,    SB-101,/,/,96.13095238
+2fc0fedcbff656dcfe11c203e795d2eb1aba0873,/,/,    SB-102,/,/,100
+d524fb2f6da6b81206fb4872bb66fb6ac98fad6d,/,/,    adding flexibility to apply different tiles to different subtrees,/,/,100
+f9d06973929af99a7edbe278c632278588a1fb3e,/,/,    Corrected svn properties and added license disclaimers.,/,/,100
+4ebe82032ab249be54b44ce11ffd29ed882de30c,/,/,    SB-101,/,/,96.98340875
+933e366f9ef8e1c50da9f81332e8757f55fdc0aa,/,/,    SB-101,/,/,100
+ce2818e6152a7c307560ed4574b0427b21c1329e,/,/,    SB-101,/,/,96.80851064
+1f659e0225ed3694bab1ae4da450e09cbbee712e,/,/,    SB-101,/,/,100
+c7745316becca709bfd28b2e4ab5d501fdaed4f8,/,/,    Fixed a problem in localized definitions inside definitions.,/,/,100
+1eabef051f6b4724105ab33ffaaec11709ef31d0,/,/,    Corrected Subversion properties  somehow they were messed-up.,/,/,100
+2dbdbaf2e2f7ba08bdac5540b1985b3e90254669,/,/,    Introducing ComponentContextMutator to allow for pluggable approach to context manipulation,/,/,99.40029985
+a70bb08b27663912ce79943081b9332fc8a966de,/,/,    Adding TilesDispathServlet to allow direct invocation of a tile without a jsp or api invocation.  This can be used to simplify deployment,/,/,99.6978852
+44facc53d9bdcc5a023a9adec708264c0de4f7fc,/,/,    Moving TilesAccess to API; Implementing decoration filter to reduce the amount of configuration required,/,/,93.48837209
+92b27406b79d99b27edeb7b2a94ab954e4d7f713,/,/,    Moved DefinitionsFactory reload in a utility class.,/,/,99.68152866
+7f5ed8a41fe97b054039ba35938a364ef91faffe,/,/,    Moved DefinitionsFactory reload in a utility class.,/,/,100
+3397a05979e954dc3c958b5a9da489a8ce917058,/,/,    Fixed DefinitionsFactory refresh.,/,/,98.02631579
+0c071b789a2592c426e6127cd46c9da5d130722a,/,/,    SB-92,/,/,100
+4639c2e6b9beebf01ebfed64a51e9e2aa4092ec7,/,/,    SB-92,/,/,100
+cd0f909909f51ed394674276059e9d2d2e3f00dc,/,/,    SB-92,/,/,100
+f7a1c608051a7f8d50724aa0e2d3ac3de8449d00,/,/,    SB-92,/,/,100
+2405a5749314887b5ffc522b6a8a8d00a79f6bc8,/,/,    Enabled tiles-showcase as a module of Tiles.,/,/,100
+4ee0ec2fd8c3df36e8cbc4ad57c738cb5b6c060c,/,/,    SB-91,/,/,96.70510708
+e1dc6e732d1cbe189fc21a7f0c2c26bc218834a3,/,/,    Removed UrlDefinitionsFactoryTest and moved its test cases to TestUrlDefinitionsFactory.,/,/,98.37925446
+692371cf49002d5595c62d8a6cf126d5d5be7adf,/,/,    Corrected testCalculatePostfixes,/,/,100
+3e7c5d4960f0f817e14ac252a36c22f636602e80,/,/,    Corrected comment,/,/,100
+fe5da1e8d45eabd057739fae18b1c9b07cff8869,/,/,    SB-100,/,/,100
+b27edff3611ecf7f346f9932f10112e3514fcb7b,/,/,    SB-100,/,/,100
+1880ee9bbb213263b46f0f8d40515deef980abf4,/,/,    Added HostedQA profile and configuration for running the tests remotely.,/,/,100
+7cf31ea1c49da23390ee8df7f530855826e50b66,/,/,    Make the Selenium tests more generic.  The initial URL is now /tiles-test/index.jsp.,/,/,100
+6899297fcb1b210091d845bde33510e16c14ad8e,/,/,    SB-99,/,/,100
+f4d421f8c265db0de21d018b03323fdb82e62bff,/,/,    Added test case to test UrlDefinitionsFactory.getDefinition method.,/,/,100
+a3e730db07d995d52dc4ff974463ce9371d70a4c,/,/,    Changes due to changed name of UrlDefinitionsFactory.calculatePostfixes method.,/,/,100
+3fc9b0f58d10613fe6364d37a5a3abde506cab32,/,/,    Minor changes for performance improvement and method name typos correction.,/,/,100
+a92c2fadf9fb5c861df436986073acb4a8fb205d,/,/,    Renamed UrlDefinitionsFactory.isLocaleProcessed to isContextProcessed.,/,/,100
+b9433aa60af95f119c51f19865e7f1011b1f2145,/,/,    SB-91,/,/,94.58598726
+742be0c64322ea080bc27c979663be8fa7d9107c,/,/,    SB-91,/,/,99.06832298
+04398384168d5ab65d024869cdb374b19016cc5c,/,/,    SB-91,/,/,95.49839228
+f4d6cd55af239e0c97f73ebf06a112f83223ea7f,/,/,    SB-81,/,/,100
+1b89796995da2c58f12c2f97053d11c86ece2bf6,/,/,    SB-91,/,/,78.73754153
+376e37dbf5c80a49c77d8ab503330a6c4baef775,/,/,    SB-91,/,/,100
+2eac79139eada27c0fa47733a96641bf359c1485,/,/,    SB-81,/,/,100
+5bd01c2bd7638bf467e12fbfc4637c23da89f287,/,/,    SB-94,/,/,78.73754153
+6ab0a6919a00bc4baf04954859d54afaf7395320,/,/,    SB-81,/,/,78.73754153
+1289a8b1205af4efb8bc025e693b16162d033253,/,/,    SB-87,/,/,100
+e969dcf0fc435416f1f387a897bb343e6936475e,/,/,    SB-87,/,/,99.50083195
+5309a1fc0a5e1a083e63960daddb581a4e3d2ec2,/,/,    Adding el tag tests,/,/,100
+1f2e9fba5ae097bdef5b3f128756eb752586d04b,/,/,    Adding retrotranslator configuration,/,/,100
+6273fd460d818c58fdac20ed360582ba8fb5c6b2,/,/,    SB-87,/,/,100
+a3626a16e9a4fe053e26b44017fe350f87a4f1a1,/,/,    Removing author tags,/,/,100
+0a9a41d5bac6471bf6c2c8addd2d13a4433b9673,/,/,    SB-87,/,/,95.68
+434efe2a0ecbc58419e7b5b8d928d6dae96ad00c,/,/,    SB-78,/,/,100
+effde2940d694681ea98dc911f52dcd339b80115,/,/,    Removing entity resolver. Digester registrations used instead,/,/,94.33656958
+539a73f9092c677301e0e1f7751b66c51e800735,/,/,    SB-87,/,/,100
+eca48a4fa9a8a4dc51c780dd4e3221309337bd57,/,/,    Adding local entity resolver; Fixing api pom to include jsp-api; Adding JSP out aware response warpper,/,/,93.65853659
+a1ae40ad6810bd5e02cce5ea80028e3977da72e9,/,/,    SB-30,/,/,100
+a7d6d6681b460f45ed345412ed2aa6ffa7377757,/,/,    Updated dependencies to Servlet 2.4 and JSP 2.0,/,/,100
+1f791aadd1e485389ed4123ce457683dfb1c90a9,/,/,    SB-43,/,/,100
+620ba845eb5961f1efa2c9b30670f36f654b523d,/,/,    SB-43,/,/,100
+16ee0c5cfbd7aedbf2ce827298ddf0d3a660497c,/,/,"    Removed ""testinsertdefinition_notype.jsp"" and its link from ""index.jsp"" since it is the same as ""testinsertdefinition.jsp""",/,/,100
+87bf88d29d8b752f14b08be96a78a3f8a0d63a41,/,/,    SB-82,/,/,100
+54bd23f1fc82c29eb7391a1eabbbf11b3aef0dc7,/,/,    SB-85,/,/,100
+635154b78cbd5e7c6080dff186340353140829dd,/,/,    SB-85,/,/,100
+bfb614d1933764b25dccde0107536314f10e53f8,/,/,    Refactoring AttributeTag.  Removing more logic from tags and putting it into the container,/,/,98.58490566
+2e9c234070ea944bc8b9a868c8ae0ede522acb35,/,/,    SB-83,/,/,100
+7a3a78cd647766e12e7bc0b94c1621526d89fe12,/,/,    All selenium tests now pass  including definition tags that use the mutable container,/,/,100
+501784560a5b0a2d137d23a6fea844db8fac1732,/,/,    Fixing several jsp defined definition tests,/,/,100
+d811954fe2cf41aea80559ce70775e631602375a,/,/,    Implementing definition tag. Very close to fixing all tags.,/,/,94.98525074
+ec11e8a99bf21d04ed4b08e73048120288270b17,/,/,    Enabled snapshot plugin repositories,/,/,100
+c6f0e3e514313a89bd4de564ba40855c9bfefb37,/,/,    Adding initContainer and destroyContainer tags,/,/,96.88826025
+deb000ce5641844b84eaaf9b86e3b1a1d20eb0d8,/,/,    Added dependency to maven-war-plugin version 2.0.2-SNAPSHOT,/,/,100
+fd3c1b89a4d9878e58a3052e2d1ca7f82847a9d4,/,/,    SB-78,/,/,100
+55f19a82b969d337148ca7a968dbfb12c504821b,/,/,    Beginning to flush out the mutable container api,/,/,96.51898734
+354a7c9454278db8689d07d923efe4a3097bef3e,/,/,    SB-78,/,/,100
+97075e38a67877e3c0fe35face600ff1e4d8d73b,/,/,    SB-78,/,/,99.48186528
+2b5d64087cf51d91fbda53927b3a89ad8b33e6b4,/,/,    SB-78,/,/,100
+58797bfea3d2113d0d469135226c0298003e06bc,/,/,    SB-78,/,/,100
+7fefb69ba65da6b16ffa3c5cf489c0d90504649b,/,/,    Updated FAQ:,/,/,100
+e30cb3b894cd465f344c77f284be12d2b60b83bb,/,/,    SB-78,/,/,100
+a56ca166cc34e7b282f7ae3b68fe07c2290fa3c1,/,/,    SB-78,/,/,100
+e6b93b8d12cb3a833ae5070dd59c304badd13b34,/,/,    SB-78,/,/,100
+b87afbd85f6d3c3039a05940fa01b74db693129e,/,/,    SB-78,/,/,100
+1628b0883719a6db83a002b2b739f31ebdc80120,/,/,    SB-78,/,/,100
+7f65151739392502db08e3fd170f590104ab8337,/,/,    SB-78,/,/,100
+83b7dcd5a3ec6bf39b76961a845c8c96eba7e8a0,/,/,    Re-put part of attribute preprocessing  though it misses definition resolution (put a FIXME comment for it).,/,/,100
+62ca3e70fef9d8640402407053495cbcfb19b901,/,/,    SB-30,/,/,100
+dddc612706ea9e916aa7375729cb0565ef964c6d,/,/,    SB-30,/,/,100
+7c877593e3549ac443b8dcb8541169addb27191d,/,/,    simplifying taglibs,/,/,93.15525876
+7bf3e6d726e36a5ed3f0336b524dccf8fec99d95,/,/,    More code cleanup;  Removing unused methods;,/,/,100
+53335b501ebdc30ea4bf9ab4116185ab8a974e23,/,/,    Code cleanup,/,/,98.71175523
+0f18433c0a036cff050687526dd2253c2fb6030b,/,/,    Cleaning up the api;  Simplifying and adding more docs,/,/,95.49114332
+dd4c58b46147aa1db920599ea32694088f0fbfa6,/,/,    Adding Preparer support and associated functional test,/,/,96.47435897
+ea34edd48115a6fea19a9f0c673aa023ccb58611,/,/,    Adding support for classpath definitions,/,/,99.68152866
+6e415248efa05024a1a713150349de7cab0d808b,/,/,    removing container test,/,/,100
+1182ccb364fdf409c8b18e74947d3ba12d2bb30c,/,/,    getting rid of obsolete container tests;  the container is now the core,/,/,100
+1a8f596172e4663a46a3df8bb88861567b7b7f37,/,/,    The final cut-over to the container architecture; 50% of the functional tests pass,/,/,85.39898132
+1cf304925e3e244dc31c4fd6a218a88eb9cbc797,/,/,    Remove unused (empty) svn:externals,/,/,100
+540f3c0add889b993fcaff2ffd5890741ef79bbc,/,/,    Corrected svn:externals URL,/,/,100
+b69b62698b7d8c88c8a0e9932b9c9cbce100682b,/,/,    Slowly removing TilesUtil dependencies in order to move towards container,/,/,100
+f2a6ec5adf8a8fecc021a5ca616bb180e4b99c71,/,/,    Moving ComponentContext out of the root package; Saving that space for api;,/,/,91.0321489
+5ec4d54d8d25d0afbe4631d87030203877131d9b,/,/,    Removing URLViewPreparer; Cleaning up JavaDocs for Preparers,/,/,99.36808847
+eb8352e0e6c5356a51ef09536570653221044a39,/,/,    SB-61  SB-64; Removing preparerName and preparerType.  Standardizing on Preparer,/,/,100
+332c6651ed80d38c01fc8238ae652d4ad6618665,/,/,    Getting rid of DefinitionsUtil; Setting up Preparers,/,/,100
+cf772306ca0aa1e282bc7868edf88ac905a3acaf,/,/,    Getting rid of DefinitionsUtil; Setting up Preparers,/,/,99.52978056
+9dbacd04887c79a3dc1a8a3afc1ed4af606aab01,/,/,    Fixing license header in all java files,/,/,100
+05c14685dbcadb2bab1ae126c8912ebd3c5a5d84,/,/,    Adding enhanced application context to provide classpath resource loading,/,/,99.21259843
+d63d6b8c07adce356427f316ede97f27fe0d463d,/,/,    SB-68  SB-42; Codebase cleanup; Package reorganization,/,/,79.2822186
+c2d71b7afabe366fad944abf5a0ee40ae9603eaa,/,/,    Standardizing on commons-logging,/,/,100
+e999a58c07821c6bd993d23a1867dd071637c6bf,/,/,    Removing the publishing of ComponentDefinitions.  Hiding the refresh logic within the Definitions Factory.  Step 1 of the refactoring of DefinitionsFactory that will occur. More discussion to come. . .,/,/,98.50746269
+a6f6b3983a75582aef4a6a7a8c8928c8a3c78178,/,/,    Adding new method to ContextFactory.  This will allow us to encapsulate some of the jsp specific processing within the container/context.,/,/,100
+c039a52c3c274b47e36e9b11385f2c1ff5066480,/,/,    Extracting jsp helper method so that it can be used within the tags as well.,/,/,99.34102142
+3024fa032b679cb3f22ce7fa0b5d208506ba20e6,/,/,    Adding Jsp PageContext based implementation of the RequestContext interface. This will be useful when migrating the tags to use the container.,/,/,99.66777409
+d81e63700c417816aadb1c35672d4dea6e60b6af,/,/,    Modeling PreparerFactory similarly to DefinitionsFactory.  Providing identical extention points.,/,/,94.59041731
+6d6e008d03c55120ce4bfcf07d10bc051119f65e,/,/,    Removing the definitionName from the request context. Each context will be associated with multiple/different definitions,/,/,100
+9250355e72c7257c48445866d33cf808f4714710,/,/,    Adding container initialization of tiles-defs,/,/,100
+a35aa75d163eb989a48976a8309fc5af508305e3,/,/,    Adding external for test source code directory,/,/,100
+1fc1b1f59d92ab5f664c8a5f066b970c8be63f9f,/,/,    Adding files in lieu of externals.  SVN won't let use externals for files,/,/,100
+290a715c5a200faab61c7b7080ac1f614f01d7d5,/,/,    adding functional webapp tests for the container;  this will ensure that while we're working on the container  we are not breaking the TilesUtil approache.,/,/,100
+e01cf235b986315817e75d360d6762ba1b1220f5,/,/,    Cleaning tiles-api of implementation details; Begining to implement Container,/,/,89.71518987
+1851f52fc6b9449ba42f6ee47a2e7d98381d5b86,/,/,    Removing tiles-factory module;  Upgrading to java 1.5,/,/,100
+95c116c0c416c4bf2c0c20df0f01b23a54c993af,/,/,    Removing tiles-factory module;  This should be part of core,/,/,97.5
+e2f3e9d58b36029b8f143e34df15681aee7c5c97,/,/,    First cut at a tiles container api,/,/,90.19264448
+a84aa361f51404c7966f7c1f0e86f5c810e936de,/,/,    SB-55,/,/,100
+f13a262541d96f234029db19d549efe3ca6816d2,/,/,    SB-55,/,/,100
+181bcc0e5bd1251201b3d618d047ddb507a593ae,/,/,    SB-55,/,/,93.03675048
+31de9612bdc03f4e5a0afe32e1827b6c21d8a285,/,/,    SB-44  Making the TilesContextFactory a normal class. Seperating the TilesContext into a TilesApplicationContext (for app scoped methods) and a TilesRequestContext (for request scoped features);  Configuratino of the Factory remains for a different issue/commit,/,/,93.18181818
+ccd7ea759fc550e496f376ed355a81318b17da5f,/,/,    Set svn:eol-style=native to files that have not this property.,/,/,100
+1e7f3838851867b1cc110027eb8662b406741a80,/,/,    Set svn:keywords to all files - previously forgotten files,/,/,100
+4be86405ec822c268c38d301dd54f5f653cb9a0b,/,/,    Set svn:keywords to all files,/,/,100
+eacd28724ed53eca27eb3347b54d69914883e7e8,/,/,    Removed manifest default entries  no longer accepted by the new version of Jar plugin.,/,/,100
+4126c50b689e320de9b13ffb0adfdff260eb040d,/,/,    SB-28,/,/,97.15909091
+0cdccca8f5b1c40cfd1abab22844722ef308183f,/,/,    SB-54,/,/,100
+faed9c7ac73cd64f36ee904c5d2632ec83c5edbe,/,/,    SB-54,/,/,100
+bddd950511c50d9e55647c02d72b1a765a87c773,/,/,    SB-54,/,/,97.70114943
+ecd69068bfdb2d4a3c4346a39f0ecfd70d58b80e,/,/,    SB-21,/,/,100
+559045285ad227e3e1cdeabb069b818253c816f5,/,/,    SB-53,/,/,100
+aa60e4fadd39d70b50d40b22e47b75cbc2d52ad1,/,/,    SB-53,/,/,99.23371648
+156fb7c690e3424fe5f8fe755e8e3fa202fd9c59,/,/,    SB-21,/,/,97.12643678
+49e9cae6b208573e08b58c99f57afa66d507e05c,/,/,    SB-50,/,/,99.61538462
+b8306b867b7adf6ba1cfc5f919426f6b1cfc253b,/,/,    SB-50,/,/,100
+119f8a7e908fc465747ab0e412823b2a08532002,/,/,"    Re-added the ""Currently all tests work."" message",/,/,100
+49d2ea05fa0a7f8738eb54c27b1389a55cd4756c,/,/,    SB-48,/,/,100
+74a439dca5c87fae7bc2fc0bbedfecced1a7d591,/,/,    SB-48,/,/,100
+16d1d7791f9a501b6539f39cca9980d71e56347d,/,/,    Corrected reference to the inner definition,/,/,100
+25e44fb8662b79a7d9f525ebfd8d99ce74512230,/,/,    Added test links for definitions that contain other definitions,/,/,100
+a6445e9718fc64c0b502ba617c502b8362ab52db,/,/,    SB-21,/,/,100
+ce01a3ddb97111fc9056dda2a966a4a96657218e,/,/,    SB-21,/,/,100
+4e1eed3adbcabe94cbd18955a1e5725f8240b792,/,/,    SB-21,/,/,100
+9acec8933dfd6a08bf15e82617737b1720edf663,/,/,    SB-21,/,/,100
+76cafce54c69b2ae2729cfcb62e06393250b7360,/,/,    SB-23,/,/,100
+7c3bdc4d3ef53e0b884a848570989afbc1481792,/,/,    Removed support for component-definitions/definition from the DTD and DigesterDefinitionsReader.,/,/,100
+f0be8183ba34b82cfed660849c06b0174cc7908a,/,/,    Initial update of the 2.0 DTD which was copied from the 1.1 version.,/,/,100
+34ed377e84f2d2967ddd1aa32a05f5192523171f,/,/,    Update the FAQ for changes in the Tiles 2 Taglib  and start a section for DTD changes.,/,/,100
+91caaaf07953d150af744b55fc3496bcf0b0bcd0,/,/,    Establish a version 2.0 tiles-config dtd.,/,/,100
+98125a0dc56c2b0d135bbfb05c96aedb0cd3c607,/,/,    Configure the jar plugin to add specification and implementation entries.,/,/,100
+0da6d929d6ae2a4b43fa12c9fa8004d94e735bb8,/,/,    SB-35,/,/,100
+53d0d75e35514987131e65cd4c955c51474f6d8b,/,/,    SB-34,/,/,100
+34599286423837990009b788e33e67bf513812e8,/,/,    Added dependency to JSTL tags,/,/,100
+f131492c6cf78e6093303a5389060956f341502f,/,/,    Add the apache.snapshots repository to the tiles-parent pom.,/,/,100
+8d9f623c1317f308e378ac9ada83dc3a9f07a73f,/,/,    SB-34,/,/,100
+2accacda9bcaa0dce1567dd43bca0d0bb716a679,/,/,    Fix copy-paste error. SB-43,/,/,100
+9d0de43fdf2a1241d3aafc785bdcbfa04f4134a0,/,/,    SB-43 Add documentation for the Selenium tests.,/,/,100
+732bc02db9bc593902e21a5daeae9b2d72fdbdee,/,/,    SB-43 Add some Selenium tests for the tiles-test webapp,/,/,100
+3dbe322b9bb914e83ffbbee0e8c9358012327045,/,/,    Update the struts-master pom version and remove <repository> which is inherited.,/,/,100
+0320d2afa08f51eb53642adfcc9bf70018413a8d,/,/,    Add a link to the tiles-test example webapp in the snapshot repo.,/,/,100
+635e4f34d3def1e55b48e9f09794a223e818c4a0,/,/,    Remove references to  'tile' 'component' and 'page'  leaving only 'template'.,/,/,100
+6355845d0e07d89547691539f8bb864aa7679bd8,/,/,    Bring over the documentation as-is from the Struts Tiles 1.3.5 TLD.,/,/,100
+fac6bffc366c481524c0514ba04392dca2ec7338,/,/,    Add a FAQ with entries to explain the missing tag attributes.,/,/,100
+bd31ab0b25835fa7f1c082538747a9905a4009fc,/,/,    SB-37,/,/,100
+153bb61746e7921cc09fe1bfcba1f47ea42e2e8d,/,/,"    Fixed some missing starting ""/"" at the start of the values",/,/,100
+cc9dd834010b9ae49c7479b8dc0f5cdafac6bb57,/,/,    SB-37,/,/,100
+7b0f14b64fcc7243b3a28cc4c27e0d806ce1206c,/,/,    SB-41,/,/,100
+944a3d303531813231d42e3c773c912af7c1aba0,/,/,"    Fixed some missing starting ""/"" at the start of the values",/,/,100
+7fe27c8ae8acea1edede15055ee60eb3648bfd74,/,/,    SB-41,/,/,100
+83d4632fea057fbc8f7774e4ad9983e658541daf,/,/,    SB-41,/,/,100
+d9d762ce1c33ebcaeea7a0a472ff0188bfbe0e2e,/,/,    The DTDDoc plugin now defaults to src/main/resources  so no <configuration> is necessary.,/,/,100
+96abbc5d6a92190416ee9eb6fccdd30fb06fd6e1,/,/,    SB-38,/,/,100
+bf1b130ec331e6fbe03beee80c407e277125f47f,/,/,    SB-38,/,/,100
+03520867f4612fb5d5b6d8f42fee840d14066ff2,/,/,    Fix the repository URL  link to the nightly builds.,/,/,100
+5251191d7a9460f9e607982343014dbe1a851c74,/,/,    SB-27,/,/,100
+f2f0dadf3ae9c7901ea187171c030e3347c83493,/,/,    SB-27,/,/,100
+e4f5d5e45390688d7e2cd2903bceb83fedff0656,/,/,    SB-27,/,/,100
+c22d280699b1b638ad98feeb0d33d0987a959551,/,/,    SB-36.  TilesServlet was not being initialized in web.xml.,/,/,99.22779923
+f94182d1f537e9f319267ac308484d82ae58bfd9,/,/,    SB-36,/,/,100
+13ef3f4465aa33cf50fa9d0cabda7bb4fa544571,/,/,    Add Cargo plugin configuration to start Tomcat and deploy the tiles-test webapp.,/,/,100
+0537276465c94275fb296c8c9b12406cf19b558f,/,/,    Add configuration for dtddoc-maven-plugin and menu links to the generated output.,/,/,100
+e03c5dee23de54b68da42cc89021ea73e117a579,/,/,    SB-24,/,/,100
+4c5b83ffbc12ba63bcfa989cca0bf5b875674547,/,/,    Removed the obsolete 'build' directory.,/,/,100
+dfb1508e93f4a1e0e232bfa5469c7731338adb40,/,/,    Configure the UmlGraphDoc doclet to generate package and class level UML diagrams as part of the Javadoc.,/,/,100
+93c5db890a48f852b1c4e761f05f52af202438d8,/,/,    Corrected the way instances of ComponentDefinitions are got from the attribute value,/,/,100
+1fde4d70b8b53141a5c47ed688561bf01ae5e779,/,/,    SB-24,/,/,99.42196532
+b2bdb8e34397c7c769b81e75cf2180267c4595c5,/,/,    SB-24,/,/,100
+1c5d7246fb3f4f05b49001c3a99b5b511c7e0890,/,/,    SB-24,/,/,100
+9f1567da17c2c3e3d9f294d38892f218bf8460c6,/,/,    [SB-26],/,/,100
+99e5028c0aa70111132c514d4c434836d4353b56,/,/,    [SB-26],/,/,100
+f25705250f0bfe3b392e1e5e19b784f685797396,/,/,    Issue SB-25,/,/,100
+719d5781d2c61a6cc042104c40d796632ab6d128,/,/,    WW-1367 Change reference from 2.0 to 2.x,/,/,100
+8052e2b63eded19241188b45fcabd46ee8241d0b,/,/,    Removed one more <url> causing broken menu links. SB-32,/,/,100
+9cd859840835e0b42a01d9b86de99764a8281c2a,/,/,    Minor editing  added a <url> in an attempt to fix the broken menu links.,/,/,100
+1e4997d8930f25f4d89ff4a3b5e79f7afcfd53ad,/,/,    Fix parent pom versions  remove <repository> since it is inherited.,/,/,100
+7442e57bfdd05e152b32348c69a0b94f9b7685bc,/,/,    Renaming Standalone Tiles as Tiles 2.,/,/,100
+45a6c1ab5464fef30a90122daec2155b2a3ff287,/,/,    Ticket SB-21.  Removed redundant and obsolete Tag Attributes.,/,/,99.61685824
+704f4f7dde257476b2b21de5dca8aece41303b58,/,/,    Added an index page and website navigation for Standalone Tiles.,/,/,100
+cb4d8bd9ef05f556f989f722dfb084b8ea8f5626,/,/,    Increment the version number to 0.3-SNAPSHOT before publishing new snapshots.,/,/,100
+73076e69f30fb3b895217dbaf913a0ac63dc2a04,/,/,    Removed svn:executable property.,/,/,100
+eb65a1f340f103785ec7006b773ffd98703199f4,/,/,    [SB-19] Standalone Tiles - Maven 2 Reorganization,/,/,100
+02ec4bfc5abbd14b450a94e7d68ff5172ba0db99,/,/,    SB-13,/,/,92.26069246
+0129989286b3548304ba899800fcf6f68df78079,/,/,    Renamed module to match artifact ID.,/,/,47.35632184
+6a1bc2ff536665b1c3bf4eaa681f6f5d9f971273,/,/,    Maven 2 reorganization,/,/,44.55205811
+c0ff2556df54a6ef53b53c9fccd4cdb33295bf0d,/,/,    SB-13,/,/,96.61835749
+4a1df60629deee0c6627a23fec7eace7df3ce38b,/,/,    STR-2730,/,/,99.51456311
+905df2882498ce2e8358298fb5b84a2f902da44b,/,/,    keep up with action1 version,/,/,100
+a106d46acebb0aec5e667e4359f0d9a2dd4a158e,/,/,    keep sandbox archetypes up to date,/,/,100
+83a77f5d38f2c236f11d811361cb15589e52e6b1,/,/,    * Update for Bugzilla to JIRA migration,/,/,100
+e8452f3787a351b636b55888da7e2782366ab224,/,/,    artifactId is the preferred tag for identification and groupId/artifactId is the preferred tag for dependencies,/,/,100
+85859d8d5761612dc0b5cfc9f51d33b61dd18b2a,/,/,    Moving flow into the sandbox,/,/,100
+0c9c8319983397c85b2b78b54f86dd229322793e,/,/,    Ticket #38252. Fixed processObjectValue and processTypedAttribute methods.,/,/,100
+61ae96b3cc530cbddba2781010c332a5691358fe,/,/,    Changed groupId from 'org.apache.tiles' to 'org.apache.struts.tiles' to conform to the required Maven repository structure.,/,/,100
+56defe14c1f3bf045810668091b835ec9251dc3e,/,/,    Ticket #38252.  Refactoring taglib.  Fixed handling of roles in DefinitionTag and PutListTag.,/,/,99.26650367
+66f440bdb246f9d400041045be00c84d338cb6e0,/,/,    Ticket #38252.  Refactoring taglib.  This code is no longer needed because it is handled by the InsertTag.,/,/,100
+d802888d59d5afbc759ddca5a1e0eddccd91001f,/,/,    Fix for Bug 38670 - Standalone Tiles NullPointerException when debugging - patch supplied by David DeWolf,/,/,100
+d80b1ad45e41bf35093f7d2abeb4459a60d9516f,/,/,    Removed @author tag.,/,/,100
+c6998f2e7a9489bf479cec76d1a375b1c714e3d4,/,/,    Forgot to add license  etc. to file.,/,/,100
+06aa769a5cfa259f57ad7d84ceb4753640931ac9,/,/,    Ticket #38255.  Added TilesListener class to replace TilesServlet in 2.3+ environments.,/,/,97
+307b7bbe5e9a601524407b041743c2a61d171dce,/,/,    Added Maven 2 build file.  To install Standalone Tiles to your local Maven 2 repository:  'mvn install',/,/,100
+635bc91cc6f715282f604a14c80b536881b265fa,/,/,    Stay on version 1.4.1 of the artifact plugin; jar:install doesn't work with 1.5.1 or 1.5.2.,/,/,100
+3a245a983ad1e9e6f6efb87a8f178021bf56b3cd,/,/,    [37741] TilesServlet does not load all servlet parameters,/,/,100
+3492a2f5371d66b5302b566667ad2a679ec664d9,/,/,    Build file and website updates.,/,/,100
+0b0411626676705b008fa77b3cfd70d479189006,/,/,    Switch to SNAPSHOT version number  add dependency on the artifact plugin  and update properties for deploying to the Apache internal repo.,/,/,100
+67b996e4ed30bb7d29b259e89977486856386a9e,/,/,    Major Tiles Refactoring - API Cleanup,/,/,87.26851852
+c1d69e60d00b714d99769f2826f13d5de03caaa5,/,/,    Changed back to version number in build file  fixed version in tld.,/,/,100
+6ccd6357d8913370262bae02b81c2621067c1aa0,/,/,    Removed unused xml source doc and stylesheet.  TLD is in src/conf.,/,/,100
+dd9dd0d654aa43aa2c4ebf1bfc7a76a6a5d8238a,/,/,    Updated tld to JSP 1.2 (and fixed indentation),/,/,100
+4d6310bdbd825a4056d5cfb08cf647ee344999f5,/,/,    Added missing svn props and fixed line endings.,/,/,100
+bbef765af906a9beba9f149bed72eb758dd1d338,/,/,    remove sandbox/tiles from multiproject:site since there are test failures during the jcoverage testing  fix for changelog factory,/,/,100
+fc99c18dd460e8dd2a580591c720994bc392af92,/,/,    Updated navigation for struts-sandbox website including Standalone Tiles and Struts Ti,/,/,100
+b54f8b6f859fbddf47494ed7218e071e955fcc6b,/,/,    Remove I18nFactorySet copied code - highlighted by Sam Ruby,/,/,100
+2f5144c5451c7386bfefb2985d1e2a67faefad2f,/,/,    Changed version to SNAPSHOT and included NOTICE.txt in the .jar file.,/,/,100
+fc579867753f8ee9632d36667b062d0cc496fe4a,/,/,    Corrected dependencies.  Standalone Tiles requires Servlet 2.3 and JSP 1.2,/,/,100
+f54226a69b1e726f0901494c6732a0d1e1769ccc,/,/,    Correct a case-mismatch on a resource file that caused test failures on,/,/,100
+9e1ea4a9cd03c7a8d25ad20170a0c09677c99de6,/,/,    Refine URL generation to deal with idiosyncracies on URL.toExternalForm(),/,/,100
+ab22daf2e5abe5b0aba2354cbb59715d07c37204,/,/,    Adding reports to Maven build file,/,/,100
+b5243cfd6075996eec215e69f8fdff9251b228c8,/,/,    Decoupled Standalone Tiles from the Struts common build files.,/,/,100
+b7f563f0e404a1e6ebd3b82f6f5c8c1927ce8a25,/,/,"    Integrate the ""Refactor DefinitionsFactory and Create Reloadable Definitions""",/,/,85.57457213
+2594128ef2aa2346ea8d9477fb81f4244be3b0cf,/,/,    A couple of tweaks to get unit tests to run.,/,/,100
+af6bf2ae6829ff10250436840951b705e1c27309,/,/,    Updated Maven build for Standalone Tiles in the sandbox  removed dependency on Struts Core,/,/,100
+0753e1e0c6f7e726df1ef2ac033d70842ed01a73,/,/,    Eliminate accidentally copied file (Struts dependent test case).,/,/,99.42528736
+92e27db046a9190eefced48f4cd05f7a516842a1,/,/,    This checkin gives us a viable tiles-core.jar. I tested it against the,/,/,93.76693767
+424935d502fa2a497abff6096adf3ecb75886d8b,/,/,    Correct the generation of the manifest in tiles-core.jar.,/,/,100
+1f2d6eeb68344f1f37c6e0a8622f595d76bdaf4e,/,/,"    Finish initial package refactoring pass.  ""ant clean dist"" works  but have not",/,/,90.20618557
+b096cef7862c932af39ed61f2c79904cb312f85b,/,/,    Delete Struts-specific artifact.,/,/,99.48717949
+4eb2bf59b1774346fae09b7f59584cf948bbcc9c,/,/,    Delete Struts-specific artifact.,/,/,97.72727273
+280d077f15a9932069fa46f7ff29eb609057af11,/,/,    Remove Struts-specific artifact.,/,/,99.50248756
+cd89c61fc3241dc38504528685c9afac7c865259,/,/,    Remove Struts-specific artifact.,/,/,97.78325123
+392871d981c3e07775a4520b127065e1e638f2c9,/,/,    Remove Struts-specific artifact.,/,/,99.02676399
+ae3583f8e9c7013607e0ff10a0930332597a4915,/,/,    Remove Struts-specific implementation.,/,/,99.27884615
+af77063f4bdc42bf3701e663ea676c10d9ae679f,/,/,    Remove Struts-specific actions that involve Tiles.  They can be re-implemented,/,/,91.78403756
+3ae7fa89d176bc5d20da1f3f126198ec4f68a967,/,/,    Remove definition that is specific to Struts 1.3 ... can be implemented,/,/,98.85321101
+5a129de742a06360d06d5c6e3712914e06672c5b,/,/,    Initial build.xml script  copy in the DTDs we know about (and adjust the,/,/,100
+0827ced36acbb40d7579b39e24c4460ea69c06ce,/,/,    Delete the now-empty o.a.struts source directories.,/,/,100
+f626dd8979661a9b017941db9573d75c11f8d413,/,/,"    Move ""o.a.s.tiles"" directories in each source directory up one level (i.e.",/,/,45.51282051
+8408c46ce8cbf919e8042b0dd2b1f05fc01caa1c,/,/,"    Commit an ""svn copy tiles sandbox/tiles"" command that establishes a starting",/,/,14.81481481
+03709f0ce946071ca9a5cc3510513671c046c286,/,/,"    Remove a spurious <classpath> element that prevents ""ant test"" from finishing.",/,/,100
+f9e8cab62d5541d29df710762afed5084b1baab8,/,/,"    Replace ""enum"" as an instance variable name  since it is a reserved word",/,/,14.81481481
+49754a5524b5440c89ebfa07e6f35589207b4c8c,/,/,    (2nd attempt) fix pom  this was currently breaking any new attempt to build (new as in 'did not have a lingering struts-tiles-1.3.0-dev.jar in the repos',/,/,100
+157135287e37f6764fde762f610b5b0157888fde,/,/,    fix artifactId  this was currently breaking any new attempt to build (new as in 'did not have a lingering struts-tiles-1.3.0-dev.jar in the repos',/,/,14.81481481
+84c7b6f42b6253cda02efea796fcd5a1ad262fe8,/,/,    Initial checkin of standalone Tiles into the Struts sandbox. Here's the,/,/,14.81481481
+2bcda0bc5d86ce758b52bac128b59f7887c130c5,/,/,    throw root cause exception wherever relevant when JspException is thrown  now that we are depending on JSP 1.2,/,/,100
+4da71caa52680fe523083c1d9a6eac7c83369133,/,/,    Additional fix for Bug #20034 Invalid cache in InsertTag (Orion) reported by bas de witte,/,/,100
+5ff654a50fad655cc9f0d0fd67c0ee53bab7d7ad,/,/,    add eclipse and maven files to svn:ignore,/,/,100
+d58628a232d1cec1186303a18f1412c14a40648f,/,/,    Add tiles-modified version of chain-config.xml and arrange to have it built into struts-tiles JAR.  Users who just want Tiles support should not have to handle a chain-config file  but note that this brings some extra overhead to keep this version up-to-date with changes to the one in struts-core.,/,/,100
+591c868f0c6495378915b6ed5627237bc25b39af,/,/,    Added ability to pass flush attribute of insert tag down to the JSP,/,/,100
+2219916bc56d54709550a410b40bbc12ae5c999e,/,/,    Bug 34314 Tiles Request Processor Does Not Catch NoSuchDefinitionException reported by Jon Branham,/,/,100
+b4a859fea8a6836f40ffc831d40b95477f2df427,/,/,    Bugzilla #34120: Correct syntax of (empty) <action-mappings> element. (Not sure why there are two copies of this - the entire WEB-INF directory appears to be duplicated.),/,/,100
+5b71d155136a589850858d9e7ae100171a3fdc67,/,/,    restore TLD transform,/,/,100
+41311c3d74a892b650eff19e1e984823e9b441d5,/,/,    mock is now inside struts-core,/,/,100
+3e71d096532fd1fae0d19fad8877a38b3f1763ce,/,/,    this doesn't need to be part of any .war,/,/,100
+9852206e932b85797dab02b1f9fbcc2914a0472e,/,/,    update struts url for required dependencies,/,/,100
+20b8612f8ce83105e73e8e1d75fd13e8bf54282d,/,/,    add license  add new reference to mock objects jar,/,/,100
+40712124f138e29df64d032ea807e22b2a8c87e6,/,/,    add xdocs for tiles specific documentation,/,/,100
+1fae848d43919eaf07586c843d5c9e432d04f651,/,/,    bring tiles pom inline with the current build,/,/,100
+c7dbaa84d0f3b08c4138f62e4beac1dcb016625b,/,/,    move duplicates to core/build-legacy/tiles,/,/,100
+17e032884de55b8bfe70dd0ebb79f5f57ef77f3f,/,/,    Adding 'build' to subprojects.,/,/,100
+3223451017c641e8a3cb3fea45e413271b82c61d,/,/,    Remove command properties which are not used now that ActionContext is used.,/,/,100
+53d2b751aa2e105e405bf8a1102c7d693f75566a,/,/,    correct logo location  install the newly build jar,/,/,100
+fd5653f66f0d1c996e00bd7fd0cdb1ade6c66b9c,/,/,    remove copied items that don't apply to tiles,/,/,100
+d6f2e769cf6fc227ef4c1dc1e336ce1b705483a8,/,/,    Adjust to coordinate with changes in struts-core where the context passed into the chain is an ActionContext  not a ServletWebContext.,/,/,100
+5371aed2a4034245aa61392d723442321daa7abb,/,/,    bring TLD generation to tiles subproject; correct class names for tag classes in XML file,/,/,100
+92e97a68489bb722b31a2da27f1ba0b66c24ea76,/,/,    update maven.xml  copy base files so that TLD is generated and included in jar output,/,/,100
+bc8d19b1f8639cfb440f4961d3edf0b453957ce5,/,/,    initial project.properties -- copied from core,/,/,100
+6b74b8a7610c0650f21888340be177df94ff287a,/,/,    do an include (instead of forward) in the case where the response is already committed.,/,/,100
+08abff659eb09a15d863f995ca34365a35b6ca1c,/,/,    correct order of test to see if configured RequestProcessor class is same as or a subclass of ComposableRequestProcessor.,/,/,100
+60830b0490dfdd7ed0d30c2fccd40321c3c17cc6,/,/,    increase visibility of a few methods in I18nFactorySet - reported by Cris Daniluk - bugzilla ticket 33380,/,/,100
+d8d5d77e27f7bb4bef83e0f1d66c0965102fb863,/,/,    touch up the tiles build,/,/,100
+5b5a2243e46429b94464ec7144395662a2f6fefa,/,/,    fix reference to struts jar,/,/,100
+bfa09e22757554c75fe045020d55507e467e9b7c,/,/,    add clean target,/,/,100
+aa1872be4be163df2fe90eac5dfa3f897b911c49,/,/,    fix tiles-documentation reference to the removed digester package and clean up build,/,/,100
+b9b410ad49fc62c7af5ed3b24cca58ef34ae1494,/,/,    fix taglib imports and pom,/,/,100
+599b3a76e8d3063cf529a7cbe53f8880315c65ed,/,/,    remove duplicates,/,/,100
+8ebea760d8b77352f4d6f73d5ecf0c320f12f88c,/,/,    move test to version we are keeping,/,/,100
+9c556f28bf43ab2be9f8806dae61f8dccf47459d,/,/,    move tiles docs to tiles,/,/,75.64102564
+353262d12d7bb5a8625666970ad0c53d653ddfbe,/,/,    move tiles docs over to tiles,/,/,100
+2999d93441cc0154e6213014daddc314b5327859,/,/,    git-svn-id: https://svn.apache.org/repos/asf/struts/tiles/trunk@125390 13f79535-47bb-0310-9956-ffa450edef68,/,/,100
+e998de6bed098a977e9152bd477078b87dec73ba,/,/,    Add 'target' to svn:ignore property.,/,/,100
+4569ae22c46378fbd4087dd04e8c6f89fc2d48f3,/,/,    basic Maven project file; compiles  hasn't received much more thought -- esp. to the 'developers' list -- feel free to add yourself if you want to be included.,/,/,100
