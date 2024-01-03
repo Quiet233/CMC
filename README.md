@@ -24,7 +24,18 @@ The metrics calculated by this tool are as follows：
 |                          |     REXP           |     Recent developer experience                                                                               |   
 |                          |     EXP            |     Developer experience                                                                                      |   
 |     Issue-related        |     Issue-Type     |     Most of commits are assigned a type to indicate   its purpose (e.g., Bug, Improvement and New Feature)    |   
-## 
+
+## 2.Usage
+### 1) Set up Java environment and Python environment
+you should set up Java environment.(`jdk11`) you should set up `Python3.10` environment.
+### 2) Run Modifyinfo.jar
+Before running the jar file, you need to set the following `parameters`：
+- < ProjectName >. Project name, used for folder and file naming
+- <CommitIDPath>. txt file that stores the `hash codes` of all commits. You can obtain it through the following operations:
+```shell
+cd yourProjectPath
+git log --format="%H" > commit_ids.txt
+
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
 |         System         |                                        Domain                                        |  Commits | Issues |   Files  |    Star    |
