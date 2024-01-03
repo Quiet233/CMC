@@ -36,6 +36,22 @@ Before running the jar file, you need to set the following `parameters`：
 cd yourProjectPath
 git log --format="%H" > commit_ids.txt
 ```
+
+- <gitPath>. .git file path in your github project
+- <OutPath>. Specify the location of the output folder
+
+**Please be sure to use files in the same format as the example, and ensure that they are in the same order, otherwise the results may be inaccurate.**
+
+Example:
+```shell
+cd out\artifacts\Modifyinfo_jar
+java -jar Modifyinfo.jar avro avro\commit_ids.txt avro\.git
+```
+
+### 3) Run Modifyinfo2.py
+
+### 4) Run IssueType.py
+
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
 |         System         |                                        Domain                                        |  Commits | Issues |   Files  |    Star    |
