@@ -35,7 +35,7 @@ Before running the jar file, you need to set the following `parameters`：
 ```shell
 cd yourProjectPath
 git log --format="%H" > commit_ids.txt
-
+```
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
 |         System         |                                        Domain                                        |  Commits | Issues |   Files  |    Star    |
