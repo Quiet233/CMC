@@ -30,15 +30,15 @@ The metrics calculated by this tool are as follows：
 you should set up Java environment.(`jdk11`) you should set up `Python3.10` environment.
 ### 2) Run Modifyinfo.jar
 Before running the jar file, you need to set the following `parameters`：
-- < ProjectName >. Project name, used for folder and file naming
-- <CommitIDPath>. txt file that stores the `hash codes` of all commits. You can obtain it through the following operations:
+- < ProjectName > Project name, used for folder and file naming
+- <CommitIDPath> txt file that stores the `hash codes` of all commits. You can obtain it through the following operations:
 ```shell
 cd yourProjectPath
 git log --format="%H" > commit_ids.txt
 ```
 
-- <gitPath>. .git file path in your github project
-- <OutPath>. Specify the location of the output folder
+- <gitPath> .git file path in your github project
+- <OutPath> Specify the location of the output folder
 
 **Please be sure to use files in the same format as the example, and ensure that they are in the same order, otherwise the results may be inaccurate.**
 
