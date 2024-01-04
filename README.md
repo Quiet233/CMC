@@ -72,11 +72,34 @@ python Modifyinfo2.py --pn=avro --p2=example\avro --gp=example\avro\.git --mp=Da
 
 The results will be output to ProjectName\Metrics2.csv
 
-### 4) Run IssueType.py 
-In the previous step we have downloaded all the requirements, specify the project name on the command line to run the python file. The example is as follows
-Run the python file by specifying the project name on the command line.（The required installation steps are the same as [`3) Run Modifyinfo2.py`](#jump)）
+### 4) Get issueType
+#### 4.1) First run the IssueInfo.py file
+Run the python file by specifying the project name on the command line.（The required installation steps are the same as `[3) Run Modifyinfo2.py`](#jump)）
 
 Example:
+```shell
+cd src
+python IssueInfo.py --pn=avro
+```
+`If requests.exceptions.ProxyError is prompted, you can try to disconnect the proxy`
+The results will be output to src\ProjectName_issueinfo.txt
+#### 4.2) Run the IssueType.py file
+First use the following git command to obtain the log of the project：
+```shell
+cd yourProjectPath
+git log >log.txt
+```
+To run a python file from the command line, you need to determine the following parameters：
+- --cp: txt file that stores the `hash codes` of all commit, the method to obtain it is introduced in [`2) Run Modifyinfo.jar`](#jump2)
+- --lp: log.txt file path
+- --ip: issueinfo.txt file path（obtained in the previous step）
+
+Example:
+```shell
+cd arc
+python IssueType.py --cp=example\avro\commit_ids.txt --lp=example\avro\log.txt --ip=avro_issueinfo.txt
+```
+
 
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
