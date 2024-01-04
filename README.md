@@ -1,5 +1,5 @@
-# CMC(_Commit-level Metrics Calculator_)
-CMC is a commit-level indicator calculation tool that can calculate a series of indicators we propose that are mined from source code and historical data.
+# CMC
+CMC is a _Commit-level Metrics Calculator_ that can calculate metrics are mined from source code and historical data.
 ![language](https://img.shields.io/badge/language-java-blue) ![language](https://img.shields.io/badge/language-python-green)
 --- 
 ![Metrics calculating process](https://github.com/Quiet233/CMC/blob/main/Metrics%20calculating%20process.gif)
