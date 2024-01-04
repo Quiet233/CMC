@@ -96,7 +96,7 @@ To run a python file from the command line, you need to determine the following 
 
 Example:
 ```shell
-cd arc
+cd src
 python IssueType.py --cp=example\avro\commit_ids.txt --lp=example\avro\log.txt --ip=avro_issueinfo.txt
 ```
 
