@@ -74,7 +74,7 @@ The results will be output to ProjectName\Metrics2.csv
 
 ### 4) Run IssueType.py 
 In the previous step we have downloaded all the requirements, specify the project name on the command line to run the python file. The example is as follows
-Run the python file by specifying the project name on the command line.（The required installation steps are the same as `3) Run Modifyinfo2.py(#jump)`）
+Run the python file by specifying the project name on the command line.（The required installation steps are the same as [`3) Run Modifyinfo2.py`](#jump)）
 
 Example:
 
