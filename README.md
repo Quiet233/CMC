@@ -58,12 +58,12 @@ We recovered the software architecture of 30 projects and exist in the data set 
 |:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:------:|:--------:|:----------:|
 |          Atlas         |                         Extensible   set of corefoundational                         |   3,754  |  4,820 |   1,001  |    1,673   |
 |          Avro          |                       governance   services Data serialization                       |   3,411  |  3,915 |    716   |    2,648   |
-|         ( hukwa        |                                   Data   collection                                  |    853   |   825  |    469   |     83     |
-|         ( runch        |                                    Java   library                                    |   1,092  |   698  |    730   |     104    |
-|        C urator        |                               Java/JVM   client library                              |   2,787  |   694  |    695   |    3,028   |
-|         Datafu         |                              (   Collection of libraries                             |    612   |   173  |    261   |     109    |
-|          Eagle         |                           Open   source analytics solution                           | 1   ,048 |  1,107 | 1   ,801 |     408    |
-|        Eventmesh       |                             Serverless   event middleware                            |   4,513  |  4,535 |   1,263  | 1,   ,480  |
+|         Chukwa         |                                  Data   collection                                   |    853   |   825  |    469   |     83     |
+|         Crunch         |                                   Java   library                                     |   1,092  |   698  |    730   |     104    |
+|        Curator         |                              Java/JVM   client library                               |   2,787  |   694  |    695   |    3,028   |
+|         Datafu         |                                Collection of libraries                               |    612   |   173  |    261   |     109    | 
+|          Eagle         |                           Open   source analytics solution                           |   1,048  |  1,107 |   1,801  |     408    |
+|        Eventmesh       |                             Serverless   event middleware                            |   4,513  |  4,535 |   1,263  |    1,480   |
 |         Falcon         |                     Feed   processing and feed manage- 2,224 ment                    |   2,224  |  2,344 |    850   |     102    |
 |          Flume         |                                 Log   data processing                                |   2,000  |  3,480 |    635   |    2,472   |
 |         Giraph         |                            Large-scale   graph processing                            |   1,134  |  1,255 |   1,516  |     615    |
