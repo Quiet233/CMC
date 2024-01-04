@@ -48,9 +48,35 @@ cd out\artifacts\Modifyinfo_jar
 java -jar Modifyinfo.jar avro avro\commit_ids.txt avro\.git
 ```
 
-### 3) Run Modifyinfo2.py
+The results will be output to OutPath\ProjectName\Metrics1.csv
 
-### 4) Run IssueType.py
+### <div id="jump"> 3) Run Modifyinfo2.py </div>
+Enter the CMC project folder，install the `requirements` as the following commands: 
+```shell
+cd CMC
+pip install -r requirements.txt
+```
+To run a python file from the command line, you need to determine the following parameters：
+
+- --pn: project name
+- --p2: your project path
+- --gp: .git file path in your github project
+- --mp: map file path obtained by running Modifyinfo.jar
+- --m1p: Metrics1.csv file path obtained by running Modifyinfo.jar
+
+Example：
+```shell
+cd src
+python Modifyinfo2.py --pn=avro --p2=example\avro --gp=example\avro\.git --mp=Dataset\Map\avro_Map.txt   --m1p=Dataset\Metrics\avro\Metrics1.csv
+```
+
+The results will be output to ProjectName\Metrics2.csv
+
+### 4) Run IssueType.py 
+In the previous step we have downloaded all the requirements, specify the project name on the command line to run the python file. The example is as follows
+Run the python file by specifying the project name on the command line.（The required installation steps are the same as `3) Run Modifyinfo2.py(#jump)`）
+
+Example:
 
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
