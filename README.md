@@ -2,7 +2,7 @@
 CMC is a _Commit-level Metrics Calculator_ that can calculate metrics are mined from source code and historical data.
 ![language](https://img.shields.io/badge/language-java-blue) ![language](https://img.shields.io/badge/language-python-green)
 --- 
-![Metrics calculating process]([https://github.com/Quiet233/CMC/blob/main/Metrics%20calculating%20process.gif](https://github.com/Quiet233/CMC/blob/main/teaser/Metrics%20calculating%20process.gif))
+![Metrics calculating process](https://github.com/Quiet233/CMC/blob/main/teaser/Metrics%20calculating%20process.gif)
 
 ## Metrics
 The metrics calculated by this tool are as follows：
