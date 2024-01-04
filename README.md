@@ -74,7 +74,7 @@ The results will be output to ProjectName\Metrics2.csv
 
 ### 4) Get issueType
 #### 4.1) First run the IssueInfo.py file
-Run the python file by specifying the project name on the command line.（The required installation steps are the same as `[3) Run Modifyinfo2.py`](#jump)）
+Run the python file by specifying the project name on the command line.（The required installation steps are the same as [`3) Run Modifyinfo2.py`](#jump)）
 
 Example:
 ```shell
