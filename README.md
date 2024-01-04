@@ -1,5 +1,5 @@
-# CMC(_Commit-level Metrics Calculator_)
-CMC is a commit-level indicator calculation tool that can calculate a series of indicators we propose that are mined from source code and historical data.
+# CMC
+CMC is a _Commit-level Metrics Calculator_ that can calculate metrics are mined from source code and historical data.
 ![language](https://img.shields.io/badge/language-java-blue) ![language](https://img.shields.io/badge/language-python-green)
 --- 
 ![Metrics calculating process](https://github.com/Quiet233/CMC/blob/main/Metrics%20calculating%20process.gif)
@@ -24,19 +24,95 @@ The metrics calculated by this tool are as follows：
 |                          |     REXP           |     Recent developer experience                                                                               |   
 |                          |     EXP            |     Developer experience                                                                                      |   
 |     Issue-related        |     Issue-Type     |     Most of commits are assigned a type to indicate   its purpose (e.g., Bug, Improvement and New Feature)    |   
-## 
+
+## 2.Usage
+### 1) Set up Java environment and Python environment
+you should set up Java environment.(`jdk11`) you should set up `Python3.10` environment.
+### 2) Run Modifyinfo.jar
+Before running the jar file, you need to set the following `parameters`：
+- < ProjectName > Project name, used for folder and file naming
+- <CommitIDPath> txt file that stores the `hash codes` of all commits. You can obtain it through the following operations:
+```shell
+cd yourProjectPath
+git log --format="%H" > commit_ids.txt
+```
+
+- <gitPath> .git file path in your github project
+- <OutPath> Specify the location of the output folder
+
+**Please be sure to use files in the same format as the example, and ensure that they are in the same order, otherwise the results may be inaccurate.**
+
+Example:
+```shell
+cd out\artifacts\Modifyinfo_jar
+java -jar Modifyinfo.jar avro avro\commit_ids.txt avro\.git
+```
+
+The results will be output to OutPath\ProjectName\Metrics1.csv
+
+### <div id="jump"> 3) Run Modifyinfo2.py </div>
+Enter the CMC project folder，install the `requirements` as the following commands: 
+```shell
+cd CMC
+pip install -r requirements.txt
+```
+To run a python file from the command line, you need to determine the following parameters：
+
+- --pn: project name
+- --p2: your project path
+- --gp: .git file path in your github project
+- --mp: map file path obtained by running Modifyinfo.jar
+- --m1p: Metrics1.csv file path obtained by running Modifyinfo.jar
+
+Example：
+```shell
+cd src
+python Modifyinfo2.py --pn=avro --p2=example\avro --gp=example\avro\.git --mp=Dataset\Map\avro_Map.txt   --m1p=Dataset\Metrics\avro\Metrics1.csv
+```
+
+The results will be output to ProjectName\Metrics2.csv
+
+### 4) Get issueType
+#### 4.1) First run the IssueInfo.py file
+Run the python file by specifying the project name on the command line.（The required installation steps are the same as `[3) Run Modifyinfo2.py`](#jump)）
+
+Example:
+```shell
+cd src
+python IssueInfo.py --pn=avro
+```
+`If requests.exceptions.ProxyError is prompted, you can try to disconnect the proxy`
+The results will be output to src\ProjectName_issueinfo.txt
+#### 4.2) Run the IssueType.py file
+First use the following git command to obtain the log of the project：
+```shell
+cd yourProjectPath
+git log >log.txt
+```
+To run a python file from the command line, you need to determine the following parameters：
+- --cp: txt file that stores the `hash codes` of all commit, the method to obtain it is introduced in [`2) Run Modifyinfo.jar`](#jump2)
+- --lp: log.txt file path
+- --ip: issueinfo.txt file path（obtained in the previous step）
+
+Example:
+```shell
+cd src
+python IssueType.py --cp=example\avro\commit_ids.txt --lp=example\avro\log.txt --ip=avro_issueinfo.txt
+```
+
+
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
 |         System         |                                        Domain                                        |  Commits | Issues |   Files  |    Star    |
 |:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:------:|:--------:|:----------:|
 |          Atlas         |                         Extensible   set of corefoundational                         |   3,754  |  4,820 |   1,001  |    1,673   |
 |          Avro          |                       governance   services Data serialization                       |   3,411  |  3,915 |    716   |    2,648   |
-|         ( hukwa        |                                   Data   collection                                  |    853   |   825  |    469   |     83     |
-|         ( runch        |                                    Java   library                                    |   1,092  |   698  |    730   |     104    |
-|        C urator        |                               Java/JVM   client library                              |   2,787  |   694  |    695   |    3,028   |
-|         Datafu         |                              (   Collection of libraries                             |    612   |   173  |    261   |     109    |
-|          Eagle         |                           Open   source analytics solution                           | 1   ,048 |  1,107 | 1   ,801 |     408    |
-|        Eventmesh       |                             Serverless   event middleware                            |   4,513  |  4,535 |   1,263  | 1,   ,480  |
+|         Chukwa         |                                  Data   collection                                   |    853   |   825  |    469   |     83     |
+|         Crunch         |                                   Java   library                                     |   1,092  |   698  |    730   |     104    |
+|        Curator         |                              Java/JVM   client library                               |   2,787  |   694  |    695   |    3,028   |
+|         Datafu         |                                Collection of libraries                               |    612   |   173  |    261   |     109    | 
+|          Eagle         |                           Open   source analytics solution                           |   1,048  |  1,107 |   1,801  |     408    |
+|        Eventmesh       |                             Serverless   event middleware                            |   4,513  |  4,535 |   1,263  |    1,480   |
 |         Falcon         |                     Feed   processing and feed manage- 2,224 ment                    |   2,224  |  2,344 |    850   |     102    |
 |          Flume         |                                 Log   data processing                                |   2,000  |  3,480 |    635   |    2,472   |
 |         Giraph         |                            Large-scale   graph processing                            |   1,134  |  1,255 |   1,516  |     615    |
