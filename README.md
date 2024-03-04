@@ -99,7 +99,7 @@ Example:
 cd src
 python IssueType.py --cp=example\avro\commit_ids.txt --lp=example\avro\log.txt --ip=avro_issueinfo.txt
 ```
-
+The results will be output to src\IssueType.csv
 
 ## DataSet
 We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
