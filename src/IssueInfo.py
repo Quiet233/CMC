@@ -1,6 +1,4 @@
 import os.path
-import sys
-sys.path.append(r'D:\Python\Lib\site-packages')
 import requests
 import argparse
 
