@@ -45,7 +45,7 @@ git log --format="%H" > commit_ids.txt
 Example:
 ```shell
 cd out\artifacts\Modifyinfo_jar
-java -jar Modifyinfo.jar avro avro\commit_ids.txt avro\.git
+java -jar Modifyinfo.jar avro avro\commit_ids.txt avro\.git OutPath
 ```
 
 The results will be output to OutPath\ProjectName\Metrics1.csv
