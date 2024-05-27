@@ -102,7 +102,8 @@ python IssueType.py --cp=example\avro\commit_ids.txt --lp=example\avro\log.txt -
 The results will be output to src\IssueType.csv
 
 ## DataSet
-We recovered the software architecture of 30 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10444330.svg)](https://doi.org/10.5281/zenodo.10444330). The project information is as follows：
+We recovered the software architecture of 40 projects and exist in the data set [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11328221.svg)](https://doi.org/10.5281/zenodo.11328221). 
+The Java project information is as follows：
 |         System         |                                        Domain                                        |  Commits | Issues |   Files  |    Star    |
 |:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:------:|:--------:|:----------:|
 |          Atlas         |                         Extensible   set of corefoundational                         |   3,754  |  4,820 |   1,001  |    1,673   |
@@ -135,3 +136,21 @@ We recovered the software architecture of 30 projects and exist in the data set 
 |        Submarine       |                      Cloud   Native Machine Learning Platform .                      |   1,040  |  1,415 |    411   |     676    |
 |          Tiles         |                          Open-sourced   templating framework                         |   1,460  |   600  |    291   |     104    |
 |        Zookeeper       | Centralized   service for distributed synchronization, and providing  group services |   2,463  |  4,777 |    919   |   11,680   |
+
+The C# project information is as follows：
+|         System         |                                        Domain                                        |  Commits |   Files  |    Star    |
+|:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:--------:|:----------:|
+|         DnSpy          |                         A debugger and .NET assembly editor                          |   3,035  |   4,294  |   25,500   |
+|        Npanday         |                                 Apache Maven plugin                                  |   2,034  |   1,584  |     14     |
+|       Perfview         |                        CPU and memory performance analysis tool                      |   3,032  |    701   |    4,000   |
+|         Razor          |                       Parser and code generator for CSHTML files                     |   2,154  |   5,130  |     882    |
+|         UniRx          |                              Reactive Extensions for Unity                           |   1,026  |    747   |    6,900   |
+
+The Python project information is as follows：
+|         System         |                                        Domain                                        |  Commits |   Files  |    Star    |
+|:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:--------:|:----------:|
+|       DeepFaceLab      |                           Software for creating deepfakes                            |   1,313  |    211   |   45,500   |
+|        Fooocus         |                            An image generating software                              |   1,014  |    586   |   35,100   |
+|         Gym            |         A toolkit for developing and comparing reinforcement learning algorithms     |   1,757  |    302   |   33,900   |
+|        Steve           |                                   Voting tools                                       |    820   |    163   |     12     |
+|       Yolov5           |                                    Vision AI                                         |   2,214  |    115   |   47,100   |
