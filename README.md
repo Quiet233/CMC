@@ -18,7 +18,7 @@ The metrics calculated by this tool are as follows：
 |                          |     NAD            |     Number of added or deleted files                                                                          |   
 |                          |     TLMF           |     The total number of lines of code before the change in modified files                                     |   
 |                          |     CFC            |     Cyclomatic complexity   of file changes                                                                   |   
-|                          |     NUC            |     The max number of changes to the modified files                                                           |   
+|                          |     MNCF           |     The max number of changes to the modified files                                                           |   
 |                          |     AGE            |     The average time interval between the last and   current change                                           |   
 |     Developer-related    |     NDVE           |     Number of developers                                                                                      |   
 |                          |     REXP           |     Recent developer experience                                                                               |   
