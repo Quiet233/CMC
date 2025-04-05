@@ -137,20 +137,3 @@ The Java project information is as follows：
 |          Tiles         |                          Open-sourced   templating framework                         |   1,460  |   600  |    291   |     104    |
 |        Zookeeper       | Centralized   service for distributed synchronization, and providing  group services |   2,463  |  4,777 |    919   |   11,680   |
 
-The C# project information is as follows：
-|         System         |                                        Domain                                        |  Commits |   Files  |    Star    |
-|:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:--------:|:----------:|
-|         DnSpy          |                         A debugger and .NET assembly editor                          |   3,035  |   4,294  |   25,500   |
-|        Npanday         |                                 Apache Maven plugin                                  |   2,034  |   1,584  |     14     |
-|       Perfview         |                        CPU and memory performance analysis tool                      |   3,032  |    701   |    4,000   |
-|         Razor          |                       Parser and code generator for CSHTML files                     |   2,154  |   5,130  |     882    |
-|         UniRx          |                              Reactive Extensions for Unity                           |   1,026  |    747   |    6,900   |
-
-The Python project information is as follows：
-|         System         |                                        Domain                                        |  Commits |   Files  |    Star    |
-|:----------------------:|:------------------------------------------------------------------------------------:|:--------:|:--------:|:----------:|
-|       DeepFaceLab      |                           Software for creating deepfakes                            |   1,313  |    211   |   45,500   |
-|        Fooocus         |                            An image generating software                              |   1,014  |    586   |   35,100   |
-|         Gym            |         A toolkit for developing and comparing reinforcement learning algorithms     |   1,757  |    302   |   33,900   |
-|        Steve           |                                   Voting tools                                       |    820   |    163   |     12     |
-|       Yolov5           |                                    Vision AI                                         |   2,214  |    115   |   47,100   |
